@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif">
+<rect width="1200" height="675" fill="#FFFFFF"/>
+<text x="60" y="62" font-size="27" font-weight="600" fill="#1B1A17">Unbezahlte Pflege und Hilfe für Erwachsene, 2024</text>
+<text x="60" y="98" font-size="18" fill="#4A463E">Zeitvolumen der Bevölkerung ab 15, Schweiz 2024, in Millionen Stunden · Anteil in Prozent</text>
+<line x1="60" y1="613" x2="1140" y2="613" stroke="#E4E4E4" stroke-width="1.5"/>
+<text x="60" y="635" font-size="13" fill="#8A8578">Quelle: BFS, SAKE-Modul Unbezahlte Arbeit 2024, Tabelle T 03.06.03.01 «Zeitvolumen für unbezahlte Arbeit» (Asset 34768200). «Andere Hilfe» = Haushalt, Transport,</text>
+<text x="60" y="653" font-size="13" fill="#8A8578">Administratives für Verwandte ausserhalb des Haushalts, nicht nur für Pflegebedürftige. Vollzeitstellen: 1’900 h, eigene Umrechnung. Serienbruch 2021. Darstellung We+.</text>
+<path d="M380.0,200.0 A175,175 0 0 1 480.3,518.4 L440.2,461.0 A105,105 0 0 0 380.0,270.0 Z" fill="#0E6B78" stroke="#FFFFFF" stroke-width="3"/>
+<text x="513.5" y="339.9" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">40 %</text>
+<path d="M480.3,518.4 A175,175 0 0 1 299.4,530.4 L331.7,468.2 A105,105 0 0 0 440.2,461.0 Z" fill="#16A8B5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="389.2" y="521.7" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">17 %</text>
+<path d="M299.4,530.4 A175,175 0 0 1 380.0,200.0 L380.0,270.0 A105,105 0 0 0 331.7,468.2 Z" fill="#C9B27A" stroke="#FFFFFF" stroke-width="3"/>
+<text x="244.0" y="348.8" font-size="20" font-weight="700" fill="#1B1A17" text-anchor="middle">42 %</text>
+<text x="380" y="369.0" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="52" fill="#1B1A17" text-anchor="middle">218</text>
+<text x="380" y="399.0" font-size="15" fill="#4A463E" text-anchor="middle">Mio Stunden 2024</text>
+<rect x="620" y="174" width="18" height="18" rx="3" fill="#0E6B78"/>
+<text x="650" y="190" font-size="19" font-weight="700" fill="#1B1A17">Pflege von Erwachsenen im eigenen Haushalt</text>
+<text x="650" y="216" font-size="16" fill="#4A463E">88 Mio Stunden · rund 46’000 Vollzeitstellen</text>
+<text x="650" y="238" font-size="14" fill="#8A8578">z. B. Partnerin, Partner oder Eltern im gleichen Haushalt · 8,5 h/Woche je Haushalt</text>
+<rect x="620" y="266" width="18" height="18" rx="3" fill="#16A8B5"/>
+<text x="650" y="282" font-size="19" font-weight="700" fill="#1B1A17">Pflege von Erwachsenen in anderen Haushalten</text>
+<text x="650" y="308" font-size="16" fill="#4A463E">38 Mio Stunden · rund 20’000 Vollzeitstellen</text>
+<text x="650" y="330" font-size="14" fill="#8A8578">Verwandte 33 Mio h, Bekannte 4 Mio h · 2,7 h/Woche je pflegende Person</text>
+<rect x="620" y="358" width="18" height="18" rx="3" fill="#C9B27A"/>
+<text x="650" y="374" font-size="19" font-weight="700" fill="#1B1A17">Andere Hilfe für Verwandte in anderen Haushalten</text>
+<text x="650" y="400" font-size="16" fill="#4A463E">92 Mio Stunden · rund 49’000 Vollzeitstellen</text>
+<text x="650" y="422" font-size="14" fill="#8A8578">Haushalt, Einkäufe, Fahrten, Administration · nicht nur für Pflegebedürftige</text>
+<text x="90" y="132" font-size="14" fill="#4A463E" text-anchor="start">Pflege im eigenen Haushalt 2024 doppelt so hoch wie 2020 (88 vs. 39 Mio h): fällt mit dem Serienbruch zusammen, nur mit Vorbehalt zitieren.</text>
+</svg>

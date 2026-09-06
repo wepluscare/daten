@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif">
+<rect width="1200" height="675" fill="#FFFFFF"/>
+<text x="60" y="62" font-size="27" font-weight="600" fill="#1B1A17">Wer Menschen ab 65 mit Pflege oder Hilfe versorgt, 2023/24</text>
+<text x="60" y="98" font-size="18" fill="#4A463E">Schweiz, Personen ohne Doppelzählung · Pflege 2023 (Obsan), Angehörigen-Hilfe 2024 (SGB-Anteile × Bevölkerung)</text>
+<line x1="60" y1="613" x2="1140" y2="613" stroke="#E4E4E4" stroke-width="1.5"/>
+<text x="60" y="635" font-size="13" fill="#8A8578">Quellen: Obsan 09/2025 T 10.1 (2023). Angehörigen-Hilfe: BFS SGB 2022 (Hilfe aus gesundheitlichen Gründen, nach Alter/Geschlecht) × Bevölkerung 2024, eigene Rechnung,</text>
+<text x="60" y="653" font-size="13" fill="#8A8578">Untergrenze; Obergrenze Obsan 03/2026 (EFG). Überschneidung Spitex/Angehörige 59 % (BFS-Medienmitteilung 12.11.2024, SGB 2022). Bezahlt: Bundesrat 15.10.2025, BAG-Umfrage.</text>
+<path d="M380.0,200.0 A175,175 0 0 1 530.6,285.9 L470.4,321.6 A105,105 0 0 0 380.0,270.0 Z" fill="#B0432A" stroke="#FFFFFF" stroke-width="3"/>
+<text x="449.4" y="260.4" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">17 %</text>
+<path d="M530.6,285.9 A175,175 0 0 1 533.1,290.2 L471.9,324.1 A105,105 0 0 0 470.4,321.6 Z" fill="#7A5A12" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M533.1,290.2 A175,175 0 0 1 518.0,482.6 L462.8,439.6 A105,105 0 0 0 471.9,324.1 Z" fill="#0E6B78" stroke="#FFFFFF" stroke-width="3"/>
+<text x="519.6" y="392.9" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">19 %</text>
+<path d="M518.0,482.6 A175,175 0 0 1 257.9,500.4 L306.8,450.2 A105,105 0 0 0 462.8,439.6 Z" fill="#16A8B5" stroke="#FFFFFF" stroke-width="3"/>
+<text x="389.6" y="521.7" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">27 %</text>
+<path d="M257.9,500.4 A175,175 0 0 1 380.0,200.0 L380.0,270.0 A105,105 0 0 0 306.8,450.2 Z" fill="#9ED9DF" stroke="#FFFFFF" stroke-width="3"/>
+<text x="250.3" y="329.3" font-size="19" font-weight="700" fill="#1B1A17" text-anchor="middle">38 %</text>
+<text x="380" y="369.0" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="46" fill="#1B1A17" text-anchor="middle">519’000</text>
+<text x="380" y="395.0" font-size="14" fill="#4A463E" text-anchor="middle">Menschen ab 65</text>
+<text x="380" y="413.0" font-size="14" fill="#4A463E" text-anchor="middle">mit Pflege oder Hilfe</text>
+<rect x="620" y="171" width="18" height="18" rx="3" fill="#B0432A"/>
+<text x="650" y="186" font-size="18" font-weight="700" fill="#1B1A17">Pflegeheim, Langzeit</text>
+<text x="650" y="208" font-size="15" fill="#4A463E">86’000 · Obsan 2023</text>
+<rect x="620" y="237" width="18" height="18" rx="3" fill="#7A5A12"/>
+<text x="650" y="252" font-size="18" font-weight="700" fill="#1B1A17">Kurzzeitaufenthalt</text>
+<text x="650" y="274" font-size="15" fill="#4A463E">2’000 · Obsan 2023</text>
+<rect x="620" y="303" width="18" height="18" rx="3" fill="#0E6B78"/>
+<text x="650" y="318" font-size="18" font-weight="700" fill="#1B1A17">Nur Spitex-Pflege</text>
+<text x="650" y="340" font-size="15" fill="#4A463E">96’000 · 41 % der Spitex-Klientinnen und -Klienten (Obsan 2023)</text>
+<rect x="620" y="369" width="18" height="18" rx="3" fill="#16A8B5"/>
+<text x="650" y="384" font-size="18" font-weight="700" fill="#1B1A17">Spitex-Pflege und Angehörige</text>
+<text x="650" y="406" font-size="15" fill="#4A463E">139’000 · 59 % der Spitex-Klientinnen und -Klienten (BFS, SGB 2022)</text>
+<rect x="620" y="435" width="18" height="18" rx="3" fill="#9ED9DF"/>
+<text x="650" y="450" font-size="18" font-weight="700" fill="#1B1A17">Nur Angehörige</text>
+<text x="650" y="472" font-size="15" fill="#4A463E">196’000 · Untergrenze; mit Obergrenze (EFG) bis 320’000</text>
+<text x="620" y="520" font-size="15" font-weight="700" fill="#0E6B78">Angehörige beteiligt: 334’000 von 519’000 (64 %)</text>
+<text x="620" y="542" font-size="14" fill="#4A463E">davon bei einer Spitex angestellt: 3’023 (BAG-Umfrage 2024) bis 11’469 (BFS-Näherung 2024)</text>
+<text x="90" y="132" font-size="13.5" fill="#4A463E" text-anchor="start">Alle Altersgruppen: Spitex 5,3 % der Bevölkerung (476’000 Personen, Spitex-Statistik 2024) · Hilfe von Angehörigen 13 % (BFS, SGB 2022).</text>
+</svg>

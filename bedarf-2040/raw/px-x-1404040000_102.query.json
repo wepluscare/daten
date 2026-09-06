@@ -1,0 +1,75 @@
+{
+ "query": [
+  {
+   "code": "Leistungserbringertyp",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "0"
+    ]
+   }
+  },
+  {
+   "code": "Kanton",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "CH"
+    ]
+   }
+  },
+  {
+   "code": "Altersklasse",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "0",
+     "4",
+     "5"
+    ]
+   }
+  },
+  {
+   "code": "Geschlecht",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "0"
+    ]
+   }
+  },
+  {
+   "code": "Leistungsangebot",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "0",
+     "13",
+     "11"
+    ]
+   }
+  },
+  {
+   "code": "Klienten und Leistungen",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "1",
+     "2"
+    ]
+   }
+  },
+  {
+   "code": "Jahr",
+   "selection": {
+    "filter": "all",
+    "values": [
+     "*"
+    ]
+   }
+  }
+ ],
+ "response": {
+  "format": "json"
+ }
+}

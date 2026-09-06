@@ -1,0 +1,55 @@
+{
+ "query": [
+  {
+   "code": "Beobachtungseinheit",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "Anzahl_Plaetze",
+     "Fakturierte_Tage",
+     "Total_Betriebe"
+    ]
+   }
+  },
+  {
+   "code": "Grossregion (<<) / Kanton (-)",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "8100"
+    ]
+   }
+  },
+  {
+   "code": "Beherbergungstyp",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "1",
+     "0"
+    ]
+   }
+  },
+  {
+   "code": "Rechtlich-wirtschaftlicher Status",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "0"
+    ]
+   }
+  },
+  {
+   "code": "Jahr",
+   "selection": {
+    "filter": "all",
+    "values": [
+     "*"
+    ]
+   }
+  }
+ ],
+ "response": {
+  "format": "json"
+ }
+}

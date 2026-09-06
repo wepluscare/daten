@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif">
+<rect width="1200" height="675" fill="#FBF8F4"/>
+<rect x="0" y="0" width="1200" height="8" fill="#16A8B5"/>
+<text x="60" y="66" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="40" fill="#1B1A17">Bezahlte Angehörigenpflege: in einem Jahr um die Hälfte gewachsen</text>
+<text x="60" y="100" font-size="19" fill="#4A463E">Angestellte pflegende Angehörige bei Spitex-Organisationen, Schweiz · Personen · zwei Zählungen</text>
+<line x1="60" y1="613" x2="1140" y2="613" stroke="#E7E1D3" stroke-width="1.5"/>
+<text x="60" y="635" font-size="13" fill="#8A8578">Quellen: BFS, Statistik der Hilfe und Pflege zu Hause (px-x-1404040000_103): Beschäftigte ohne Pflegeausbildung oder nur mit Pflegekurs bei erwerbswirtschaftlichen</text>
+<text x="60" y="653" font-size="13" fill="#8A8578">Organisationen, laut BFS «ein beachtlicher Teil» pflegende Angehörige (Reihe wie SRF 02.09.2026). BAG/BASS-Umfrage 2025, Tabelle 5: 75 Organisationen, 41 % Rücklauf, keine</text>
+<line x1="110" y1="480.8" x2="1140" y2="480.8" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="485.8" font-size="14" fill="#8A8578" text-anchor="end">3’000</text>
+<line x1="110" y1="381.5" x2="1140" y2="381.5" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="386.5" font-size="14" fill="#8A8578" text-anchor="end">6’000</text>
+<line x1="110" y1="282.3" x2="1140" y2="282.3" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="287.3" font-size="14" fill="#8A8578" text-anchor="end">9’000</text>
+<line x1="110" y1="183.1" x2="1140" y2="183.1" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="188.1" font-size="14" fill="#8A8578" text-anchor="end">12’000</text>
+<text transform="translate(24,365.0) rotate(-90)" font-size="13" fill="#8A8578" text-anchor="middle">Personen</text>
+<rect x="135.8" y="382.6" width="120" height="197.4" fill="#16A8B5" opacity=".45" rx="3"/>
+<text x="195.8" y="372.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">5’969</text>
+<text x="195.8" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2019</text>
+<rect x="307.5" y="357.8" width="120" height="222.2" fill="#16A8B5" opacity=".45" rx="3"/>
+<text x="367.5" y="347.8" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">6’717</text>
+<text x="367.5" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2020</text>
+<rect x="479.2" y="337.6" width="120" height="242.4" fill="#16A8B5" opacity=".45" rx="3"/>
+<text x="539.2" y="327.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">7’329</text>
+<text x="539.2" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2021</text>
+<rect x="650.8" y="320.6" width="120" height="259.4" fill="#16A8B5" opacity=".45" rx="3"/>
+<text x="710.8" y="310.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">7’843</text>
+<rect x="650.8" y="569.0" width="120" height="11.0" fill="#0E6B78" rx="3"/>
+<text x="710.8" y="561.0" font-size="14" font-weight="700" fill="#1B1A17" text-anchor="middle">333</text>
+<text x="710.8" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2022</text>
+<rect x="822.5" y="321.4" width="120" height="258.6" fill="#16A8B5" opacity=".45" rx="3"/>
+<text x="882.5" y="311.4" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">7’818</text>
+<rect x="822.5" y="549.9" width="120" height="30.1" fill="#0E6B78" rx="3"/>
+<text x="882.5" y="541.9" font-size="14" font-weight="700" fill="#1B1A17" text-anchor="middle">909</text>
+<text x="882.5" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2023</text>
+<rect x="994.2" y="200.6" width="120" height="379.4" fill="#16A8B5" opacity=".45" rx="3"/>
+<text x="1054.2" y="190.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">11’469</text>
+<rect x="994.2" y="480.0" width="120" height="100.0" fill="#0E6B78" rx="3"/>
+<text x="1054.2" y="472.0" font-size="14" font-weight="700" fill="#1B1A17" text-anchor="middle">3’023</text>
+<text x="1054.2" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2024</text>
+<rect x="120" y="152" width="14" height="14" rx="2" fill="#16A8B5" opacity=".45"/><text x="142" y="164" font-size="14" fill="#1B1A17">BFS-Näherung: Beschäftigte ohne Pflegeausbildung oder nur mit Pflegekurs, erwerbswirtschaftliche Spitex (Obergrenze)</text>
+<rect x="120" y="176" width="14" height="14" rx="2" fill="#0E6B78"/><text x="142" y="188" font-size="14" fill="#1B1A17">BAG-Umfrage: gemeldete angestellte pflegende Angehörige, 2022–2024 (Untergrenze)</text>
+<text x="110" y="132" font-size="13.5" fill="#4A463E" text-anchor="start">BFS-Näherung 2023 → 2024: +47 % (7’818 → 11’469). Umfrage 2022 → 2024: verneunfacht (333 → 3’023), 614 Vollzeitäquivalente, rund 1 Mio Stunden Grundpflege (OKP).</text>
+</svg>
