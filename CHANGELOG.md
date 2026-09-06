@@ -8,6 +8,7 @@ Erste öffentliche Fassung. Grafik-Satz 2 der Infografiken zur Angehörigenbetre
 - `bedarf-2040/`: Stapel liest sich von unten nach oben als Lebenslauf (nur Angehörige, mit Spitex, nur Spitex, Übergang, Heim); der bezahlte Teil (3'023 angestellte Angehörige 2024, bis 11'469 nach BFS-Näherung) ist als Strich markiert.
 - Alle Grafiken ohne Kopfzeile mit Web-Adresse, je in Markenversion und schlichter Dokumentversion.
 - Nachtrag gleichentags: Der Keil der Schere hat zwei Schichten: kräftig zwischen Menschen ab 80 und Obsans Quote je Person ab 65, blass darunter bis zur Quote je Person ab 80 (eigene Erweiterung). Betrifft `schere-2040/grafik/schere*` in allen Fassungen.
+- Nachtrag gleichentags: Im Bedarf-Stapel sitzt die Obergrenze der Angehörigen-Hilfe (gestrichelt) direkt über dem festen Angehörigen-Block statt als Kappe oben; das Pflegeheim schliesst den Stapel ab. Betrifft `bedarf-2040/grafik/bedarf-balken*` und `bedarf-kompakt*`.
 - Nachtrag gleichentags: Kompaktfassungen `schere-kompakt` (nur die vier Kurven und der Keil) und `bedarf-kompakt` (zwei Stapel, direkte Beschriftung), je Marke und schlicht, in `schere-2040/grafik/` und `bedarf-2040/grafik/`. Gleiche Daten, reduzierte Darstellung für schnelle Lektüre.
 
 Gegenüber Grafik-Satz 1 (2. September 2026, nicht öffentlich) sind die Daten unverändert; geändert wurden Darstellung und Beschriftung.

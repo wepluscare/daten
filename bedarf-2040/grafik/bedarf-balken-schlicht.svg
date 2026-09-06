@@ -17,50 +17,50 @@
 <text transform="translate(24,365.0) rotate(-90)" font-size="13" fill="#8A8578" text-anchor="middle">Personen ab 65</text>
 <rect x="153.3" y="503.5" width="150" height="76.5" fill="#16A8B5" opacity="0.55" stroke="#FFFFFF" stroke-width="2"/>
 <text x="228.3" y="547.5" font-size="15" font-weight="700" fill="#1B1A17" text-anchor="middle">196’000</text>
-<rect x="153.3" y="449.3" width="150" height="54.2" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="228.3" y="482.1" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">139’000</text>
-<rect x="153.3" y="449.3" width="150" height="54.2" fill="url(#hatch)" opacity=".9"/>
-<rect x="153.3" y="411.6" width="150" height="37.7" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="228.3" y="436.2" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">96’000</text>
-<rect x="153.3" y="410.7" width="150" height="0.9" fill="#7A5A12" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<rect x="153.3" y="377.3" width="150" height="33.4" fill="#B0432A" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="228.3" y="399.7" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">86’000</text>
-<rect x="153.3" y="328.5" width="150" height="48.8" fill="#16A8B5" opacity="0.22" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 3"/>
-<text x="228.3" y="357.8" font-size="13" font-weight="400" fill="#0E6B78" text-anchor="middle">Angehörige bis 320’000</text>
-<rect x="139.3" y="449.3" width="178" height="4.0" fill="#1B1A17"/>
-<rect x="139.3" y="449.3" width="178" height="7.0" fill="none" stroke="#1B1A17" stroke-width="1.2" stroke-dasharray="3 3"/>
+<rect x="153.3" y="454.8" width="150" height="48.8" fill="#16A8B5" opacity="0.22" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="228.3" y="484.1" font-size="13" font-weight="400" fill="#0E6B78" text-anchor="middle">bis 320’000</text>
+<rect x="153.3" y="400.6" width="150" height="54.2" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="228.3" y="433.4" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">139’000</text>
+<rect x="153.3" y="400.6" width="150" height="54.2" fill="url(#hatch)" opacity=".9"/>
+<rect x="153.3" y="362.9" width="150" height="37.7" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="228.3" y="387.4" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">96’000</text>
+<rect x="153.3" y="362.0" width="150" height="0.9" fill="#7A5A12" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<rect x="153.3" y="328.5" width="150" height="33.4" fill="#B0432A" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="228.3" y="351.0" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">86’000</text>
+<rect x="139.3" y="400.6" width="178" height="4.0" fill="#1B1A17"/>
+<rect x="139.3" y="400.6" width="178" height="7.0" fill="none" stroke="#1B1A17" stroke-width="1.2" stroke-dasharray="3 3"/>
 <text x="228.3" y="318.5" font-size="16" font-weight="700" fill="#1B1A17" text-anchor="middle">519’000 – 643’000</text>
 <text x="228.3" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2023 / 2024</text>
 <rect x="410.0" y="474.7" width="150" height="105.3" fill="#16A8B5" opacity="0.55" stroke="#FFFFFF" stroke-width="2"/>
 <text x="485.0" y="533.0" font-size="15" font-weight="700" fill="#1B1A17" text-anchor="middle">269’000</text>
-<rect x="410.0" y="398.2" width="150" height="76.5" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="485.0" y="442.1" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">196’000</text>
-<rect x="410.0" y="398.2" width="150" height="76.5" fill="url(#hatch)" opacity=".9"/>
-<rect x="410.0" y="345.0" width="150" height="53.1" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="485.0" y="377.3" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">136’000</text>
-<rect x="410.0" y="343.7" width="150" height="1.4" fill="#7A5A12" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<rect x="410.0" y="293.2" width="150" height="50.5" fill="#B0432A" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="485.0" y="324.2" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">129’000</text>
-<rect x="410.0" y="225.4" width="150" height="67.8" fill="#16A8B5" opacity="0.22" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 3"/>
-<text x="485.0" y="264.3" font-size="13" font-weight="400" fill="#0E6B78" text-anchor="middle">Angehörige bis 443’000</text>
+<rect x="410.0" y="406.8" width="150" height="67.8" fill="#16A8B5" opacity="0.22" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="485.0" y="445.7" font-size="13" font-weight="400" fill="#0E6B78" text-anchor="middle">bis 443’000</text>
+<rect x="410.0" y="330.3" width="150" height="76.5" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="485.0" y="374.3" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">196’000</text>
+<rect x="410.0" y="330.3" width="150" height="76.5" fill="url(#hatch)" opacity=".9"/>
+<rect x="410.0" y="277.2" width="150" height="53.1" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="485.0" y="309.5" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">136’000</text>
+<rect x="410.0" y="275.9" width="150" height="1.4" fill="#7A5A12" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<rect x="410.0" y="225.4" width="150" height="50.5" fill="#B0432A" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="485.0" y="256.3" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">129’000</text>
 <text x="485.0" y="215.4" font-size="16" font-weight="700" fill="#1B1A17" text-anchor="middle">734’000 – 907’000  (+41 %)</text>
 <text x="485.0" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2040</text>
 <rect x="666.7" y="460.9" width="150" height="119.1" fill="#16A8B5" opacity="0.55" stroke="#FFFFFF" stroke-width="2"/>
 <text x="741.7" y="526.2" font-size="15" font-weight="700" fill="#1B1A17" text-anchor="middle">305’000</text>
-<rect x="666.7" y="374.3" width="150" height="86.7" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="741.7" y="423.3" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">222’000</text>
-<rect x="666.7" y="374.3" width="150" height="86.7" fill="url(#hatch)" opacity=".9"/>
-<rect x="666.7" y="314.0" width="150" height="60.2" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="741.7" y="349.8" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">154’000</text>
-<rect x="666.7" y="312.4" width="150" height="1.6" fill="#7A5A12" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<rect x="666.7" y="252.6" width="150" height="59.9" fill="#B0432A" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
-<text x="741.7" y="288.2" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">153’000</text>
-<rect x="666.7" y="175.8" width="150" height="76.8" fill="#16A8B5" opacity="0.22" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 3"/>
-<text x="741.7" y="219.1" font-size="13" font-weight="400" fill="#0E6B78" text-anchor="middle">Angehörige bis 501’000</text>
+<rect x="666.7" y="384.2" width="150" height="76.8" fill="#16A8B5" opacity="0.22" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="741.7" y="427.5" font-size="13" font-weight="400" fill="#0E6B78" text-anchor="middle">bis 501’000</text>
+<rect x="666.7" y="297.5" width="150" height="86.7" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="741.7" y="346.5" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">222’000</text>
+<rect x="666.7" y="297.5" width="150" height="86.7" fill="url(#hatch)" opacity=".9"/>
+<rect x="666.7" y="237.3" width="150" height="60.2" fill="#0E6B78" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="741.7" y="273.1" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">154’000</text>
+<rect x="666.7" y="235.7" width="150" height="1.6" fill="#7A5A12" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<rect x="666.7" y="175.8" width="150" height="59.9" fill="#B0432A" opacity="1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="741.7" y="211.4" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">153’000</text>
 <text x="741.7" y="165.8" font-size="16" font-weight="700" fill="#1B1A17" text-anchor="middle">838’000 – 1’034’000  (+62 %)</text>
 <text x="741.7" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2050</text>
-<text x="323.3" y="447.3" font-size="12" font-weight="700" fill="#1B1A17">bezahlt</text>
-<text x="323.3" y="462.3" font-size="11.5" fill="#4A463E">3’023 Pers.</text>
+<text x="323.3" y="398.6" font-size="12" font-weight="700" fill="#1B1A17">bezahlt</text>
+<text x="323.3" y="413.6" font-size="11.5" fill="#4A463E">3’023 Pers.</text>
 <line x1="860.6666666666667" y1="574.0" x2="860.6666666666667" y2="381.3" stroke="#8A8578" stroke-width="1.4" stroke-dasharray="3 4"/>
 <path d="M855.6666666666667,390.3 L860.6666666666667,381.3 L865.6666666666667,390.3" stroke="#8A8578" stroke-width="1.4" fill="none"/>
 <text transform="translate(875.6666666666667,477.6) rotate(-90)" font-size="11.5" fill="#4A463E" text-anchor="middle">zu Hause → mit Spitex → Übergang → Heim</text>
@@ -68,8 +68,8 @@
 <rect x="900" y="178" width="14" height="14" rx="2" fill="#7A5A12" opacity="1"/><text x="922" y="190" font-size="13" fill="#1B1A17">Übergang: Kurzzeitaufenthalt (Obsan)</text>
 <rect x="900" y="204" width="14" height="14" rx="2" fill="#0E6B78" opacity="1"/><text x="922" y="216" font-size="13" fill="#1B1A17">Nur Spitex-Pflege (Obsan)</text>
 <rect x="900" y="230" width="14" height="14" rx="2" fill="url(#hatch)" opacity="1"/><text x="922" y="242" font-size="13" fill="#1B1A17">Spitex und Angehörige zugleich (59 %)</text>
-<rect x="900" y="256" width="14" height="14" rx="2" fill="#16A8B5" opacity="0.55"/><text x="922" y="268" font-size="13" fill="#1B1A17">Nur Angehörigen-Hilfe, Untergrenze (SGB)</text>
-<rect x="900" y="282" width="14" height="14" rx="2" fill="#16A8B5" opacity="0.22" stroke="#4A463E" stroke-width="1" stroke-dasharray="4 3"/><text x="922" y="294" font-size="13" fill="#1B1A17">Angehörigen-Hilfe bis Obergrenze (EFG)</text>
+<rect x="900" y="256" width="14" height="14" rx="2" fill="#16A8B5" opacity="0.22" stroke="#4A463E" stroke-width="1" stroke-dasharray="4 3"/><text x="922" y="268" font-size="13" fill="#1B1A17">Angehörigen-Hilfe bis Obergrenze (EFG)</text>
+<rect x="900" y="282" width="14" height="14" rx="2" fill="#16A8B5" opacity="0.55"/><text x="922" y="294" font-size="13" fill="#1B1A17">Nur Angehörigen-Hilfe, Untergrenze (SGB)</text>
 <rect x="900" y="311" width="14" height="5" fill="#1B1A17"/><text x="922" y="320" font-size="13" fill="#1B1A17">davon bezahlt (angestellt), nur 2024</text>
 <text x="922" y="337" font-size="12" fill="#8A8578">3’023 (BAG-Umfrage) bis 11’469 (BFS-Näherung)</text>
 <text x="900" y="378" font-size="13" fill="#4A463E">Menschen ab 65 mit Angehörigen-Hilfe 2024:</text>

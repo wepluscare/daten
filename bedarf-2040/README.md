@@ -2,7 +2,7 @@
 
 Zwei Grafiken:
 
-- `grafik/bedarf-balken.svg`: **Bedarf 2040: bis zu 900'000 Menschen ab 65 mit Pflege oder Hilfe.** Personen ohne Doppelzählung, 2023/24 gemessen, 2040 und 2050 bei heutigen Anteilen. Der Stapel liest sich von unten nach oben wie ein Lebenslauf: zu Hause nur mit Angehörigen, mit Spitex (davon ein Strich bezahlt), nur Spitex, Übergang (Kurzzeitaufenthalt), Heim.
+- `grafik/bedarf-balken.svg`: **Bedarf 2040: bis zu 900'000 Menschen ab 65 mit Pflege oder Hilfe.** Personen ohne Doppelzählung, 2023/24 gemessen, 2040 und 2050 bei heutigen Anteilen. Der Stapel liest sich von unten nach oben wie ein Lebenslauf: zu Hause nur mit Angehörigen (fest die Untergrenze, gestrichelt darüber die Obergrenze), mit Spitex (davon ein Strich bezahlt), nur Spitex, Übergang (Kurzzeitaufenthalt), Heim zuoberst.
 - `grafik/bezahlt.svg`: **Bezahlte Angehörigenpflege: zwei Zählungen.** Angestellte pflegende Angehörige nach BAG-Umfrage und nach BFS-Näherung.
 
 Je auch als PNG und in der schlichten Dokumentversion (`-schlicht`).
