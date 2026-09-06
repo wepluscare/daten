@@ -82,5 +82,6 @@ Warum die beiden Zählweisen nicht als Kurven gezeichnet sind: in der Projektion
 
 - «Mindestens minus 19 Prozent» und «80'000 bis 96'000 Betreuungsverhältnisse weniger» sind Obsan. «Minus 28 Prozent je Person ab 80» und «90'000 bis 337'000 betreuende Angehörige weniger» sind We+, nach Obsans Rechenschritt.
 - Die Quote zählt mögliche, nicht tatsächliche Betreuende.
+- Der Keil in der Grafik hat zwei Schichten: kräftig der Care-Gap nach Obsan (bis zur Quote je Person ab 65), blass darunter unsere Erweiterung bis zur Quote je Person ab 80.
 
 Quellenangabe: BFS – STATPOP; BFS – Szenarien zur Bevölkerungsentwicklung 2025–2055; Obsan-Bulletin 03/2026. Auswertung We+ / We Technology, CC BY 4.0.
