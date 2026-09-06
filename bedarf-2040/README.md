@@ -1,4 +1,4 @@
-# Bedarf 2040 und bezahlte Angehörigenpflege
+# Bedarf 2040 und bezahlte Angehörigenbetreuung
 
 Zwei Grafiken:
 

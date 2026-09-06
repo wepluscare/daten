@@ -1,6 +1,6 @@
-# Datenpaket Angehörigenpflege Schweiz
+# Datenpaket Angehörigenbetreuung Schweiz
 
-Daten, Rechenschritte und Grafiken hinter den Infografiken von We+ zur Angehörigenpflege in der Schweiz. Für Medienschaffende, Datenjournalistinnen und Datenjournalisten, Forschung und Verwaltung. Jede Zahl lässt sich bis zur amtlichen Quelle zurückverfolgen; wo wir selbst gerechnet haben, steht die Formel daneben.
+Daten, Rechenschritte und Grafiken hinter den Infografiken von We+ zur Angehörigenbetreuung in der Schweiz. Für Medienschaffende, Datenjournalistinnen und Datenjournalisten, Forschung und Verwaltung. Jede Zahl lässt sich bis zur amtlichen Quelle zurückverfolgen; wo wir selbst gerechnet haben, steht die Formel daneben.
 
 *Data package on family caregiving in Switzerland: source data (Swiss Federal Statistical Office, Obsan), documented calculations and the charts published by We+. German only; the CSV files are self-explanatory.*
 
@@ -28,7 +28,7 @@ Jeder Ordner enthält eine `README.md` mit Quellen, Abfragen, Formeln, Ergebnist
 
 - **Auswertungen, Tabellen und Grafiken von We+:** [Creative Commons Namensnennung 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de). Namensnennung: «We+ / We Technology, nach BFS und Obsan» mit Link auf dieses Repository.
 - **Rohdaten des Bundesamts für Statistik (BFS) und des Obsan:** gemäss den Nutzungsbedingungen der Quelle, Quellenangabe ist Pflicht («BFS – STATPOP», «BFS – Szenarien zur Bevölkerungsentwicklung 2025–2055», «BFS – SAKE», «BFS – SGB 2022», «Obsan 09/2025»). Die BFS-Daten stehen auf opendata.swiss unter «OPEN BY ASK»: freie Nutzung mit Quellenangabe, für kommerzielle Weiterverwendung der Rohdaten ist das BFS anzufragen.
-- Zitiervorschlag: We+ / We Technology (2026): Datenpaket Angehörigenpflege Schweiz, Grafik-Satz 2, https://github.com/wepluscare/daten, nach BFS und Obsan.
+- Zitiervorschlag: We+ / We Technology (2026): Datenpaket Angehörigenbetreuung Schweiz, Grafik-Satz 2, https://github.com/wepluscare/daten, nach BFS und Obsan.
 
 ## Versionen
 
