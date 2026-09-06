@@ -3,7 +3,7 @@
 Zwei Grafiken:
 
 - `grafik/bedarf-balken.svg`: **Bedarf 2040: bis zu 900'000 Menschen ab 65 mit Pflege oder Hilfe.** Personen ohne Doppelzählung, 2023/24 gemessen, 2040 und 2050 bei heutigen Anteilen. Der Stapel liest sich von unten nach oben wie ein Lebenslauf: zu Hause nur mit Angehörigen (fest die Untergrenze, gestrichelt darüber die Obergrenze), mit Spitex (davon ein Strich bezahlt), nur Spitex, Übergang (Kurzzeitaufenthalt), Heim zuoberst.
-- `grafik/bezahlt.svg`: **Bezahlte Angehörigenpflege: zwei Zählungen.** Angestellte pflegende Angehörige nach BAG-Umfrage und nach BFS-Näherung.
+- `grafik/bezahlt.svg`: **Gleiche Ausbildung, anderer Tarif: Pflegehelfer/innen SRK in der Spitex.** Personen mit Pflege- oder Betreuungskurs (z. B. Pflegehelfer/in SRK) nach Trägerschaft 2011–2024 (BFS, `bfs_spitex_personal_ausbildung_schweiz.csv`, Kategorie 154), darin die gemeldeten angestellten Angehörigen (BAG-Umfrage), dazu die Normkosten je Stunde Grundpflege im Kanton Zürich 2026 für dieselbe Ausbildung: 146.62 Franken bei der beauftragten Spitex, 68.36 als angestellte Angehörige.
 
 Je auch als PNG und in der schlichten Dokumentversion (`-schlicht`).
 
@@ -56,6 +56,17 @@ personen(jahr, gruppe) = Σ_{geschlecht, alter} bevölkerung(jahr, geschlecht, a
 | Pflegeheim, Langzeit | 86'000 | 129'000 | 153'000 |
 | **Total (Untergrenze)** | **519'000** | **734'000 (+41 %)** | **838'000 (+62 %)** |
 | Total mit Obergrenze der Angehörigen-Hilfe | 643'000 | 907'000 | 1'034'000 |
+
+## Pflegehelfer/innen SRK nach Trägerschaft (Grafik «Gleiche Ausbildung, anderer Tarif»)
+
+| Jahr | gemeinnützig und öffentlich | erwerbswirtschaftlich | Anteil am Personal gemeinn. | Anteil erwerbsw. |
+|---|---|---|---|---|
+| 2011 | 6'568 | 1'837 | 20 % | 32 % |
+| 2017 | 6'844 | 3'557 | 18 % | 30 % |
+| 2020 | 6'590 | 4'697 | 16 % | 31 % |
+| 2024 | 6'715 | 6'751 | 15 % | 30 % |
+
+Quelle: BFS-Würfel `px-x-1404040000_103`, Dimension «Ausbildung/Hauptfunktion», Code 154 «Pflege-/Betreuungskurse (z. B. Pflegehelfer/in SRK)», Anzahl Personen, Schweiz. Erwerbswirtschaftliche Spitex 2024: 22'864 von 68'707 Beschäftigten (33 Prozent), aber 50 Prozent der Pflegehelfer/innen SRK. Grenzen: die Kategorie zählt Ausbildung, nicht Tätigkeit («nur Grundpflege» lässt sich nicht isolieren; die Hauptfunktion ist im Würfel eine getrennte Aufschlüsselung), und sie sagt nichts über Verwandtschaft; die BAG-Umfrage ist die einzige direkte Zählung angestellter Angehöriger. Der Tarifvergleich gilt für Zürich 2026; die Ungleichbehandlung liegt an der Person (verwandt), nicht an der Trägerschaft.
 
 ## Lesehinweise
 

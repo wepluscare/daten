@@ -1,45 +1,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif">
 <rect width="1200" height="675" fill="#FBF8F4"/>
 <rect x="0" y="0" width="1200" height="8" fill="#16A8B5"/>
-<text x="60" y="66" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="40" fill="#1B1A17">Bezahlte Angehörigenpflege: in einem Jahr um die Hälfte gewachsen</text>
-<text x="60" y="100" font-size="19" fill="#4A463E">Angestellte pflegende Angehörige bei Spitex-Organisationen, Schweiz · Personen · zwei Zählungen</text>
+<text x="60" y="66" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="40" fill="#1B1A17">Gleiche Ausbildung, anderer Tarif: Pflegehelfer/innen SRK in der Spitex</text>
+<text x="60" y="100" font-size="19" fill="#4A463E">Personen mit Pflege- oder Betreuungskurs (z. B. Pflegehelfer/in SRK) nach Trägerschaft · Schweiz, 2011–2024</text>
 <line x1="60" y1="613" x2="1140" y2="613" stroke="#E7E1D3" stroke-width="1.5"/>
-<text x="60" y="635" font-size="13" fill="#8A8578">Quellen: BFS, Statistik der Hilfe und Pflege zu Hause (px-x-1404040000_103): Beschäftigte ohne Pflegeausbildung oder nur mit Pflegekurs bei erwerbswirtschaftlichen</text>
-<text x="60" y="653" font-size="13" fill="#8A8578">Organisationen, laut BFS «ein beachtlicher Teil» pflegende Angehörige (Reihe wie SRF 02.09.2026). BAG/BASS-Umfrage 2025, Tabelle 5: 75 Organisationen, 41 % Rücklauf, keine</text>
-<line x1="110" y1="480.8" x2="1140" y2="480.8" stroke="#E7E1D3" stroke-width="1"/>
-<text x="100" y="485.8" font-size="14" fill="#8A8578" text-anchor="end">3’000</text>
-<line x1="110" y1="381.5" x2="1140" y2="381.5" stroke="#E7E1D3" stroke-width="1"/>
-<text x="100" y="386.5" font-size="14" fill="#8A8578" text-anchor="end">6’000</text>
-<line x1="110" y1="282.3" x2="1140" y2="282.3" stroke="#E7E1D3" stroke-width="1"/>
-<text x="100" y="287.3" font-size="14" fill="#8A8578" text-anchor="end">9’000</text>
-<line x1="110" y1="183.1" x2="1140" y2="183.1" stroke="#E7E1D3" stroke-width="1"/>
-<text x="100" y="188.1" font-size="14" fill="#8A8578" text-anchor="end">12’000</text>
+<text x="60" y="635" font-size="13" fill="#8A8578">Quellen: BFS, Statistik der Hilfe und Pflege zu Hause (px-x-1404040000_103), Ausbildung × Leistungserbringertyp, Anzahl Personen. Angestellte Angehörige: BAG/BASS-Umfrage bei</text>
+<text x="60" y="653" font-size="13" fill="#8A8578">75 Organisationen (Bundesrat 15.10.2025), Untergrenze. Normkosten: Kreisschreiben Normdefizite 2026 der Gesundheitsdirektion Zürich, Beilage 2.</text>
+<line x1="110" y1="484.4" x2="870" y2="484.4" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="489.4" font-size="14" fill="#8A8578" text-anchor="end">2’000</text>
+<line x1="110" y1="388.9" x2="870" y2="388.9" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="393.9" font-size="14" fill="#8A8578" text-anchor="end">4’000</text>
+<line x1="110" y1="293.3" x2="870" y2="293.3" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="298.3" font-size="14" fill="#8A8578" text-anchor="end">6’000</text>
+<line x1="110" y1="197.8" x2="870" y2="197.8" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="202.8" font-size="14" fill="#8A8578" text-anchor="end">8’000</text>
 <text transform="translate(24,365.0) rotate(-90)" font-size="13" fill="#8A8578" text-anchor="middle">Personen</text>
-<rect x="135.8" y="382.6" width="120" height="197.4" fill="#16A8B5" opacity=".45" rx="3"/>
-<text x="195.8" y="372.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">5’969</text>
-<text x="195.8" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2019</text>
-<rect x="307.5" y="357.8" width="120" height="222.2" fill="#16A8B5" opacity=".45" rx="3"/>
-<text x="367.5" y="347.8" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">6’717</text>
-<text x="367.5" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2020</text>
-<rect x="479.2" y="337.6" width="120" height="242.4" fill="#16A8B5" opacity=".45" rx="3"/>
-<text x="539.2" y="327.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">7’329</text>
-<text x="539.2" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2021</text>
-<rect x="650.8" y="320.6" width="120" height="259.4" fill="#16A8B5" opacity=".45" rx="3"/>
-<text x="710.8" y="310.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">7’843</text>
-<rect x="650.8" y="569.0" width="120" height="11.0" fill="#0E6B78" rx="3"/>
-<text x="710.8" y="561.0" font-size="14" font-weight="700" fill="#1B1A17" text-anchor="middle">333</text>
-<text x="710.8" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2022</text>
-<rect x="822.5" y="321.4" width="120" height="258.6" fill="#16A8B5" opacity=".45" rx="3"/>
-<text x="882.5" y="311.4" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">7’818</text>
-<rect x="822.5" y="549.9" width="120" height="30.1" fill="#0E6B78" rx="3"/>
-<text x="882.5" y="541.9" font-size="14" font-weight="700" fill="#1B1A17" text-anchor="middle">909</text>
-<text x="882.5" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2023</text>
-<rect x="994.2" y="200.6" width="120" height="379.4" fill="#16A8B5" opacity=".45" rx="3"/>
-<text x="1054.2" y="190.6" font-size="16" font-weight="700" fill="#0E6B78" text-anchor="middle">11’469</text>
-<rect x="994.2" y="480.0" width="120" height="100.0" fill="#0E6B78" rx="3"/>
-<text x="1054.2" y="472.0" font-size="14" font-weight="700" fill="#1B1A17" text-anchor="middle">3’023</text>
-<text x="1054.2" y="606" font-size="15" font-weight="600" fill="#4A463E" text-anchor="middle">2024</text>
-<rect x="120" y="152" width="14" height="14" rx="2" fill="#16A8B5" opacity=".45"/><text x="142" y="164" font-size="14" fill="#1B1A17">BFS-Näherung: Beschäftigte ohne Pflegeausbildung oder nur mit Pflegekurs, erwerbswirtschaftliche Spitex (Obergrenze)</text>
-<rect x="120" y="176" width="14" height="14" rx="2" fill="#0E6B78"/><text x="142" y="188" font-size="14" fill="#1B1A17">BAG-Umfrage: gemeldete angestellte pflegende Angehörige, 2022–2024 (Untergrenze)</text>
-<text x="110" y="132" font-size="13.5" fill="#4A463E" text-anchor="start">BFS-Näherung 2023 → 2024: +47 % (7’818 → 11’469). Umfrage 2022 → 2024: verneunfacht (333 → 3’023), 614 Vollzeitäquivalente, rund 1 Mio Stunden Grundpflege (OKP).</text>
+<text x="110.0" y="606" font-size="14" fill="#8A8578" text-anchor="middle">2011</text>
+<text x="285.4" y="606" font-size="14" fill="#8A8578" text-anchor="middle">2014</text>
+<text x="460.8" y="606" font-size="14" fill="#8A8578" text-anchor="middle">2017</text>
+<text x="636.2" y="606" font-size="14" fill="#8A8578" text-anchor="middle">2020</text>
+<text x="753.1" y="606" font-size="14" fill="#8A8578" text-anchor="middle">2022</text>
+<text x="870.0" y="606" font-size="14" fill="#8A8578" text-anchor="middle">2024</text>
+<rect x="740.1" y="564.1" width="26" height="15.9" fill="#16A8B5" opacity=".85" rx="2"/>
+<text x="753.1" y="556.1" font-size="13" font-weight="700" fill="#0E6B78" text-anchor="middle">333</text>
+<rect x="798.5" y="536.6" width="26" height="43.4" fill="#16A8B5" opacity=".85" rx="2"/>
+<text x="811.5" y="528.6" font-size="13" font-weight="700" fill="#0E6B78" text-anchor="middle">909</text>
+<rect x="857.0" y="435.6" width="26" height="144.4" fill="#16A8B5" opacity=".85" rx="2"/>
+<text x="870.0" y="427.6" font-size="13" font-weight="700" fill="#0E6B78" text-anchor="middle">3’023</text>
+<path d="M110.0,266.2 L168.5,266.1 L226.9,266.8 L285.4,258.6 L343.8,248.8 L402.3,253.1 L460.8,253.0 L519.2,260.3 L577.7,261.6 L636.2,265.1 L694.6,258.5 L753.1,246.9 L811.5,256.4 L870.0,259.2" fill="none" stroke="#4A463E" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+<path d="M110.0,492.2 L168.5,461.3 L226.9,461.0 L285.4,439.2 L343.8,439.0 L402.3,423.1 L460.8,410.1 L519.2,395.0 L577.7,386.9 L636.2,355.6 L694.6,339.1 L753.1,342.0 L811.5,351.3 L870.0,257.5" fill="none" stroke="#0E6B78" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+<circle cx="870.0" cy="259.2" r="6" fill="#4A463E" stroke="#FBF8F4" stroke-width="2"/>
+<circle cx="110.0" cy="266.2" r="5" fill="#4A463E" stroke="#FBF8F4" stroke-width="2"/>
+<circle cx="870.0" cy="257.5" r="6" fill="#0E6B78" stroke="#FBF8F4" stroke-width="2"/>
+<circle cx="110.0" cy="492.2" r="5" fill="#0E6B78" stroke="#FBF8F4" stroke-width="2"/>
+<text x="120.0" y="256.2" font-size="14" font-weight="600" fill="#4A463E" text-anchor="start">6’568</text>
+<text x="120.0" y="514.2" font-size="14" font-weight="600" fill="#0E6B78" text-anchor="start">1’837</text>
+<text x="866.0" y="241.5" font-size="15" font-weight="700" fill="#0E6B78" text-anchor="end">6’751</text>
+<text x="811.5" y="283.2" font-size="15" font-weight="700" fill="#4A463E" text-anchor="end">6’715 (2024)</text>
+<text x="343.8" y="234.8" font-size="15" font-weight="700" fill="#4A463E" text-anchor="start">gemeinnützige und öffentliche Spitex</text>
+<text x="490.0" y="440.1" font-size="15" font-weight="700" fill="#0E6B78" text-anchor="start">erwerbswirtschaftliche Spitex</text>
+<text x="110.0" y="546.6" font-size="13" font-weight="600" fill="#16A8B5" text-anchor="start">Balken: gemeldete angestellte Angehörige (BAG-Umfrage), nur 2022–2024</text>
+<line x1="886" y1="148" x2="886" y2="394" stroke="#B0432A" stroke-width="3"/>
+<text x="898" y="164" font-size="14" font-weight="700" fill="#1B1A17">Normkosten je Stunde Grundpflege</text>
+<text x="898" y="184" font-size="12.5" font-weight="400" fill="#4A463E">Kanton Zürich 2026, Kreisschreiben</text>
+<text x="898" y="218" font-size="13" font-weight="400" fill="#1B1A17">Pflegehelfer/in SRK,</text>
+<text x="898" y="236" font-size="13" font-weight="400" fill="#1B1A17">bei beauftragter Spitex angestellt</text>
+<text x="898" y="264" font-size="24" font-weight="700" fill="#1B1A17">Fr. 146.62</text>
+<text x="898" y="282" font-size="12" font-weight="400" fill="#4A463E">Krankenkasse 52.60 + Kanton 94.00</text>
+<text x="898" y="316" font-size="13" font-weight="400" fill="#1B1A17">dieselbe Ausbildung,</text>
+<text x="898" y="334" font-size="13" font-weight="400" fill="#1B1A17">als angestellte Angehörige</text>
+<text x="898" y="362" font-size="24" font-weight="700" fill="#B0432A">Fr. 68.36</text>
+<text x="898" y="380" font-size="12" font-weight="400" fill="#4A463E">Krankenkasse 52.60 + Kanton 15.75</text>
+<text x="898" y="418" font-size="12" font-weight="400" fill="#4A463E">Die Vorlage der Gesundheitsdirektion würde</text>
+<text x="898" y="435" font-size="12" font-weight="400" fill="#4A463E">davon nur Fr. 32 als Lohn anrechnen.</text>
+<text x="898" y="468" font-size="12" font-weight="400" fill="#4A463E">Erwerbswirtschaftliche Spitex 2024:</text>
+<text x="898" y="485" font-size="12" font-weight="400" fill="#4A463E">22’864 von 68’707 Beschäftigten (33 %),</text>
+<text x="898" y="502" font-size="12" font-weight="400" fill="#4A463E">aber 50 % der Pflegehelfer/innen SRK.</text>
+<text x="110" y="132" font-size="13.5" fill="#4A463E" text-anchor="start">2024 beschäftigt die erwerbswirtschaftliche Spitex erstmals gleich viele Pflegehelfer/innen SRK wie der ganze gemeinnützige Sektor.</text>
 </svg>
