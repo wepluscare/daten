@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif">
+<rect width="1200" height="675" fill="#FBF8F4"/>
+<rect x="0" y="0" width="1200" height="8" fill="#16A8B5"/>
+<text x="60" y="66" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="40" fill="#1B1A17">Sechs Kategorien, eine Zahl</text>
+<text x="60" y="100" font-size="19" fill="#4A463E">Wofür die EL «Hilfe, Pflege und Betreuung zu Hause» vergütet — Bezeichnungen der SVA Aargau</text>
+<line x1="60" y1="613" x2="1140" y2="613" stroke="#E7E1D3" stroke-width="1.5"/>
+<text x="60" y="635" font-size="13" fill="#8A8578">Quellen: SVA Aargau, Krankheits- und Behinderungskosten; Kategorien und Höchstbeträge wörtlich übernommen (Abruf 6.9.2026). Art. 14 ELG, Ausgestaltung kantonal — andere</text>
+<text x="60" y="653" font-size="13" fill="#8A8578">Kantone gliedern anders. Rechts: BSV, EL-Statistik 2025, Tab. T5.2, 25 Kantone ohne Zürich.</text>
+<rect x="62" y="161" width="690" height="50" rx="6" fill="#CFC9BB" opacity="0.55"/>
+<text x="78" y="183" font-size="16" font-weight="600" fill="#1B1A17">Hauswirtschaftliche Leistungen</text>
+<text x="78" y="202" font-size="13" fill="#4A463E" opacity="1">höchstens 25 Fr./Stunde, 4’800 Fr./Jahr</text>
+<rect x="62" y="223" width="690" height="50" rx="6" fill="#CFC9BB" opacity="0.55"/>
+<text x="78" y="245" font-size="16" font-weight="600" fill="#1B1A17">Betreuung durch Organisationen</text>
+<rect x="62" y="285" width="690" height="50" rx="6" fill="#CFC9BB" opacity="0.55"/>
+<text x="78" y="307" font-size="16" font-weight="600" fill="#1B1A17">Pflege – Patientenbeteiligung Spitex</text>
+<text x="78" y="326" font-size="13" fill="#4A463E" opacity="1">höchstens 15.35 Fr./Tag</text>
+<rect x="62" y="347" width="690" height="50" rx="6" fill="#CFC9BB" opacity="0.55"/>
+<text x="78" y="369" font-size="16" font-weight="600" fill="#1B1A17">Pflege und Betreuung durch direkt angestelltes Pflegepersonal</text>
+<text x="78" y="388" font-size="13" fill="#4A463E" opacity="1">setzt eine Hilflosenentschädigung voraus</text>
+<rect x="62" y="409" width="690" height="50" rx="6" fill="#16A8B5" opacity="1"/>
+<text x="78" y="431" font-size="16" font-weight="700" fill="#FBF8F4">Pflege und Betreuung durch Familienangehörige</text>
+<text x="78" y="450" font-size="13" fill="#FBF8F4" opacity="0.92">Hilflosenentschädigung und mindestens 10 % Erwerbsausfall</text>
+<rect x="62" y="471" width="690" height="50" rx="6" fill="#CFC9BB" opacity="0.55"/>
+<text x="78" y="493" font-size="16" font-weight="600" fill="#1B1A17">Begleitetes oder betreutes Wohnen</text>
+<text x="78" y="512" font-size="13" fill="#4A463E" opacity="1">höchstens 25 Fr./Stunde, 4’800 Fr./Jahr</text>
+<path d="M778,162 q14,0 14,14 v146.0 q0,14 14,14 q-14,0 -14,14 v146.0 q0,14 -14,14" fill="none" stroke="#8A8578" stroke-width="2"/>
+<line x1="812" y1="370" x2="856" y2="370" stroke="#8A8578" stroke-width="2"/>
+<path d="M856,370 l-11,-6 v12 z" fill="#8A8578"/>
+<rect x="870" y="266" width="270" height="212" rx="8" fill="#B0432A" opacity="0.10"/>
+<rect x="870" y="266" width="270" height="212" rx="8" fill="none" stroke="#B0432A" stroke-width="2"/>
+<text x="892" y="296" font-size="13" font-weight="700" fill="#B0432A">BUNDESSTATISTIK, EINE SPALTE</text>
+<text x="892" y="328" font-size="19" font-weight="700" fill="#1B1A17">«Haushaltshilfe und</text>
+<text x="892" y="352" font-size="19" font-weight="700" fill="#1B1A17">Pflege zu Hause»</text>
+<text x="892" y="396" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="40" fill="#1B1A17">91 Mio Fr.</text>
+<text x="892" y="422" font-size="14" fill="#4A463E">2025, 25 Kantone ohne Zürich</text>
+<text x="892" y="442" font-size="14" fill="#4A463E">17,7 % der Krankheits- und</text>
+<text x="892" y="460" font-size="14" fill="#4A463E">Behinderungskosten</text>
+<text x="62" y="601" font-size="16" fill="#1B1A17" text-anchor="start">Wie viel davon auf Familienangehörige entfällt, wird nirgends ausgewiesen — auch nicht in den kantonalen Statistiken.</text>
+</svg>

@@ -1,0 +1,61 @@
+{
+ "query": [
+  {
+   "code": "Jahr",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "2025"
+    ]
+   }
+  },
+  {
+   "code": "Kanton",
+   "selection": {
+    "filter": "all",
+    "values": [
+     "*"
+    ]
+   }
+  },
+  {
+   "code": "Bevölkerungstyp",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "1"
+    ]
+   }
+  },
+  {
+   "code": "Geschlecht",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "-99999"
+    ]
+   }
+  },
+  {
+   "code": "Zivilstand",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "-99999"
+    ]
+   }
+  },
+  {
+   "code": "Alter",
+   "selection": {
+    "filter": "item",
+    "values": [
+     "-99999"
+    ]
+   }
+  }
+ ],
+ "response": {
+  "format": "json-stat2"
+ }
+}

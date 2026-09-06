@@ -1,0 +1,203 @@
+{
+ "class": "dataset",
+ "label": "Ständige und nichtständige Wohnbevölkerung nach Jahr, Kanton, Bevölkerungstyp, Geschlecht, Zivilstand und Alter",
+ "source": "BFS - Statistik der Bevölkerung und der Haushalte - © BFS",
+ "updated": "2011-08-22T09:23:00Z",
+ "id": [
+  "Jahr",
+  "Kanton",
+  "Bevölkerungstyp",
+  "Geschlecht",
+  "Zivilstand",
+  "Alter"
+ ],
+ "size": [
+  1,
+  28,
+  1,
+  1,
+  1,
+  1
+ ],
+ "dimension": {
+  "Jahr": {
+   "extension": {
+    "show": "value"
+   },
+   "label": "Jahr",
+   "category": {
+    "index": {
+     "2025": 0
+    },
+    "label": {
+     "2025": "2025"
+    }
+   }
+  },
+  "Kanton": {
+   "extension": {
+    "show": "value"
+   },
+   "label": "Kanton",
+   "category": {
+    "index": {
+     "8100": 0,
+     "ZH": 1,
+     "BE": 2,
+     "LU": 3,
+     "UR": 4,
+     "SZ": 5,
+     "OW": 6,
+     "NW": 7,
+     "GL": 8,
+     "ZG": 9,
+     "FR": 10,
+     "SO": 11,
+     "BS": 12,
+     "BL": 13,
+     "SH": 14,
+     "AR": 15,
+     "AI": 16,
+     "SG": 17,
+     "GR": 18,
+     "AG": 19,
+     "TG": 20,
+     "TI": 21,
+     "VD": 22,
+     "VS": 23,
+     "NE": 24,
+     "GE": 25,
+     "JU": 26,
+     "-9": 27
+    },
+    "label": {
+     "8100": "Schweiz",
+     "ZH": "Zürich",
+     "BE": "Bern / Berne",
+     "LU": "Luzern",
+     "UR": "Uri",
+     "SZ": "Schwyz",
+     "OW": "Obwalden",
+     "NW": "Nidwalden",
+     "GL": "Glarus",
+     "ZG": "Zug",
+     "FR": "Fribourg / Freiburg",
+     "SO": "Solothurn",
+     "BS": "Basel-Stadt",
+     "BL": "Basel-Landschaft",
+     "SH": "Schaffhausen",
+     "AR": "Appenzell Ausserrhoden",
+     "AI": "Appenzell Innerrhoden",
+     "SG": "St. Gallen",
+     "GR": "Graubünden / Grigioni / Grischun",
+     "AG": "Aargau",
+     "TG": "Thurgau",
+     "TI": "Ticino",
+     "VD": "Vaud",
+     "VS": "Valais / Wallis",
+     "NE": "Neuchâtel",
+     "GE": "Genève",
+     "JU": "Jura",
+     "-9": "Ohne Angabe"
+    }
+   }
+  },
+  "Bevölkerungstyp": {
+   "extension": {
+    "show": "value"
+   },
+   "label": "Bevölkerungstyp",
+   "category": {
+    "index": {
+     "1": 0
+    },
+    "label": {
+     "1": "Ständige Wohnbevölkerung"
+    }
+   }
+  },
+  "Geschlecht": {
+   "extension": {
+    "show": "value"
+   },
+   "label": "Geschlecht",
+   "category": {
+    "index": {
+     "-99999": 0
+    },
+    "label": {
+     "-99999": "Geschlecht - Total"
+    }
+   }
+  },
+  "Zivilstand": {
+   "extension": {
+    "show": "value"
+   },
+   "label": "Zivilstand",
+   "category": {
+    "index": {
+     "-99999": 0
+    },
+    "label": {
+     "-99999": "Zivilstand - Total"
+    }
+   }
+  },
+  "Alter": {
+   "extension": {
+    "show": "value"
+   },
+   "label": "Alter",
+   "category": {
+    "index": {
+     "-99999": 0
+    },
+    "label": {
+     "-99999": "Alter - Total"
+    }
+   }
+  }
+ },
+ "value": [
+  9127125,
+  1632918,
+  1076127,
+  441500,
+  38581,
+  170072,
+  39879,
+  45664,
+  42451,
+  135018,
+  350918,
+  291583,
+  204157,
+  303872,
+  90087,
+  57221,
+  16890,
+  544040,
+  207400,
+  743768,
+  302806,
+  359783,
+  863650,
+  376113,
+  180365,
+  537084,
+  75178,
+  0
+ ],
+ "role": {
+  "time": [
+   "Jahr"
+  ]
+ },
+ "version": "2.0",
+ "extension": {
+  "px": {
+   "decimals": 0
+  }
+ }
+}
