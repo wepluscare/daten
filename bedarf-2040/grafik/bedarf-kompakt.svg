@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif">
+<defs><pattern id="hatchk" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#16A8B5" stroke-width="3" opacity=".7"/></pattern></defs>
+<rect width="1200" height="675" fill="#FBF8F4"/>
+<rect x="0" y="0" width="1200" height="8" fill="#16A8B5"/>
+<text x="60" y="66" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="40" fill="#1B1A17">Bedarf 2040: bis zu 900’000 Menschen ab 65 mit Pflege oder Hilfe</text>
+<text x="60" y="100" font-size="19" fill="#4A463E">Schweiz, Personen ohne Doppelzählung · 2023/24 gemessen, 2040 bei heutigen Anteilen</text>
+<line x1="60" y1="613" x2="1140" y2="613" stroke="#E7E1D3" stroke-width="1.5"/>
+<text x="60" y="635" font-size="13" fill="#8A8578">Quellen: Obsan 09/2025 T 10.1 (Heim, Spitex, Kurzzeit); Angehörigen-Hilfe: BFS SGB 2022 × BFS-Szenario 2025, eigene Rechnung, Obergrenze Obsan 03/2026 (EFG); Überschneidung</text>
+<text x="60" y="653" font-size="13" fill="#8A8578">Spitex/Angehörige 59 % (BFS 12.11.2024); bezahlt: Bundesrat 15.10.2025 (BAG-Umfrage).</text>
+<line x1="110" y1="472.5" x2="740" y2="472.5" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="477.5" font-size="14" fill="#8A8578" text-anchor="end">250’000</text>
+<line x1="110" y1="365.0" x2="740" y2="365.0" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="370.0" font-size="14" fill="#8A8578" text-anchor="end">500’000</text>
+<line x1="110" y1="257.5" x2="740" y2="257.5" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="262.5" font-size="14" fill="#8A8578" text-anchor="end">750’000</text>
+<line x1="110" y1="150.0" x2="740" y2="150.0" stroke="#E7E1D3" stroke-width="1"/>
+<text x="100" y="155.0" font-size="14" fill="#8A8578" text-anchor="end">1’000’000</text>
+<text transform="translate(24,365.0) rotate(-90)" font-size="13" fill="#8A8578" text-anchor="middle">Personen ab 65</text>
+<rect x="157.5" y="495.9" width="220" height="84.1" fill="#16A8B5" opacity="0.55" stroke="#FBF8F4" stroke-width="2"/>
+<text x="267.5" y="544.4" font-size="17" font-weight="700" fill="#1B1A17" text-anchor="middle">196’000</text>
+<rect x="157.5" y="436.3" width="220" height="59.6" fill="#0E6B78" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<text x="267.5" y="472.5" font-size="17" font-weight="700" fill="#FBF8F4" text-anchor="middle">139’000</text>
+<rect x="157.5" y="436.3" width="220" height="59.6" fill="url(#hatchk)" opacity=".9"/>
+<rect x="157.5" y="394.8" width="220" height="41.4" fill="#0E6B78" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<text x="267.5" y="422.0" font-size="17" font-weight="700" fill="#FBF8F4" text-anchor="middle">96’000</text>
+<rect x="157.5" y="393.8" width="220" height="1.0" fill="#7A5A12" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<rect x="157.5" y="357.0" width="220" height="36.8" fill="#B0432A" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<text x="267.5" y="381.9" font-size="17" font-weight="700" fill="#FBF8F4" text-anchor="middle">86’000</text>
+<rect x="157.5" y="303.4" width="220" height="53.6" fill="#16A8B5" opacity="0.22" stroke="#FBF8F4" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="267.5" y="335.9" font-size="15" font-weight="700" fill="#0E6B78" text-anchor="middle">bis 320’000</text>
+<rect x="141.5" y="436.3" width="252" height="5.0" fill="#1B1A17"/>
+<text x="267.5" y="291.4" font-size="20" font-weight="700" fill="#1B1A17" text-anchor="middle">519’000 – 643’000</text>
+<text x="267.5" y="608" font-size="17" font-weight="600" fill="#4A463E" text-anchor="middle">2023 / 2024</text>
+<rect x="472.5" y="464.1" width="220" height="115.9" fill="#16A8B5" opacity="0.55" stroke="#FBF8F4" stroke-width="2"/>
+<text x="582.5" y="528.5" font-size="17" font-weight="700" fill="#1B1A17" text-anchor="middle">269’000</text>
+<rect x="472.5" y="380.0" width="220" height="84.1" fill="#0E6B78" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<text x="582.5" y="428.5" font-size="17" font-weight="700" fill="#FBF8F4" text-anchor="middle">196’000</text>
+<rect x="472.5" y="380.0" width="220" height="84.1" fill="url(#hatchk)" opacity=".9"/>
+<rect x="472.5" y="321.5" width="220" height="58.5" fill="#0E6B78" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<text x="582.5" y="357.2" font-size="17" font-weight="700" fill="#FBF8F4" text-anchor="middle">136’000</text>
+<rect x="472.5" y="320.1" width="220" height="1.5" fill="#7A5A12" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<rect x="472.5" y="264.5" width="220" height="55.5" fill="#B0432A" opacity="1" stroke="#FBF8F4" stroke-width="2"/>
+<text x="582.5" y="298.8" font-size="17" font-weight="700" fill="#FBF8F4" text-anchor="middle">129’000</text>
+<rect x="472.5" y="189.9" width="220" height="74.6" fill="#16A8B5" opacity="0.22" stroke="#FBF8F4" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="582.5" y="232.9" font-size="15" font-weight="700" fill="#0E6B78" text-anchor="middle">bis 443’000</text>
+<text x="582.5" y="177.9" font-size="20" font-weight="700" fill="#1B1A17" text-anchor="middle">734’000 – 907’000  (+41 %)</text>
+<text x="582.5" y="608" font-size="17" font-weight="600" fill="#4A463E" text-anchor="middle">2040</text>
+<text x="399.5" y="443.8" font-size="15" font-weight="700" fill="#1B1A17">bezahlt: 3’023</text>
+<line x1="694.5" y1="227.2" x2="704.5" y2="227.2" stroke="#E7E1D3" stroke-width="1.2"/>
+<text x="710.5" y="232.2" font-size="15" fill="#0E6B78">Angehörigen-Hilfe bis zur Obergrenze (EFG)</text>
+<line x1="694.5" y1="292.3" x2="704.5" y2="292.3" stroke="#E7E1D3" stroke-width="1.2"/>
+<text x="710.5" y="297.3" font-size="15" fill="#1B1A17">Pflegeheim, Langzeit</text>
+<line x1="694.5" y1="350.8" x2="704.5" y2="350.8" stroke="#E7E1D3" stroke-width="1.2"/>
+<text x="710.5" y="355.8" font-size="15" fill="#1B1A17">Nur Spitex-Pflege</text>
+<line x1="694.5" y1="422.1" x2="704.5" y2="422.1" stroke="#E7E1D3" stroke-width="1.2"/>
+<text x="710.5" y="427.1" font-size="15" fill="#1B1A17">Spitex und Angehörige zugleich (59 %)</text>
+<line x1="694.5" y1="522.1" x2="704.5" y2="522.1" stroke="#E7E1D3" stroke-width="1.2"/>
+<text x="710.5" y="527.1" font-size="15" fill="#1B1A17">Nur Angehörige, Untergrenze (SGB)</text>
+<text x="710.5" y="325.8" font-size="13" fill="#8A8578">Übergang: Kurzzeitaufenthalt</text>
+<text x="710.5" y="572.0" font-size="13" fill="#4A463E">Bezahlt ist ein Strich: 3’023 angestellte Angehörige 2024,</text>
+<text x="710.5" y="590.0" font-size="13" fill="#4A463E">bis 11’469 nach BFS-Näherung. Entwicklung offen.</text>
+</svg>
