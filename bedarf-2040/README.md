@@ -1,11 +1,10 @@
-# Bedarf 2040 und bezahlte Angehörigenbetreuung
+# Bedarf 2040
 
-Zwei Grafiken:
+Grafik:
 
 - `grafik/bedarf-balken.svg`: **Bedarf 2040: bis zu 900'000 Menschen ab 65 mit Pflege oder Hilfe.** Personen ohne Doppelzählung, 2023/24 gemessen, 2040 und 2050 bei heutigen Anteilen. Der Stapel liest sich von unten nach oben wie ein Lebenslauf: zu Hause nur mit Angehörigen (fest die Untergrenze, gestrichelt darüber die Obergrenze), mit Spitex (davon ein Strich bezahlt), nur Spitex, Übergang (Kurzzeitaufenthalt), Heim zuoberst.
-- `grafik/bezahlt.svg`: **Gleiche Ausbildung, anderer Tarif: Pflegehelfer/innen SRK in der Spitex.** Personen mit Pflege- oder Betreuungskurs (z. B. Pflegehelfer/in SRK) nach Trägerschaft 2011–2024 (BFS, `bfs_spitex_personal_ausbildung_schweiz.csv`, Kategorie 154), darin die gemeldeten angestellten Angehörigen (BAG-Umfrage), dazu die Normkosten je Stunde Grundpflege im Kanton Zürich 2026 für dieselbe Ausbildung: 146.62 Franken bei der beauftragten Spitex, 68.36 als angestellte Angehörige.
 
-Je auch als PNG und in der schlichten Dokumentversion (`-schlicht`).
+Auch als PNG und in der schlichten Dokumentversion (`-schlicht`). Die Grafik zu den angestellten Angehörigen und Pflegehelfer/innen SRK liegt in `../pflegehelfer-srk/`.
 
 ## Quellen
 
@@ -14,10 +13,9 @@ Je auch als PNG und in der schlichten Dokumentversion (`-schlicht`).
 | Obsan 09/2025, Tabelle 10.1 | Bedarfsprognose Langzeitpflege Schweiz 2023 → 2040/2050: Bewohnerinnen und Bewohner Langzeit Pflegeheim, Klientinnen und Klienten Spitex-Pflege ab 65, Kurzzeitaufenthalte; Referenz- und weitere Szenarien | `obsan_09_2025_T10-1_bedarf_schweiz.csv` |
 | BFS Spitex-Statistik (`px-x-1404040000_102`) | Spitex-Klientinnen und -Klienten ab 65 nach Leistungsangebot, 2011–2024 | `bfs_spitex_klienten_schweiz.csv`, `raw/` |
 | BFS SOMED (`px-x-1404010100_301`) | Plätze und fakturierte Tage Langzeit, 2006–2024 | `bfs_somed_angebot_schweiz.csv`, `raw/` |
-| BFS Spitex-Statistik (`px-x-1404040000_103`) | Beschäftigte nach Ausbildung und Rechtsform, 2011–2024 | `bfs_spitex_personal_ausbildung_schweiz.csv`, `raw/` |
 | BFS SGB 2022, Seite «Informelle Hilfe» | Anteil mit Hilfe von Angehörigen aus gesundheitlichen Gründen und Spitex-Anteil nach Alter und Geschlecht; erhaltene und geleistete Hilfe nach Alter | `sgb2022_*.csv` |
 | BFS-Medienmitteilung 12.11.2024 (SGB 2022) | 59 Prozent der Spitex-Unterstützten erhalten auch Hilfe von Angehörigen oder Bekannten | Konstante `OVERLAP` |
-| Bundesrat, Bericht vom 15.10.2025 (Postulat) | BAG/BASS-Umfrage bei Spitex-Organisationen: angestellte pflegende Angehörige 2022–2024, Vollzeitäquivalente, rund 1 Million Stunden Grundpflege 2024 | `angestellte_angehoerige_2011-2024.csv` |
+| Bundesrat, Bericht vom 15.10.2025 (Postulat) | BAG/BASS-Umfrage bei Spitex-Organisationen: angestellte pflegende Angehörige 2022–2024, Vollzeitäquivalente, rund 1 Million Stunden Grundpflege 2024 | `../pflegehelfer-srk/angestellte_angehoerige_2011-2024.csv` |
 
 ## Rechenschritte
 
@@ -56,17 +54,6 @@ personen(jahr, gruppe) = Σ_{geschlecht, alter} bevölkerung(jahr, geschlecht, a
 | Pflegeheim, Langzeit | 86'000 | 129'000 | 153'000 |
 | **Total (Untergrenze)** | **519'000** | **734'000 (+41 %)** | **838'000 (+62 %)** |
 | Total mit Obergrenze der Angehörigen-Hilfe | 643'000 | 907'000 | 1'034'000 |
-
-## Pflegehelfer/innen SRK nach Trägerschaft (Grafik «Gleiche Ausbildung, anderer Tarif»)
-
-| Jahr | gemeinnützig und öffentlich | erwerbswirtschaftlich | Anteil am Personal gemeinn. | Anteil erwerbsw. |
-|---|---|---|---|---|
-| 2011 | 6'568 | 1'837 | 20 % | 32 % |
-| 2017 | 6'844 | 3'557 | 18 % | 30 % |
-| 2020 | 6'590 | 4'697 | 16 % | 31 % |
-| 2024 | 6'715 | 6'751 | 15 % | 30 % |
-
-Quelle: BFS-Würfel `px-x-1404040000_103`, Dimension «Ausbildung/Hauptfunktion», Code 154 «Pflege-/Betreuungskurse (z. B. Pflegehelfer/in SRK)», Anzahl Personen, Schweiz. Erwerbswirtschaftliche Spitex 2024: 22'864 von 68'707 Beschäftigten (33 Prozent), aber 50 Prozent der Pflegehelfer/innen SRK. Grenzen: die Kategorie zählt Ausbildung, nicht Tätigkeit («nur Grundpflege» lässt sich nicht isolieren; die Hauptfunktion ist im Würfel eine getrennte Aufschlüsselung), und sie sagt nichts über Verwandtschaft; die BAG-Umfrage ist die einzige direkte Zählung angestellter Angehöriger. Der Tarifvergleich gilt für Zürich 2026; die Ungleichbehandlung liegt an der Person (verwandt), nicht an der Trägerschaft.
 
 ## Lesehinweise
 
