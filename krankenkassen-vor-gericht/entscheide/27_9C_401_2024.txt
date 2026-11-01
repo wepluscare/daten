@@ -1,0 +1,503 @@
+Bundesgericht
+
+Tribunal fédéral
+
+Tribunale federale
+
+Tribunal federal
+
+9C_401/2024, 9C_535/2024
+
+Urteil vom 4. Juni 2025
+
+III. öffentlich-rechtliche Abteilung
+
+Besetzung
+
+Bundesrichterin Moser-Szeless, Präsidentin,
+
+Bundesrichter Stadelmann, Bundesrichterin Bollinger,
+
+Gerichtsschreiberin Dormann.
+
+Verfahrensbeteiligte
+
+1. A.________ AG,
+
+2. B.________,
+
+beide vertreten durch Rechtsanwalt Dr. Kaspar Gehring,
+
+Beschwerdeführer,
+
+gegen
+
+Regierungsrat des Kantons Thurgau,
+
+Staatskanzlei, Rechtsdienst, Regierungsgebäude, 8510 Frauenfeld,
+
+Beschwerdegegner.
+
+Gegenstand
+
+Krankenversicherung,
+
+Beschwerden gegen Beschlüsse des Regierungsrates des Kantons Thurgau vom 11. Juni 2024 (betreffend Änderung der Krankenversicherungsverordnung des Kantons Thurgau), vom 25. Juni 2024 (RRB Nr. 495) und vom 27. August 2024 (RRB Nr. 582).
+
+Sachverhalt:
+
+A.
+
+Die A.________ AG ist eine Organisation der ambulanten Krankenpflege (Spitex-Organisation), die im Kanton Thurgau tätig und als Leistungserbringerin im Sinne des KVG zugelassen ist. Sie bezweckt die Erbringung von Spitex-Dienstleistungen insbesondere durch eigenes Personal oder mittels Anstellung von betreuenden und pflegenden Angehörigen. B.________ ist Geschäftsführer der A.________ AG und laut eigenen Angaben deren Teilhaber.
+
+B.
+
+B.a.
+Am 28. November 2021 wurde die Initiative "Für eine starke Pflege (Pflegeinitiative) " angenommen (vgl.
+Art. 117b BV
+). Zu deren Umsetzung wurde u.a. das Bundesgesetz vom 16. Dezember 2022 über die Förderung der Ausbildung im Bereich der Pflege (SR 811.22; nachfolgend: FAPG) erlassen und auf den 1. Juli 2024 in Kraft gesetzt. Bereits auf den 1. Januar 2024 waren im Hinblick auf die Umsetzung der Pflegeinitiative neue Bestimmungen des Krankenversicherungsgesetzes des Kantons Thurgau vom 25. Oktober 1995 (TG KVG; RB 832.1) über die "Nicht universitäre Aus- und Weiterbildung" (§§ 15a, 22a, 38) in Kraft getreten, darunter namentlich eine solche mit einer Ausbildungsverpflichtung für Spitex-Organisationen.
+
+B.b.
+In diesem Rahmen beschloss der Regierungsrat des Kantons Thurgau am 11. Juni 2024 eine Änderung der Krankenversicherungsverordnung des Kantons Thurgau vom 20. Dezember 2011 (TG KVV; RB 832.10). Dabei hob er einerseits die bisherigen §§ 35, 36, 65 und 73 TG KVV auf; anderseits erliess er unter dem Titel "6a. Nicht universitäre Aus- und Weiterbildung" neue Bestimmungen zur "Festlegung des Bedarfs für die nicht universitäre Aus- und Weiterbildung" (§ 70a), zur "Festlegung der Ausbildungskapazitäten für die nicht universitären Aus- und Weiterbildungen" (§ 70b), zu den "Kriterien für die Ausbildungskapazitäten für die nicht universitären Aus- und Weiterbildungen" (§ 70c), zu "Massnahmen, wenn die Ausbildungskapazität nicht erreicht wird" (§ 70d), zur "Ersatzabgabe" (§ 70e), zum "Beitrag an die praktische Ausbildung" (§ 70f) und zur "Datenlieferung nicht universitäre Aus- und Weiterbildung" (§ 70g). Gleichzeitig beschloss der Regierungsrat des Kantons Thurgau die Inkraftsetzung der Änderung der TG KVV auf den 1. Juli 2024, mit Ausnahme der neuen §§ 70d und 70e, deren Inkraftsetzung erst auf den 1. Januar 2026 erfolgen wird.
+
+Im gleichen Zusammenhang traf der Regierungsrat folgenden Beschluss vom 25. Juni 2024 (nachfolgend: RRB Nr. 495) : "Die Ausbildungskapazität (Soll-Ausbildungsleistung) Pflege HF oder FH als Anzahl Praktikumswochen im Betrieb pro Leistungserbringerin oder Leistungserbringer für die Erbringung im Kanton Thurgau gemäss
+§ 70b TG
+KVV wird für innerkantonale Listenspitäler, Pflegeheime der kantonalen Pflegeheimliste und Organisationen der ambulanten Krankenpflege und Hilfe zu Hause mit Bewilligung der Zulassung zu den Sozialversicherungen gemäss Beilagen 1 bis 3 per 1. Juli 2024 festgelegt." In Beilage 2, die die Organisationen der ambulanten Krankenpflege betrifft, wurde für die A.________ AG auf der Grundlage eines Leistungsvolumens von xxx Stunden ("KLV_STD_Total 2023") u.a. die "Soll-Ausbildungsleistung Gesamtanzahl Praktikumswochen Pflege HF oder FH pro Jahr ab 1. Juli 2024" auf yyy festgelegt.
+
+C.
+
+C.a.
+Die A.________ AG und B.________ lassen mit (gemeinsamer) Beschwerde in öffentlich-rechtlichen Angelegenheiten Folgendes beantragen (Verfahren 9C_401/2024) :
+
+"1. Die Änderungen der Krankenversicherungsverordnung (TG KVV) vom 11. Juni 2024 sowie der Entscheid des Regierungsrates des Kantons Thurgau betreffend die Änderungen der Krankenversicherungsverordnung (Protokoll vom 25. Juni 2024) seien - mangels gesetzlicher Grundlage und mangels Vorliegen der Voraussetzungen für Einschränkungen der Grundrechte - insoweit aufzuheben, als darin eine Pflicht zur Ausbildung von Berufspersonen und/oder eine Ersatzabgabepflicht bei Nichterfüllung der Ausbildungspflicht vorgesehen wird.
+
+2. Eventualiter seien die Änderungen der Krankenversicherungsverordnung (TG KVV) vom 11. Juni 2024 insoweit aufzuheben, als darin (§ 70c) für die Festlegung der Ausbildungskapazität (Soll-Ausbildungsleistung) für die nicht universitären Aus- und Weiterbildungen für Organisationen der ambulanten Krankenpflege die bundesrechtlichen Kriterien (Art. 3 FAPG) und die verfassungsrechtlichen Vorgaben (
+Art. 117d BV
+) nicht berücksichtigt, übernommen und eingehalten wurden. Ebenso sei die Höhe der Ersatzabgabe (§ 70e) aufzuheben.
+
+3. Zudem sei eventualiter der 'Entscheid betreffend Ausbildungskapazität gemäss Krankenversicherungsgesetz (TG KVG) und Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (FAPG) ' (Protokoll vom 25. Juni 2024) des Regierungsrates des Kantons Thurgau insoweit aufzuheben, als bei der Festlegung der Ausbildungskapazität (Soll-Ausbildungsleistung) Pflege HF und FH für die Organisationen der ambulanten Krankenpflege die bundesrechtlichen Kriterien (Art. 3 FAPG) und die verfassungsrechtlichen Vorgaben (
+Art. 117b BV
+) nicht berücksichtigt, übernommen und eingehalten wurden.
+
+4. Es seien der Kanton Thurgau sowie der Regierungsrat des Kantons Thurgau zu verpflichten, eine bundesrechts- und verfassungsrechtskonforme Regelung der Umsetzung des Bundesgesetzes über die Förderung der Ausbildung im Bereich Pflege (FAPG) zu erlassen."
+
+Am 29. August 2024 teilt der Regierungsrat des Kantons Thurgau mit, dass der RRB Nr. 495 zufolge Fehlerhaftigkeit durch den Beschluss vom 27. August 2024 (nachfolgend: RRB Nr. 582) ersetzt worden sei. Darin wird dieser Umstand festgehalten (Dispositiv-Ziff. 1) und insbesondere die frühere Anordnung zur Festlegung der Ausbildungskapazität wiederholt (Dispositiv-Ziff. 2); indessen resultiert aus dessen (aktualisierter) Beilage 2 für die A.________ AG bei unveränderter Ausgangsgrösse nunmehr eine höhere "Soll-Ausbildungsleistung Gesamtanzahl Praktikumswochen Pflege HF oder FH pro Jahr ab 1. Juli 2024" von zzz.
+
+Sodann schliesst der Regierungsrat auf Abweisung der Beschwerde, soweit darauf einzutreten sei. Das Bundesamt für Gesundheit (BAG) verzichtet auf eine Vernehmlassung. Die A.________ AG und B.________ lassen (gemeinsam) eine weitere Eingabe einreichen, worauf der Regierungsrat des Kantons Thurgau dupliziert.
+
+C.b.
+Die A.________ AG und B.________ lassen auch gegen den RRB Nr. 582 (gemeinsam) Beschwerde in öffentlich-rechtlichen Angelegenheiten führen (Verfahren 9C_535/2024) und - nebst einem Gesuch um Vereinigung der beiden bundesgerichtlichen Verfahren - folgende Anträge stellen:
+
+"1. Der Entscheid des Regierungsrates des Kantons Thurgau betreffend Ausbildungskapazität gemäss Krankenversicherungsgesetz (TG KVG) und Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (FAPG) (Protokoll vom 27. August 2024) sei - mangels gesetzlicher Grundlage und mangels Vorliegen der Voraussetzungen für Einschränkungen der Grundrechte - insoweit aufzuheben, als darin eine Pflicht zur Ausbildung von Berufspersonen und/oder eine Ersatzabgabepflicht bei Nichterfüllung der Ausbildungspflicht vorgesehen wird.
+
+2. Eventualiter sei der Entscheid des Regierungsrates des Kantons Thurgau betreffend Ausbildungskapazität gemäss Krankenversicherungsgesetz (TG KVG) und Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (FAPG) (Protokoll vom 27. August 2024) insoweit aufzuheben, als bei der Festlegung der Ausbildungskapazität (Soll-Ausbildungsleistung) Pflege HF und FH für die Organisationen der ambulanten Krankenpflege die bundesrechtlichen Kriterien (Art. 3 FAPG) und die verfassungsrechtlichen Vorgaben (
+Art. 117b BV
+) nicht berücksichtigt, übernommen und eingehalten wurden.
+
+3. Es seien der Regierungsrat des Kantons Thurgau und der Kanton Thurgau zu verpflichten, eine bundesrechts- und verfassungsrechtskonforme Regelung der Umsetzung des Bundesgesetzes über die Förderung der Ausbildung im Bereich Pflege (FAPG) zu erlassen."
+
+Auch in diesem Verfahren schliesst der Regierungsrat des Kantons Thurgau auf Abweisung der Beschwerde, soweit darauf einzutreten sei, und verzichtet das BAG auf eine Vernehmlassung.
+
+Erwägungen:
+
+1.
+
+Die Beschwerden betreffen die gleichen Parteien, sind auf weiten Strecken identisch und werfen im Wesentlichen die gleichen Rechtsfragen auf; zudem wurde der RRB Nr. 495 lite pendente durch den RRB Nr. 582 "ersetzt". Es rechtfertigt sich daher, dem Antrag der Beschwerdeführer entsprechend die beiden Verfahren 9C_401/2024 und 9C_535/2024 zu vereinigen und in einem Urteil zu erledigen (
+Art. 24 BZP
+[SR 273] i.V.m.
+Art. 71 BGG
+).
+
+2.
+
+2.1.
+Das Bundesgericht prüft seine Zuständigkeit und die weiteren Eintretensvoraussetzungen von Amtes wegen und mit freier Kognition (
+Art. 29 Abs. 1 BGG
+;
+BGE 150 II 346
+E. 1.1;
+150 III 248
+E. 1). Beschwerdeführende Personen sind nach
+Art. 42 Abs. 1 BGG
+gleichwohl gehalten, die Erfüllung der Eintretensvoraussetzungen darzutun, soweit sie in Frage steht resp. nicht offensichtlich gegeben ist (vgl.
+BGE 141 IV 289
+E. 1.3; Urteil 9C_467/2024 vom 20. Januar 2025 E. 1.1).
+
+2.2.
+
+2.2.1.
+Kantonale Erlasse können unmittelbar beim Bundesgericht angefochten werden, sofern kein kantonales Rechtsmittel zur Verfügung steht (
+Art. 82 lit. b und
+Art. 87 Abs. 1 BGG
+). Ausserdem ist die Beschwerde in öffentlich-rechtlichen Angelegenheiten (unter Vorbehalt der hier nicht einschlägigen Ausnahmen von
+Art. 83 BGG
+) zulässig gegen Entscheide letzter kantonaler Instanzen, sofern nicht die Beschwerde an das Bundesverwaltungsgericht zulässig ist (
+Art. 82 lit. a und
+Art. 86 Abs. 1 lit. d BGG
+), wobei die Kantone als unmittelbare Vorinstanzen des Bundesgerichts obere Gerichte einsetzen, soweit nicht nach einem anderen Bundesgesetz Entscheide anderer richterlicher Behörden der Beschwerde an das Bundesgericht unterliegen (
+Art. 86 Abs. 2 BGG
+).
+
+Grundsätzlich versteht das Bundesgericht den Begriff des kantonalen Erlasses in
+Art. 82 lit. b BGG
+materiell, d.h. es stellt nicht auf die äussere Form oder die Bezeichnung nach kantonalem Recht ab, sondern prüft, ob der angefochtene kantonale Hoheitsakt rechtsetzenden Charakter aufweist. Rechtssätze sind Anordnungen genereller und abstrakter Natur, die für eine unbestimmte Vielheit von Menschen resp. Rechtssubjekten gelten und eine unbestimmte Vielheit von Tatbeständen regeln, ohne Rücksicht auf einen bestimmten Einzelfall oder auf eine Person. Demgegenüber richtet sich die Verfügung als Einzelakt (individuell) an eine Einzelperson oder an eine bestimmte Anzahl von Adressatinnen und Adressaten und regelt eine konkrete Rechtsbeziehung rechtsbegründend, -aufhebend, -gestaltend oder -feststellend (vgl.
+Art. 5 VwVG
+). Zwischen Rechtssatz und Verfügung steht die sogenannte (hier indessen nicht weiter interessierende) Allgemeinverfügung (
+BGE 147 II 300
+E. 2, 2.1, 2.2 mit zahlreichen Hinweisen; vgl. auch Urteil 9C_38/2024 vom 15. Januar 2025 E. 2.1.1).
+
+2.2.2.
+Anfechtungsobjekt im Verfahren 9C_401/2024 ist (einerseits) die Änderung der TG KVV vom 11. Juni 2024. Dabei handelt es sich um einen allgemeinen (auf eine unbestimmte Anzahl von Personen anzuwendenden) und abstrakten (auf eine unbestimmte Anzahl von Situationen bezogenen) Akt, mithin um einen kantonalen Erlass im Sinne von
+Art. 82 lit. b BGG
+.
+
+Die Beschwerdeführer verweisen auf § 55 (recte: § 54 Abs. 1bis Ziff. 1) des Gesetzes über die Verwaltungsrechtspflege des Kantons Thurgau vom 23. Februar 1981 (TG VRG; RB 170.1), wonach die Beschwerde an das kantonale Verwaltungsgericht insbesondere ausgeschlossen ist, wenn das Bundesrecht die direkte Beschwerde an das Bundesgericht zulässt. Gegen die Änderung der TG KVV vom 11. Juni 2024 stand kein kantonales Rechtsmittel zur Verfügung (
+BGE 147 II 300
+E. 1; vgl. auch MARINA SCHÄCHTLE, in: Kommentar zum Gesetz über die Verwaltungsrechtspflege des Kantons Thurgau, 2. Aufl. 2024, N. 12 zu
+§ 54 TG
+VRG). Ebenso fehlt eine Beschwerdemöglichkeit an das Bundesverwaltungsgericht (vgl.
+Art. 53 Abs. 1 KVG
+e contrario;
+BGE 145 V 128
+E. 1). Damit steht direkt der Rechtsweg an das Bundesgericht offen; die Änderung der TG KVV ist ein im Sinne von
+Art. 87 Abs. 1 BGG
+zulässiges Anfechtungsobjekt.
+
+2.2.3.
+
+2.2.3.1.
+Anderseits ist im Verfahren 9C_401/2024 auch der RRB Nr. 495 Anfechtungsobjekt. Dieser wurde zwar u.a. im Amtsblatt des Kantons Thurgau publiziert, aber nicht in die kantonale Rechtssammlung (Thurgauer Rechtsbuch, RB) aufgenommen. Anders als die Beschwerdeführer glauben machen wollen, ist der RRB Nr. 495 nicht generell-abstrakter resp. rechtsetzender Natur und somit kein kantonaler Erlass im Sinne von
+Art. 82 lit. b und
+Art. 87 Abs. 1 BGG
+. Ebenso wenig ist er ein Entscheid mit vorwiegend politischem Charakter (vgl.
+Art. 86 Abs. 3 und
+Art. 88 BGG
+). Vielmehr handelt es sich um einen in Anwendung von kantonalem Recht (insbesondere
+§ 70b TG
+KVV) erlassenen Hoheitsakt des Regierungsrates mit Verfügungscharakter: Der RRB Nr. 495 betrifft (wie aus Ziff. 2 des entsprechenden Protokolls Nr. 495 vom 25. Juni 2024 hervorgeht) den Ausbildungsbedarf der Jahre 2024 und 2025; er richtet sich an einen genau definierten Adressatenkreis. Dass dieser insoweit offen ist, als bei einer künftigen Festlegung des Ausbildungsbedarfs (ab 2026) zu den beim Erlass des RRB Nr. 495 feststehenden Adressaten weitere hinzutreten (vgl. zum offenen Adressatenkreis bei einer Allgemeinverfügung Urteil 1C_109/2022 vom 28. August 2023 E. 4.2) oder einzelne der bisherigen wegfallen können, ändert daran nichts. Der RRB Nr. 495 enthält für jede der in seinem Anhang 1 ("Innerkantonale Listenspitäler"), Anhang 2 ("Organisationen der ambulanten Krankenpflege") oder Anhang 3 ("Pflegeheime Standort Kanton Thurgau") genannten Institutionen die Verpflichtung, ab 1. Juli 2024 für die Ausbildung von diplomierten Pflegefachpersonen eine bestimmte Ausbildungskapazität, ausgedrückt als Anzahl Praktikumswochen pro Jahr, bereitzustellen. Damit wurden individuell-konkrete Verpflichtungen hoheitlich festgelegt.
+
+2.2.3.2.
+Für die Überprüfung des RRB Nr. 495 ist somit - mangels entgegenstehender bundesrechtlicher Regelung - ein kantonales "oberes" Gericht zuständig (vgl.
+Art. 86 Abs. 2 BGG
+sowie
+Art. 29a und 191b BV
+; Urteil 1C_668/2023 vom 22. August 2024 E. 2.1.1, zur Publikation vorgesehen; vgl. auch ESTHER TOPHINKE, in: Basler Kommentar, Bundesgerichtsgesetz, 3. Aufl. 2018, N. 12 ff. zu
+Art. 86 BGG
+). Dementsprechend ist der RRB Nr. 495 mit einer Rechtsmittelbelehrung versehen, in der das Verwaltungsgericht des Kantons Thurgau als Beschwerdeinstanz genannt wird. Auch wenn sich diese Zuständigkeit nicht direkt aus dem Wortlaut von
+§ 54 TG
+VRG ergeben mag, steht sie im Einklang mit den bundesrechtlichen Vorgaben; zudem erkannte auch das Bundesgericht (Urteil 1C_351/2020 vom 18. März 2021 E. 4, nicht publ. in:
+BGE 147 II 300
+), dass für die Überprüfung eines Hoheitsaktes des Regierungsrats des Kantons Thurgau einzig das kantonale Verwaltungsgericht in Frage kommt.
+
+Damit ist der kantonale Instanzenzug hinsichtlich des RRB Nr. 495 nicht ausgeschöpft; dieser ist im bundesgerichtlichen Verfahren kein zulässiges Anfechtungsobjekt. Soweit sich die Beschwerde (im Verfahren 9C_401/2024) dagegen richtet, ist darauf nicht einzutreten. In entsprechendem Umfang ist die Sache in analoger Anwendung von
+Art. 30 Abs. 2 BGG
+zuständigkeitshalber dem Verwaltungsgericht des Kantons Thurgau zu überweisen (vgl. Urteile 1C_668/2023 vom 22. August 2024 E. 2.5, zur Publikation vorgesehen; 1C_351/2020 vom 18. März 2021 E. 4, nicht publ. in:
+BGE 147 II 300
+).
+
+2.2.3.3.
+Soweit der Beschwerdegegner hinsichtlich der Anfechtung des "aufgehobenen" RRB Nr. 495 ein entfallenes Rechtsschutzinteresse resp. Anfechtungsobjekt moniert (und damit sinngemäss die Gegenstandslosigkeit des Verfahrens geltend macht), ist Folgendes zu bedenken: Die Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht ist ein ordentliches, devolutives und grundsätzlich reformatorisches Rechtsmittel (
+BGE 138 II 169
+E. 3.3; Urteile 1C_306/2024 vom 30. Juli 2024 E. 3.2; 9C_481/2021 vom 9. Januar 2023 E. 1.4). Entsprechend verliert die Behörde, die das Anfechtungsobjekt erlassen hat, mit der Erhebung einer formgültigen Beschwerde die Herrschaft über den Streitgegenstand (Devolutiveffekt; vgl.
+BGE 136 V 2
+E. 2.5). Fraglich ist, ob der Devolutiveffekt auch eintritt, wenn die Beschwerde mangels vorgängiger Ausschöpfung des Instanzenzugs unzulässig ist, resp. ob der Regierungsrat seine funktionale Zuständigkeit überschreitet, indem er den RRB Nr. 495 lite pendente zurücknimmt und durch den RRB Nr. 582 "ersetzt" (vgl. zu den Folgen in diesem Fall Urteile 9C_481/2021 vom 9. Januar 2023 E. 1.4; 9C_749/2020 vom 9. Januar 2023 E. 1.3). Wie es sich verhält, kann offenbleiben, da die Beschwerde gegen den RRB Nr. 495 ohnehin unzulässig ist.
+
+2.2.4.
+Die Beschwerde im Verfahren 9C_535/2024 richtet sich (allein) gegen den RRB Nr. 582. Dieser ist ebenfalls kein zulässiges Anfechtungsobjekt, weshalb auf die Beschwerde nicht einzutreten und die Sache ebenfalls dem Verwaltungsgericht des Kantons Thurgau zu überweisen ist.
+
+2.3.
+Die Änderung der TG KVV vom 11. Juni 2024 (als hier allein zulässiges Anfechtungsobjekt) wurde im Amtsblatt des Kantons Thurgau Nr. 24 vom 14. Juni 2024 publiziert. Ab diesem Zeitpunkt begann die 30-tägige Rechtsmittelfrist nach
+Art. 101 BGG
+zu laufen (SVR 2024 KV Nr. 17 S. 76, 9C_481/2023 E. 1.2; Urteil 9C_38/2024 vom 15. Januar 2025 E. 2.2). Somit ist im Verfahren 9C_401/2024 die Beschwerde vom 15. Juli 2024 (Poststempel) fristgerecht erfolgt.
+
+2.4.
+
+2.4.1.
+Gemäss
+Art. 89 Abs. 1 lit. b und lit. c BGG
+ist zur Beschwerde berechtigt, wer durch den angefochtenen Entscheid besonders berührt ist und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat. Zur Anfechtung eines kantonalen Regierungserlasses ist befugt, wer davon aktuell oder virtuell besonders betroffen ist und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat (
+BGE 149 I 81
+E. 4.2 mit Hinweisen). Für das Berührtsein in diesem Sinne genügt es, dass mit einem Minimum an Wahrscheinlichkeit absehbar ist, dass die beschwerdeführende Partei eines Tages von der angefochtenen Regelung unmittelbar betroffen sein wird (vgl.
+BGE 148 I 160
+E. 1.4). Das schutzwürdige Interesse muss nicht rechtlicher Natur sein; vielmehr reicht ein solches faktischer Art. Nicht zulässig ist hingegen ein bloss allgemeines Interesse an einer korrekten Rechtsanwendung (
+BGE 141 I 78
+E. 3 f.; Urteil 9C_38/2024 vom 15. Januar 2025 E. 3.1 mit weiteren Hinweisen).
+
+2.4.2.
+
+2.4.2.1.
+Die Beschwerdeführer legen (im Verfahren 9C_401/2024) insbesondere dar, die mit der Änderung der TG KVV vom 11. Juni 2024 eingeführten Verpflichtungen und Sanktionen hätten zur Folge, dass das Kerngeschäft der Beschwerdeführerin - Erbringung von Grundpflege (im Sinne von
+Art. 7 Abs. 2 lit. c KLV
+[SR SR 832.112.31]) durch bei ihr angestellte Angehörige der pflegebedürftigen Personen ohne pflegerische Fachausbildung (nachfolgend: Angehörigenpflege; vgl.
+BGE 150 V 273
+E. 2.3.2 und 4.3.6;
+145 V 161
+E. 5) - nicht mehr wirtschaftlich betrieben werden könnte und sie liquidiert werden müsste. Von einer Liquidation der Gesellschaft wäre auch der Beschwerdeführer als deren Geschäftsführer und Teilhaber betroffen, zumal er als Privatperson keine ähnliche Spitex-Organisation mehr betreiben könnte.
+
+2.4.2.2.
+Der Regierungsrat wirft in diesem Zusammenhang die Frage auf, ob die Beschwerdeführerin - die nach eigenen Angaben rund 100 pflegende Angehörige und im Umfang von ca. 370 Stellenprozenten diplomiertes Pflegepersonal beschäftigt - die Zulassungsvoraussetzung gemäss
+Art. 51 Abs. 1 lit. c KVV
+(SR 831.102) erfüllt. Er kündigt lediglich eine Überprüfung an und stellt diesbezüglich hier zu Recht keinen Antrag. Er bestreitet damit auch nicht die Beschwerdelegitimation der Beschwerdeführer, weshalb sich diesbezügliche Weiterungen erübrigen.
+
+2.4.2.3.
+Es liegt auf der Hand, dass die Beschwerdeführerin als im Sinne von
+Art. 51 KVV
+zugelassene Spitex-Organisation insoweit durch die Änderung der TG KVV vom 11. Juni 2024 berührt ist und ein schutzwürdiges Interesse an deren Aufhebung hat, als darin neu eine Pflicht zur Bereitstellung von Ausbildungskapazitäten (zwecks Ausbildung von diplomierten Pflegefachpersonen), Kriterien zu deren Bemessung und Sanktionen bei Verletzung der Bereitstellungspflicht (u.a. eine Ersatzabgabe von Fr. 3'600.- pro Praktikumswoche, die unter der festgelegten Ausbildungskapazität liegt) statuiert werden. Das betrifft die neuen §§ 70a bis 70e TG KVV. Insoweit ist die Beschwerdebefugnis der Beschwerdeführerin zu bejahen. Ein schutzwürdiges Interesse an der Aufhebung einer anderen Bestimmung des angefochtenen Erlasses (Änderung der TG KVV vom 11. Juni 2024) wird nicht substanziiert geltend gemacht und ist auch nicht ersichtlich.
+
+Mit der möglichen Liquidierung der Beschwerdeführerin droht dem Beschwerdeführer, der seine Beteiligungsrechte weder substanziiert behauptet noch belegt, zumindest der Verlust seiner Stellung als Geschäftsführer. Damit ist er von den neuen §§ 70a bis 70e TG KVV stärker als ein beliebiger Dritter oder die Allgemeinheit (virtuell) betroffen (vgl. Urteil 1C_556/2023 vom 27. August 2024 E. 4). Folglich ist er ebenfalls - im gleichen Umfang wie die Beschwerdeführerin - zur Beschwerdeerhebung legitimiert.
+
+2.4.3.
+Zum Antrag Ziff. 4 (im Verfahren 9C_401/2024) resp. Ziff. 3 (im Verfahren 9C_535/2024) betreffend die Verpflichtung des Kantons Thurgau und des Regierungsrates des Kantons Thurgau zum Erlass einer bundesrechts- und verfassungsrechtskonformen Regelung fehlt eine Begründung. Ein diesbezügliches schutzwürdiges Interesse der Beschwerdeführerin oder des Beschwerdeführers ist nicht ersichtlich. Abgesehen davon steht es dem Bundesgericht nicht zu, dem kantonalen Gesetz- oder Verordnungsgeber einen derartigen Legiferierungsauftrag zu erteilen (vgl. Urteil P.1459/1987 vom 19. Februar 1988 E. 2c; zum Prinzip der Gewaltenteilung Urteil 9C_465/2023 vom 28. April 2025 E. 6.1 und zur spezifischen Regelung im Kanton Thurgau § 10 der Verfassung des Kantons Thurgau vom 16. März 1987 [TG KV; RB 101]).
+
+2.5.
+Zusammengefasst ergibt sich, dass einzig auf die Beschwerde im Verfahren 9C_401/2024 einzutreten ist, und zwar (nur) soweit, als damit die Aufhebung der am 11. Juni 2024 neu statuierten §§ 70a bis 70e TG KVV beantragt wird.
+
+3.
+
+Mit der Beschwerde in öffentlich-rechtlichen Angelegenheiten kann insbesondere eine Verletzung von Bundesrecht (der Verfassungs-, Gesetzes- oder Verordnungsstufe) gerügt werden (
+Art. 95 lit. a BGG
+; vgl. auch
+Art. 49 Abs. 1 BV
+). Im Rahmen einer abstrakten Normenkontrolle prüft das Bundesgericht die Bundesrechtskonformität des strittigen kantonalen Erlasses grundsätzlich frei. Die Grundrechtskonformität prüft es nur, sofern entsprechende Rügen präzise vorgebracht und begründet werden (vgl.
+Art. 106 Abs. 2 BGG
+;
+BGE 150 II 346
+E. 1.5.3
+;
+148 I 104
+E. 1.5). Bei dieser Prüfung auferlegt sich das Bundesgericht jedoch eine gewisse Zurückhaltung, insbesondere im Hinblick auf die Grundsätze des Föderalismus und der Verhältnismässigkeit. Entscheidend ist, ob der fraglichen Norm nach den anerkannten Auslegungsgrundsätzen eine Bedeutung beigemessen werden kann, die mit den geltend gemachten Bestimmungen des übergeordneten Rechts vereinbar ist (
+BGE 145 I 73
+E. 2). Das Bundesgericht hebt eine kantonale Norm daher nur dann auf, wenn sie sich nicht im Einklang mit der Bundesverfassung oder der EMRK interpretieren lässt (
+BGE 140 V 574
+E. 3). Dabei sind namentlich das Ausmass des Grundrechtseingriffs, die Möglichkeit, später durch eine konkrete Normenkontrolle einen ausreichenden Rechtsschutz zu erlangen, sowie die konkreten Umstände, unter denen die Norm angewendet wird, zu berücksichtigen (
+BGE 144 I 306
+E. 2
+;
+140 I 2
+E. 4).
+
+Das Gericht darf sich nicht auf eine rein abstrakte Behandlung des Problems beschränken, sondern muss bei seiner Analyse auch der Wahrscheinlichkeit einer mit dem übergeordneten Recht übereinstimmenden Anwendung Rechnung tragen. Dabei sind auch die Erläuterungen der kantonalen Behörde, in welcher Weise sie die beanstandete Bestimmung anwendet oder anzuwenden gedenkt, zu beachten. Erscheint eine allgemein gültige Regelung in normalen Situationen, wie sie der Gesetzgeber voraussehen konnte, im Hinblick auf die betreffenden Grundrechte vertretbar, vermag die Möglichkeit, dass ihre Anwendung in Einzelfällen allenfalls gegen Grundrechte verstösst, grundsätzlich kein Eingreifen des Gerichts auf der Stufe der abstrakten Normenkontrolle zu rechtfertigen (vgl.
+BGE 148 I 160
+E. 2
+;
+145 I 73
+E. 2; Urteile 9C_529/2023 vom 24. März 2025 E. 4; 9C_538/2023 vom 16. September 2024 E. 3).
+
+4.
+
+4.1.
+Der Bund erfüllt die Aufgaben, die ihm die Bundesverfassung zuweist (
+Art. 42 Abs. 1 BV
+); die Kantone bestimmen, welche Aufgaben sie im Rahmen ihrer Zuständigkeiten erfüllen (
+Art. 43 BV
+). Unter dem Titel "Pflege" enthält
+Art. 117b BV
+folgende Grundsätze: Bund und Kantone anerkennen und fördern die Pflege als wichtigen Bestandteil der Gesundheitsversorgung und sorgen für eine ausreichende, allen zugängliche Pflege von hoher Qualität (Abs. 1). Sie stellen sicher, dass eine genügende Anzahl diplomierter Pflegefachpersonen für den zunehmenden Bedarf zur Verfügung steht und dass die in der Pflege tätigen Personen entsprechend ihrer Ausbildung und ihren Kompetenzen eingesetzt werden (Abs. 2).
+
+4.2.
+Im Rahmen der Umsetzung von
+Art. 117b BV
+statuiert das FAPG unter dem Titel "Förderung der Leistungen der Akteure im Bereich der praktischen Ausbildung von Pflegefachpersonen" insbesondere Folgendes: Die Kantone legen den Bedarf an Plätzen für die praktische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann HF und zur Pflegefachfrau oder zum Pflegefachmann FH (Pflegefachperson) fest. Sie berücksichtigen dabei die vorhandenen Bildungs- und Studienplätze sowie die kantonale Versorgungsplanung (Art. 2 FAPG). Die Kantone legen die Kriterien fest für die Berechnung der Ausbildungskapazitäten von Organisationen, die Pflegefachpersonen beschäftigen, von Spitälern und von Pflegeheimen (Akteure im Bereich der praktischen Ausbildung von Pflegefachpersonen). Kriterien sind insbesondere die Anzahl Angestellte, die Struktur und das Leistungsangebot (Art. 3 FAPG).
+
+4.3.
+Auf kantonaler Ebene finden sich in
+§ 22a TG
+KVG folgende Bestimmungen zur "Nicht universitären Aus- und Weiterbildung": Eine Organisation der ambulanten Pflege (Spitex) mit Zulassung zur Obligatorischen Krankenpflegeversicherung (OKP) hat eine im Verhältnis zur Betriebsgrösse und zum kantonalen Bedarf angemessene Zahl von Fachpersonen in den Berufen des Gesundheitswesens auszubilden (Abs. 1). Kommt eine zugelassene Organisation der ambulanten Pflege ihren Verpflichtungen nicht nach, wird eine Ersatzabgabe von maximal 150 % der durchschnittlichen Kosten von Aus- und Weiterbildungsstellen erhoben (Abs. 2). Die Ersatzabgaben werden für die Förderung der Aus- und Weiterbildung von Fachpersonen in den Berufen des Gesundheitswesens verwendet (Abs. 3). Der Regierungsrat regelt die Einzelheiten (Abs. 4). Analoge Regelungen für Pflegeheime resp. Spitäler finden sich in §§ 15a resp. 38 TG KVG.
+
+4.4.
+Die in diesem Zusammenhang durch den Regierungsrat erlassenen und hier interessierenden Bestimmungen der TG KVV (vgl. vorangehende E. 2.5) lauten wie folgt: Der Regierungsrat legt den Aus- und Weiterbildungsbedarf fest für diejenigen Leistungserbringer der kantonalen Spitalliste, der Pflegeheimliste und der Organisationen der Krankenpflege und Hilfe zu Hause, die zulasten der OKP tätig sein dürfen. Der Bedarf wird differenziert nach Gesundheitsberuf und Versorgungsbereich. Berechnungsgrundlagen für den Bedarf sind die Statistiken des Bundesamtes für Statistik der Vorjahre, die Bedarfsplanung des Schweizerischen Gesundheitsobservatoriums (Obsan) und die Planungen für den Kanton Thurgau (
+§ 70a Abs. 1-3 TG
+KVV). Der Regierungsrat legt die Ausbildungskapazitäten für jeden Leistungserbringer fest. Die Ausbildungskapazitäten werden differenziert nach Gesundheitsberufen und Versorgungsbereichen. Die Leistungserbringer bilden die Fachpersonen gemäss der ihnen zugewiesenen Ausbildungskapazität aus. Sie können zu diesem Zweck Ausbildungskooperationen bilden (
+§ 70b Abs. 1-3 TG
+KVV). Der Regierungsrat legt die Ausbildungskapazitäten für die Versorgungsbereiche Akutsomatik, Psychiatrie, Rehabilitation, stationäre Langzeitpflege und ambulante Langzeitpflege des entsprechenden Gesundheitsberufes fest. Die Ausbildungskapazitäten werden für jeden Gesundheitsberuf aufgrund des Bedarfs festgelegt. Zusätzlich zum Bedarf können insbesondere folgende Kriterien berücksichtigt werden: (1) Anteil der bestehenden Vollzeitäquivalente, (2) Anteil der vollständig ausserkantonal aus- und weitergebildeten Fachpersonen, (3) Anteil der aus dem Ausland rekrutierten aus- und weitergebildeten Fachpersonen, (4) Aufbau von Strukturen zur Ausbildung. Innerhalb der Versorgungsbereiche werden die Ausbildungskapazitäten je Gesundheitsberuf auf die Leistungserbringer aufgeteilt. Dies erfolgt je nach Leistungsbereich insbesondere unter Berücksichtigung der Vollzeitäquivalente, der Betten gemäss Betriebsbewilligung oder der zulasten der Sozialversicherungen verrechneten Leistungen (
+§ 70c Abs. 1-4 TG
+KVV). Erreicht ein Leistungserbringer die festgelegte Ausbildungskapazität nicht, muss er dem Amt für Gesundheit Massnahmen zur Erreichung der Kapazität unterbreiten. Das Amt für Gesundheit kann zusätzliche Massnahmen zulasten des Leistungserbringers anordnen. Die Pflicht zur Leistung der Ersatzabgabe gemäss
+§ 15a,
+§ 22a und
+§ 38 TG
+KVG ist davon unberührt (
+§ 70d Abs. 1-3 TG
+KVV). Die Ersatzabgabe pro Praktikumswoche, die unter der festgelegten Ausbildungskapazität liegt, beträgt Fr. 3'600.- für den Beruf Pflegefachmann und Pflegefachfrau. Die Abrechnungsperiode entspricht dem Kalenderjahr (
+§ 70e Abs. 1-2 TG
+KVV).
+
+5.
+
+5.1.
+Die Beschwerdeführer machen im Wesentlichen geltend, eine Ausbildungsverpflichtung und eine Ersatzpflicht bei deren Nichterfüllung (wie sie
+§
+§ 70b und 70e TG
+KVV statuieren) sei weder in
+Art. 117b BV
+noch im FAPG vorgesehen. Für die - weit über diese verfassungs- und bundesrechtlichen Vorgaben und die damit den Kantonen übertragenen Kompetenzen hinausgehenden - kantonalen Regelungen fehle eine gesetzliche Grundlage. Zudem würden die Institutsgarantie als Teilgehalt der Eigentumsgarantie (
+Art. 26 BV
+) und die Wirtschaftsfreiheit (
+Art. 27 BV
+) verletzt, weil die Ausbildungs- und Ersatzabgabepflicht die Führung einer Spitex-Organisation mit dem "Kerngeschäft" der Angehörigenpflege faktisch verunmögliche. Für einen solchen schweren Grundrechtseingriff genüge
+§ 22a TG
+KVG nicht als klare und eindeutige formellgesetzliche Grundlage. Die umstrittenen Verpflichtungen würden das öffentliche Interesse an einer ausreichenden und qualitativ hochstehenden Pflegeversorgung nicht gewährleisten, sondern diesem entgegenlaufen, weil sie die Angehörigenpflege erschwerten. Sie seien auch unverhältnismässig, insbesondere weil sie grundsätzlich nicht geeignet seien, Betriebe zur Bereitstellung zusätzlicher Ausbildungsplätze zu bringen, und weil es einer auf Angehörigenpflege spezialisierten Organisation gar nicht möglich sei, die Ausbildungsverpflichtung zu erfüllen.
+
+In
+§ 70c Abs. 4 TG
+KVV werde für die Aufteilung von Ausbildungskapazitäten unter Spitex-Organisationen nur ein einziges Kriterium - die zulasten der Sozialversicherungen verrechneten Leistungen - genannt. Das stehe im Widerspruch zu Art. 3 FAPG, wonach die Anzahl Angestellte, die Struktur und das Leistungsangebot massgeblich seien. Schon deshalb sei die kantonale Regelung, insbesondere jene von
+§ 70c Abs. 2-4 TG
+KVV, bundesrechtswidrig. Das Kriterium der verrechneten Leistungen führe zu einer übermässigen Belastung der auf Angehörigenpflege spezialisierten Spitex-Organisationen mit einem geringen Anteil an Pflegefachpersonen und durch diese erbrachten Leistungen. Die Nichtberücksichtigung der Besonderheiten von Struktur und Leistungsangebot verletze nicht nur Art. 3 FAPG, sondern auch das Willkürverbot und den Gleichbehandlungsgrundsatz. Für die Ermittlung der Ausbildungskapazitäten dürften nur die von ausgebildeten Pflegefachpersonen erbrachten KVG-Leistungen berücksichtigt werden.
+
+Sodann sei die Ersatzabgabe pro Praktikumswoche von Fr. 3'600.- absolut überhöht, wie sich im Vergleich mit den Regelungen der Kantone St. Gallen, Zürich oder Uri zeige. Aus den Überlegungen des Regierungsrates im Protokoll Nr. 427 vom 11. Juni 2024 werde nicht ersichtlich, weshalb die Ausbildungskosten im Kanton Thurgau derart viel höher sein sollen; es entstehe der Eindruck, dass Kosten "ausserhalb" des Praktikums mitberücksichtigt worden seien, was das Verhältnismässigkeits- und Verursacherprinzip verletze. Ohne jegliche Begründung sei eine schrittweise Erhöhung der Ersatzabgabe auf 150 % ab 2028 in Aussicht gestellt worden, was unverhältnismässig sei. Zudem sei willkürlich unberücksichtigt geblieben, dass die Auszubildenden verrechenbare Leistungen erbrächten, wodurch die Ausbildungskosten reduziert würden.
+
+5.2.
+Die hier interessierenden Bestimmungen der §§ 70a bis 70e TG KVV betreffen die Bereitstellung von Praktikumsplätzen für nicht universitäre Aus- und Weiterbildungen sowie eine allfällige Ersatzabgabe. Damit stehen sie in direktem Zusammenhang mit der Ausbildung von Pflegepersonal an einer Höheren Fachschule (HF) oder Fachhochschule (FH), mithin auf Tertiärstufe. Für die Regelung solcher Aus- und Weiterbildungen sind grundsätzlich die Kantone zuständig (vgl. Art. 42 und 43 sowie
+Art. 63a ff. BV
+). Weder
+Art. 66 BV
+(betreffend Ausbildungsbeiträge des Bundes an die Kantone) noch
+Art. 117b BV
+(betreffend Pflege) beschneidet die diesbezügliche Zuständigkeit der Kantone. Gleiches gilt hinsichtlich der Sicherstellung der medizinischen Grundversorgung und der Regelung betreffend die für Spitex-Organisationen notwendigen Leistungsaufträge und Zulassungen (vgl.
+Art. 117a BV
+,
+Art. 36a Abs. 3 KVG
+,
+Art. 51 KVV
+). Soweit die Beschwerdeführer die kantonale Legiferierungskompetenz bezüglich einer Ausbildungsverpflichtung und entsprechender Sanktionierungsmöglichkeiten grundsätzlich in Abrede stellen, kann ihnen nicht beigepflichtet werden.
+
+5.3.
+Nach Art. 3 Satz 1 FAPG legen die Kantone Kriterien für die Berechnung der Ausbildungskapazitäten (resp. der entsprechenden Verpflichtungen) fest ("les cantons fixent"; "i Cantoni stabiliscono"). Art. 3 Satz 2 FAPG nennt als Kriterien "insbesondere" ("notamment"; "in particolare") die Anzahl Angestellte, die Struktur und das Leistungsangebot. Aus diesem Wortlaut (zu dessen Bedeutung für die Auslegung vgl. Urteil 9C_41/2024 vom 26. März 2025 E. 6.1, zur Publikation vorgesehen;
+BGE 150 I 195
+E. 5.1;
+150 II 489
+E. 3.2) ergibt sich, dass Satz 2 der Bestimmung zumindest eine beispielhafte Aufzählung möglicher Kriterien enthält. Ob es sich dabei um eine verbindliche Mindestvorgabe handelt, kann offenbleiben. In Konkretisierung von
+§ 22a TG
+KVG (zum Regelungsinhalt vgl. vorangehende E. 4.3 und nachfolgende E. 5.4.2) werden in
+§ 70c TG
+KVV als Kriterien insbesondere verschiedene Ausbildungsbereiche, Gesundheitsberufe, Vollzeitäquivalente und Ausbildungsstand genannt, was grundsätzlich im Einklang mit Art. 3 FAPG steht.
+§ 70c Abs. 4 TG
+KVV enthält Vorgaben zur Aufteilung der gesamten notwendigen Ausbildungskapazitäten innerhalb der Versorgungsbereiche auf die einzelnen Leistungserbringer. Diese Bestimmung belässt - etwa durch die Verwendung des Begriffs "insbesondere" - Raum für die Berücksichtigung weiterer Kriterien als der darin explizit genannten (Vollzeitäquivalente, Betten, zulasten der Sozialversicherungen verrechnete Leistungen). Sodann lässt sich (ohne dass hier darüber zu befinden ist), das Kriterium der "zulasten der Sozialversicherungen verrechneten Leistungen" - wie von den Beschwerdeführern verlangt - grundsätzlich auch in dem Sinne auslegen, als darunter nur verrechnete Leistungen verstanden werden, die von Personen mit pflegerischer Fachausbildung erbracht wurden. Eine bundesrechtskonforme Auslegung von
+§ 70c TG
+KVV und insbesondere dessen Abs. 4 ist somit nicht ausgeschlossen. Die Anwendung der Bestimmung auf einen bestimmten Einzelfall steht hier nicht zur Diskussion.
+
+5.4.
+
+5.4.1.
+Soweit in der Ausbildungsverpflichtung und der Sanktionierung bei Nichterfüllung durch eine Ersatzabgabepflicht gemäss TG KVV eine Grundrechtseinschränkung resp. ein Verstoss gegen die Eigentumsgarantie oder die Wirtschaftsfreiheit liegt, fragt sich, ob die umstrittenen Massnahmen grundrechtskonform im Sinne von
+Art. 36 BV
+(vgl.
+BGE 151 I 3
+E. 7; Urteil 2C_113/2024 vom 3. Dezember 2024 E. 4.2, zur Publikation vorgesehen) sind.
+
+5.4.2.
+Anders als die Beschwerdeführer glauben machen wollen, fehlt es bezüglich Ausbildungskapazität und Ersatzabgabe nicht an gesetzlichen Voraussetzungen und Kriterien: In
+§ 22a TG
+KVG werden - in Ergänzung zu den
+§
+§ 15a und 38 TG
+KVG - der Kreis der Betroffenen (Spitex-Organisationen mit Zulassung zur OKP), die Grundzüge des Umfangs der Ausbildungsverpflichtung (im Verhältnis zur Betriebsgrösse und zum kantonalen Bedarf an Pflegefachpersonen) und jene der Ersatzabgabepflicht (maximal 150 % der durchschnittlichen Kosten der nicht bereitgestellten Aus- und Weiterbildungsstellen) geregelt. Dass diese formellgesetzliche Grundlage (vgl.
+Art. 36 Abs. 1 BV
+) nicht hinreichend bestimmt sein soll, machen die Beschwerdeführer weder in genereller Hinsicht noch mit Blick auf ihre spezifische Organisationsstruktur resp. auf Spitex-Organisationen mit dem "Kerngeschäft" der Angehörigenpflege substanziiert geltend. Diesbezüglich genügt es nicht, nur einen "ganz wesentlichen" resp. "schwerwiegenden" oder "schweren" Grundrechtseingriff zu behaupten. Soweit die Beschwerdeführer - ohnehin eher beiläufig - (sinngemäss) geltend machen, die einschlägige Regelung im TG KVG sei bundesrechtswidrig, ist darauf nicht weiter einzugehen (vgl.
+Art. 101 BGG
+; vgl. auch
+BGE 137 I 107
+E. 1.4.2).
+
+5.4.3.
+Ein zulässiges öffentliches Interesse (vgl.
+Art. 36 Abs. 2 BV
+) bestreiten die Beschwerdeführer insoweit, als die einschlägigen Bestimmungen der TG KVV auch auf spezifisch organisierte (d.h. auf Angehörigenpflege ausgerichtete) Spitex-Organisationen Anwendung finden sollen. Damit monieren sie, dass die Auslegung und Anwendung der Vorgaben, wenn sie auf eine bestimmte Art und Weise erfolgen, in Einzelfällen zur Einschränkung des Pflegeangebots führen kann. Mit der gleichen Argumentation sehen sie einzelfallweise den Kerngehalt (vgl.
+Art. 36 Abs. 4 BV
+) der Institutsgarantie verletzt. Dass die fraglichen Massnahmen nicht wirtschafts-, sondern sozial- und gesundheitspolitisch motiviert und grundsätzlich durch das öffentliche Interesse an einer ausreichenden und qualitativ hochstehenden Pflegeversorgung gerechtfertigt sind sowie grundsätzlich den Kerngehalt der Eigentumsgarantie unangetastet lassen, stellen sie (zu Recht) nicht in Abrede. Auch wenn die strittigen Pflichten für Spitex-Organisationen mit einer Organisationsstruktur, wie sie die Beschwerdeführerin gewählt hat, eine unter Umständen existenzgefährdende Belastung bedeuten können, wird mit der Ausbildungsverpflichtung und einer allfälligen Ersatzabgabe ein wichtiger Beitrag zur Sicherstellung einer genügenden Anzahl Fachkräfte im Pflegebereich geleistet. Demnach überwiegt das grosse öffentliche Interesse an der Behebung des Mangels an Pflegepersonal das private Interesse der Beschwerdeführer an der wirtschaftlichen Tätigkeit im Rahmen einer bestimmten Organisationsstruktur. Dass eine solche unter Umständen nicht mehr frei gewählt werden kann resp. nicht in jedem Fall mit den hier interessierenden rechtlichen Vorgaben vereinbar ist (vgl. dazu nachfolgende E. 5.4.4.3), ist ausserdem kein Eingriff in das Institut des Eigentums; der Kerngehalt der Eigentumsgarantie bleibt auch mit den Bestimmungen der TG KVV betreffend Ausbildungspflicht und Ersatzabgabe gewahrt.
+
+5.4.4.
+
+5.4.4.1.
+Was die Verhältnismässigkeit anbelangt (vgl.
+Art. 36 Abs. 3 BV
+;
+BGE 147 I 450
+E. 3.2.3), so leuchtet nicht ein, weshalb die Einführung einer Ausbildungsverpflichtung samt Sanktionierungsmöglichkeit nicht geeignet sein soll, zusätzliche resp. genügend Ausbildungsplätze für Pflegefachpersonen zu generieren.
+
+5.4.4.2.
+Dass angesichts des (unbestrittenen) grossen Bedarfs an Ausbildungsplätzen für die Sicherstellung der Pflegeversorgung blosse finanzielle Anreize (vgl. Art. 5 FAPG;
+§ 70f TG
+KVV) genügen und die fraglichen Massnahmen gar nicht erforderlich sein sollen, wird lediglich pauschal behauptet, aber nicht substanziiert begründet. Der Bundesrat ging denn auch in der Botschaft über die Förderung der Ausbildung im Bereich der Pflege vom 25. Mai 2022 davon aus, dass Kantone resp. Gemeinden, die noch keine Ausbildungsverpflichtungen für alle Spitäler, Pflegeheime und Spitex-Organisationen statuiert hatten, solche Verpflichtungen spätestens mit Erlass des FAPG einführen müssten (BBl 2022 1498 Ziff. 4.3.1 und 6.2.1). Insbesondere unterstell (t) en die Kantone St. Gallen, Zürich und Uri, indem sie entsprechende (in der Beschwerde wiedergegebene) Regelungen erliessen, die Erforderlichkeit einer Ersatzabgabe.
+
+5.4.4.3.
+Eine Unverhältnismässigkeit (resp. Willkür und Ungleichbehandlung) erblicken die Beschwerdeführer einerseits im Umstand, dass sich der Umfang der Ausbildungsverpflichtung auch für spezifisch organisierte Spitex-Organisationen (laut
+§ 70c Abs. 4 TG
+KVV) allein aus dem Umfang der zulasten der Sozialversicherer verrechneten Leistungen ergeben soll. Diesbezüglich gilt es in der Tat zu bedenken, dass Grundpflege im Sinne von
+Art. 7 Abs. 2 lit. c KLV
+auch dann zulasten der Krankenversicherer verrechnet werden darf, wenn sie durch Angehörige ohne pflegerische Fachausbildung, mithin durch Laien ausgeführt wird (vgl. vorangehende E. 2.4.2.1). Dabei ist fraglich, ob resp. inwieweit überhaupt eine Ausbildung zur Pflegefachperson HF oder FH zu bewerkstelligen ist, wenn der Praktikumsbetrieb hauptsächlich auf solche "Laien-Leistungen" ausgerichtet ist und nur in geringem Ausmass Leistungen - im Wesentlichen Massnahmen der Abklärung, Beratung und Koordination (
+Art. 7 Abs. 2 lit. a KLV
+) resp. der Untersuchung und der Behandlung (
+Art. 7 Abs. 2 lit. b KLV
+) - durch ausgebildetes Pflegepersonal vornehmen lässt. Wie es sich verhält, braucht hier nicht entschieden zu werden. Immerhin besteht die Möglichkeit, entsprechenden Gegebenheiten bei der Auslegung von
+§ 70c Abs. 4 TG
+KVV Rechnung zu tragen (vgl. vorangehende E. 5.3). Schliesslich blenden die Beschwerdeführer aus, dass die betroffenen Leistungserbringer Ausbildungskooperationen eingehen und auf diese Weise grundsätzlich wohl selbst mit dem spezifischen Geschäftsmodell der Beschwerdeführerin die Ausbildungspflicht erfüllen können.
+
+Soweit die Beschwerdeführer - anderseits - die in
+§ 70e TG
+KVV festgelegte Höhe der Ersatzabgabe als unverhältnismässig bezeichnen, erwähnen sie entsprechende Ausführungen des Regierungsrates im Protokoll Nr. 427 vom 11. Juni 2024, ohne darauf näher einzugehen. Sie verweisen auf einzelne Regelungen anderer Kantone, aus denen die Vergleichbarkeit mit der hier interessierenden kantonalen Regelung nicht ohne Weiteres hervorgeht. Davon abgesehen lassen weder Unterschiede zu anderen kantonalen Regelungen noch die behauptete fehlende Einrechnung verrechenbarer Leistungen in die vom Regierungsrat angenommenen Ausbildungskosten per se hinsichtlich der Ersatzabgabe (die für die Förderung der Aus- und Weiterbildung von Pflegefachpersonen verwendet wird) auf eine unvernünftige Zweck-Mittel-Relation resp. auf Unzumutbarkeit schliessen. Ob die vom Regierungsrat angekündigte, aber noch nicht beschlossene schrittweise Anhebung der Ersatzabgabe (un) verhältnismässig ist, ist hier nicht von Belang. Zwar ist den Beschwerdeführern insoweit beizupflichten, als die Ersatzgabe gemäss
+§ 70e Abs. 1 TG
+KVV (die sich laut
+§ 22a Abs. 2 TG
+KVG an den durchschnittlichen Kosten von Aus- und Weiterbildungsstellen orientiert) prima vista - jedenfalls angesichts der in
+§ 70f Abs. 1 TG
+KVV festgelegten Höhe der kantonalen Beiträge an die praktische Ausbildung (die sich laut Art. 5 FAPG nach den durchschnittlichen ungedeckten Ausbildungskosten richtet) - als hoch erscheint. Weiterungen in diesem Zusammenhang erübrigen sich indessen sowohl hinsichtlich der Vereinbarkeit mit kantonalem Gesetzesrecht (mangels Zulässigkeit einer solchen Rüge, vgl.
+Art. 95 BGG
+e contrario) als auch bezüglich der Verhältnismässigkeit (mangels hinreichend substanziierter Ausführungen).
+
+5.5.
+Zusammengefasst ergibt sich Folgendes: Soweit die neu statuierten §§ 70a bis 70e TG KVV Grundrechtseinschränkungen beinhalten, sind diese im Sinne von
+Art. 36 BV
+zulässig resp. ist deren grundsätzliche Unzulässigkeit nicht dargetan. Eine andere Bundesrechtswidrigkeit dieser Bestimmungen ist auch nicht ersichtlich. Damit besteht kein Anlass zur Aufhebung der §§ 70a bis 70e TG KVV im Rahmen der abstrakten Normenkontrolle (vgl. vorangehende E. 3). Die Beschwerde im Verfahren 9C_401/2024 (soweit zulässig) ist unbegründet.
+
+6.
+
+Für das Verfahren 9C_401/2024 haben die Beschwerdeführer ausgangsgemäss die Gerichtskosten unter solidarischer Haftung zu tragen (
+Art. 66 Abs. 1 und 5 BGG
+). Der Beschwerdegegner hat keinen Anspruch auf Parteientschädigung (
+Art. 68 Abs. 3 BGG
+). Für das Verfahren 9C_535/2024 ist zu berücksichtigen, dass unnötige Kosten zu bezahlen hat, wer sie verursacht (
+Art. 66 Abs. 3 und
+Art. 68 Abs. 4 BGG
+). Diesbezüglich kann zwar umständehalber auf die Erhebung von Gerichtskosten verzichtet werden (
+Art. 66 Abs. 1 Satz 2 BGG
+); indessen hat der Beschwerdegegner die Beschwerdeführer für die entsprechenden Parteikosten zu entschädigen.
+
+Demnach erkennt das Bundesgericht:
+
+1.
+
+Die Verfahren 9C_401/2024 und 9C_535/2024 werden vereinigt.
+
+2.
+
+Die Beschwerde im Verfahren 9C_401/2024 wird abgewiesen, soweit darauf eingetreten wird.
+
+3.
+
+Auf die Beschwerde im Verfahren 9C_535/2024 wird nicht eingetreten.
+
+4.
+
+Die Angelegenheit wird betreffend die Beschlüsse des Regierungsrates des Kantons Thurgau vom 25. Juni 2024 (RRB Nr. 495) und vom 27. August 2024 (RRB Nr. 582) zuständigkeitshalber dem Verwaltungsgericht des Kantons Thurgau überwiesen.
+
+5.
+
+Die Gerichtskosten von insgesamt Fr. 3'000.- werden den Beschwerdeführern (unter solidarischer Haftung) auferlegt.
+
+6.
+
+Der Beschwerdegegner hat die Beschwerdeführer für das bundesgerichtliche Verfahren mit insgesamt Fr. 1'000.- zu entschädigen.
+
+7.
+
+Dieses Urteil wird den Parteien, dem Verwaltungsgericht des Kantons Thurgau und dem Bundesamt für Gesundheit schriftlich mitgeteilt.
+
+Luzern, 4. Juni 2025
+
+Im Namen der III. öffentlich-rechtlichen Abteilung
+
+des Schweizerischen Bundesgerichts
+
+Die Präsidentin: Moser-Szeless
+
+Die Gerichtsschreiberin: Dormann

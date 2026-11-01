@@ -16,6 +16,12 @@ Herausgeberin: **We Technology**, Trägerin der App We+ (weplus.care). Kontakt f
 | [`versorgung-heute/`](versorgung-heute/) | Wer versorgt Menschen ab 65 | 518'000 Menschen ab 65 mit Pflege oder Hilfe, bei zwei Dritteln sind Angehörige beteiligt. | Obsan 09/2025, BFS SGB 2022, BFS-Bevölkerung 2024 |
 | [`pflegezeit/`](pflegezeit/) | Pflegezeit 2024 | 126 Millionen Stunden unbezahlte Pflege von Erwachsenen pro Jahr, gegenüber rund 1 Million bezahlten Stunden. | BFS SAKE, Modul Unbezahlte Arbeit 2024 |
 
+## Rechtsprechung
+
+| Ordner | Inhalt | Kernaussage | Quellen |
+|---|---|---|---|
+| [`krankenkassen-vor-gericht/`](krankenkassen-vor-gericht/) | Krankenkassen gegen pflegende Angehörige vor Gericht: 66 Entscheide 2017–2026, doppelt kodiert, mit Urteilstexten und Prüfskripten | In 32 Verfahren kürzten Krankenkassen die Grundpflege durch angestellte Angehörige mit Hinweis auf eine Pflicht der Familie; in 30 davon schützte kein Gericht die Kürzung aus diesem Grund, meist ging der Fall an die Kasse zurück. | Bundesgericht und kantonale Gerichte (opencaselaw.ch, entscheidsuche.ch, Gerichtsportale) |
+
 Jeder Ordner enthält eine `README.md` mit Quellen, Abfragen, Formeln, Ergebnistabellen und Lesehinweisen, die Rohdaten (CSV, wo möglich die unveränderte Antwort der BFS-Schnittstelle unter `raw/`) sowie die Grafiken in `grafik/` als SVG und PNG, je in der Markenversion und in einer schlichten Dokumentversion (`-schlicht`).
 
 ## Lesehinweise

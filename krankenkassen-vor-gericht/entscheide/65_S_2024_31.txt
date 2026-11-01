@@ -1,0 +1,767 @@
+VERWALTUNGSGERICHT DES KANTONS ZUG
+SOZIALVERSICHERUNGSRECHTLICHE KAMMER
+Mitwirkende Richter: lic. iur. Adrian Willimann, Vorsitz
+lic. iur. Sarah Schneider und lic. iur. Judith Fischer
+Gerichtsschreiberin: MLaw Andrea Henggeler
+U R T E I L vom 14. Juli 2026
+[rechtskräftig]
+gemäss § 29 der Geschäftsordnung
+in Sachen
+A.________
+Beschwerdeführerin
+gesetzlich vertreten durch ihre Eltern B.________
+diese vertreten durch Prof. Dr. iur. Hardy Landolt LL.M., PflegeRechtsAnwalt
+GmbH, Schweizerhofstrasse 14, Postfach 1608, 8750 Glarus
+gegen
+SWICA Krankenversicherung AG, Römerstrasse 38, 8401 Winterthur
+Beschwerdegegnerin
+betreffend
+Krankenversicherung
+(Leistungen)
+S 2024 31
+
+2
+Urteil S 2024 31
+A.
+Die 2012 geborene A.________ leidet seit ihrer Geburt an diversen physischen
+sowie psychischen Beeinträchtigungen. Die Versicherte ist im Rollstuhl mobil, wobei sie
+nicht frei sitzen kann. Sie wird mehrheitlich mittels PEG-Sonde ernährt und erhält jeden
+zweiten Tag einen Einlauf. Die Fähigkeit, ihren Willen in Worten auszudrücken, ist nicht
+vorhanden, es liegt vielmehr eine globale Entwicklungsstörung vor. Erst 2022 wurde der
+Versicherten die Diagnose KINSSHIP-Syndrom gestellt. Aufgrund dieser Begebenheiten
+ist die Versicherte hilfs-, pflege- und überwachungsbedürftig. Tagsüber besucht sie das
+C.________, wo sie auch zwei Nächte pro Woche übernachtet. Die grundpflegerischen
+Leistungen werden jedoch vorwiegend von ihrer Mutter als Angestellte der D.________
+GmbH erbracht (vgl. SWICA-act. 1, Verlaufsbericht S. 4; act. 1 Rz. 5). Die SWICA Kran-
+kenversicherung AG (nachfolgend SWICA) vergütet die entsprechenden Spitexleistungen
+der Mutter nach KVG.
+Anlässlich der Prüfung des Leistungsanspruches infolge der neu eingereichten Bedarfs-
+meldung ab dem 1. April 2023 teilte die SWICA der D.________ GmbH resp. der Versi-
+cherten am 9. und 13. Juni 2023 mit, dass für den Zeitraum vom 17. bis 27. April 2023
+keine Spitexleistungen aus der obligatorischen Krankenpflegeversicherung (OKP) über-
+nommen werden könnten, da die Versicherte mit ihrer Familie im Ausland in den Ferien
+gewesen sei und lediglich Notfallbehandlungen im Ausland gemäss Art. 36 Abs. 2 KVV
+übernommen würden (SWICA-act. 2–4). Mit Schreiben vom 15. Juni 2023 führte der
+Rechtsvertreter der Versicherten resp. der D.________ GmbH aus, dass die Verweige-
+rung der Leistungsübernahme während der Ferienzeit einer faktischen Grundrechtsverlet-
+zung gleichkomme. Die SWICA wurde gebeten, ihren Entscheid nochmals zu überdenken,
+andernfalls eine anfechtbare Verfügung zu erlassen (SWICA-act. 6). Mit Verfügung vom
+7. Juli 2023 lehnte die SWICA die Kostenübernahme während des ferienbedingten Aus-
+landaufenthaltes ab (SWICA-act. 9). Die dagegen erhobene Einsprache (SWICA-act. 10)
+wies die SWICA mit Einspracheentscheid vom 14. Februar 2024 ab (SWICA-act. 13).
+B.
+Am 14. März 2024 liess A.________ Verwaltungsgerichtsbeschwerde erheben
+und beantragen, es sei der Einspracheentscheid vom 14. Februar 2024 aufzuheben und
+die Angelegenheit im Sinne der Erwägungen an die Vorinstanz zurückzuweisen; alles un-
+ter Kosten- und Entschädigungsfolge zu Lasten der Beschwerdegegnerin (act. 1).
+C.
+Die SWICA beantragte vernehmlassend die Abweisung der Beschwerde (act. 4).
+
+3
+Urteil S 2024 31
+Das Verwaltungsgericht erwägt:
+1.
+Gemäss Art. 56 Abs. 1 des Bundesgesetzes über den Allgemeinen Teil des Sozia-
+lversicherungsrechts (ATSG; SR 830.1) kann gegen Einspracheentscheide oder Verfü-
+gungen, gegen welche eine Einsprache ausgeschlossen ist, Beschwerde erhoben werden,
+wobei in der Regel das Versicherungsgericht desjenigen Kantons zuständig ist, in dem die
+versicherte Person zur Zeit der Beschwerdeerhebung Wohnsitz hat (Art. 58 Abs. 1 ATSG).
+Die Beschwerdefrist beträgt 30 Tage (Art. 60 Abs. 1 ATSG). Im Kanton Zug beurteilt das
+Verwaltungsgericht als einzige kantonale Instanz Beschwerden aus dem Gebiet der eid-
+genössischen Sozialversicherung, für die das Bundesrecht eine kantonale Rechtsmittel-
+instanz vorsieht (§ 77 des Gesetzes über den Rechtsschutz in Verwaltungssachen [Ver-
+waltungsrechtspflegegesetzes, VRG; BGS 162.1]). Die Beschwerdeführerin hat Wohnsitz
+in E.________, ZG. Somit ist das Verwaltungsgericht des Kantons Zug für die Beurteilung
+der vorliegenden Beschwerde sowohl sachlich als auch örtlich zuständig. Die Beschwerde
+gegen den Einspracheentscheid vom 14. Februar 2024 wurde am 14. März 2024 der
+Schweizerischen Post übergeben und somit rechtzeitig eingereicht (Art. 60 Abs. 1 ATSG).
+Die Beschwerdeführerin ist durch die Nichtübernahme von Spitexleistungen im Ausland di-
+rekt betroffen und somit zur Beschwerde legitimiert. Die Beschwerdeschrift enthält sodann
+einen verständlichen Antrag und eine entsprechende Begründung. Auf die Beschwerde ist
+folglich einzutreten. Die Beurteilung erfolgt auf dem Zirkulationsweg gemäss § 29 der Ge-
+schäftsordnung des Verwaltungsgerichts (GO VG; BGS 162.22).
+2.
+2.1
+Nach Art. 24 Abs. 1 des Bundesgesetzes über die Krankenversicherung (KVG;
+SR 832.10) übernimmt die obligatorische Krankenpflegeversicherung die Kosten für die
+Leistungen gemäss Art. 25–31 KVG und berücksichtigt dabei die Voraussetzungen
+gemäss Art. 32–34 KVG. Sie leistet gemäss Art. 25a Abs. 1 KVG einen Beitrag an die
+Pflegeleistungen, welche aufgrund einer ärztlichen Anordnung und eines ausgewiesenen
+Pflegebedarfs ambulant, auch in Tages- oder Nachtstrukturen, oder im Pflegeheim er-
+bracht werden. Der Bundesrat bezeichnet die Pflegeleistungen und setzt die Beiträge dif-
+ferenziert nach dem Pflegebedarf in Franken fest (Art. 25a Abs. 3 erster Halbsatz und
+Abs. 4 Satz 1 KVG). Er hat diese Aufgaben in Art. 33 lit. b und i der Verordnung über die
+Krankenversicherung (KVV; SR 832.102) an das zuständige Departement delegiert, wel-
+ches die entsprechende Regelung in der Verordnung des EDI über Leistungen in der obli-
+
+4
+Urteil S 2024 31
+gatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV;
+SR 832.112.31) vorgenommen hat.
+2.2
+Als Leistungen nach Art. 33 lit. b KVV gelten gemäss Art. 7 Abs. 1 KLV Untersu-
+chungen, Behandlungen und Pflegemassnahmen, die aufgrund der Bedarfsabklärung
+(Art. 7 Abs. 2 lit. a KLV) und auf ärztliche Anordnung hin oder im ärztlichen Auftrag (Art. 8
+KLV) erbracht werden von: a. Pflegefachfrauen und Pflegefachmännern (Art. 49 KVV);
+b. Organisationen der Krankenpflege und Hilfe zu Hause (Art. 51 KVV); c. Pflegeheimen
+(Art. 39 Abs. 3 KVG). Leistungen im Sinne von Art. 7 Abs. 1 KLV sind gemäss Abs. 2 der-
+selben Bestimmung Massnahmen der Abklärung, Beratung und Koordination (vgl. lit. a),
+Massnahmen der Untersuchung und der Behandlung (vgl. lit. b) und Massnahmen der
+Grundpflege (vgl. lit. c). Unter der jeweiligen Litera findet sich eine Aufzählung der erfass-
+ten Vorkehren. Als pflegende Personen kommen sodann auch Familienangehörige in Fra-
+ge (BGE 145 V 161 E. 3.3.2).
+3.
+3.1
+Unbestritten ist vorliegend, dass es sich bei der D.________ GmbH um eine Leis-
+tungserbringerin im Sinne von Art. 35 Abs. 2 lit. e KVG i.V.m. Art. 51 und 58g KVV handelt
+(vgl. SWICA-act. 1 S. 4). Sie ist damit zur Anstellung von Angehörigen von Leistungsemp-
+fängern sowie zur Abrechnung von deren Grundpflegeleistungen zu Lasten der OKP be-
+rechtigt, sofern die gesetzlichen Voraussetzungen erfüllt sind. Erstellt ist auch, dass die
+Mutter der Beschwerdeführerin, welche über keine pflegerische Ausbildung verfügt, bei
+der D.________ GmbH als Pflegehilfsperson angestellt ist und in dieser Funktion ihre
+Tochter pflegt.
+3.2
+Strittig ist hingegen die Kostenübernahme der von der Mutter während eines Feri-
+enaufenthaltes im Ausland vom 17. bis 27. April 2023 erbrachten Spitexleistungen durch
+die OKP.
+4.
+4.1
+Die Beschwerdegegnerin begründet den angefochtenen Entscheid zum einen da-
+mit, dass unter Berücksichtigung des Territorialitätsprinzips gemäss Art. 34 KVG i.V.m.
+Art. 36 Abs. 2 KVV die während der Ferien im Ausland von der Mutter erbrachten Grund-
+pflegeleistungen, mangels Notfalls, nicht der OKP in Rechnung gestellt werden könnten
+(SWICA-act. 13 Rz. 4 und 11; act. 4 Rz. 3 f.).
+
+5
+Urteil S 2024 31
+Weiter bestehe ein Widerspruch darin, dass die bei der D.________ GmbH angestellte
+Mutter der Beschwerdeführerin während des Bezugs von Ferien, die der Erholung dienen
+sollten, gearbeitet habe. Unter Berücksichtigung der bundesgerichtlichen Rechtsprechung,
+dass der OKP lediglich Kosten in Rechnung gestellt würden, welche eine Pflege zu Hause
+durch aussenstehende Spitex-Angestellte verursachen würden (BGE 145 V 161 E. 3.3.2.),
+liege es nahe, dass eine aussenstehende Spitex-Angestellte kaum für die Verrichtung von
+Grundpflegeleistungen ins Ausland gereist wäre. Gemäss Art. 56 KVG habe sich ein Leis-
+tungserbringer in seinen Leistungen auf ein Mass zu beschränken, das im Interesse des
+Versicherten liege und für den Behandlungszweck erforderlich sei. Für die Leistungen, die
+über dieses Mass hinausgehen würden, könne die Vergütung verweigert werden. Die
+WZW-Kriterien im Sinne von Art. 32 KVG seien nicht mehr erfüllt (SWICA-act. 13 Rz. 6–7).
+Ebenfalls führt die Beschwerdegegnerin an, dass der OKP nicht verrechenbar sei, was
+den Familienangehörigen im Rahmen der Schadenminderungspflicht und dem Ehegatten
+im Besonderen auf Grund der ehelichen Beistandspflicht nach Art. 159 Abs. 3 ZGB an
+Pflege zugemutet werden könne. Auch für Eltern gelte gegenüber dem Kind laut Art. 276
+ZGB eine Fürsorgepflicht. Es stelle einen allgemeinen Grundsatz des Sozialversiche-
+rungsrechts dar, dass einem Leistungsansprecher im Rahmen der Schadenminderungs-
+pflicht Massnahmen zuzumuten seien, die ein vernünftiger Mensch in der gleichen Lage
+ergreifen würde, wenn er keinerlei Entschädigung zu erwarten hätte (BGE 140 V 267
+E. 5.2.1). Die Unterstützung der Versicherten durch die Mutter während des 10-tägigen
+Ferienaufenthaltes im Ausland erscheine in diesem Rahmen als zumutbar. Es handle sich
+damit auch nicht um eine pauschale Leistungskürzung, sondern um einen befristeten Zeit-
+raum, in welchem die Schadenminderungspflicht im Rahmen der Fürsorgepflicht greife
+(SWICA-act. 13 Rz. 8).
+Das Argument der Beschwerdeführerin, dass die Hilfslosenentschädigung wie auch der
+Assistenzbeitrag erst sistiert würden, wenn der Auslandaufenthalt länger als drei Monate
+daure, könne nicht berücksichtigt werden, handle es sich bei diesen Beiträgen der IV doch
+um Geldleistungen und bei den Spitexpflegeleistungen um Sachleistungen und somit um
+Leistungen mit einem anderen Ansatzpunkt (SWICA-act. 13 Rz. 9).
+Schliesslich weist die Beschwerdegegnerin darauf hin, dass Organisationen der Kranken-
+pflege und Hilfe zu Hause im Sinne von Art. 51 KVV eine kantonale Bewilligung für denje-
+nigen Kanton benötigten, in welchem sie tätig seien, um zulasten der obligatorischen
+Krankenversicherung überhaupt tätig sein zu dürfen (Art. 36 KVG). Der Versicherer über-
+
+6
+Urteil S 2024 31
+nehme zudem die Kosten nach dem Tarif, der für den gewählten Leistungserbringer gelte
+(Art. 41 Abs. 1 KVG). Da weder eine Bewilligung für den Spitexbetrieb im Ausland vorliege
+noch ein Tarif für Behandlungen im Ausland existiere, könne die Spitex im Ausland zu
+Lasten der OKP keine Leistungen erbringen (SWICA-act. 13 Rz. 10; act. 4 Rz. 5).
+4.2
+Die Beschwerdeführerin ist demgegenüber der Ansicht, dass das Festhalten am
+Territorialitätsprinzip gemäss Art. 36 KVG i.V.m. Art. 36 Abs. 2 KVV, wonach im vorliegen-
+den Fall nur im Wohnsitzkanton und nur in einer Notfallsituation im Ausland hätten Pflege-
+leistungen erbracht und abgerechnet werden können, eine zu starre Auslegung sei. Zum
+einen könne der Bundesrat gemäss Botschaft zur Änderung des Bundesgesetzes über die
+Krankenversicherung vom 18. November 2015 Ausnahmen vorsehen und bestimmen,
+dass die obligatorische Krankenversicherung die Kosten von Leistungen nach den Art. 25
+Abs. 2 und 29 KVG übernehme, die aus medizinischen Gründen im Ausland erbracht oder
+im Rahmen der grenzüberschreitenden Zusammenarbeit für in der Schweiz wohnhafte
+Versicherte im Ausland erbracht würden (Art. 34 Abs. 2 KVG). Dabei handle es sich um
+Notfälle, um spezielle Entbindungen und um Behandlungen, die wegen fehlenden medizi-
+nischen Angebots in der Schweiz nicht zur Verfügung stünden (Art. 36 Abs. 1–3 KVV). Die
+strenge Anwendung dieses Prinzips würde gemäss der Botschaft durch die Entwicklung in
+der EU, in den EU-Staaten und in der Schweiz immer mehr in Frage gestellt. Vor diesem
+Hintergrund habe der Bundesrat im Jahr 2006 Art. 36a KVV verabschiedet, der Pilotpro-
+jekte für die Kostenübernahme für Leistungen bei grenzüberschreitender Zusammenarbeit
+ermögliche. Sodann enthalte die KVV in Art. 4 (Entsandte Arbeitnehmer und Arbeitnehme-
+rinnen) und Art. 5 (Personen im öffentlichen Dienst mit Aufenthalt im Ausland) weitere
+Ausnahmen vom Territorialitätsprinzip. Es sei davon auszugehen, dass die im Ausland
+(vorübergehend) erbrachten Pflegeleistungen von einer Ausnahme im vorerwähnten Sinne
+betroffen und deshalb zu vergüten seien (act. 1 Rz. 9–13).
+Weiter macht die Beschwerdeführerin geltend, dass eine faktische Verletzung des Grund-
+rechts auf Bewegungsfreiheit (Art. 10 Abs. 2 BV) für Pflegebedürftige und ihre pflegenden
+Angehörigen, die für Erbringung von Pflegeleistungen durch einen anerkannten Leistungs-
+erbringer in der Schweiz angestellt seien, vorliege. Es müsse pflegebedürftigen Personen
+und pflegenden Angehörigen möglich sein, im Ausland Ferien zu machen. Das Bundes-
+gericht anerkenne in diesem Zusammenhang die sogenannte faktische Grundrechtsverlet-
+zung durch Vorenthaltung von Sozialversicherungsleistungen. Eine solche strikte Ausle-
+gung könne nicht im Sinne des Verfassungs- und Gesetzgebers sein (act. 1 Rz. 14–16).
+
+7
+Urteil S 2024 31
+Die Beschwerdeführerin hält beschwerdeweise an ihrer Argumentation, wonach die Hilflo-
+senentschädigung wie auch der Assistenzbeitrag erst sistiert würden, wenn der Ausland-
+aufenthalt länger als drei Monate dauere, fest. Die beigezogene Begründung der Be-
+schwerdegegnerin, dass es sich bei den Beiträgen der Invalidenversicherung um Geldleis-
+tungen und bei den Spitexpflegeleistungen um Sachleistungen handle, greife nicht, zumal
+den Geldleistungen effektiv zu erbringende Leistungen für die hilfsbedürftige Person zu-
+grunde liegen würden. Weiter beziehe die versicherte Person die erwähnte Hilflosenent-
+schädigung vollumfänglich durch die IV, auch wenn diese mit ihren Eltern an einem ande-
+ren Ort als dem Wohnort, so auch für ferienbedingte kurze Zeit im Ausland, weile. Gestützt
+auf das Bundesamt für Sozialversicherungen würden bloss kurzfristige Auslandaufenthalte
+(bis drei Monate) aus triftigen Gründen, wie etwa zu Besuchs-, Ferien-, Geschäfts-, Kur-,
+oder Ausbildungszwecken die Anspruchsberechtigung auf eine Hilflosenentschädigung
+nicht unterbrechen (Kreisschreiben über Hilflosigkeit, Rz. 1007). Dieselbe Regelung gelte
+für den Assistenzbeitrag, mit welchem auch Grundpflegeleistungen abgegolten würden
+(Kreisschreiben über den Assistenzbeitrag, Rz. 1012 1/19). Es wäre widersprüchlich bzw.
+nicht erklärbar, wenn eine pflegebedürftige Person zwar die angestellte Assistenzperson
+mit ins Ausland nehmen dürfe, nicht aber eine angestellte Angehörigenperson (act. 1
+Rz. 17).
+Die Beschwerdeführerin bestreitet weiter, dass es im Sinne des Bundesrats war, für die
+zeitlich befristeten medizinischen Leistungen im Ausland im Sinne einer Ausnahmerege-
+lung eine Bewilligung für den Spitexbetrieb im Ausland und einen Tarif für Behandlungen
+im Ausland notwendig zu machen. Eine solche Bestimmung finde sich weder im KVG
+noch in der KVV (act. 1 Rz. 18).
+Zudem macht die Beschwerdeführerin geltend, dass die Beschwerdegegnerin ein falsches
+Verständnis der elterlichen Fürsorgepflicht (Art. 276 ZGB) im Zusammenhang mit versi-
+cherten Pflegeleistungen habe. Bei dieser Gesetzesbestimmung gehe es um die Unter-
+haltspflicht der Eltern. Davon zu unterscheiden seien behinderungsbedingte versicherte
+Leistungen, für welche verschiedene Sozialversicherungsträger zuständig seien. Für die
+Grundpflegeleistungen von Eltern, die von einer zugelassenen Spitex-Organisation ange-
+stellt seien, sei der Versicherer für die Heilbehandlung (der Krankenversicherer) zuständig.
+Da die Invalidenversicherung gemäss Art. 13 IVG nicht für geburtsgebrechensbedingte
+Grundpflegeleistungen aufzukommen habe, sei diese durch den jeweiligen Krankenversi-
+cherer in dem Umfang zu vergüten, wie eine Leistungspflicht nach Art. 7 Abs. 2 lit. c KLV
+bestehe (act. 1 Rz. 19–20).
+
+8
+Urteil S 2024 31
+Weiter bringt die Beschwerdeführerin vor, im Geltungsbereich der obligatorischen Hei-
+lungskostenversicherung dürften keine Leistungskürzungen vorgenommen werden, wenn
+die versicherte Person über fürsorgepflichtige Angehörige verfüge, die sie tatsächlich pfle-
+gen bzw. pflegen könnten. Das Bundesgericht habe insbesondere im Leitentscheid 145 V
+161 zwar die gesetzliche Beistandspflicht erwähnt, aber keine Reduktion der Leistungs-
+pflicht angenommen, wenn der beistandspflichtige Angehörige von der Spitex-Organi-
+sation angestellt worden sei, um Grundpflegeleistungen für die versicherte Person zu er-
+bringen. Eine Leistungskürzung gestützt auf die familiäre Fürsorgepflicht würde im Gel-
+tungsbereich der OKP zudem dazu führen, dass die versicherte Person zusätzlich zum
+maximalen Pflegekostenselbstbehalt gemäss Art. 25 Abs. 5 KVG ungedeckte Pflegekos-
+ten zu tragen hätte, was gesetzeswidrig wäre (act. 1 Rz. 21).
+5.
+Die Beschwerdegegnerin wies die Übernahme der Spitexleistungen, die im Aus-
+land erbracht wurden, im Wesentlichen mit Verweis auf das Territorialitätsprinzip ab. Die
+Beschwerdeführerin ist demgegenüber der Ansicht, dass das Festhalten am Territori-
+alitätsprinzip, wonach im vorliegenden Fall die Pflegeleistungen nur bei einer Notfallsitua-
+tion im Ausland hätten abgerechnet werden können, eine zu starre Auslegung sei. Wie es
+sich damit verhält, ist nachfolgend zu beurteilen.
+5.1
+5.1.1
+Das KVG untersteht dem Territorialitätsprinzip, welches das geltende Gesetz in
+Art. 34 Abs. 2 KVG als gegeben voraussetzt. Leistungen sind nur kassenpflichtig, wenn
+sie in der Schweiz erbracht werden oder bei verordnungspflichtigen Leistungen von einem
+in der Schweiz zugelassenen Leistungserbringer zur Erbringung in der Schweiz veranlasst
+werden (Gebhard Eugster, Die obligatorische Krankenpflegeversicherung nach KVG,
+2025, Rz. 981; BGE 128 V 75 E. 3b; 145 V 170 E. 2.2).
+5.1.2
+Artikel 34 Abs. 2 KVG bildet die gesetzliche Grundlage für eine gesetzeskonforme
+Abweichung vom Territorialitätsprinzip und eine Vergütung von Leistungen, die im Ausland
+erbracht wurden. Es handelt sich dabei um eine Delegationsnorm an den Bundesrat, wel-
+cher für die folgenden drei Bereiche Ausnahmen vorsehen kann: Leistungen nach den
+Art. 25 Abs. 2 und 29 KVG, die aus medizinischen Gründen im Ausland erbracht werden,
+wozu auch Notfallbehandlungen im Ausland gemäss Art. 36 Abs. 2 KVV gehören; Leistun-
+gen, die im Rahmen der grenzüberschreitenden Zusammenarbeit für die in der Schweiz
+wohnhafte Versicherte im Ausland erbracht werden und Entbindungen, die aus anderen
+
+9
+Urteil S 2024 31
+als medizinischen Gründen im Ausland erfolgen (Martin Zobl/Kerstin Noëlle Vokinger, in:
+Basler Kommentar, Krankenversicherungsgesetz/Krankenversicherungsaufsichtsgesetz
+[BSK-KVG], 2020, Art. 34 N 4).
+5.1.3
+Artikel 34 Abs. 2 KVG ist eine reine "Kann"-Vorschrift (BGE 128 V 75 E. 3b), wes-
+halb die Versicherten aus dieser Bestimmung keine Leistungsansprüche ableiten können;
+der Bundesrat ist nicht verpflichtet, eine Liste der kassenpflichtigen Auslandleistungen zu
+erstellen. Dagegen hat das Departement in Art. 36 Abs. 1 KVV einen entsprechenden Auf-
+trag erhalten, der jedoch aus praktischen Gründen nicht realisierbar ist (BGE 145 V 170
+E. 2.1; 128 V 75 E. 4b; BGer 9C_630/2010 vom 14. Oktober 2010 E. 2.1; Eugster, a.a.O.,
+Rz. 982). Das steht einer Vergütung der Kosten nicht zum Vornherein entgegen (BGE 128
+V 75 E. 4b; 131 V 271 E. 3.1; Eugster, a.a.O., Rz. 982).
+5.1.4
+Die Ausnahme vom Territorialitätsprinzip gemäss Art. 34 Abs. 2 KVG i.V.m. Art. 36
+Abs. 1 KVV ermöglicht die Kostenübernahme für Behandlungen im Ausland, die wegen
+eines fehlenden medizinischen Angebots in der Schweiz nicht zur Verfügung stehen. Aus-
+landleistungen setzen den Nachweis voraus, dass entweder in der Schweiz überhaupt
+keine Behandlungsmöglichkeit besteht oder aber im Einzelfall eine innerstaatlich prakti-
+zierte Behandlung im Vergleich zur auswärtigen Alternative für die betroffene Person er-
+heblich höhere, wesentliche Risiken mit sich bringt und damit eine verantwortbare und ihr
+zumutbare Behandlung in der Schweiz konkret nicht gewährleistet ist (BGer 9C_110/2011
+vom 27. Juni 2011; Eugster, a.a.O., Rz. 983 f.).
+5.1.5
+Die OKP übernimmt ebenfalls die Kosten von Behandlungen, die in Notfällen im
+Ausland erbracht werden. Ein Notfall liegt vor, wenn Versicherte bei einem vorübergehen-
+den Auslandsaufenthalt einer medizinischen Behandlung bedürfen und eine Rückreise in
+die Schweiz nicht angemessen ist. Kein Notfall besteht, wenn sich Versicherte zum Zwe-
+cke dieser Behandlung ins Ausland begeben (Art. 36 Abs. 2 KVV). Zentrale Merkmale des
+Notfallbegriffs sind die Unaufschiebbarkeit der Behandlung aus medizinischen Gründen
+während des Auslandaufenthalts und die Unangemessenheit der Rückkehr in die Schweiz.
+Ein Notfall wird in der Regel durch eine plötzlich auftretende, nicht vorhersehbare Behand-
+lungsnotwendigkeit ausgelöst (BGE 146 V 152 E. 10.3; Eugster, a.a.O., Rz. 988).
+5.1.6
+Sodann übernimmt die OKP im Rahmen von Art. 29 KVG die Kosten einer Entbin-
+dung, die im Ausland stattgefunden hat, weil nur so das Kind die Staatsangehörigkeit der
+
+10
+Urteil S 2024 31
+Mutter oder des Vaters erwerben konnte oder weil das Kind, in der Schweiz geboren, staa-
+tenlos wäre (Art. 36 Abs. 3 KVV).
+5.1.7
+Artikel 36 Abs. 4 KVV regelt den Umfang der Kostenerstattung bei Leistungen im
+Ausland wie folgt: Für Leistungen nach den Abs. 1 und 2 von Art. 36 KVV und für die Be-
+handlung im Ausland von Grenzgängern und Grenzgängerinnen, entsandten Arbeitneh-
+mern und Arbeitnehmerinnen und Personen im öffentlichen Dienst sowie ihren Familien-
+angehörigen (Art. 3–5 KVV) wird höchstens der doppelte Betrag der Kosten übernommen,
+die in der Schweiz vergütet würden, in den Fällen von Abs. 3 höchstens der einfache Be-
+trag. Für Versicherte nach den Art. 4 und 5 KVV richtet sich die Kostenübernahme nach
+den Tarifen und Preisen an ihrem letzten Wohnort in der Schweiz. Sofern die Behandlung
+für Versicherte nach Art. 1 Abs. 2 lit. d–ebis KVV nicht nach den Regeln über die internatio-
+nale Leistungsaushilfe erfolgt, richtet sich die Kostenübernahme nach den Tarifen und
+Preisen an ihrem letzten Wohn- oder Arbeitsort in der Schweiz; lässt sich keiner dieser Or-
+te ermitteln, so richtet sich die Kostenübernahme nach den Tarifen und Preisen des Kan-
+tons, in dem der Versicherer seinen Sitz hat.
+5.1.8
+Weitere Ausnahmen vom Territorialitätsprinzip können sich aus den Bestimmun-
+gen über die internationale Leistungsaushilfe ergeben (Art. 36 Abs. 5 KVV).
+5.1.9
+Mit dem neuen Art. 36a KVV, der per 1. Januar 2018 in Kraft getreten ist, hat der
+Bundesrat (gestützt auf Art. 34 Abs. 2 lit. a KVG) die Voraussetzungen für die Kostenüber-
+nahme in der grenzüberschreitenden medizinischen Versorgung geschaffen. Nach der
+Bestimmung kann das BAG Programme zur grenzüberschreitenden Zusammenarbeit be-
+willigen, die eine Kostenübernahme für Leistungen vorsehen, die in Grenzgebieten für in
+der Schweiz wohnhafte Versicherte erbracht werden (Art. 36a Abs. 1 KVV). Das Bewilli-
+gungsgesuch muss von einem oder mehreren Grenzkantonen und von einem oder mehre-
+ren Versicherern gemeinsam eingereicht werden. Es ist vier Monate vor dem voraussicht-
+lichen Beginn der grenzüberschreitenden Zusammenarbeit einzureichen (Art. 36a Abs. 2
+KVV).
+5.2
+5.2.1
+Die Auslegung des Gesetzes ist auf die Regelungsabsicht des Gesetzgebers und
+die von ihm erkennbar getroffenen Wertentscheidungen auszurichten. Ausgangspunkt je-
+der Auslegung bildet der Wortlaut der Bestimmung. Vom daraus abgeleiteten Sinne ist je-
+doch abzuweichen, wenn triftige Gründe dafür bestehen, dass der Gesetzgeber diesen
+
+11
+Urteil S 2024 31
+nicht gewollt haben kann. Solche Gründe können sich insbesondere aus der Entstehungs-
+geschichte der Norm, aus ihrem Zweck oder aus dem Zusammenhang mit anderen Vor-
+schriften ergeben. Insoweit wird vom historischen, teleologischen und systematischen
+Auslegungselement gesprochen. Bei der Auslegung einer Norm sind daher neben dem
+Wortlaut diese herkömmlichen Auslegungselemente zu berücksichtigen (BGE 134 III 273
+E. 4 mit Hinweisen).
+5.2.2
+Der Wortlaut von Art. 36 KVV ist insoweit klar und unmissverständlich, als die
+OKP die Kosten derjenigen Leistungen, die im Ausland erbracht wurden, nur unter spezifi-
+schen Voraussetzungen übernimmt. Im Umkehrschluss bedeutet dies, dass die Kosten-
+übernahme der OKP entfällt, wenn keine der gesetzlichen Ausnahmen vom Territori-
+alitätsprinzip gemäss vorstehender E. 5.1 vorliegt. Demgemäss ist der Vorinstanz darin
+beizupflichten, dass der Beschwerdeführerin dem Territorialitätsprinzip folgend die Über-
+nahme der KVG-Pflegebeiträge durch die OKP für die betreffenden Pflegeleistungen
+grundsätzlich abgesprochen werden müsste, da die Pflegeleistungen im Rahmen eines
+Auslandaufenthaltes erbracht wurden und unbestrittenermassen keine Ausnahmebestim-
+mung i.S.v. Art. 36 KVV einschlägig ist.
+5.2.3
+Im Folgenden stellt sich die Frage, ob triftige Gründe vorliegen, um vom klaren
+Wortlaut der Bestimmung ausnahmsweise abzuweichen. Die Beschwerdeführerin bringt
+diesbezüglich im Wesentlichen vor, die Verweigerung der Versicherungsleistungen stelle
+eine faktische Grundrechtsverletzung (Bewegungsfreiheit nach Art. 10 Abs. 2 BV) dar.
+Darauf ist nachfolgend näher einzugehen.
+5.2.3.1 Die Bewegungsfreiheit ist ein Teilaspekt der persönlichen Freiheit gemäss Art. 10
+Abs. 2 BV (Rainer J. Schweizer/Jérémie Bongiovanni, in: St. Galler Kommentar, Die
+Schweizerische Bundesverfassung, 4. Aufl. 2023, Art. 10 N 4). Sie ist auch durch Art. 12
+UNO-Pakt II geschützt (Schweizer/Bongiovanni, a.a.O., Art. 10 N 10). Die Bewegungsfrei-
+heit nach Art. 10 Abs. 2 und Art. 5 EMRK verschafft dem Einzelnen das Recht, sich nach
+seinem Willen und ohne staatliche Eingriffe zu bewegen. Eine spezifischere Form der Be-
+wegungsfreiheit, nämlich die Freiheit, seinen Wohn- und Aufenthaltsort zu wählen, sowie
+das Recht, sich niederzulassen, gewährleistet für Schweizer Staatsangehörige die Nieder-
+lassungsfreiheit. Sie umfasst auch das Ausreise- und Auswanderungsrecht aus der
+Schweiz und das Rückkehrrecht in die Schweiz (Schweizer/Bongiovanni, a.a.O., Art. 10
+N 80).
+
+12
+Urteil S 2024 31
+5.2.3.2 Die Grundrechte richten sich in erster Linie als Abwehrrechte gegen den Staat und
+geben nur ausnahmsweise und punktuell verfassungsunmittelbare Leistungsansprüche.
+Namentlich liegt keine Verletzung von Grundrechten darin, dass die Sozialversicherung
+nicht alle durch die Krankheit verursachten Kosten übernimmt. Auch aus den Grundrech-
+ten auf Bewegungsfreiheit und persönliche Freiheit kann grundsätzlich kein direkter An-
+spruch auf positive staatliche Leistungen abgeleitet werden. Bei der Auslegung sozialver-
+sicherungsrechtlicher Leistungsnormen sowie bei der Ermessenshandhabung ist jedoch
+den Grundrechten und verfassungsmässigen Grundsätzen Rechnung zu tragen, soweit
+dies im Rahmen von Art. 190 BV, wonach Bundesgesetze und Völkerrecht für das Bun-
+desgericht und die anderen rechtsanwendenden Behörden massgebend sind, möglich ist.
+Die Ablehnung von Versicherungsleistungen stellt zwar keinen Grundrechtseingriff im
+herkömmlichen Sinne dar, weil der Versicherten die Ausreise aus der Schweiz auf eigene
+Kosten nicht untersagt wird; doch kann die Ablehnung der Versicherungsleistungen die
+grundrechtlich geschützten Tätigkeiten erschweren oder verunmöglichen, wodurch die
+versicherte Person in der Wahrnehmung ihrer Grundrechte mittelbar beeinträchtigt wird;
+es kann daraus eine faktische Grundrechtsverletzung resultieren. Dies belegt die Einsicht,
+dass nicht nur Eingriffs-, sondern auch Leistungshandeln des Staates grundrechtsrelevant
+ist, was die bundesgerichtliche Rechtsprechung anerkennt (vgl. BGer 8C_803/2013 vom
+30. Juli 2014 E. 4.3.1; BGE 118 V 206 E. 5b; 113 V 22 E. 4d; BGer I 725/06 vom 6. März
+2008 E. 6).
+5.2.3.3 Das Bundesgericht äusserte sich mit Bezugnahme auf Eugster zum Notfallbegriff
+im Sinne von Art. 36 Abs. 2 KVV. Die Grundsätze, die dabei formuliert wurden, sind auch
+für die Frage der faktischen Grundrechtsverletzung relevant. Eugster führt aus, dass jedes
+Risiko, während eines Auslandaufenthalts medizinische Behandlung zu benötigen, eine
+Leistungspflicht nach Art. 36 Abs. 2 KVV ausschliesse. Es ginge jedoch zu weit, wenn
+Versicherte mit der blossen Möglichkeit, während eines Urlaubs oder auf Geschäftsreise
+im Ausland medizinische Leistungen in Anspruch nehmen zu müssen, keinen Versiche-
+rungsschutz hätten. Der Zweck von Art. 36 Abs. 2 KVG müsse darin bestehen, die heute
+übliche Mobilität der gesamten Bevölkerung und nicht nur der gesunden Leute durch einen
+Grundversicherungsschutz zu gewährleisten. Im Lichte des Rechts auf persönliche Frei-
+heit dürfe von den Versicherten nicht leichthin verlangt werden, dass sie wegen eines
+bloss möglichen Erkrankungs- oder Behandlungsrisikos aus Gründen der Schadenminde-
+rungspflicht auf eine Auslandreise verzichten. Der Risikoeintritt müsse vielmehr praktisch
+sicher oder zumindest in hohem Masse wahrscheinlich sein (Eugster, a.a.O., Rz. 990).
+Das Bundesgericht zitierte Eugster in BGE 146 V 185 E. 3.3.1 und führte im Zusammen-
+
+13
+Urteil S 2024 31
+hang mit dem Recht auf persönliche Freiheit im Sinne der freien Mobilität für Fälle chro-
+nisch Erkrankter aus, dass der Verzicht auf eine Auslandreise wegen der regelmässig
+notwendigen Behandlung oder eines Erkrankungsrisikos aus Gründen der Schadenminde-
+rungspflicht nicht leichthin verlangt werden könne. Das Bundesgericht anerkennt somit
+grundsätzlich, dass chronisch Erkrankte und nicht nur gesunde Menschen im Rahmen ih-
+rer persönlichen Freiheit ein Recht auf eine Auslandreise haben – dies auch wenn sie re-
+gelmässige Behandlung benötigen.
+5.2.3.4 Vorliegend ist unbestritten, dass die Beschwerdeführerin auf Pflegeleistungen an-
+gewiesen ist. Eine Auslandreise ohne Pflegeleistungen wäre für sie folglich nicht möglich.
+Eine Ablehnung der Kostentragung der Spitexleistungen der Mutter durch die OKP verun-
+möglicht zwar die Ausreise der Beschwerdeführerin zu Auslandaufenthalten mit Pflegeleis-
+tungen auf eigene Kosten nicht. Die Verweigerung der Kostentragung erschwert Ausland-
+aufenthalte faktisch jedoch in finanzieller Hinsicht. Die Beschwerdeführerin muss unter
+Umständen auf gemeinsame Ferien mit ihrer Mutter im Ausland verzichten, womit die
+grundrechtlich geschützten Rechte auf persönliche Freiheit, Bewegungsfreiheit und Aus-
+reise aus der Schweiz faktisch tangiert werden.
+5.2.4
+Im Folgenden ist abzuwägen zwischen den grundrechtlich geschützten Positionen
+der Beschwerdeführerin und dem Territorialitätsprinzip. Im Lichte der grundrechtlichen
+Würdigung sind auch die Grundsätze der Wirksamkeit, Zweckmässigkeit und Wirtschaft-
+lichkeit (Art. 32 KVG) sowie die Schadenminderungspflicht zu beachten, wie sie für das
+gesamte Leistungsrecht des KVG zur Anwendung kommen und von der Beschwerdegeg-
+nerin vorgebracht werden.
+5.2.4.1 Zum öffentlichen Interesse am Territorialitätsprinzip hat sich das Bundesgericht
+wie folgt geäussert: Abweichungen vom Territorialitätsprinzip und die Zulassung von Be-
+handlungen im Ausland würden das System der tarifvertraglich geprägten Spitalfinanzie-
+rung gefährden, was wiederum die Güte der medizinischen Versorgung in der Schweiz
+beeinträchtigen könnte (BGE 145 V 170 E. 2.3; 131 V 271 E. 3.2; BGer 9C_630/2010 vom
+14. Oktober 2010 E. 2.2). Ein bedarfsgerechtes medizinisches Leistungsangebot im eige-
+nen Land sei ein hohes Gut und daher seien Ausnahmen vom Territorialitätsprinzip nur mit
+grosser Zurückhaltung zuzulassen, und dies auch bei seltenen Therapien (BGE 145 V 170
+E. 7.2; BGer 9C_615/2021 vom 31. Januar 2023 E. 6.1). Zunehmend ausserhalb der Lan-
+desgrenzen erfolgende Behandlungen gingen zwangsläufig Hand in Hand mit einem uner-
+wünschten, schwer rückgängig zu machenden Aderlass an inländischer Sach- und Fach-
+
+14
+Urteil S 2024 31
+kompetenz einher (BGE 145 V 170 E. 7.2; Eugster, a.a.O., Rz. 983 f.). Poledna führt aus,
+dass das Territorialitätsprinzip auch die Aufsicht über die Leistungserbringer sichere. Das
+KVG sei durch verschiedene Elemente der Aufsicht ergänzt worden, die an Qualitätsan-
+forderungen anschliessen. Die Aufsicht setze voraus, dass die Leistungserbringung kon-
+trollierbar sei. Dies sei bei Leistungsbereitstellungen vom Ausland aus zwar zum Teil ent-
+weder gar nicht möglich oder zum Teil erheblich erschwert (Tomas Poledna, Das Territori-
+alitätsprinzip im KVG im Zeitalter der Digitalisierung, in: Jusletter 29. August 2022).
+Die Kostentragung der Spitexleistungen während eines kurzen 10-tägigen Auslandaufent-
+halts durch die OKP fördert die soeben genannten Risiken bei Missachtung des Territori-
+alitätsprinzips nicht. Die Erhaltung eines bedarfsgerechten medizinischen Leistungsange-
+bots in der Schweiz ist dadurch nicht gefährdet und es kommt zu keinem Aderlass an in-
+ländischer Sach- und Fachkompetenz. Dies, weil die Mutter der Beschwerdeführerin nur
+temporär aus der Schweiz ausreist, über keine medizinische Ausbildung verfügt und keine
+anderen Personen als ihre Tochter pflegt. Weiter ist auch die Aufsicht über die Leistungs-
+erbringerin weiterhin sichergestellt, da sie weiterhin den in der Schweiz geltenden Rege-
+lungen unterstellt bleibt. Dementsprechend ist kein Grund ersichtlich, weshalb im vorlie-
+genden Fall das öffentliche Interesse am Territorialitätsprinzip schwerer wiegen sollte als
+das grundrechtlich geschützte Interesse der Beschwerdeführerin, temporär mit ihrer Mutter
+für Ferien ins Ausland zu reisen.
+5.2.4.2 Die Beschwerdegegnerin merkt an, dass sich unter Berücksichtigung von Art. 56
+KVG ein Leistungserbringer in seinen Leistungen auf ein Mass zu beschränken habe, das
+im Interesse des Versicherten liege und für den Behandlungszweck erforderlich sei. Für
+die Leistungen, die über dieses Mass hinausgehen würden, könne die Vergütung verwei-
+gert werden. Sie stellt sich auf den Standpunkt, dass die WZW-Kriterien im Sinne von
+Art. 32 KVG nicht mehr erfüllt seien.
+Damit die OKP die Leistungen übernimmt, müssen diese wirksam, zweckmässig und wirt-
+schaftlich sein (Art. 32 Abs. 1 KVG; sog. WZW-Kriterien). Eine Leistung gilt als wirksam,
+wenn sie objektiv geeignet ist, auf den angestrebten medizinischen (diagnostischen, the-
+rapeutischen oder pflegerischen) Nutzen hinzuwirken bzw. wenn sie den Verlauf einer
+Krankheit günstig beeinflusst. Zweckmässig ist jene Anwendung, die gemessen am ange-
+strebten Erfolg und unter Berücksichtigung der Risiken aus vorausschauender Sicht den
+besten diagnostischen oder therapeutischen Nutzen im Einzelfall aufweist. Das Kriterium
+der Wirtschaftlichkeit dient schliesslich als Massstab für die Auswahl unter den wirksamen
+
+15
+Urteil S 2024 31
+und zweckmässigen Behandlungsalternativen. Bei vergleichbarem medizinischem Nutzen
+gilt die kostengünstigste Alternative als wirtschaftlich; zwischen Kosten und Nutzen soll ein
+optimales Verhältnis erreicht werden (vgl. zum Ganzen BGE 151 V 158 E. 3.3). Artikel 56
+Abs. 1 KVG präzisiert, dass der Leistungserbringer sich in seinen Leistungen auf das
+Mass beschränken muss, das im Interesse der Versicherten liegt und für den Behand-
+lungszweck erforderlich ist.
+Inwiefern die WZW-Kriterien vorliegend nicht erfüllt sein sollten, erschliesst sich dem Ge-
+richt nicht. Die Beschwerdeführerin verlangt die Deckung der Kosten, die in dieser Höhe
+ohnehin angefallen wären, wenn die Pflege nicht im Ausland, sondern in der Schweiz er-
+bracht worden wäre. Die Deckung der Reise- oder Unterkunftskosten wird nicht beantragt.
+Da die Beschwerdegegnerin eine Verletzung der WZW-Kriterien bei Pflegeleistungen in
+der Schweiz nicht beanstandet, sind die Kriterien auch für die in selbiger Form im Ausland
+erbrachten Leistungen als erfüllt zu betrachten. Weitere Ausführungen erübrigen sich.
+5.2.4.3 Die Schadenminderungspflicht gilt als allgemeiner Rechtsgrundsatz auch in der
+OKP (BGE 118 V 107 E. 7b). Ein Schaden besteht in der OKP in der vermeidbaren, zu
+Mehrkosten führenden Unterlassung oder Verzögerung einer notwendigen Behandlung
+oder in der Missachtung der therapeutischen Compliance. Erweist sich eine Massnahme
+als im Allgemeinen als zweckmässig und wirtschaftlich, kann der Krankenversicherer die
+betreffende Leistung nicht im Einzelfall unter Hinweis auf die Schadenminderungspflicht
+grundsätzlich in Frage stellen. Das schliesst jedoch Überlegungen der Schadenminde-
+rungspflicht nicht aus. Die Praxis grenzt die beiden Begriffe Wirtschaftlichkeit und Scha-
+denminderungspflicht häufig nicht voneinander ab. Die Schadenminderungspflicht kann
+sich indessen nur in Bezug auf wirtschaftliche Leistungen stellen. Die Wirtschaftlichkeit ist
+daher vor der Frage der Schadensminderungspflicht zu prüfen (Eugster, a.a.O., Rz. 1080,
+1082).
+In Bezug auf die Schadenminderungspflicht ist noch einmal darauf hinzuweisen, dass die
+Kosten im gleichen Umfang angefallen wären, wenn die Beschwerdeführerin auf die Reise
+verzichtet hätte. Es entstehen durch die Reise keine zusätzlichen durch die OKP zu über-
+nehmenden Kosten. Soweit die Beschwerdegegnerin eine Verletzung der Schadenminde-
+rungspflicht rügt, kann ihr somit ebenfalls nicht gefolgt werden.
+5.2.4.4 Nach dem soeben Ausgeführten ist festzuhalten, dass die von der Beschwerde-
+gegnerin dargelegten Grundsätze das grundrechtlich geschützte Interesse der Beschwer-
+
+16
+Urteil S 2024 31
+deführerin an der persönlichen Freiheit, Bewegungsfreiheit und Ausreise aus der Schweiz
+nicht zu überwiegen vermögen.
+5.2.5
+5.2.5.1 Im Weiteren gebietet auch das Heranziehen der Regelungen zur Hilflosenent-
+schädigung und zum Assistenzbeitrag im vorliegenden Fall ein Abweichen vom Territori-
+alitätsprinzip. Denn obwohl das Territorialitätsprinzip – vorbehältlich Sonderregelungen –
+grundsätzlich für alle Leistungen der schweizerischen Sozialversicherungen gilt, sehen die
+Kreisschreiben über Hilflosigkeit (KSH, Stand: 1. Januar 2022) und über den Assistenzbei-
+trag (KSAB, Stand: 1. Januar 2024) vor, dass beide Leistungen auch während kurzfristi-
+gen Auslandaufenthalten weitergewährt werden. So wird in Rz. 1007 KSH festgehalten,
+dass die Anspruchsberechtigung auf Hilflosenentschädigung von bloss kurzfristigen Aus-
+landaufenthalten (bis drei Monate) aus triftigen Gründen, wie etwa zu Besuchs-, Ferien-,
+Geschäfts-, Kur- oder Ausbildungszwecken nicht unterbrochen wird. Randziffer 1012 1/19
+KSAB sieht vor, dass der Anspruch auf einen Assistenzbeitrag erst bei einem Auslandauf-
+enthalt von mehr als drei Monaten sistiert wird. Ein Auslandaufenthalt von weniger als drei
+Monaten wird als vorübergehende Änderung gesehen, die keine Sistierung des Anspruchs
+verursacht und während dem der Assistenzbeitrag wie üblich ausgerichtet wird.
+5.2.5.2 Es mag zutreffen, dass KVG-Pflegebeiträge, die Hilflosenentschädigung und der
+Assistenzbeitrag nicht die gleichen Leistungen abdecken und verschiedene Vorausset-
+zungen aufweisen. Gemeinsam ist den Leistungen jedoch, dass sie Betreuungs- und Pfle-
+geleistungen für Bedürftige darstellen. Der Assistenzbeitrag ist denn auch in dem Sinne
+ähnlich zu den KVG-Pflegebeiträgen, als dass der Assistenzbeitrag konkrete Leistungen
+einer angestellten Assistenzperson deckt und die Gelder nicht pauschal zur freien Verfü-
+gung der versicherten Person stehen wie bei der Hilflosenentschädigung. In Art. 74 Abs. 2
+lit. d ATSG werden die Leistungen für Hilflosigkeit, Assistenzbeitrag und Vergütungen für
+Pflegekosten sogar als Leistungen gleicher Art bezeichnet. Insofern wäre es tatsächlich
+widersprüchlich, wenn die Assistenzperson ins Ausland mitgenommen werden könnte,
+nicht aber die Spitexleistungserbringerin, welche die wohl noch wichtigere Grundpflege
+leistet. Der Schutz des Reisebedürfnisses pflegebedürftiger Personen, den die Regelun-
+gen zur Hilflosenentschädigung und zum Assistenzbeitrag bezwecken, würde verunmög-
+licht, wenn die Grundpflege während der Reise nicht gewährleistet wäre. Nach Ansicht des
+Gerichts vermögen die dargelegten Unterschiede eine Ungleichbehandlung zwischen dem
+für KVG-Pflegebeiträge ausnahmslos geltenden Territorialitätsprinzip und den für kurze
+Auslandaufenthalte vorgesehenen Ausnahmen bei der Hilflosenentschädigung und dem
+
+17
+Urteil S 2024 31
+Assistenzbeitrag jedenfalls nicht zu rechtfertigen. Daran ändert – entgegen der Auffassung
+der Beschwerdegegnerin – auch die Tatsache nichts, dass Spitexleistungen Sachleistun-
+gen sind, während die Hilflosenentschädigung sowie der Assistenzbeitrag Geldleistungen
+darstellen und sich in diesem Punkt unterscheiden (Nathalie Lang, in: Basler Kommentar,
+Allgemeiner Teil des Sozialversicherungsrechts [BSK-ATSG], 2. Aufl. 2025, Art. 15 N 15).
+Anzumerken ist hierzu, dass gemäss Rz. 1012 1/19 KSAB weder Hilflosenentschädigung
+noch Assistenzbeitrag exportierbar sind, die genannten Kreisschreiben aber dennoch eine
+Ausnahme für Auslandaufenthalte von bis zu drei Monaten vorsehen. Weshalb vorliegend
+bei einer Sachleistung, welche grundsätzlich ebenfalls nicht exportierbar ist, nicht eben-
+falls eine Ausnahme bei einem kurzfristigen Auslandaufenthalt von immerhin lediglich
+zehn Tagen gemacht werden kann, erschliesst sich dem Gericht nicht.
+5.2.6
+Als Zwischenfazit ist somit festzuhalten, dass vorliegend aufgrund der festgestell-
+ten faktischen Grundrechtsverletzung ein triftiger Grund vorliegt, um vom klaren Wortlaut
+der Bestimmung und dem grundsätzlich massgebenden Territorialitätsprinzip bei einem
+kurzfristigen Auslandaufenthalt von zehn Tagen abzuweichen.
+6.
+Was die Beschwerdegegnerin dagegen vorbringt, verfängt nicht.
+6.1
+Zunächst kann das Gericht dem Einwand der Beschwerdegegnerin nicht folgen,
+wonach es widersprüchlich sei, dass die Mutter der Beschwerdeführerin während ihrer Fe-
+rien, die der Erholung hätten dienen sollen, gearbeitet habe. Auch wenn die Mutter mit der
+Beschwerdeführerin im Ausland war, war die Beschwerdeführerin nach wie vor pflegebe-
+dürftig und auf die Pflege ihrer Mutter angewiesen. Erholung hätte die Mutter nur gehabt,
+wenn andere Personen die Pflege der Beschwerdeführerin übernommen hätten, wofür es
+keine Hinweise gibt. Damit erübrigen sich weitere Ausführungen hierzu.
+6.2
+Mit Blick auf das bestehende Missbrauchspotenzial bei Familienangehörigen als
+pflegende Personen können der OKP gemäss bundesgerichtlicher Rechtsprechung ledig-
+lich Kosten in Rechnung gestellt werden, welche eine Pflege zu Hause durch aussenste-
+hende Spitex-Angestellte verursachen würde. Nicht verrechenbar ist, was dem Familien-
+angehörigen im Rahmen der Schadenminderungspflicht und dem Ehegatten im Besonde-
+ren auf Grund der ehelichen Beistandspflicht nach Art. 159 Abs. 3 ZGB an Pflege zugemu-
+tet werden kann (BGE 145 V 161 E. 3.3.2).
+
+18
+Urteil S 2024 31
+6.2.1
+Spitex steht für "spitalexterne Krankenpflege" und ist die ambulante Krankenpflege
+zu Hause. Der Begriff "zu Hause" setzt jedoch nicht Pflege am Wohnsitz voraus, sondern
+ist auch bei anderweitigen Wohn- oder Aufenthaltsorten ausserhalb von zugelassenen
+Einrichtungen nach Art. 39 KVG erfüllt (Eugster, a.a.O., Rz. 789; vgl. BGE 150 V 281
+E. 5.3). Nach der Meinung von Pfiffner Rauber solle dort, wo die Lebensqualität der pfle-
+gebedürftigen Person eindeutig besser sei, der Wunschort der pflegenden Person – das
+müsse nicht unbedingt das private Zuhause sein – als Pflegeort akzeptiert werden unter
+Übernahme der Pflegekosten durch die Grundversicherung (Brigitte Pfiffner Rauber, Das
+Recht auf Krankheitsbehandlung und Pflege, 2003, S. 241).
+Soweit die Beschwerdegegnerin geltend macht, dass ausschliesslich Beiträge an die Pfle-
+ge zu Hause, d.h. am Wohnort der Beschwerdeführerin, übernommen werden könnten,
+kann dem nach dem Gesagten somit nicht gefolgt werden.
+6.2.2
+Hinsichtlich des Einwandes der Beschwerdegegnerin, wonach nur Kosten über-
+nommen werden könnten, die auch durch aussenstehende Spitex-Angestellte verursacht
+würden und dass eine aussenstehende Spitex-Angestellte nicht ins Ausland gereist wäre,
+ist auf Folgendes hinzuweisen: Bei Spitexleistungen während Auslandaufenthalten geht es
+nicht um Leistungen, die offensichtlich in den Rahmen der Beistandspflicht zwischen El-
+tern und Kindern gehören, bei denen es missbräuchlich wäre, wenn diese der OKP in
+Rechnung gestellt würden. Es gibt durchaus Angebote, wonach aussenstehende Spitex-
+Angestellte mit der pflegebedürftigen Person ins Ausland reisen und dort Pflegeleistungen
+erbringen (z.B. https://spitex-zur-muehle.ch/angebot/, abgerufen am 17. Juni 2026; htt-
+ps://zueri-pflege.ch/dienstleistungen/ergaenzende-dienstleistungen, abgerufen am 17. Juni
+2026). Die Beschwerdegegnerin dringt mit diesem Argument somit ebenfalls nicht durch.
+6.2.3
+Darüber hinaus stellt sich die Beschwerdegegnerin auf den Standpunkt, während
+des 10-tägigen Auslandaufenthaltes würde die Schadenminderungspflicht im Rahmen der
+Fürsorgepflicht der Eltern gemäss Art. 276 ZGB greifen, weshalb die Leistungen der OKP
+nicht verrechenbar seien. Sie erachtet die Unterstützung der Beschwerdeführerin durch ih-
+re Mutter während des 10-tägigen Ferienaufenthaltes im Ausland als zumutbar.
+Hierzu ist festzuhalten, dass die Beschwerdegegnerin nicht einzelne Pflegeleistungen
+kürzt mit der Begründung, diese wären im Rahmen der familiären Beistandspflicht zumut-
+bar. Vielmehr verweigert sie die Übernahme der gesamten während des Auslandaufent-
+haltes erbrachten Pflegeleistungen. Diesbezüglich erscheint es widersprüchlich, dass die
+
+19
+Urteil S 2024 31
+Beschwerdegegnerin die Kosten für in der Schweiz erbrachte Spitexleistungen übernimmt,
+die Finanzierung derselben Pflegeleistungen im Ausland jedoch unter Hinweis auf die Für-
+sorgepflicht der Eltern als zumutbar erachtet. Dies umso mehr, als es sich dabei nota bene
+um identische Pflegeleistungen handelt und der Pflegebedarf klar über die einfache
+Grundpflege hinausgeht (vgl. diesbezüglich Eugster, a.a.O., Rz. 818, wonach nicht verre-
+chenbar sei, was dem Ehepartner im Rahmen der Schadenminderungspflicht aufgrund der
+familiären Beistandspflicht nach Art. 159 Abs. 3 ZGB oder den Kindern nach Art. 272 ZGB
+an einfacher Grundpflege zuzumuten sei). Der Einwand der Schadenminderungspflicht im
+Rahmen der familiären Beistandspflicht greift dementsprechend nicht.
+6.3.
+Gemäss Beschwerdegegnerin benötigten Organisationen der Krankenpflege und
+Hilfe zu Hause im Sinne von Art. 51 KVV eine kantonale Bewilligung für denjenigen Kan-
+ton, in welchem sie tätig seien, um zulasten der obligatorischen Krankenversicherung
+überhaupt tätig sein zu dürfen (Art. 36 KVG). Der Versicherer übernehme zudem die Kos-
+ten nach dem Tarif, der für den gewählten Leistungserbringer gelte (Art. 41 Abs. 1 KVG).
+Die Spitex könne im Ausland keine Leistungen zulasten der OKP erbringen, weil weder ei-
+ne Bewilligung für den Spitexbetrieb im Ausland vorliege noch ein Tarif für Behandlungen
+im Ausland existiere.
+6.3.1
+Spitex-Organisationen werden (nach KVG) zugelassen, wenn sie: nach der Ge-
+setzgebung des Kantons, in dem sie tätig sind, zugelassen sind (das kantonale Spitex-
+recht stellt eigenständiges kantonales Bewilligungsrecht dar); ihren örtlichen, zeitlichen,
+sachlichen und personellen Tätigkeitsbereich festgelegt haben; über das erforderliche
+Fachpersonal verfügen, das eine dem Tätigkeitsbereich entsprechende Ausbildung hat;
+über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen und an Massnahmen
+zur Qualitätssicherung teilnehmen, die gewährleisten, dass eine dem Tätigkeitsbereich
+entsprechende, qualitativ hochstehende und zweckmässige Krankenpflege erbracht wird
+(vgl. Art. 51 KVV; Hardy Landolt, in: BSK-KVG, a.a.O., Art. 25a N 92).
+6.3.2
+Die D.________ GmbH mit Sitz im Kanton F.________ verfügt über Betriebsbewil-
+ligungen für die Kantone G.________, H.________, F.________, I.________, J.________,
+K.________, L.________, E.________ und M.________ (https://________, abgerufen am
+17. Juni 2026; für den Kanton E.________: SWICA-act. 1 S. 4). Eine Bewilligung für den
+Spitexbetrieb im Ausland gibt es nach Schweizer Recht nicht, da im Sozialversicherungs-
+recht das Territorialitätsprinzip (ausser bei Sonderregelungen) gilt. Dementsprechend ver-
+fügt die D.________ GmbH – soweit bekannt – über keine Bewilligung für den Spitexbe-
+
+20
+Urteil S 2024 31
+trieb in dem Land, in dem sich die Beschwerdeführerin aufgehalten hat. Es ist jedoch dar-
+auf hinzuweisen, dass das Gericht im vorliegenden Fall lediglich zu beurteilen hat, ob die
+KVG-Pflegebeiträge von der Schweizer OKP vergütet werden müssen. Weitere Aus-
+führungen erübrigen sich somit.
+6.3.3
+Die Finanzierung der Pflegekosten erfolgt gemäss Art. 25a KVG dreiteilig: Der ob-
+ligatorische Krankenpflegeversicherer leistet einen Beitrag an die Kosten der versicherten
+Pflegeleistungen (Art. 25a Abs. 1 KVG und Art. 7a KLV). Die OKP übernimmt für Organi-
+sationen der Krankenpflege und Hilfe zu Hause folgende Beiträge an die Kosten pro Stun-
+de: für Massnahmen der Abklärung, Beratung und Koordination Fr. 76.90, für Massnah-
+men der Untersuchung und der Behandlung Fr. 63.– und für Massnahmen der Grundpfle-
+ge Fr. 52.60 (Art. 7a Abs. 1 KLV i.V.m. Art. 7 Abs. 1 lit. b KLV). Die versicherte Person be-
+teiligt sich an den Kosten der versicherten Pflegeleistungen durch einen Selbstbehalt, der
+höchstens 20 % der nicht durch Sozialversicherungsleistungen gedeckten Kosten beträgt
+(Art. 25a Abs. 5). Die Kantone bzw. die Tarifpartner sind gehalten, die Modalitäten der Be-
+rechnung und der Bezahlung des Pflegekostenselbstbehaltes zu regeln. Die Kantone tra-
+gen die ungedeckten Kosten der versicherten Pflegeleistungen (Art. 25a Abs. 5 KVG;
+Landolt, in: BSK-KVG, a.a.O., Art. 25a N 127, 151).
+Artikel 36 Abs. 4 KVV regelt den Umfang der Kostenerstattung bei Leistungen im Ausland
+in den Fällen, in denen eine der gesetzlichen Ausnahmen vom Territorialitätsprinzip greift
+(vgl. hierzu E. 5.1.7 oben). Der vorliegende Fall ist keiner dieser gesetzlichen Ausnahmen
+zuzuordnen.
+6.3.4
+In casu werden die Leistungen genau in Höhe der Stundenansätze gemäss Art. 7a
+Abs. 1 KLV in Rechnung gestellt – Fr. 76.90 für Abklärung und Beratung sowie Fr. 52.60
+für Grundpflege (SWICA-act. 7). Diese Stundenansätze gemäss Art. 7a Abs. 1 KLV wer-
+den schweizweit von der OKP als Beiträge an die KVG-Pflegeleistungen vergütet. Wenn
+man die Varianten des Umfangs der Kostenübernahme gemäss Art. 36 Abs. 4 KVV be-
+trachtet, ist ersichtlich, dass diese Kosten gemäss allen Varianten übernommen würden.
+Es erscheint deshalb sachgerecht, die ordentlichen Beiträge gemäss Art. 7a Abs. 1 KLV
+zu vergüten.
+7.
+Zusammenfassend ist festzuhalten, dass die KVG-Pflegebeiträge während des
+10-tägigen Auslandaufenthaltes der Beschwerdeführerin von der OKP zu tragen sind.
+Damit erweist sich die Beschwerde als begründet, weshalb sie gutzuheissen ist.
+
+21
+Urteil S 2024 31
+8.
+Mangels einer entsprechenden Bestimmung im KVG ist das Verfahren vor dem
+kantonalen Versicherungsgericht kostenlos (Art. 61 lit. fbis ATSG).
+Der obsiegenden Beschwerdeführerin ist zulasten der Beschwerdegegnerin eine Parteien-
+tschädigung nach Art. 61 lit. g ATSG auszurichten, die ermessensweise auf Fr. 1'700.–
+(inkl. Auslagen und MWST) festgesetzt wird.
+
+22
+Urteil S 2024 31
+Demnach erkennt das Verwaltungsgericht:
+__________________________________
+1.
+In Gutheissung der Beschwerde wird der Einspracheentscheid vom 14. Februar
+2024 aufgehoben und die Beschwerdegegnerin wird verpflichtet, der Beschwerde-
+führerin die Beiträge an die Spitexleistungen während des Auslandaufenthalts
+(17. bis 27. April 2023) zu bezahlen.
+2.
+Es werden keine Kosten erhoben.
+3.
+Die Beschwerdegegnerin hat der Beschwerdeführerin eine Parteientschädigung
+von Fr. 1'700.– (inkl. Auslagen und MWST) zu bezahlen.
+4.
+Gegen diesen Entscheid kann innert 30 Tagen seit der schriftlichen Eröffnung
+beim Schweizerischen Bundesgericht in Luzern Beschwerde in öffentlich-recht-
+lichen Angelegenheiten eingereicht werden.
+5.
+Mitteilung an den Rechtsvertreter der Beschwerdeführerin (im Doppel), an die
+Beschwerdegegnerin sowie an das Bundesamt für Gesundheit, Bern.
+Zug, 14. Juli 2026
+Im Namen der
+SOZIALVERSICHERUNGSRECHTLICHEN KAMMER
+Der Vorsitzende
+Die Gerichtsschreiberin
+versandt am

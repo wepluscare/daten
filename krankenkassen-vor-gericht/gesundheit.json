@@ -1,0 +1,2414 @@
+{
+ "1": {
+  "nr": 1,
+  "docket": "VG.2017.00047",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "2000",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "Autismus-Spektrum-Störung"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Pflegeleistungen gemäss Art. 7 KLV (nicht aufgeschlüsselt; laut Gericht kommt nur Grundpflege in Frage)"
+  ],
+  "gestrichene_handlungen": [
+   "sämtliche von der Mutter erbrachten Pflegeleistungen (vollständige Ablehnung der Kostenübernahme, ohne Minutenangabe)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine (weder für die Krankenpflege anerkanntes Diplom noch zweijährige praktische Tätigkeit)",
+   "erwerbssituation": "Anstellung als Pflegerin bei einer neu gegründeten Spitex-GmbH geplant; sonstige Erwerbstätigkeit nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt (Gericht: Mittellosigkeit des Beschwerdeführers und seiner Mutter ergibt sich aus den Akten)"
+  },
+  "weitere_helfende": "Assistenzpersonal",
+  "verweis_auf_alternative": "nein (Kasse verlangte eine Ausbildung z. B. als Pflegefachfrau; Gericht: verrechenbar nur, was aussenstehende Spitex-Angestellte kosten würden)",
+  "datum_erste_verfuegung_oder_kuerzung": "2017-04-11",
+  "datum_einspracheentscheid": "2017-06-12",
+  "datum_urteil_laut_text": "2017-08-31",
+  "verstorben_waehrend_verfahren": "nein",
+  "zitat_lage": "Der im Jahr 2000 geborene A.______ leidet an einer Autismus-Spektrum-Störung. Er lebt zu Hause und wird durch seine Mutter, B.______, und durch Assistenzpersonal betreut und gepflegt.",
+  "zitat_fundstelle": "I. 1.1",
+  "unsicherheiten": "Erste Ablehnung war ein Schreiben vom 11.04.2017, die förmliche Verfügung datiert vom 09.05.2017. Urteil enthält keine Einschränkungen, keine einzelnen Pflegehandlungen und keinen Umfang. «Assistenzpersonal» deutet auf einen Assistenzbeitrag hin, genannt wird er nicht. Dass gesundheitliche Beeinträchtigungen Pflege nach Art. 7 KLV erfordern, ist Vorbringen des Beschwerdeführers (E. II.2.1). Kategorie: Autismus hier als Entwicklungsstörung eingeordnet (Geburtsgebrechen im Urteil nicht erwähnt)."
+ },
+ "2": {
+  "nr": 2,
+  "docket": "VG.2018.00092",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "autistische Störung (gemäss eigenen Angaben)",
+   "Fragiles-X-Syndrom (gemäss Bericht der behandelnden Ärztin)",
+   "mittelschwerer Autismus (gemäss vertrauensärztlicher Beurteilung)"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "im Urteil nicht konkret beschrieben; Gericht hält fest, dass er «selber essen und trinken kann»"
+  ],
+  "pflegehandlungen_gesamt": [
+   "tägliche Körperpflege (Nrn. 10101-10105)",
+   "Rasur",
+   "Schneiden der Fingernägel",
+   "Schneiden der Zehennägel",
+   "Hilfe An- und Auskleiden",
+   "beim Trinken unterstützen",
+   "beim Essen helfen",
+   "Erarbeiten und Einüben einer angepassten Tagesstruktur (psychiatrische Grundpflege)",
+   "Trainieren der sozialen Kontaktaufnahme und der Gestaltung von Beziehungen",
+   "Aktivitätsaufbau Schultag bzw. Wochenende/Ferien",
+   "Unterstützung beim Einsatz von Orientierungshilfen und Sicherheitsmassnahmen"
+  ],
+  "gestrichene_handlungen": [
+   "Gesamt: 50 Stunden Grundpflege pro Monat statt der beantragten knapp 868 Stunden pro Quartal",
+   "psychiatrische Grundpflege ganz gestrichen: Nrn. 10005 (Tagesstruktur), 10006 (soziale Kontaktaufnahme), 10007 (Aktivitätsaufbau), 10016 (Orientierungshilfen)",
+   "Rasur: dreimal pro Woche statt täglich",
+   "Fingernägel und Zehennägel schneiden: fünf statt zehn Minuten",
+   "An-/Auskleiden: Ankleiden in Körperpflege enthalten, Auskleiden zehn Minuten pro Tag",
+   "beim Essen/Trinken helfen: von 30 auf 15 Minuten dreimal täglich"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "seit seiner Geburt (Vorbringen der Beschwerde: Mutter betreue ihn seit Geburt)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine pflegerische Ausbildung (Mutter; laut Kasse und Gericht nicht Fachpersonal)",
+   "erwerbssituation": "Anstellung als Pflegerin bei einer neu gegründeten GmbH (Spitex-Organisation), eigens für die Pflege des Sohnes",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Assistenzpersonal (betreut und pflegt ihn neben der Mutter)",
+  "verweis_auf_alternative": "ja: Gericht hält fest, psychiatrische Grundpflege müsse durch geschultes Fachpersonal und nicht durch Angehörige erbracht werden; kein Verweis auf Heim",
+  "datum_erste_verfuegung_oder_kuerzung": "2018-06-26",
+  "datum_einspracheentscheid": "2018-08-14",
+  "datum_urteil_laut_text": "2018-11-15",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "leidet gemäss eigenen Angaben an einer autistischen Störung, gemäss dem Bericht der behandelnden Ärztin, Dr. med. D.______ vom 30. April 2018 an einem Fragilen-X-Syndrom. Er lebt zu Hause und wird durch seine Mutter, B.______, sowie durch Assistenzpersonal betreut und gepflegt.",
+  "zitat_fundstelle": "I. 1.1",
+  "unsicherheiten": "Geburtsjahr im Text geschwärzt («[…]»); Alter nicht bestimmbar (Hinweise «Schultag» und «Rasur» lassen keine sichere Einordnung zu). Diagnose uneinheitlich (eigene Angaben/Ärztin/Vertrauensärztin); Gericht lässt offen, ob somatisch oder psychisch. «Seit Geburt» ist Beschwerdevorbringen. Eine frühere Verfügung vom 9. Mai 2017 (vollständige Ablehnung, Einspracheentscheid 12. Juni 2017) betraf ein Vorverfahren (VG.2017.00047); hier erfasst ist die Kürzungsverfügung der strittigen Periode. Text datiert die Beschwerdeantwort der Kasse auf «9. Oktober 2019» (nach dem Urteil, offenbar Verschrieb). Ob Assistenzpersonal über einen IV-Assistenzbeitrag finanziert ist, steht nicht im Urteil."
+ },
+ "3": {
+  "nr": 3,
+  "docket": "VG.2018.00132",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Paraplegie"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Massnahmen der Grundpflege (einzelne Handlungen im Urteil nicht fallbezogen aufgezählt)",
+   "Massnahmen der Untersuchung und der Behandlung (Behandlungspflege, nicht näher bezeichnet)",
+   "Massnahmen der Abklärung, Beratung und Koordination"
+  ],
+  "gestrichene_handlungen": [
+   "Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV) durch den Ehemann: vollständig abgelehnt, keine Minutenangabe",
+   "Abklärung, Beratung und Koordination: 4,53 Stunden für 1.1.2017–30.6.2018 übernommen (ob gekürzt, nicht genannt)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "Paraplegie seit Dezember 2016",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine pflegerische Ausbildung (unbestritten)",
+   "erwerbssituation": "Ehemann; seit 1. Januar 2017 von der Spitex-GmbH als Pflegehilfsperson im Stundenlohn angestellt, ausschliesslich für Pflege- und Behandlungsleistungen an der Ehefrau",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Angestellte der Spitex; Hausarzt, Spitex und Spitex-GmbH überwachen die Pflege des Ehemanns",
+  "verweis_auf_alternative": "Kasse (Parteivorbringen): einfach durchzuführende behandlungspflegerische Massnahmen seien dem Ehepartner im Rahmen der ehelichen Beistandspflicht zumutbar; kein Verweis auf Heim",
+  "datum_erste_verfuegung_oder_kuerzung": "2018-03-12",
+  "datum_einspracheentscheid": "2018-12-07",
+  "datum_urteil_laut_text": "2019-02-07",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "leidet seit Dezember 2016 an einer Paraplegie. Sie lebt zu Hause und wird durch ihren Ehemann, C.______, sowie durch Angestellte der Spitex betreut und gepflegt.",
+  "zitat_fundstelle": "I. 1.",
+  "unsicherheiten": "Grundpflege wurde «im geforderten Rahmen» übernommen; strittig war nur die Behandlungspflege. Konkrete Einschränkungen und einzelne Pflegehandlungen nennt das Urteil nicht (die Aufzählung in E. II/4.2 ist die abstrakte KLV-Definition). Geburtsdatum geschwärzt. 12.03.2018 = formlose Mitteilung, anfechtbare Verfügung am 01.05.2018. «Stabile Pflegesituation» und Instruktion des Ehemanns sind Vorbringen der Beschwerde; festgestellt ist, dass ein Arzt am 17.01.2018 gute Pflegequalität attestierte."
+ },
+ "12": {
+  "nr": 12,
+  "docket": "VG.2022.00045",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "zystische Fibrose (Geburtsgebrechen Nr. 459 GgV)"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "rund um die Uhr hilfs-, betreuungs-, pflege- und überwachungsbedürftig (Vorbringen der Beschwerde, vom Gericht nicht festgestellt)",
+   "keinerlei krankheitsbedingte Selbständigkeits- oder Mobilitätseinschränkungen (Vorbringen der Kasse, vom Gericht nicht festgestellt)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "tägliche Inhalation",
+   "körperliche Aktivierung",
+   "Einnahme von Medikamenten und Pankreasenzymen"
+  ],
+  "gestrichene_handlungen": [
+   "Grundpflege: gar nicht vergütet (Mitteilung vom 06.04.2021), keine Minutenangabe",
+   "Behandlungspflege: zunächst teilweise vergütet, Kostengutsprache danach widerrufen (Verfügungen 18.05.2021 bzw. 22.12.2021)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "ja_grad_nicht_genannt",
+  "weitere_leistungen": [
+   "Hilflosenentschädigung im Sonderfall (IV)",
+   "IV: Kosten der Kinderspitex im Jahr 2018 (ohne Anerkennung einer Rechtspflicht)",
+   "IV ab 2019: Leistungen der Spitex Glarus Nord in akuten Infektsituationen"
+  ],
+  "pflegebeduerftig_seit": "seit Geburt (laut Beschwerde; Geburtsgebrechen)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "ausgebildete Pflegefachfrau",
+   "erwerbssituation": "Mutter; zur Pflege des Sohnes von der Spitex-GmbH angestellt. Laut Beschwerde würde sie ohne die Pflege vollzeitig als Pflegefachfrau arbeiten; laut Kasse ist kein Lohnausfall nachgewiesen (Parteibehauptungen)",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Eltern erbringen laut Beschwerde weitere behinderungsbedingte Versorgungsleistungen; Spitex Glarus Nord in akuten Infektsituationen (zulasten der IV)",
+  "verweis_auf_alternative": "Kasse: Leistungen seien durch HE der IV gedeckt oder von den Eltern im Rahmen der familienrechtlichen Beistands- und Unterstützungspflicht zu erbringen; es bestehe kein Bedarf an einer externen Spitex-Pflegeperson. Gericht: pauschaler Verweis auf elterliche Fürsorgepflicht unzulässig",
+  "datum_erste_verfuegung_oder_kuerzung": "2021-04-06",
+  "datum_einspracheentscheid": "2022-06-21",
+  "datum_urteil_laut_text": "2022-11-24",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "leidet an zystischer Fibrose (Geburtsgebrechen Nr. 459 gemäss Anhang der Verordnung über Geburtsgebrechen vom 9. Dezember 1995 [GgV]). Er bezieht eine Hilflosenentschädigung im Sonderfall.",
+  "zitat_fundstelle": "I. 1.1",
+  "unsicherheiten": "Alter: Geburtsdatum geschwärzt; «kind_unter_18» stützt sich auf Kinderspitex (2018), Vertretung durch B. und C., «altersentsprechende Betreuung» und «elterliche Fürsorgepflicht» – ein Alter nennt das Urteil nicht. Pflegebedarf ist gerade strittig und laut Gericht ungenügend abgeklärt (Rückweisung); die Einschränkungen sind reine Parteivorbringen. Die drei Pflegehandlungen stammen aus dem Vorbringen der Kasse (E. II/2.2); welche Handlungen abgerechnet wurden, listet das Urteil nicht. Intensivpflegezuschlag wird nur in der Argumentation erwähnt, ein Bezug ist nicht festgestellt. Strittige Periode ab 01.01.2019."
+ },
+ "13": {
+  "nr": 13,
+  "docket": "VG.2023.00010",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Fragiles-X-Syndrom",
+   "Autismus-Spektrum-Störung (vom Chefarzt Psychiatrie genannt, laut Gericht nicht validiert)",
+   "taktile kinästhetische Wahrnehmungsstörung (vom Chefarzt Psychiatrie genannt, laut Gericht nicht validiert)"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "psychiatrische Grundpflegeleistungen nach Art. 7 Abs. 2 lit. c Ziff. 2 KLV (einzelne Handlungen nicht genannt)"
+  ],
+  "gestrichene_handlungen": [
+   "psychiatrische Grundpflege vollständig abgelehnt: 102'075 Minuten für 01.04.–30.09.2022"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine Qualifikation als Fachperson für psychiatrische Grundpflege (laut Gericht «offensichtlich nicht»)",
+   "erwerbssituation": "Mutter; zur Betreuung und Pflege bei der Spitex-GmbH angestellt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Er wird «unter anderem» durch die Mutter betreut; laut Beschwerde weitere angestellte Assistenzpersonen",
+  "verweis_auf_alternative": "Kein ausdrücklicher Verweis auf Heim; Kasse und Gericht: psychiatrische Grundpflege nur durch geschultes Fachpersonal. Die Beschwerde macht geltend, die Verweigerung zwinge ihn in ein stationäres Versorgungsfeld (Parteivorbringen)",
+  "datum_erste_verfuegung_oder_kuerzung": "2022-10-06",
+  "datum_einspracheentscheid": "2022-12-28",
+  "datum_urteil_laut_text": "2023-05-04",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "dass er an einem Fragilen-X-Syndrom, an einer Autismus-Spektrum-Störung sowie an einer taktilen kinästhetischen Wahrnehmungsstörung leide. Es wurden jedoch keine eingehenden Untersuchungen oder vertiefte Testungen durchgeführt",
+  "zitat_fundstelle": "II. 4.1.2",
+  "unsicherheiten": "Alter nicht bestimmbar (Geburtsdatum geschwärzt; vertreten durch B.; als mittellos bezeichnet). Es geht um psychiatrische, nicht um somatische Grundpflege; die Kasse lehnte ganz ab (keine Kürzung einzelner Handlungen). Konkrete Einschränkungen und Pflegealltag beschreibt das Urteil nicht. «Somatische Grunderkrankung mit psychiatrischen Folgeerscheinungen» ist Vorbringen der Beschwerde. Kategorie «psychisch» nicht gesetzt, weil das Gericht eine validierte psychiatrische Diagnose verneint."
+ },
+ "14": {
+  "nr": 14,
+  "docket": "S 2023 137",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1933",
+  "altersgruppe": "80_plus",
+  "diagnosen": [],
+  "diagnose_kategorie": [
+   "nicht_genannt"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Hilfe bei der Mund- und Körperpflege",
+   "Hilfe beim An- und Auskleiden",
+   "Hilfe beim Essen und Trinken",
+   "Begleitung beim Toilettengang",
+   "Hilfestellung beim Gehen"
+  ],
+  "gestrichene_handlungen": [
+   "sämtliche Grundpflegeleistungen der Ehefrau (165 Min. täglich; 15'863 Min. bzw. 264.383 Std. für 27.09.–26.12.2022), weil sie das AHV-Alter erreicht hatte"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "ab 27. September 2022 von der Ehefrau zu Hause pflegerisch betreut (Beginn der Pflegebedürftigkeit nicht genannt)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "geboren 1953; 69 Jahre alt im Zeitpunkt der Leistungen",
+   "ausbildung": "Diplom Pflegehelferin SRK (6. Dezember 2007)",
+   "erwerbssituation": "im AHV-Alter; von der Spitex-AG als pflegende Angehörige angestellt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt (Ärztin wusste, dass die Grundpflege «mehrheitlich» von der Angehörigen erbracht wird; wer den Rest leistet, bleibt offen)",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2023-07-24",
+  "datum_einspracheentscheid": "2023-11-10",
+  "datum_urteil_laut_text": "2024-02-27",
+  "verstorben_waehrend_verfahren": "ja",
+  "zitat_lage": "Diese umfassten namentlich Hilfe bei der Mund- und Körperpflege, beim An- und Auskleiden, beim Essen und Trinken, Begleitung beim Toilettengang und Hilfestellung beim Gehen. Die täglich zu erbringenden Leistungen umfassten 165 Minuten",
+  "zitat_fundstelle": "E. 6.8",
+  "unsicherheiten": "Keine Diagnose im Urteil («medizinischer Sachverhalt … unbestritten»). Todesdatum anonymisiert; die Pflegedokumentation endet im November 2022, die Verfügung erging am 24.07.2023 – der Tod lag demnach wohl vor Verfügung und Gerichtsverfahren, Beschwerde führte die Erbengemeinschaft (Ehefrau). Vor der Verfügung gab es «mehrfach» undatierte Ablehnungen; erfasst ist das Verfügungsdatum."
+ },
+ "15": {
+  "nr": 15,
+  "docket": "SVR 2022 1",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Polymyalgia rheumatica",
+   "Schmerzen in den Fingern",
+   "Demenz (auch: «beginnende Demenz»)",
+   "starke Seheinschränkung bzw. Schwäche",
+   "Schulter- und Knieschmerz",
+   "Mangelernährung und Dehydration"
+  ],
+  "diagnose_kategorie": [
+   "demenz",
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "beginnend demente, fragile Kundin",
+   "schwer sehbehindert",
+   "Gangunsicher",
+   "teilweise Stuhlinkontinent",
+   "braucht Unterstützung in der Körperpflege, Trinken, Gehen",
+   "erhöhte Sturzgefahr",
+   "musste wegen ihrer Demenz an das Trinken erinnert werden",
+   "«zeitliche Verwirrnis» am Abend (Pflegeverlauf 5. April 2022)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Unterstützung bei der Morgen- und Abendtoilette",
+   "1x wöchentlich Duschen",
+   "1x wöchentlich Haare waschen",
+   "1x wöchentlich Nagelpflege",
+   "Unterstützung beim An- und Ausziehen 2x täglich",
+   "Begleitung und Anleitung beim Gehen (Gehtraining)",
+   "Essen und Trinken anbieten, zerkleinern, Trinkmenge beachten",
+   "Hautpflege (Haut eincremen)"
+  ],
+  "gestrichene_handlungen": [
+   "sämtliche Rechnungen Januar bis August 2022 (Abklärung/Beratung und Grundpflege) nicht bezahlt; keine Kürzung einzelner Handlungen nach Minuten",
+   "Kasse bezweifelte u. a. die Unterstützung beim Trinken (Patientin habe beim Audit selbstständig getrunken)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt (Spitex-Leistungen der Klägerin ab Oktober 2021)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "Angehörige nur als Ablöse: Sohn laut Klägerin seit 15.10.2021 in Ausbildung zum Pflegehelfer (Nachweis nicht unterzeichnet, vom Gericht nicht anerkannt); Tochter mit Zertifikat des Roten Kreuzes vom 15.12.1999 (60 Std. Kurs, 120 Std. Praktikum)",
+   "erwerbssituation": "nicht_genannt (laut Klägerin mündliche Vereinbarungen zwischen der Patientin und ihren Nachkommen, analog den Arbeitsverträgen der Pflegehelferinnen)",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Hauptpflege durch vier nacheinander bei der Patientin wohnende Pflegehelferinnen (Live-in, von der Patientin angestellt und an den Spitex-Verein «verliehen»); Alters- und Pflegeheim für zwei Wochen ab 21. Februar 2022",
+  "verweis_auf_alternative": "nein (die Kasse zog die tiefere Einstufung im Alters- und Pflegeheim – Pflegestufe 2 = 33 Pflegeminuten – als Vergleich heran)",
+  "datum_erste_verfuegung_oder_kuerzung": "nicht_genannt",
+  "datum_einspracheentscheid": "nicht_genannt",
+  "datum_urteil_laut_text": "2024-03-22",
+  "verstorben_waehrend_verfahren": "ja",
+  "zitat_lage": "beginnend demente, fragile Kundin, schwer sehbehindert, Gangunsicher, teilweise Stuhlinkontinent, braucht Unterstützung in der Körperpflege, Trinken, Gehen, hat Liv-In Betreuung",
+  "zitat_fundstelle": "E. 5.4.3.",
+  "unsicherheiten": "Kein klassischer Kürzungsfall: Schiedsgerichtsklage eines Spitex-Vereins gegen die Kasse (keine Verfügung, kein Einspracheentscheid); die Kasse verweigerte die Zahlung ganz, das Gericht wies die Klage wegen ungenügender Aufsicht über die Pflegenden ab. Gepflegt haben überwiegend Live-in-Pflegehelferinnen, Angehörige nur als Ablöse; Leistungen der Tochter sind laut Gericht nicht ausgewiesen. Alter nicht genannt (nur Alters- und Pflegeheim, Vereinszweck «gesundes Altern»), darum «unklar» und Kategorie altersgebrechlichkeit_multimorbid nicht gesetzt. Todesdatum nicht genannt («in der Zwischenzeit verstorbenen»). Die Kasse behauptete, die Patientin sei wesentlich selbstständiger; das Gericht folgte dem nicht. Faktisches 24-Stunden-Betreuungsmodell erwähnt, Pflegehandlungen nachts aber nicht. Gelesen: Sachverhalt Ziff. 1–21 und E. 5.3.5.5–5.4.6 vollständig; E. 1–5.3.5.4 (Zuständigkeit, Personalverleih) nur per Stichwortsuche."
+ },
+ "21": {
+  "nr": 21,
+  "docket": "VG.2024.00033",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Autismusspektrumstörung (seit Geburt)"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "von der Invalidenversicherung anerkannte schwere Hilflosigkeit (Beschwerdevorbringen)",
+   "faktisch 24-stündige Versorgungsbedürftigkeit (Beschwerdevorbringen)"
+  ],
+  "pflegehandlungen_gesamt": [],
+  "gestrichene_handlungen": [
+   "keine einzelnen Handlungen; Kürzung wegen Überentschädigung im Umfang von 49.18 Stunden pro Quartal (Abzug von 44 % der Hilflosenentschädigung von den unbestrittenen Pflegekosten)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "schwer",
+  "weitere_leistungen": [
+   "Ergänzungsleistungen"
+  ],
+  "pflegebeduerftig_seit": "seit Geburt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Mutter, bei einer GmbH (Spitex-Organisation) angestellt (laut Beschwerde Teilanstellung); laut Kasse hat sie nie gearbeitet; laut Gericht nicht dargelegt, dass sie vor der Geburt erwerbstätig war",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Vater erwähnt (laut Kasse hat er sein Pensum nie zur Erbringung von Pflegeleistungen reduziert); Pflege durch ihn nicht festgestellt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-02-14",
+  "datum_einspracheentscheid": "2024-04-18",
+  "datum_urteil_laut_text": "2024-09-19",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "leidet seit Geburt an einer Autismusspektrumstörung. Seine Mutter erbringt pflegerische Leistungen und ist zu diesem Zweck bei der B.______GmbH angestellt.",
+  "zitat_fundstelle": "I. 1.1",
+  "unsicherheiten": "Geburtsdatum geschwärzt; Alter nicht bestimmbar (Beschwerde erwähnt «schulfreie Tage»). Grad der Hilflosigkeit («schwer») und «rund um die Uhr»-Betreuung stammen aus dem Beschwerdevorbringen; das Gericht stellt den Grad nicht eigens fest, rechnet aber die Hilflosenentschädigung an. Laut Beschwerde kein Assistenzbeitrag. Pflegebedarf war unbestritten, einzelne Pflegehandlungen nennt das Urteil nicht. Gericht spricht von «Fall eines Geburtsgebrechens»."
+ },
+ "22": {
+  "nr": 22,
+  "docket": "VG.2024.00060",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Dysmorphie-Syndrom"
+  ],
+  "diagnose_kategorie": [
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "in ihren Aktivitäten des täglichen Lebens auf Hilfe Dritter angewiesen"
+  ],
+  "pflegehandlungen_gesamt": [],
+  "gestrichene_handlungen": [
+   "keine einzelnen Handlungen; Kasse begrenzt auf 35 Stunden pro Monat und vergütet erst ab 16.03.2023 statt ab 16.12.2022; Gericht verschiebt den Beginn (reformatio in peius) auf die ärztliche Anordnung vom 27.04.2023"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Mutter, bei der Spitex-GmbH als pflegende Angehörige angestellt; Pensum nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Wohngruppe unter der Woche; am Wochenende Betreuung durch die Eltern",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2023-11-28",
+  "datum_einspracheentscheid": "2024-06-18",
+  "datum_urteil_laut_text": "2024-11-21",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "leidet an einem Dysmorphie-Syndrom, weshalb sie in ihren Aktivitäten des täglichen Lebens auf Hilfe Dritter angewiesen ist. Sie lebt unter der Woche in einer Wohngruppe und wird am Wochenende von ihren Eltern betreut.",
+  "zitat_fundstelle": "E. I/1.1",
+  "unsicherheiten": "Geburtsdatum im Urteil geschwärzt, Alter nicht bestimmbar (Hinweis: die KESB genehmigte den Pflegedienstleistungsauftrag). Das Urteil bezeichnet das Dysmorphie-Syndrom nicht als Geburtsgebrechen, daher Kategorie «anderes». Keine Angaben zu einzelnen Pflegehandlungen; Streit betrifft nur den Beginn der Leistungspflicht. Pflegebeginn 01.01.2023 ist Beschwerdevorbringen."
+ },
+ "23": {
+  "nr": 23,
+  "docket": "KV 2023/8",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "primär progrediente Multiple Sklerose mit beinbetonter, spastischer Tetraparese",
+   "Lymphabflussstörung Bein links",
+   "Trigeminusneuralgie links",
+   "Einschränkung in Grob- und Feinmotorik"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [
+   "beinbetonte, spastische Tetraparese",
+   "Einschränkung in Grob- und Feinmotorik",
+   "benötigt Unterstützung für die Körperpflege",
+   "benötigt Unterstützung beim An- und Auskleiden",
+   "benötigt Unterstützung beim Toilettengang",
+   "benötigt Unterstützung beim Aufstehen sowie Hinlegen"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Körperpflege",
+   "Intimpflege im Bett oder am Lavabo",
+   "Unterstützung beim Duschen und Haare waschen",
+   "An- und Auskleiden",
+   "Begleitung beim Toilettengang",
+   "Aufstehen oder Hinlegen mit Hilfe",
+   "Kompressionsstrümpfe/-verband",
+   "Unterstützung beim Trinken",
+   "Fingernägel schneiden"
+  ],
+  "gestrichene_handlungen": [
+   "Beim Trinken unterstützen, 8 bzw. 10 Min./Tag (4 bzw. 5 x 2 Min.)",
+   "Fingernägel schneiden, 30 Min./Monat (2 x 15 Min.)",
+   "pauschal 30 Min./Tag (15 Std./Monat) wegen ehelicher Beistands-/Schadenminderungspflicht (unter Einschluss von Nägelschneiden und Trinken)",
+   "Grundpflege limitiert auf 2 Std./Tag bzw. 60 Std./Monat statt beantragter 76 Std. 14 Min. bis 87 Std. 49 Min./Monat",
+   "Abklärung/Beratung limitiert auf 45 Min./Monat statt 1 Std. 56 Min. bzw. 2 Std. 26 Min./Monat",
+   "Sistierung aller Leistungen ab August 2022",
+   "Kürzung um 40 % wegen Hilflosenentschädigung ab 01.12.2022 eröffnet (nicht Streitgegenstand)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "schwer",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt (Beginn der Pflege durch die Spitex/Ehefrau: 7. Oktober 2019)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt (Kasse erwähnt ein «Pflegecoaching» durch die Spitex)",
+   "erwerbssituation": "Ehefrau; bei der privaten Spitex angestellt (Arbeitsvertrag), lebt mit dem Versicherten zusammen; Stundenlohn nicht offengelegt",
+   "eigene_gesundheit_belastung": "«fiel zwar als pflegende Person im Jahr 2023 kurzzeitig aus» (Grund nicht genannt)"
+  },
+  "weitere_helfende": "Pflegefachfrauen/Betreuungspersonen der privaten Spitex: gelegentlich; ab September 2022 vorläufig morgendliche und abendliche Einsätze; seit 7. Februar 2023 gewisse Einsätze durch diplomierte Pflegefachfrau",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2019-12-16",
+  "datum_einspracheentscheid": "2023-07-07",
+  "datum_urteil_laut_text": "2024-12-03",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Aufgrund einer primär progredienten Multiplen Sklerose mit beinbetonter, spastischer Tetraparese, Lymphabflussstörung Bein links, Trigeminusneuralgie links sowie Einschränkung in Grob- und Feinmotorik ist er auf Pflegeleistungen der Spitex angewiesen.",
+  "zitat_fundstelle": "Sachverhalt, erster Absatz (im Text ohne Ziffer)",
+  "unsicherheiten": "Alter nicht genannt. HE «schweren Grades mit Besitzstandsgarantie» laut Auskunft der IV-Stelle vom 16.11.2022; ob ein Assistenzbeitrag bezogen wird, ist offen (Kasse verlangte Auskunft). Erste Kürzungsmitteilung 16.12.2019 (50 Std. 47 Min. statt 63 Std. 59 Min./Monat), später teils zurückgenommen; die im Verfahren massgebliche Verfügung datiert vom 20.04.2023, Streitgegenstand nur 01.07.2022–30.04.2023. Die von der Spitex am 16.09.2022 gemeldete Verschlechterung des Allgemeinzustands hält das Gericht für nicht belegt. Erwägungen sind in der Extraktion nicht nummeriert (intern als E. 3.x zitiert)."
+ },
+ "24": {
+  "nr": 24,
+  "docket": "SV1 2024 117",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "geboren 1956",
+  "altersgruppe": "65_bis_79",
+  "diagnosen": [
+   "inkomplette Tetraplegie"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Ganz- und Teilwäsche",
+   "Hilfe beim An- und Ausziehen",
+   "Anbringen von Kompressionsstrümpfen",
+   "Hilfe betreffend Urinflasche",
+   "Begleitung beim Toilettengang",
+   "Lagerung im Bett",
+   "Hilfe beim Aufstehen oder Hinlegen",
+   "aktive/passive Bewegungsunterstützung",
+   "Anbringen bzw. Entfernung von Hilfsmitteln"
+  ],
+  "gestrichene_handlungen": [
+   "Hilfe beim An-/Auskleiden, 5 Min./Tag",
+   "Hilfsmittel anbringen/entfernen, 21 Min./Tag",
+   "Lagerung im Bett, 9 Min./Tag",
+   "(zusammen 35 Min./Tag unter dem Titel Schadenminderungspflicht)",
+   "Begrenzung der gesamten Grundpflege auf sechs statt sieben Tage pro Woche (Kürzung um 1/7)",
+   "Pflegeanleitung/Beratung der Angehörigen (Pos. 10909), 15 Min./Monat – nicht mehr strittig",
+   "Gesamt: 193 Std. 56 Min. pro Quartal beantragt, 131 Std. 5 Min. laut Einspracheentscheid"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "ja_grad_nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Lebenspartnerin, von der Spitex-GmbH als pflegende Angehörige angestellt; betreut soweit bekannt ausschliesslich den Beschwerdeführer; gemeinsamer Haushalt",
+   "eigene_gesundheit_belastung": "Kasse: hohe Belastung ohne freien Tag pro Woche gefährde auf Dauer die Pflegequalität; Gericht: nicht abgeklärt, bei 96 bzw. 132 Min. Pflege pro Tag nicht offensichtlich"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-04-17",
+  "datum_einspracheentscheid": "2024-12-04",
+  "datum_urteil_laut_text": "2025-03-24",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Diese umfassen die Ganz- und Teilwäsche des Beschwerdeführers, die Hilfe beim An- und Ausziehen, das Anbringen von Kompressionsstrümpfen, die Hilfe betreffend Urinflasche, die Begleitung beim Toilettengang, die Lagerung im Bett, die Hilfe beim Aufstehen oder Hinlegen, die aktive/passive Bewegungsunterstützung",
+  "zitat_fundstelle": "E. 8.5",
+  "unsicherheiten": "Diagnose nur «seinen Angaben zufolge» (Sachverhalt A), vom Gericht nicht eigens festgestellt. Hilflosenentschädigung nur indirekt belegt (Kasse anerkennt, dass beim Zusammentreffen mit der IV-Hilflosenentschädigung keine Überentschädigung vorliegt); Grad nicht genannt. «Geringes Arbeitspensum» der Lebenspartnerin ist Beschwerdevorbringen. 17.04.2024 ist eine gekürzte Kostengutsprache, die formelle Verfügung datiert vom 02.10.2024. Konkrete Einschränkungen beschreibt das Urteil nicht."
+ },
+ "25": {
+  "nr": 25,
+  "docket": "KV.2024.00049",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "1942",
+  "altersgruppe": "80_plus",
+  "diagnosen": [],
+  "diagnose_kategorie": [
+   "nicht_genannt"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Grundpflegeleistungen (nicht einzeln genannt)"
+  ],
+  "gestrichene_handlungen": [
+   "keine einzelnen Handlungen; Limite monatlich Tarif A 0.28 Stunden, Tarif B 0 Stunden, Tarif C 30 Stunden",
+   "anerkannt nur 60 Minuten Arbeitsleistung täglich (Begründung der Kasse: Pflegerapporte ungenügend, keine Arbeitsrapporte)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Schwiegertochter, Angestellte einer GmbH (Organisation der Krankenpflege und Hilfe zu Hause)",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2023-10-30",
+  "datum_einspracheentscheid": "2024-06-07",
+  "datum_urteil_laut_text": "2025-03-31",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "geboren 1942, welche zu Hause lebte und dort von einer Angehörigen (Schwiegertochter), Y.___, als Angestellte der Z.___ GmbH, A.___, betreut und gepflegt wurde",
+  "zitat_fundstelle": "Sachverhalt 1.1",
+  "unsicherheiten": "Urteil enthält keinerlei Gesundheitsangaben (Nichteintreten/Nichtigkeit aus Zuständigkeitsgründen). Erste Kürzung war ein Schreiben vom 30. Oktober 2023; formelle Verfügung erst am 29. Januar 2024. Einspracheentscheid im Text überwiegend 7. Juni 2024, an einer Stelle (Sachverhalt 2.1) «28. Juni 2023». Vergangenheitsform «lebte»/«gepflegt wurde»: ob verstorben oder umgezogen, sagt das Urteil nicht. IV-Akten wurden beigezogen, Inhalt nicht wiedergegeben."
+ },
+ "30": {
+  "nr": 30,
+  "docket": "VBE.2024.560",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "2016",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "frühkindliche Autismus-Spektrum-Störung mit einer schweren globalen Entwicklungsstörung",
+   "Geburtsgebrechen Ziff. 405 GgV-EDI"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "mittelschwere Hilflosigkeit"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Grundpflegeleistungen (366.17 Stunden für 01.11.2023–30.04.2024, im Urteil nicht aufgeschlüsselt)",
+   "Massnahmen der Abklärung und Beratung (7.17 Stunden)"
+  ],
+  "gestrichene_handlungen": [
+   "sämtliche Grundpflegeleistungen (366.17 Std.) und Abklärung/Beratung (7.17 Std.) abgelehnt: Abzüge für Hilflosenentschädigung, familiäre Schadenminderungspflicht und altersbedingten Sowieso-Aufwand; verbleibend 21 Min. pro Tag, laut Kasse zu wenig für den Beizug einer externen Fachperson"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "mittel",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "liess sich 2023 bei einer Spitexorganisation anstellen, um die Pflegeleistungen vergütet zu erhalten; sonstige Erwerbstätigkeit nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein (Kasse: der Restaufwand von 21 Min. pro Tag rechtfertige den Beizug einer externen Fachperson nicht)",
+  "datum_erste_verfuegung_oder_kuerzung": "2023-12-15",
+  "datum_einspracheentscheid": "2024-10-31",
+  "datum_urteil_laut_text": "2025-08-21",
+  "verstorben_waehrend_verfahren": "nein",
+  "zitat_lage": "Er leidet an einer frühkindlichen Autismus-Spektrum-Störung mit einer schweren globalen Entwicklungsstörung respektive am Geburtsgebrechen Ziff. 405 GgV-EDI und hat in diesem Zusammenhang Anspruch auf eine auf einer mittelschweren Hilflosigkeit beruhende Hilflosenentschädigung für Minderjährige der Eidgenössischen Invalidenversicherung (IV).",
+  "zitat_fundstelle": "Sachverhalt Ziff. 1",
+  "unsicherheiten": "Erste Ablehnung: Schreiben vom 15.12.2023, bestätigt mit Verfügung vom 30.01.2024, ersetzt durch Verfügung vom 17.04.2024. Die Daten im Sachverhalt sind in sich unstimmig (Einsprache vom 14.05.2024 gegen die Verfügung vom 30.01.2024, die schon am 17.04.2024 aufgehoben wurde; Pflegeverordnung einmal 24.10.2023, einmal 24.10.2024). Keine einzelnen Pflegehandlungen oder Einschränkungen genannt. August–Oktober 2023 wurden noch bezahlt. Vertreten durch zwei gesetzliche Vertreter; ob beide Eltern pflegen, steht nicht im Urteil."
+ },
+ "31": {
+  "nr": 31,
+  "docket": "36.2025.26",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nata nel 2007",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "encefalopatia epilettica con / su tetraparesi spastica",
+   "piede piatto su mutazione del gene KCNQ2",
+   "infermità congenita n. 390 OIC"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung",
+   "neurologisch"
+  ],
+  "einschraenkungen": [
+   "Einschränkungen in der Motorik, Koordination und Artikulation",
+   "Hilfe in allen Dingen des täglichen Lebens und einer Supervision",
+   "Sie kann gehen, wobei mit der Fussoperation aktuell eher unsicher",
+   "Essen mit Supervision",
+   "Anziehen und Körperhygiene nur mit Hilfe",
+   "bisogno di un aiuto regolare, non conforme all’età, in tutti gli ambiti della vita"
+  ],
+  "pflegehandlungen_gesamt": [
+   "igiene completa",
+   "igiene parziale",
+   "igiene intima",
+   "lavare i capelli",
+   "taglio unghie mani e piedi",
+   "igiene del cavo orale / cura dei denti",
+   "aiuto a vestirsi/svestirsi",
+   "aiuto a bere",
+   "aiutare a mangiare",
+   "uso proteggi slip",
+   "accompagnamento al bagno",
+   "posizionamento dell'utente a letto",
+   "alzare o sdraiare con aiuto",
+   "aiuto alla deambulazione",
+   "applicare/rimuovere mezzi ausiliari",
+   "clistere (esami e cure)"
+  ],
+  "gestrichene_handlungen": [
+   "clistere, 27 min 1 x giorno – abgelehnt (fehlende Qualifikation der Mutter)",
+   "igiene parziale (104), 26 min – 1 x pro Woche abgezogen",
+   "igiene del cavo orale (112), 5 min – 2 statt 3 x pro Tag an Schultagen",
+   "aiuto a vestirsi/svestirsi (114), 15 min – 1 x pro Tag gestrichen",
+   "aiuto a bere (301), 5 min – 2 statt 3 x pro Tag an Schultagen",
+   "aiutare a mangiare (302) – 20 statt 30 min pro Mahlzeit, 2 statt 3 x an Schultagen",
+   "uso proteggi slip (413), 8 min 2 x giorno – abgelehnt",
+   "accompagnamento al bagno (419), 10 min – 3 statt 6 x pro Tag",
+   "posizionamento a letto (501), 8 min – 1 statt 2 x pro Tag",
+   "alzare o sdraiare con aiuto (503), 5 min 2 x giorno – abgelehnt",
+   "aiuto alla deambulazione (505), 8 min 3 x giorno – abgelehnt",
+   "applicare/rimuovere mezzi ausiliari (508) – 5 statt 10 min",
+   "istruzione (909) und coordinamento (912) – abgelehnt",
+   "nächtliche Einsätze ausgeschlossen",
+   "Gesamt cure di base: 503.04 Std. auf 259.26 Std. je 90 Tage"
+  ],
+  "nachtpflege": "ja",
+  "hilflosenentschaedigung": "schwer",
+  "weitere_leistungen": [
+   "supplemento per cure intensive (8 ore al giorno)",
+   "contributo per assistenza (30.42 unità di notte, 126.39 ore standard)",
+   "cure mediche AI per infermità congenita n. 390 OIC"
+  ],
+  "pflegebeduerftig_seit": "fin dalla tenera età (assegno per grandi invalidi dal 1° marzo 2021)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine Pflegefachausbildung (Behandlungspflege abgelehnt «per assenza qualifica madre»)",
+   "erwerbssituation": "Mutter, seit 2023 von der Spitex-Organisation als familiare curante angestellt; Pensum nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Vater; von den Eltern angestellte Dritte für Nacht- und Taghilfe (über contributo per assistenza); Fachpersonal der werktags besuchten Einrichtung (Name geschwärzt)",
+  "verweis_auf_alternative": "ja – Gericht: Versicherte bleibe frei, statt der Angehörigen eine externe Spitex beizuziehen; Kasse und Vertrauensärztin messen am Einsatz einer externen Spitex bzw. eines Instituts",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-03-14",
+  "datum_einspracheentscheid": "2025-05-07",
+  "datum_urteil_laut_text": "2025-09-15",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Unstrittig ist die krankheitsbedingte Invalidität durch Einschränkungen in der Motorik, Koordination und Artikulation. Aus den Aufzeichnungen geht hervor, dass RI 1 Hilfe in allen Dingen des täglichen Lebens und einer Supervision bedarf.",
+  "zitat_fundstelle": "consid. 2.10 (presa di posizione del medico fiduciario del 1° luglio 2025)",
+  "unsicherheiten": "Einschränkungen stammen aus der im Urteil zitierten Stellungnahme der Vertrauensärztin (Stand Juli 2025) und aus dem Einspracheentscheid, nicht aus eigenen Feststellungen des Gerichts. Nachtpflege: laut Beschwerde durch familienfremde Personen erbracht und nicht als Grundpflege verrechnet; die Kasse schloss Nachteinsätze aus. 14.03.2024 ist ein Mitteilungsschreiben, die formelle Verfügung datiert vom 05.09.2024. Erwägungen 2.1–2.9 (Zuständigkeit, Rechtsgrundlagen) und Teile der zitierten Beschwerdeantwort nur überflogen. Fussoperation ohne Datum."
+ },
+ "32": {
+  "nr": 32,
+  "docket": "S2 25 65",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "1932",
+  "altersgruppe": "80_plus",
+  "diagnosen": [
+   "multifaktorielle Gang- und Gleichgewichtsstörung",
+   "Diabetes Typ 2 (nur indirekt in E. 5.3 erwähnt)"
+  ],
+  "diagnose_kategorie": [
+   "altersgebrechlichkeit_multimorbid",
+   "herz_niere_stoffwechsel"
+  ],
+  "einschraenkungen": [
+   "multifaktorielle Gang- und Gleichgewichtsstörung"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche (inkl. Haare waschen)",
+   "Nagelschneiden (Fuss- und Fingernägel)",
+   "Zahnpflege",
+   "Hilfe beim An-/Auskleiden",
+   "Anziehen von Einlagen",
+   "Begleitung beim Toilettengang",
+   "Hilfe beim Aufstehen oder Hinlegen",
+   "monatliche Vitalzeichenkontrolle (Behandlungspflege)"
+  ],
+  "gestrichene_handlungen": [
+   "Behandlungspflege (Tarifstufe B, monatliche Vitalzeichenkontrolle): vollständig gestrichen, 90 Min. für die Verordnungsperiode",
+   "pauschal 30 Min./Tag wegen Schadenminderungs-/Beistandspflicht der Tochter (12 Std. 51 Min./Monat)",
+   "Nagelschneiden, 35 Min./Monat (Fussnägel 15 Min., Fingernägel 2 x 10 Min.) als «Bagatellleistung»",
+   "siebter Wochentag (Ruhetag nach Arbeitsgesetz): Grundpflege nur an sechs Tagen pro Woche",
+   "Begleitung im Haus (laut Kasse keine kassenpflichtige Leistung)",
+   "Ergebnis: 36.71 statt beantragter 55.14 Std./Monat (Tarifstufen B und C)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine pflegerische Ausbildung (unstrittig)",
+   "erwerbssituation": "Tochter; liess sich für die Pflege bei der Pflegeorganisation anstellen; wohnt «soweit bekannt» bei der Mutter und ist «rund um die Uhr verfügbar»",
+   "eigene_gesundheit_belastung": "Im Einzelfall nicht festgestellt. Kasse begründet den Ruhetag allgemein mit Burnout-Gefahr; Gericht: fehlende Ruhezeiten könnten die Pflegequalität beeinträchtigen, hier nicht abgeklärt"
+  },
+  "weitere_helfende": "eine weitere Betreuungsperson (laut Pflegeberichten)",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-04-24",
+  "datum_einspracheentscheid": "2025-06-04",
+  "datum_urteil_laut_text": "2025-11-18",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Sie beansprucht aufgrund einer multifaktoriellen Gang- und Gleichgewichtsstörung und ihres Alters Pflegeleistungen im häuslichen Umfeld, die hauptsächlich durch ihre Tochter erbracht werden",
+  "zitat_fundstelle": "Verfahren A.",
+  "unsicherheiten": "Diabetes Typ 2: Das Gericht schreibt nur allgemein, Nagelpflege habe «bei an Diabetes Typ 2 erkrankten Versicherten» ihre Berechtigung; dass die Beschwerdeführerin daran leidet, ist naheliegend, aber nicht ausdrücklich festgestellt. Inkontinenz wird nicht genannt (nur «Anziehen von Einlagen»). Titelseite nennt den Einspracheentscheid irrtümlich mit «4. Juni 2026», im Text 4. Juni 2025. Zusätzliche «gesundheitsbedingte Vorsorgeleistungen» der Tochter sind Vorbringen der Beschwerde. Streitgegenstand nur 05.12.2024–28.02.2025."
+ },
+ "33": {
+  "nr": 33,
+  "docket": "SV2 2025 4",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1938",
+  "altersgruppe": "80_plus",
+  "diagnosen": [
+   "weit fortgeschrittene Demenz vom Alzheimertyp (seinen Angaben zufolge)"
+  ],
+  "diagnose_kategorie": [
+   "demenz"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Ganz- und Teilwäsche samt Rasur",
+   "Intimpflege",
+   "Schneiden der Finger- und Zehennägel",
+   "Hilfe beim An- und Auskleiden",
+   "Begleitung beim Toilettengang",
+   "Hilfe beim Aufstehen oder Hinlegen"
+  ],
+  "gestrichene_handlungen": [
+   "Nägel schneiden, 10 Min. (Zehennägel) bzw. 20 Min. (Fingernägel) pro Monat",
+   "Hilfe beim An-/Auskleiden, 10 Min. täglich",
+   "Hilfe beim Aufstehen/Hinlegen, 5 Min. täglich",
+   "zusammen 16 Min. täglich wegen ehelicher Beistandspflicht",
+   "Leistungspflicht auf sechs Tage pro Woche limitiert (Arbeitsrecht)",
+   "Abklärung und Beratung: 2.5 statt 5 Stunden",
+   "Begleitung beim Toilettengang zunächst gekürzt, im Einspracheentscheid wieder gemäss Bedarfsmeldung anerkannt",
+   "insgesamt 97.5 Std. Grundpflege pro Quartal statt 272.67 Std. für sechs Monate (erste Gutsprache: 84.5 Std.)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "von einer Spitex-GmbH als pflegende Angehörige angestellt; betreut – soweit bekannt – ausschliesslich den Ehemann",
+   "eigene_gesundheit_belastung": "nicht_genannt (Beschwerde macht unverhältnismässige Belastung geltend und beantragte eine Expertise zur physischen und psychischen Belastung bei der Pflege von Menschen mit Demenz; Gericht stellt nichts fest)"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-12-18",
+  "datum_einspracheentscheid": "2025-07-15",
+  "datum_urteil_laut_text": "2025-11-26",
+  "verstorben_waehrend_verfahren": "nein",
+  "zitat_lage": "A.________, geb. 1938, leidet seinen Angaben zufolge insbesondere an einer weit fortgeschrittenen Demenz vom Alzheimertyp. […] Er wird im häuslichen Umfeld von seiner Ehefrau B.________ pflegerisch betreut.",
+  "zitat_fundstelle": "Sachverhalt A.",
+  "unsicherheiten": "Diagnose nur «seinen Angaben zufolge», vom Gericht nicht eigens festgestellt. Kopfzeile der Datei nennt Docket SV2 2025 4, das Urteil selbst die Referenz SV1 25 49. Dass die Ehefrau zusätzliche unvergütete Versorgungsleistungen erbringt, ist Vorbringen der Beschwerde. Einschränkungen werden nicht beschrieben, nur die Pflegehandlungen. Förmliche Verfügung: 24.04.2025."
+ },
+ "34": {
+  "nr": 34,
+  "docket": "S 2024 48",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "geboren 2013",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "komplette Tetraplegie sub CO ASIA A (nach Skiunfall vom 16. November 2019)"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [
+   "In den Aktivitäten des täglichen Lebens vollumfänglich auf die Hilfe einer Drittperson angewiesen",
+   "tracheale Beatmung",
+   "Aufgrund der Beatmung sei eine ständige Präsenz erforderlich",
+   "auf erhebliche Hilfe und Pflege in sämtlichen alltäglichen Lebensverrichtungen angewiesen"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche in Bad/Dusche",
+   "Teilwäsche im Bett (inkl. Intimpflege)",
+   "Haare waschen",
+   "Nägel schneiden Finger und Zehen",
+   "Zahnpflege",
+   "Hilfe beim An- und Auskleiden",
+   "Beim Trinken unterstützen",
+   "Beim Essen helfen",
+   "Anziehen von Einlagen",
+   "Lagerung im Bett",
+   "Aufstehen oder Hinlegen mit Lift oder 2 Personen",
+   "aktive/passive Bewegungsunterstützung",
+   "Hilfsmittel anbringen/entfernen",
+   "Massnahmen der Dekubitusprophylaxe"
+  ],
+  "gestrichene_handlungen": [
+   "Ganzwäsche: 2 x wöchentlich 60 statt 80 Min.",
+   "Teilwäsche im Bett: 1 x täglich 15 Min. statt 2 x täglich 20 Min. (an 5 Tagen)",
+   "Haare waschen: 2 x wöchentlich 15 statt 30 Min.",
+   "Zahnpflege: 3 x täglich 2 statt 5 Min.",
+   "An- und Auskleiden: 1 x täglich 10 Min. statt 3 x täglich 15 Min.",
+   "Trinken: 3 x täglich 5 Min. statt 11 x täglich 5 Min.",
+   "Essen: 2 x 20 Min. und 1 x 10 Min. statt 4 x täglich 25 Min.",
+   "Anziehen von Einlagen: 2 x täglich 5 Min. statt 4 x täglich 8 Min.",
+   "Lagerung im Bett: 2 statt 6 x täglich 5 Min.",
+   "Aufstehen/Hinlegen: 2 x 10 und 3 x 5 Min. statt 12 x täglich 10 Min.",
+   "aktive/passive Bewegungsunterstützung: 0 statt 2 x täglich 17 Min.",
+   "Dekubitusprophylaxe: 2 x täglich 6 statt 20 Min.",
+   "Anrechnung der Hilflosenentschädigung (57.14 Std./Monat)",
+   "Gesamt: 100 statt 275.64 Std. pro Monat"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "ja_grad_nicht_genannt",
+  "weitere_leistungen": [
+   "Hilflosenentschädigung Fr. 1'960.–/Monat",
+   "Assistenzleistungen (Assistenzpersonen in der Freizeit)",
+   "von der Schule finanzierte Pflegefach-/Assistenzpersonen",
+   "Kinderspitex für Behandlungspflege"
+  ],
+  "pflegebeduerftig_seit": "2019 (Skiunfall vom 16. November 2019)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine Pflegeausbildung auf Sekundär- oder Tertiärstufe (Angabe der Kasse)",
+   "erwerbssituation": "Eltern von der Spitex-GmbH als pflegende Angehörige angestellt; Grundpflege laut Beschwerde durch die Mutter; Pensum nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Kinderspitex (Behandlungspflege); Pflegefach- bzw. Assistenzpersonen in der Schule (von der Schule finanziert); Assistenzpersonen und Familie in der Freizeit",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2022-09-20",
+  "datum_einspracheentscheid": "2024-04-26",
+  "datum_urteil_laut_text": "2025-12-01",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Am 16. November 2019 erlitt die Versicherte einen schweren Skiunfall, bei welchem sie sich eine komplette Tetraplegie sub CO ASIA A zuzog (BF-act. 3). In den Aktivitäten des täglichen Lebens ist sie seither auf die Hilfe von Drittpersonen angewiesen.",
+  "zitat_fundstelle": "A.a",
+  "unsicherheiten": "Grad der Hilflosenentschädigung nicht genannt (nur Betrag). Der Begriff Assistenzbeitrag fällt nicht, nur «Assistenzleistungen». Nachtpflege: nur Beschwerdevorbringen eines 24-stündigen Pflegebedarfs wegen Beatmung; die Kasse hält fest, sie schlafe 9 bis 10 Stunden; nächtliche Handlungen nicht festgestellt. «Ständige Präsenz» und «vollumfänglich» sind Wiedergaben aus dem Einspracheentscheid (E. 4.1). Kürzungsmitteilung nach Augenschein vom 23.08.2022 ohne eigenes Datum, daher Verfügungsdatum."
+ },
+ "35": {
+  "nr": 35,
+  "docket": "SR.2022.00008",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [],
+  "diagnose_kategorie": [
+   "nicht_genannt"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Massnahmen der Abklärung und Beratung",
+   "Massnahmen der Grundpflege (nicht einzeln genannt)"
+  ],
+  "gestrichene_handlungen": [
+   "keine einzelnen Handlungen; Kasse verweigert die Vergütung der Rechnungen für März, Juli, August, September, November und Dezember 2022 (Fr. 20'251.80) ganz und fordert Fr. 17'819.-- für 22. Januar bis 4. August 2022 zurück"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine (laut Gericht «unbestrittenermassen nicht ausgebildete Pflegeperson»)",
+   "erwerbssituation": "von der Versicherten selbst angestellt; Lohn und Sozialversicherungsabgaben werden laut Gericht durch die pflegebedürftige Versicherte geleistet; kein Arbeitsvertrag mit der Spitex-Organisation behauptet oder nachgewiesen",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "nicht_genannt",
+  "datum_einspracheentscheid": "nicht_genannt",
+  "datum_urteil_laut_text": "2025-12-04",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Damit bleibt es dem Schiedsgericht verwehrt zu prüfen, ob die zwingend vorgesehene Überwachung und Begleitung der unbestrittenermassen nicht ausgebildeten Pflegeperson, möglicherweise Angehörige der Versicherten, in Bezug auf die hier strittigen Pflegeleistungen hinreichend wahrgenommen wurden.",
+  "zitat_fundstelle": "E. 4.1",
+  "unsicherheiten": "Schiedsgerichtsverfahren Spitex-Organisation gegen Kasse (Klage/Widerklage), keine Verfügung, kein Einspracheentscheid; Urteil enthält keine Gesundheitsangaben zur Versicherten (D.___). Ob die Pflegeperson überhaupt Angehörige ist, lässt das Gericht offen («möglicherweise Angehörige», «Pflegepersonen bzw. Angehörigen»). Geschlecht aus der Form «Versicherte D.___». Erste Zahlungsverweigerung betrifft die Rechnung März 2022; ein Datum der Mitteilung nennt das Urteil nicht."
+ },
+ "36": {
+  "nr": 36,
+  "docket": "KV.2025.00014",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1965",
+  "altersgruppe": "18_bis_64",
+  "diagnosen": [
+   "Einschränkungen nach einer Gehirnblutung",
+   "Schlaganfall im November 2023"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [
+   "leichte kognitive Einschränkungen, je nach Tagesform schwankend, seit dem Schlaganfall im November 2023",
+   "signifikante Veränderung der Selbständigkeit in den letzten 90 Tagen (bei sich noch besserndem Zustand)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche",
+   "Intimpflege",
+   "Begleitung bei Toilettengang",
+   "Nägel schneiden Finger und Zehen",
+   "Aufstehen und Hinlegen",
+   "Hilfe beim An- und Ausziehen"
+  ],
+  "gestrichene_handlungen": [
+   "Nägel schneiden Finger und Zehen (ganz, eheliche Beistandspflicht; keine Minutenangabe)",
+   "Aufstehen und Hinlegen (ganz; keine Minutenangabe)",
+   "Hilfe beim An- und Ausziehen (ganz; keine Minutenangabe)",
+   "Limitierung auf sechs Tage pro Woche (Arbeitsrecht)",
+   "Gesamt: 281 statt 452.5 Stunden Grundpflege für 1. Juli bis 31. Dezember 2024 (140.5 Stunden pro Quartal)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "seit dem Schlaganfall im November 2023",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Ehefrau, von einer Spitex-Organisation (AG) angestellt; erbringt laut Kasse (gestützt auf Pflegebericht und Rechnungen) täglich zwischen 8 und 21.30 Uhr Pflegeleistungen mit nur wenigen Stunden Unterbruch, ohne freien Tag",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "niemand: Grundpflege wird unbestritten einzig durch die Ehefrau erbracht",
+  "verweis_auf_alternative": "nein (Gericht hält fest, die Berücksichtigung der Mithilfe der Ehefrau erzwinge keinen Heimaufenthalt; bei Abwesenheit/Krankheit der Ehefrau müssten andere Pflegekräfte der Spitex eingesetzt werden)",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-07-10",
+  "datum_einspracheentscheid": "2025-01-14",
+  "datum_urteil_laut_text": "2026-01-12",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "dass die Bedarfsabklärung zudem rund ein halbes Jahr nach dem Schlaganfall bei sich noch besserndem Zustand erfolgte (vgl. Urk. 10/6, Bereich C [leichte kognitive Einschränkungen, je nach Tagesform schwankend, seit dem Schlaganfall im November 2023] und Bereich R [signifikante Veränderung der Selbständigkeit in den letzten 90 Tagen])",
+  "zitat_fundstelle": "E. 6.5",
+  "unsicherheiten": "Erste Kürzung = Kostengutsprache vom 10. Juli 2024 (deutlich unter Bedarf); formelle Verfügung am 7. November 2024. Körperliche Einschränkungen werden nicht beschrieben, nur kognitive. Pflegezeiten 8–21.30 Uhr sind Angabe der Kasse; Nachtpflege wird nicht erwähnt. Gesundheit der Ehefrau: nichts festgestellt, das Gericht verlangt gerade deren Abklärung. Beschwerde behauptet unsubstantiiert weitere «gesundheitsbedingte Versorgungsleistungen» der Ehefrau. Gesuch um unentgeltliche Rechtspflege wurde zurückgezogen."
+ },
+ "38": {
+  "nr": 38,
+  "docket": "GL-2075",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "atypischer Parkinsonismus mit prominenter Dystonie, Pyramidenbahnzeichen, posturaler Instabilität und Myoklonus, formal nicht dopa-responsiv",
+   "reaktive Anpassungsstörung mit Depression und Burnout",
+   "distale Claviculaschaftfraktur rechts",
+   "Schluckstörung",
+   "Mangelernährung"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch",
+   "psychisch"
+  ],
+  "einschraenkungen": [
+   "Gangunsicherheit und zuletzt gehäuft aufgetretene Stürze",
+   "rigide Muskeltonuserhöhung rechtsbetont, Nackensteifigkeit sowie Dystonie des rechten Arms und Fusses",
+   "Schluckstörung; Trinkhalm muss zum Mund geführt werden",
+   "starker Tremor",
+   "kippt mit dem Oberkörper nach rechts, Haltung muss während des Essens mehrfach korrigiert werden",
+   "kann ihre Arme teilweise nicht nach oben bewegen",
+   "seit Februar 2025 Rollstuhl",
+   "zweimalige Nykturie (nächtlicher Harndrang)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche",
+   "Teilwäsche Lavabo (Morgen- und Abendpflege)",
+   "Nagelpflege",
+   "Zahnpflege",
+   "An- und Auskleiden",
+   "Beim Trinken unterstützen",
+   "Beim Essen helfen",
+   "Begleitung beim Toilettengang (auch nachts)",
+   "Lagerung im Bett (auch nachts)",
+   "Aufstehen/Hinlegen",
+   "Hilfe beim Gehen",
+   "aktive/passive Bewegungsunterstützung"
+  ],
+  "gestrichene_handlungen": [
+   "Nagelpflege (Fingernägel 2 x, Zehennägel 1 x pro Monat) – als Bagatellleistung gestrichen (vom Gericht bestätigt)",
+   "pauschal 30 Min. Grundpflege pro Tag wegen Schadenminderungspflicht (vom Gericht aufgehoben)",
+   "Zahnpflege: 10 statt 15 Min. täglich",
+   "An- und Auskleiden – als Doppelverrechnung gestrichen (bestätigt)",
+   "Beim Trinken unterstützen – als Bagatelle/Schadenminderung gestrichen (Gericht: 3 x 6 Min. täglich abzüglich 2 x 6 Min.)",
+   "Beim Essen helfen: 2 x täglich 15 Min.",
+   "Begleitung beim Toilettengang: 160 statt 210 Min. pro Woche (bestätigt)",
+   "Aufstehen/Hinlegen: 54 statt 168 Min. pro Woche (bestätigt)",
+   "Hilfe beim Gehen und aktive/passive Bewegungsunterstützung (8 x 2 Min. täglich, 2 x 15 Min. wöchentlich) – nicht akzeptiert",
+   "nächtliche Einsätze (Toilettengang, Lagerung im Bett) – gestrichen",
+   "sechs statt sieben Tage pro Woche",
+   "Gesamt: 40 Std. pro Monat statt 135:54 bzw. 115:19 bzw. 126:06 Std."
+  ],
+  "nachtpflege": "ja",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [
+   "Assistenzbeiträge (laut Kasse)"
+  ],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Sohn, seit 1. September 2024 bei der Spitex-GmbH angestellt; zog wegen des Pflegebedarfs zu ihr bzw. wohnt im gleichen Mehrfamilienhaus; Pensum nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "zweite Spitex-Organisation (Ganzkörperwäsche zweimal pro Woche, max. 7.94 Std. pro Monat)",
+  "verweis_auf_alternative": "Kasse misst an einer externen Spitexpflege mit Einsätzen nur während des Tages; kein Verweis auf ein Pflegeheim",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-10-10",
+  "datum_einspracheentscheid": "2025-06-19",
+  "datum_urteil_laut_text": "2026-02-19",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "dass das Glas der Beschwerdeführerin gehalten werden müsse, da sie wegen eines starken Tremors und einer Seitwärtsrotation zur rechten Körperseite nicht in der Lage sei, sich selbständig aufzurichten und die Nackensteifigkeit das Trinken direkt aus dem Glas verunmögliche",
+  "zitat_fundstelle": "E. II/8.3.5",
+  "unsicherheiten": "Kopfzeile nennt GL-2075, das Urteil selbst die Verfahrensnummer VG.2025.00067. Geburtsdatum geschwärzt. «Seit acht Jahren fortschreitender Morbus Parkinson» ist Beschwerdevorbringen (E. II/2.1), daher pflegebeduerftig_seit offen. Assistenzbeiträge nur im Vorbringen der Kasse. Mangelernährung (49 kg bei 1.57 m) stammt aus Stellungnahmen der Leistungserbringerin, die das Gericht als medizinisch gestützt wertet. Klinikbericht vom 07.11.2024: bei Austritt selbständige Fussgängerin, Anziehen wieder selbständig möglich. Wohnsituation des Sohnes im Urteil doppelt beschrieben (zog zu ihr / gleiches Mehrfamilienhaus). 10.10.2024 ist eine Teilablehnung, die Verfügung datiert vom 17.04.2025."
+ },
+ "41": {
+  "nr": 41,
+  "docket": "200 2025 503",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Multimorbidität",
+   "Morbus Behçet",
+   "Probleme seitens der Halswirbelsäule"
+  ],
+  "diagnose_kategorie": [
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "beeinträchtigte Gehfähigkeit",
+   "Selbstversorgungsdefizit bei der Körperpflege",
+   "bedarf an sieben Tagen die Woche der Pflege"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Hilfe bei der Körperpflege",
+   "Nägel schneiden (Positionen 10108, 10109)",
+   "beim Trinken helfen (Position 10301)"
+  ],
+  "gestrichene_handlungen": [
+   "Gesamt: 15 Stunden Grundpflege pro Monat statt 33.73 Stunden (202.42 Stunden für 24. Oktober 2024 bis 15. April 2025)",
+   "pauschal 30 Minuten pro Tag «unentgeltliche Pflege im Rahmen der Verwandtenunterstützungspflicht/ehelichen Beistandspflicht»",
+   "«Bagatellleistungen» Nägel schneiden und beim Trinken helfen (Positionen 10108, 10109, 10301; keine Minutenangabe)",
+   "ein Ruhetag pro Woche: nur 6 Tage verrechenbar",
+   "A-Leistungen (Abklärung und Beratung) für die Zukunft abgelehnt"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Ehefrau des Cousins («Andere Verwandte»), seit Arbeitsvertrag vom 24. Oktober 2024 bei einer Spitex-GmbH angestellt; zudem im Handelsregister als Einzelunternehmerin mit einem Betreuungsdienst eingetragen; wohnt nicht an derselben Adresse",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein (Gericht: ein Ruhetag der pflegenden Angehörigen wäre von der Spitex-Organisation organisatorisch aufzufangen)",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-01-07",
+  "datum_einspracheentscheid": "2025-07-09",
+  "datum_urteil_laut_text": "2026-03-19",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Sie machte geltend, der Versicherte sei aufgrund einer Multimorbidität – insbesondere eines Morbus Behçet sowie Problemen seitens der Halswirbelsäule – und einer dadurch bedingten beeinträchtigten Gehfähigkeit sowie eines Selbstversorgungsdefizits bei der Körperpflege auf Hauspflegeleistungen der Spitex angewiesen",
+  "zitat_fundstelle": "Sachverhalt A.",
+  "unsicherheiten": "Geburtsjahr geschwärzt («…»). Diagnosen und Einschränkungen sind Angaben der Spitex-Organisation im Sachverhalt; das Gericht übernimmt sie nicht ausdrücklich, hält aber fest, der Hausarzt sei über die Beeinträchtigungen im Bild und der Beschwerdeführer bedürfe an sieben Tagen der Pflege. «Multimorbidität» wird genannt, ohne dass ein Alter bekannt wäre (deshalb nur Kategorie «anderes»). Erste Kürzung: formlose «Teilablehnung» vom 7. bzw. 14. Januar 2025; Verfügung am 19. März 2025. Urteilsdatum im Text 19. März 2026, in der Kopfzeile der Datei 5. März 2026. Einzelpositionen der Bedarfsmeldung listet das Urteil nicht auf. Beschwerdeführer ist verheiratet; ob die Ehefrau hilft, steht nicht im Urteil. Dokumentierter Aufwand war rückläufig (Nov. 2024 28.25 Std., Feb. 2025 12.43 Std.)."
+ },
+ "42": {
+  "nr": 42,
+  "docket": "KV 2025/7",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "chronische dialysenbedürftige Nierenerkrankung KDIGO G5 A3",
+   "(asymptomatische) Ureterolithiasis",
+   "Nephrektomie",
+   "körperliche Schwäche",
+   "fehlende Feinmotorik der Hände",
+   "Adipositas"
+  ],
+  "diagnose_kategorie": [
+   "herz_niere_stoffwechsel"
+  ],
+  "einschraenkungen": [
+   "fehlende Feinmotorik der Hände",
+   "körperliche Schwäche",
+   "BMI von 32.5 (80 kg bei einer Grösse von 157 cm), was das Waschen erschwert",
+   "beim An- und Auskleiden auf verstärkte und teilweise gar umfassende Unterstützung angewiesen",
+   "Katheter, der besondere Sorgfalt erfordert",
+   "Unterstützung beim Treppensteigen und beim Transfer auf die Toilette",
+   "vollständige Hilfe beim Umgang mit Medikamenten",
+   "Unterstützung bei der Mobilität im Bett"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche im Bad, Dusche oder am Lavabo (1 x täglich 25 Min.)",
+   "Teilwäsche am Lavabo inkl. Intimwäsche (1 x täglich 8 Min.)",
+   "Kompressionsstrümpfe/-verband (2 x täglich 5 Min.)",
+   "An- und Auskleiden"
+  ],
+  "gestrichene_handlungen": [
+   "keine einzelnen Handlungen; Grundpflege auf 05.74 Std. (Einspracheentscheid: 05.57 Std.) statt 21.85 Std. pro Monat begrenzt",
+   "30 Min. Grundpflege pro Tag unter dem Titel eheliche Beistands-/Schadenminderungspflicht",
+   "sechs statt sieben Tage pro Woche (wöchentlicher Ruhetag)",
+   "Kürzung wegen mangelhafter Dokumentation («copy paste»)",
+   "Leistungen bis zur Rechtskraft sistiert"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine Pflegefachausbildung (Gericht spricht von «nicht ausgebildeten Pflegefachkräften»)",
+   "erwerbssituation": "Ehemann, für die Grundpflege bei der Spitex-GmbH angestellt; lebt mit ihr zusammen; Pensum nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-01-23",
+  "datum_einspracheentscheid": "2025-08-13",
+  "datum_urteil_laut_text": "2026-03-09",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Aufgrund einer chronischen dialysenbedürftigen Nierenerkrankung KDIGO G5 A3, einer (asymptomatischen) Ureterolithiasis, einer Nephrektomie, körperlicher Schwäche, fehlender Feinmotorik der Hände und Adipositas ist sie auf Pflegeleistungen der Spitex angewiesen",
+  "zitat_fundstelle": "A.a",
+  "unsicherheiten": "Alter nicht genannt. Dass der Ehemann im Zeitraum 01.02.–01.05.2025 an ca. elf vollen Tagen frei hatte und zusätzlich unvergütete Versorgungs- und Koordinationsleistungen erbringt, ist Beschwerdevorbringen. Externe Dialyse an Vormittagen erwähnt, Häufigkeit nicht genannt. 23.01.2025 ist ein Kürzungsschreiben, die Verfügung datiert vom 17.04.2025. Pflegebeginn vor der Verordnungsperiode (ab 22.12.2024) nicht ersichtlich."
+ },
+ "43": {
+  "nr": 43,
+  "docket": "730 2025 367",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "2005",
+  "altersgruppe": "18_bis_64",
+  "diagnosen": [],
+  "diagnose_kategorie": [
+   "nicht_genannt"
+  ],
+  "einschraenkungen": [
+   "multiple gesundheitliche Einschränkungen in allen Bereichen des täglichen Lebens",
+   "auf umfangreiche Unterstützung angewiesen",
+   "oppositionelles Verhalten bei fast allen Grundpflegemassnahmen (Bedarfsermittlung der Spitex)",
+   "unter der Woche zwischen 8 und 17 Uhr in einer Förderstätte"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Teilwäsche",
+   "Ganzwäsche",
+   "Begleitung beim Toilettengang (zwei Mal täglich unter der Woche, drei Mal täglich am Wochenende)",
+   "Nägel schneiden Finger",
+   "Nägel schneiden Zehen",
+   "Mithilfe beim Trinken"
+  ],
+  "gestrichene_handlungen": [
+   "Nägel schneiden Finger und Nägel schneiden Zehen: als «Bagatellleistungen» gestrichen",
+   "Begleitung bei Toilettengang: von 16 auf 14 Mal pro Woche, mit Ruhetag auf 12 Mal pro Woche",
+   "Mithilfe beim Trinken (laut Beschwerde unberücksichtigt)",
+   "pauschal 30 Min./Tag wegen Verwandtenunterstützungs-/Schadenminderungspflicht",
+   "ein Ruhetag pro Woche (Arbeitsgesetz)",
+   "Ergebnis: Grundpflege 26,79 statt beantragter 48,65 Std./Monat",
+   "Sistierung sämtlicher Leistungen bis zum rechtskräftigen Entscheid"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Mutter; pflegt als Angehörige über eine private Spitex (Anstellung im Urteil vorausgesetzt, nicht eigens festgestellt)",
+   "eigene_gesundheit_belastung": "Laut Spitex an sieben Tagen pro Woche ohne Ruhetag «rund um die Uhr» im Einsatz, solange die Tochter nicht in der Förderstätte ist; das Gericht spricht von «hochbelastende[r] Pflegearbeit»"
+  },
+  "weitere_helfende": "Förderstätte (werktags 8–17 Uhr); der Vater pflegt laut Urteil nicht, kommt nach Ansicht des Gerichts aber für zumutbare Grundpflege in Betracht",
+  "verweis_auf_alternative": "Kein Verweis auf Heim. Gericht: bei der Neuabklärung sei zu prüfen, welche Grundpflege den Familienangehörigen (neben der Mutter auch dem Vater) zumutbar ist",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-03-28",
+  "datum_einspracheentscheid": "2025-09-03",
+  "datum_urteil_laut_text": "2026-04-23",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "dass die Mutter der Versicherten gemäss Angaben der Spitex vom 17. Februar 2025 an sieben Tage pro Woche bzw. ohne Ruhetag rund um die Uhr Unterstützung leistet, solange sich die Beschwerdeführerin nicht in der Förderstätte aufhält",
+  "zitat_fundstelle": "E. 10.",
+  "unsicherheiten": "Keine Diagnose genannt. Jahrgang 2005, zu Beginn der strittigen Periode (22.01.2025) also volljährig; die Kasse spricht dennoch vom «Kind», die Beschwerde verweist widersprüchlich auf «Minderjährigkeit». «Rund um die Uhr» ist Angabe der Spitex; konkrete Pflegehandlungen nachts nennt das Urteil nicht. 28.03.2025 = Ankündigung der Kürzung, Verfügung am 21.05.2025. Weitere unbezahlte Unterstützung der Mutter (Versorgung, Organisation, Koordination) ist Vorbringen der Beschwerde. Die Pflegedokumentation nennt rund acht Grundpflegehandlungen pro Tag, das Urteil zählt sie nicht vollständig auf."
+ },
+ "44": {
+  "nr": 44,
+  "docket": "200 2025 744",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [],
+  "diagnose_kategorie": [
+   "nicht_genannt"
+  ],
+  "einschraenkungen": [
+   "gravierende Fortbewegungsprobleme als gesundheitliche Hauptproblematik (Beschwerdevorbringen)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche in Bad, Dusche oder am Lavabo",
+   "Nägel schneiden Zehen",
+   "Hilfe An- und Auskleiden",
+   "Begleitung bei Toilettengang",
+   "Hilfe beim Gehen"
+  ],
+  "gestrichene_handlungen": [
+   "Gesamt: 4 Stunden 53 Minuten pro Monat anstelle von 37 Stunden 10 Minuten",
+   "Begleitung bei Toilettengang (ganz; beantragt 1820 Min. für 8. Januar bis 8. Juli 2025, 10 Min. täglich)",
+   "Hilfe beim Gehen (ganz; beantragt 1456 Min., 8 Min. täglich)",
+   "Hilfe An- und Auskleiden (ganz; beantragt 2730 Min.)",
+   "Ganzwäsche in Bad, Dusche oder am Lavabo (beantragt 7280 Min.; laut Einspracheentscheid kein Bedarf, in der Berechnungstabelle 4.33 Std./Monat anerkannt)",
+   "Nägel schneiden Zehen (implizit abgelehnt; beantragt 90 Min.)",
+   "pauschal 30 Minuten pro Tag eheliche Beistandspflicht",
+   "nur sechs statt sieben vergütungsfähige Pflegetage"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Ehefrau, von einer Spitex-GmbH angestellt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-04-23",
+  "datum_einspracheentscheid": "2025-10-07",
+  "datum_urteil_laut_text": "2026-04-27",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Nebst den Positionen 10419 (Begleitung bei Toilettengang) und 10505 (Hilfe beim Gehen) wurden im Bedarfsmeldeformular für die Hilfe beim Gehen pro Tag acht Minuten angegeben (act. II 3), dies, weil die gravierenden Fortbewegungsprobleme zur gesundheitlichen Hauptproblematik gehörten",
+  "zitat_fundstelle": "E. 6.6",
+  "unsicherheiten": "Geburtsjahr geschwärzt; keine Diagnose im Urteil. Die «gravierenden Fortbewegungsprobleme» sind Beschwerdevorbringen, vom Gericht nur referiert. Vor der Verfügung vom 23. April 2025 ergingen zwei formlose «Teilablehnungen», deren Daten das Urteil nicht nennt. Urteilsdatum im Text 27. April 2026, in der Kopfzeile der Datei 23. April 2026. Kasse hob Verfügung und Einspracheentscheid am 16. Dezember 2025 selbst wiedererwägungsweise auf (vom Gericht nicht akzeptiert). Das Gericht bejaht eine eheliche Beistandspflicht dem Grundsatz nach und weist zur Quantifizierung zurück."
+ },
+ "45": {
+  "nr": 45,
+  "docket": "200 2025 812",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "1. März 1935",
+  "altersgruppe": "80_plus",
+  "diagnosen": [],
+  "diagnose_kategorie": [
+   "nicht_genannt"
+  ],
+  "einschraenkungen": [
+   "bedürfe der dauernden Betreuung und täglichen Pflege (geltend gemacht; Gericht: mit Blick auf die Leistungspositionen plausibel)",
+   "Treppensteigen nur begleitet, nach jedem Stockwerk eine Sitzgelegenheit zum Ausruhen (Pflegeplan)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche in Bad, Dusche oder am Lavabo",
+   "Teilwäsche am Lavabo (inkl. Intimwäsche)",
+   "Intimpflege (im Bett oder am Lavabo)",
+   "Nägel schneiden Finger",
+   "Nägel schneiden Zehen",
+   "Zahnpflege",
+   "Hilfe An- und Auskleiden",
+   "Kompressionsstrümpfe/-verband",
+   "Hilfe beim Gehen"
+  ],
+  "gestrichene_handlungen": [
+   "Hilfe An- und Auskleiden, 15 Min. täglich (ganze Position)",
+   "Hilfe beim Gehen, 15 Min. täglich (ganze Position)",
+   "Nägel schneiden Finger, 180 Min. pro Halbjahr («Bagatellen»)",
+   "Nägel schneiden Zehen, 90 Min. pro Halbjahr («Bagatellen»)",
+   "pauschal 30 Min. pro Tag als unentgeltliche Pflege (Verwandtenunterstützungspflicht)",
+   "ein Ruhetag: Kürzung um einen Siebtel (nur 6 Tage verrechenbar)",
+   "Behandlungspflege (Tarif B), 2.96 Std. pro Monat, mangels Ausbildung der Enkelin",
+   "Grundpflege insgesamt 15.29 statt 49.79 Std. pro Monat"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nein",
+  "weitere_leistungen": [
+   "Sozialhilfe (Sozialhilfebehörden «offenbar» involviert); keine ordentliche AHV-Rente, keine Ergänzungsleistungen"
+  ],
+  "pflegebeduerftig_seit": "nicht_genannt (Antrag auf Hilflosenentschädigung 2017 abgewiesen; Spitex-Leistungsperiode ab 30. Juli 2024 erwähnt)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine qualifizierte Pflegeausbildung (Bachelor-Studentin)",
+   "erwerbssituation": "nach eigenen Angaben Vollzeitstudium (Bachelor), mit Arbeitsweg und Präsenzpflicht; von der Spitex-GmbH angestellt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Tochter der Versicherten im gemeinsamen Haushalt (laut Gericht trifft die Unterstützungspflicht vorrangig sie); Pflegefachperson der Spitex für Abklärung/Beratung",
+  "verweis_auf_alternative": "nein (Gericht verweist auf Unterstützungspflicht von Tochter und Enkelin im gemeinsamen Haushalt, nicht auf Heim oder externe Spitex)",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-02-11",
+  "datum_einspracheentscheid": "2025-10-31",
+  "datum_urteil_laut_text": "2026-05-07",
+  "verstorben_waehrend_verfahren": "nein",
+  "zitat_lage": "1xtgl. geht die PA mit der Klientin Treppensteigen um die vorhandene Mobilität zu erhalten. PA geht mit der Klientin einmal zwei Stockwerke hinunter und wieder hinauf. Nach jedem Stockwerk hat es eine Sitzgelegenheit wo sich die Klientin ausruhen kann.",
+  "zitat_fundstelle": "E. 4.2.2",
+  "unsicherheiten": "Keine Diagnose im Urteil. Hilflosenentschädigung wurde 2017 aus versicherungsmässigen Gründen (Einreise mit 65) abgelehnt, nicht mangels Hilflosigkeit. Das Gericht bezweifelt, dass die vollzeitstudierende Enkelin die Leistungen im dokumentierten Umfang erbringen konnte, und ordnet Abklärungen an – der tatsächliche Pflegealltag ist offen. Formlose «Teilablehnung» 11.02.2025, Verfügung 25.04.2025. Das Zitat stammt aus dem Pflegeplan (PA = pflegende Angehörige)."
+ },
+ "46": {
+  "nr": 46,
+  "docket": "KV 2025/6",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Adenokarzinom des Pankreas mit Status nach kurativer Chemotherapie",
+   "Vertigo",
+   "Fatigue",
+   "fehlende Kraft in den Extremitäten",
+   "periphere Ödeme",
+   "permanentes Vorhofflimmern",
+   "arterielle Hypertonie",
+   "schwere obstruktive Schlafapnoe"
+  ],
+  "diagnose_kategorie": [
+   "onkologisch",
+   "herz_niere_stoffwechsel"
+  ],
+  "einschraenkungen": [
+   "werde beim Gehen unter der Achsel durch die pflegende Person begleitet, mit der anderen Hand halte er sich an Gegenständen fest",
+   "Treppensteigen erfolge mit viel Kraftaufwand des Beschwerdeführers sowie der pflegenden Angehörigen",
+   "Lagewechsel nur langsam, Gefahr einer plötzlichen Vertigo oder eines Sturzes",
+   "Gehstrecke draussen mit dem Rollator",
+   "Unterstützung bei der Vorbereitung für den Transfer auf die Toilette und der Toilettenbenützung",
+   "Haut musste täglich kontrolliert und bei Auffälligkeiten gepflegt werden"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche im Bad, Dusche oder am Lavabo (4 x wöchentlich 30 Min.)",
+   "Teilwäsche am Lavabo",
+   "Hilfe beim An- und Auskleiden (10 x wöchentlich 10 Min.)",
+   "Kompressionsstrümpfe/-verband (1 x täglich 10 Min.)",
+   "Hilfe beim Gehen (1 x täglich 10 Min.)"
+  ],
+  "gestrichene_handlungen": [
+   "Hilfe beim Gehen, 10 Min./Tag – abgelehnt",
+   "30 Min. Grundpflege pro Tag unter dem Titel Schadenminderungspflicht der Ehefrau",
+   "sechs statt sieben Tage pro Woche",
+   "Kürzung wegen ungenügender Dokumentation",
+   "Grundpflege: 5.64 Std. (Einspracheentscheid: 5.77 Std.) statt 26.48 Std. pro Monat",
+   "Abklärung/Beratung: im Einspracheentscheid 0 statt 0.41 Std. pro Monat",
+   "Leistungen bis zur Rechtskraft sistiert"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine Pflegefachausbildung (Gericht spricht von «nicht ausgebildeten Pflegefachkräften»)",
+   "erwerbssituation": "Ehefrau, bei der Spitex-GmbH angestellt; lebt mit ihm zusammen; rund sechs Stunden Pflege pro Woche",
+   "eigene_gesundheit_belastung": "Gericht: bei rund sechs Stunden Pflegebedarf pro Woche erscheine eine Überlastung der Ehefrau wenig wahrscheinlich; sie habe von sich aus an gewissen Tagen keine Pflegeleistungen erbracht"
+  },
+  "weitere_helfende": "Pflegefachperson der Spitex-Organisation (Besuch ungefähr einmal pro Monat, Beratung per E-Mail oder Telefon)",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-01-07",
+  "datum_einspracheentscheid": "2025-08-05",
+  "datum_urteil_laut_text": "2026-05-12",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "der Beschwerdeführer werde beim Gehen unter der Achsel durch die pflegende Person begleitet, mit der anderen Hand halte er sich an Gegenständen fest. Das Treppensteigen erfolge mit viel Kraftaufwand des Beschwerdeführers sowie der pflegenden Angehörigen.",
+  "zitat_fundstelle": "E. 3.4.3",
+  "unsicherheiten": "Alter nicht genannt. Einschränkungen beim Gehen stammen aus dem Pflegeplan, den das Gericht übernimmt. Spitalbesuch am 09.06.2025 erwähnt; ob er an freien Tagen der Ehefrau in Spitalpflege war, liess das Gericht offen. 07.01.2025 ist ein Kürzungsschreiben, die Verfügung datiert vom 14.05.2025. Welche fünfte Pflegehandlung neben den vier bezifferten verordnet war, sagt das Urteil nicht ausdrücklich (Teilwäsche am Lavabo nur als Position der Kasse erwähnt)."
+ },
+ "47": {
+  "nr": 47,
+  "docket": "KV.2025.00141",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1953",
+  "altersgruppe": "65_bis_79",
+  "diagnosen": [
+   "aggravierte mechanische Lumboglutealgie links",
+   "Status nach mehreren Wirbelsäulen-Operationen",
+   "Rheumatoide Arthritis",
+   "COPD",
+   "Koronare 3-Gefässerkrankung",
+   "rezidivierende Depressionen"
+  ],
+  "diagnose_kategorie": [
+   "herz_niere_stoffwechsel",
+   "psychisch",
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "beeinträchtigte Mobilität"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Grundpflege 168.57 Std. für sechs Monate (nicht vollständig aufgeschlüsselt)",
+   "Ganzwäsche (Position 10102)",
+   "Teilwäsche (Position 10104)",
+   "Hilfe beim Gehen (Position 10505)",
+   "Abklärung und Beratung"
+  ],
+  "gestrichene_handlungen": [
+   "Grundpflege 5.86 statt 28.1 Std. pro Monat",
+   "30 Min. Grundpflege pro Tag als unentgeltliche eheliche Beistandspflicht",
+   "ein freier Tag pro Woche (nur sechs statt sieben Tage)",
+   "Hilfe beim Gehen (Position 10505) – laut Kasse in anderen Positionen enthalten; Gehbegleitung in der Wohnung nicht anerkannt"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt (Beschwerde: Ehefrau erbringe «seit Jahren» Versorgungsleistungen)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "10 Jahre jünger als der 73-jährige Beschwerdeführer",
+   "ausbildung": "nicht_genannt (hat früher in einem Pflegeheim und bei der Spitex gearbeitet)",
+   "erwerbssituation": "nicht_genannt (Anstellung bei der Spitex-Organisation für die Grundpflege angenommen)",
+   "eigene_gesundheit_belastung": "hatte einen Bandscheibenvorfall; laut Gericht ist ihre körperliche Leistungsfähigkeit abzuklären"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-02-20",
+  "datum_einspracheentscheid": "2025-10-30",
+  "datum_urteil_laut_text": "2026-05-13",
+  "verstorben_waehrend_verfahren": "nein",
+  "zitat_lage": "Erst dem Bericht über den Hausbesuch vom 4. Februar 2026 (mithin nach Erlass des angefochtenen Entscheids) ist zu entnehmen, dass die Ehefrau 10 Jahre jünger ist als der aktuell 73-jährige Beschwerdeführer, dass sie früher in einem Pflegeheim und bei der B.___ gearbeitet und einen Bandscheibenvorfall hatte",
+  "zitat_fundstelle": "E. 3.1",
+  "unsicherheiten": "Diagnosen stammen aus dem Pflegeplan (Urk. 15/9), nicht aus Arztberichten; das Gericht verlangt, das Dossier durch Arztberichte zu ergänzen. Das Wort «Spitex» ist im Text durchgehend als «B.___» anonymisiert (auch im Zitat). Dass die Ehefrau zusätzlich Spitalbegleitungen, Arztbesuche und Koordination leistet, ist Vorbringen der Beschwerde. Kasse zog den Entscheid am 16.12.2025 selbst in Wiedererwägung. Einzelne Pflegehandlungen kaum beschrieben. Verfügung: 25.04.2025."
+ },
+ "49": {
+  "nr": 49,
+  "docket": "KV 2025/13",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Frailty-Syndrom im Alter",
+   "Perikarditis",
+   "Koronarsklerose",
+   "hypertensive Herzkrankheit",
+   "chronische Schmerzsyndrome",
+   "mittelschweres obstruktives Schlaf-Apnoe-Syndrom (OSAS)"
+  ],
+  "diagnose_kategorie": [
+   "altersgebrechlichkeit_multimorbid",
+   "herz_niere_stoffwechsel",
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "auf Pflegeleistungen Dritter angewiesen",
+   "in sämtlichen Instrumentellen Aktivitäten des täglichen Lebens (IADL) und den Basis Aktivitäten des täglichen Lebens (BADL) auf Unterstützung oder zumindest Aufsicht angewiesen",
+   "benötigt Unterstützung bei der Ganzwäsche und der Zahnpflege, beim Toilettengang, dem Essen sowie dem An- und Auskleiden"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche",
+   "Zahnpflege",
+   "Begleitung beim Toilettengang",
+   "Unterstützung beim Essen",
+   "An- und Auskleiden",
+   "Nägel schneiden"
+  ],
+  "gestrichene_handlungen": [
+   "Grundpflege 39.97 Std. (Einspracheentscheid: 40.72 Std.) statt 69.38 Std. pro Monat",
+   "täglicher Abzug von 30 Min. (Schadenminderungs-/Verwandtenunterstützungspflicht)",
+   "ein Ruhetag pro Woche (Arbeitsgesetz)",
+   "Begleitung beim Toilettengang als Kombinationsleistung (in der Ganzwäsche enthalten; Mehrbedarf am Morgen nicht ausgewiesen)",
+   "Nägel schneiden («Bagatellen»)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "nicht_genannt (als Angehörige bei der Spitex-GmbH angestellt)",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-02-14",
+  "datum_einspracheentscheid": "2025-10-31",
+  "datum_urteil_laut_text": "2026-06-09",
+  "verstorben_waehrend_verfahren": "nein",
+  "zitat_lage": "Aus dem von der B.___ eingereichten Pflegeplan ergibt sich, dass die Versicherte an einem Frailty-Syndrom im Alter bzw. einer Perikarditis, einer Koronarsklerose, einer hypertensiven Herzkrankheit, chronischen Schmerzsyndromen sowie einem mittelschweren obstruktiven Schlaf-Apnoe-Syndrom (OSAS) leidet.",
+  "zitat_fundstelle": "Sachverhalt A.a",
+  "unsicherheiten": "Jahrgang und Alter fehlen («im Alter» erlaubt keine Altersgruppe). Diagnosen stammen aus dem Pflegeplan der Spitex. Dass die Tochter weitere unvergütete Pflege- und Versorgungsleistungen erbringt, ist Vorbringen der Beschwerde; das Gericht hält es für «grundsätzlich glaubhaft», das Ausmass ist offen. Laut Gericht steht mangels Dokumentation nicht fest, wer im ganzen Zeitraum gepflegt hat. Verfügung: 26.05.2025; Kasse beantragte am 16.12.2025 selbst weitere Abklärungen."
+ },
+ "50": {
+  "nr": 50,
+  "docket": "KV.2025.00127",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "geboren 2000",
+  "altersgruppe": "18_bis_64",
+  "diagnosen": [
+   "spastische Paraplegie",
+   "Depression",
+   "beeinträchtigte Bewegungskoordination",
+   "Tremor in den Armen und Beinen",
+   "Muskelschwäche"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch",
+   "psychisch"
+  ],
+  "einschraenkungen": [
+   "auf ständige Hilfe, Betreuung und Pflege angewiesen",
+   "beeinträchtigte Bewegungskoordination",
+   "Tremor in den Armen und Beinen",
+   "Muskelschwäche"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche",
+   "Teilwäsche",
+   "Rasur",
+   "Finger- und Zehennägel schneiden",
+   "Hilfe beim An- und Auskleiden",
+   "Begleitung Toilettengang",
+   "Hilfe beim Aufstehen/Hinlegen",
+   "Hilfsmittel anbringen/entfernen"
+  ],
+  "gestrichene_handlungen": [
+   "Finger- und Zehennägel schneiden – als Bagatellleistung gestrichen",
+   "Hilfe beim An- und Auskleiden – abgelehnt als Kombinationsleistung (zuvor 257 Min./Monat berücksichtigt)",
+   "Begleitung Toilettengang – kulanterweise 5 Min. täglich",
+   "Hilfe beim Aufstehen/Hinlegen – abgelehnt als Kombinationsleistung",
+   "Hilfsmittel anbringen/entfernen – abgelehnt (nicht dokumentiert)",
+   "30 Min. Grundpflege pro Tag unter dem Titel Verwandtenunterstützungspflicht",
+   "sechs statt sieben Tage pro Woche",
+   "Grundpflege: 10 Std. (Verfügung) bzw. 5.93 Std. (Einspracheentscheid) pro Monat statt 261.03 Std. für 23.01.–24.07.2025",
+   "Leistungen bis zur Rechtskraft sistiert"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "1976 geboren",
+   "ausbildung": "Zertifikat als Pflegehelferin, erlangt im Januar 2025",
+   "erwerbssituation": "Mutter, von der Spitex-GmbH angestellt; berufliche Situation laut Gericht unbekannt; wohnte damals mit ihm zusammen, inzwischen nicht mehr",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-04-16",
+  "datum_einspracheentscheid": "2025-09-30",
+  "datum_urteil_laut_text": "2026-06-10",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "er sei infolge spastischer Paraplegie, Depression, beeinträchtigter Bewegungskoordination, Tremor in den Armen und Beinen sowie Muskelschwäche auf ständige Hilfe, Betreuung und Pflege angewiesen",
+  "zitat_fundstelle": "E. 2.2",
+  "unsicherheiten": "Diagnosen und Einschränkungen sind Beschwerdevorbringen; das Gericht hält fest, im Dossier fänden sich nicht einmal Arztberichte, die sie bestätigten (E. 6.2). Pflegedokumentation reicht bis 26.03.2024 zurück, Pflegebeginn sonst nicht genannt. Eine «Gesundheitsakte der Spitexinitiative» (Oktober–Dezember 2025) wird erwähnt; ob eine weitere Organisation pflegt, bleibt offen. Unterstützung beim Trinken nur in der Beschwerde als gekürzte Position genannt. Der Einspracheentscheid wurde am 16.12.2025 wiedererwägungsweise aufgehoben; Rückweisung zur Abklärung."
+ },
+ "51": {
+  "nr": 51,
+  "docket": "KV.2025.00126",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1967",
+  "altersgruppe": "18_bis_64",
+  "diagnosen": [
+   "diverse Erkrankungen im Bereich der Lendenwirbelsäule sowie der rechten Schulter/des rechten Arms",
+   "Thalassämie (anamnestisch)",
+   "arterielle Hypertonie"
+  ],
+  "diagnose_kategorie": [
+   "anderes",
+   "herz_niere_stoffwechsel"
+  ],
+  "einschraenkungen": [
+   "geltend gemachter Hilfebedarf bei der Körperpflege (sich waschen, Zehennägel schneiden)",
+   "beim An- und Auskleiden",
+   "Hilfe bei Positionswechseln",
+   "laut IV-Abklärung vom Januar 2022 dagegen selbständig in An- und Auskleiden, Aufstehen/Absitzen/Abliegen und Körperpflege (Gericht: «gewisse Zweifel» an der dokumentierten Pflegebedürftigkeit)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "sich waschen",
+   "Zehennägel schneiden",
+   "An- und Auskleiden",
+   "Hilfe bei Positionswechseln",
+   "Begleitung beim Toilettengang"
+  ],
+  "gestrichene_handlungen": [
+   "Gesamt: 18.88 Stunden Grundpflege pro Monat (zuerst 17.14) statt rund 40.25 Stunden (241.5 Stunden für 11. November 2024 bis 11. Mai 2025)",
+   "pauschal 30 Minuten Grundpflege pro Tag (eheliche Beistandspflicht/Verwandtenunterstützungspflicht)",
+   "Nägel schneiden (Position 10109) als «Bagatellleistung» (keine Minutenangabe)",
+   "nur sechs statt sieben Tage pro Woche",
+   "Einsätze in der Nacht (laut Kasse medizinisch nicht notwendig)",
+   "Tarif A auf 0.72 Stunden pro Monat limitiert"
+  ],
+  "nachtpflege": "ja",
+  "hilflosenentschaedigung": "nein",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Ehefrau, offenbar von der Spitex-Organisation angestellt (Arbeitsvertrag nicht bei den Akten); laut Beschwerde nur wenige Stunden pro Woche und zwei freie Halbtage; per 1. April 2025 Wechsel der pflegenden Person",
+   "eigene_gesundheit_belastung": "Ehefrau hat sich selbst bei der Invalidenversicherung angemeldet, wegen Rheuma, Migräne und psychischer Probleme"
+  },
+  "weitere_helfende": "ab 1. April 2025 ein anderer pflegender Angehöriger (Pharma-Assistent EFZ), ausserhalb der strittigen Periode",
+  "verweis_auf_alternative": "nein (Gericht hält den Beizug von Hilfsmitteln für zumutbar; Kasse beantragte im Prozess, gar keine Grundpflege zu gewähren)",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-12-30",
+  "datum_einspracheentscheid": "2025-09-26",
+  "datum_urteil_laut_text": "2026-06-15",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "dass sich auch die Ehefrau zum Bezug von Leistungen der Invalidenversicherung angemeldet hatte - dies wegen Rheuma, Migräne und psychischer Probleme (Urk. 9/5/93/2). Ihre körperliche Leistungsfähigkeit ist in Bezug auf die Frage relevant, ob sie die beantragten Pflegeleistungen mit der nötigen Qualität zu erbringen vermag.",
+  "zitat_fundstelle": "E. 3.1",
+  "unsicherheiten": "Nachtpflege: nur aus der Begründung der Kasse ersichtlich («Einsätze in der Nacht» nicht übernommen); welche Handlungen nachts anfielen, sagt das Urteil nicht. Hilflosenentschädigung: Gesuch abgelehnt (Abklärung Januar 2022); zur Neuanmeldung vom September 2024 nennt der Text zwei Angaben (Ablehnung mit Verfügung vom 1. Oktober 2024 laut Vertrauensärztin; Nichteintreten am 8. Januar 2025 laut Gericht). Erste Kürzung = «Teilablehnung» vom 30. Dezember 2024; Verfügung am 28. Mai 2025. Pflegebedarf ist vom Gericht nicht festgestellt, sondern bezweifelt (Rückweisung). Kasse verweist auf ein Gesuch um Kostengutsprache für Wegovy; eine entsprechende Diagnose nennt das Urteil nicht. Ob eine IV-Rente bezogen wird, steht nicht im Urteil. Verwandtschaft der ab April 2025 pflegenden Person nicht genannt."
+ },
+ "52": {
+  "nr": 52,
+  "docket": "KV.2025.00095",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "2005",
+  "altersgruppe": "18_bis_64",
+  "diagnosen": [],
+  "diagnose_kategorie": [
+   "nicht_genannt"
+  ],
+  "einschraenkungen": [
+   "umfassender Bedarf für eine Unterstützung bei Bad/Dusche und bei der persönlichen Hygiene",
+   "umfassender Unterstützungsbedarf beim Transfer auf die Toilette und bei der Toilettenbenutzung",
+   "umfassender Unterstützungsbedarf beim Gehen und bei der Fortbewegung im Haus (Angaben laut Gericht in sich widersprüchlich)",
+   "geht mit Hilfsmitteln (zum Beispiel Stock, Krücke, Gehhilfe, schiebt Rollstuhl vor sich her)",
+   "weiteste Gehstrecke 5-49 Meter ohne sich hinzusetzen",
+   "Sturzgefahr bei der Bewegungsunterstützung (muss an der Taille festgehalten werden)",
+   "Ödeme (Massage und Dehnübungen)",
+   "kein Unterstützungsbedarf beim Essen und beim Trinken"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche in Bad, Dusche oder am Lavabo, 1x täglich 40 Min.",
+   "Teilwäsche am Lavabo (inkl. Intimwäsche), 1x täglich 25 Min.",
+   "Rasur, 3x pro Woche 10 Min. (nur bis 31.08.2024 verordnet)",
+   "Zehennägel schneiden, 1x pro Monat 15 Min.",
+   "Zahnpflege, 2x täglich 5 Min.",
+   "Begleitung bei Toilettengang, 2x täglich 10 Min., ab 01.09.2024 5x täglich 5 Min.",
+   "aktive/passive Bewegungsunterstützung, 5x pro Woche 15 Min."
+  ],
+  "gestrichene_handlungen": [
+   "30 Min. pro Tag wegen Verwandtenunterstützungspflicht der Mutter",
+   "Zehennägel schneiden, 15 Min. pro Monat («Bagatellleistung»)",
+   "aktive/passive Bewegungsunterstützung, 15 Min. an fünf Tagen pro Woche",
+   "Hilfe beim Gehen/Begleitung in der Wohnung (laut Kasse Doppelverrechnung)",
+   "siebter Tag pro Woche (Arbeitsgesetz)",
+   "«beim Trinken helfen» (laut Replik nie beantragt)",
+   "laut Vertrauensärztin zusätzlich: Rasur und Zahnpflege nicht vergütbar, Toilettengang nur 10 Min. pro Tag",
+   "Grundpflege höchstens 25.98 Std. (Juni–August 2024) bzw. 23.28 Std. pro Monat; Verfügung: 19.28 Std."
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [
+   "Invalidenversicherung: Kosten einer ambulanten Physiotherapie (Mitteilung der IV-Stelle vom 22. April 2020)"
+  ],
+  "pflegebeduerftig_seit": "nicht_genannt (IV-Mitteilung zur Physiotherapie datiert vom 22. April 2020)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "bei einer Spitexorganisation für die Grundpflege angestellt; laut Beschwerde nur teilzeitlich während weniger Stunden im Tag",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Vater (lebt im gleichen Haushalt, unterstützt bei den instrumentellen Aktivitäten/IADL); «grosse Unterstützung im familiären Umfeld» laut Pflegeplanung",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-07-16",
+  "datum_einspracheentscheid": "2025-08-07",
+  "datum_urteil_laut_text": "2026-06-17",
+  "verstorben_waehrend_verfahren": "nein",
+  "zitat_lage": "Die Bedarfsabklärung ergab insbesondere bei Bad/Dusche, bei der persönlichen Hygiene, beim Transfer auf die Toilette und bei der Toilettenbenutzung sowie beim Gehen und bei der Fortbewegung im Haus einen umfassenden Bedarf für eine Unterstützung, hingegen keinen Unterstützungsbedarf beim Essen und beim Trinken",
+  "zitat_fundstelle": "E. 3.5",
+  "unsicherheiten": "Keine Diagnose im Urteil (nur «Gesundheitsschaden»), obwohl die Versicherte erst 19 ist und die IV Physiotherapie zahlt. Jahrgang 2005: zu Beginn der Periode (01.06.2024) 18 oder 19, das Gericht nennt sie volljährig. Die Kürzungen bei Rasur, Zahnpflege und Toilettengang ergeben sich aus der Stellungnahme der Vertrauensärztin vom 01.10.2025, also nach dem Einspracheentscheid; welche davon schon dieser enthielt, ist nicht eindeutig (Kürzungstabelle nicht wiedergegeben). Das Urteil verweist auf eine «E. 3.8», die es nicht gibt (gemeint E. 3.6). Zusätzliche unvergütete Leistungen der Mutter: Vorbringen der Beschwerde. Versichert bei dieser Kasse nur bis 31.12.2024. Verfügung: 08.05.2025."
+ },
+ "53": {
+  "nr": 53,
+  "docket": "SV 26 4",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "2018",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "globaler Entwicklungsrückstand",
+   "beinbetonte, spastische Cerebralparese",
+   "Spitzfuss bds.",
+   "ausgeprägte, periventrikuläre Leukomalazie"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung",
+   "neurologisch"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [],
+  "gestrichene_handlungen": [
+   "17.04.2025: nur 29 Std. 15 Min./Monat (Tarif C) und 50 Min./Monat (Tarif A) anerkannt; beantragt waren 374.50 Std. (Tarif C) und 5.00 Std. (Tarif A) für 14.03.–14.09.2025",
+   "18.12.2025: sämtliche mit Bedarfsmeldung vom 24.03.2025 beantragten Leistungen vollständig abgelehnt (Tätigkeiten im Bereich der elterlichen Verantwortung)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Mutter; «mutmasslich» bei der privaten Spitex angestellt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "Kein Verweis auf Heim oder Dritte; Kasse: die dokumentierten Pflegeleistungen beschränkten sich auf Tätigkeiten im Bereich der elterlichen Verantwortung",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-04-17",
+  "datum_einspracheentscheid": "2025-12-18",
+  "datum_urteil_laut_text": "2026-05-18",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Er leidet mutmasslich (vgl. hinten E. 3.3) an einem globalen Entwicklungsrückstand, einer beinbetonten, spastischen Cerebralparese, einem Spitzfuss bds. und einer ausgeprägten, periventrikulären Leukomalazie und wird deshalb durch seine Mutter B.__ zu Hause gepflegt.",
+  "zitat_fundstelle": "Sachverhalt A.a.",
+  "unsicherheiten": "Das Gericht selbst nennt die Diagnosen nur «mutmasslich», weil der Entscheid der Kasse keine Angaben zur Krankheit enthält. Rein formeller Entscheid (Begründungsmangel, Rückweisung): Einschränkungen, einzelne Pflegehandlungen, Nachtpflege und HE kommen nicht vor. Der Entscheid vom 18.12.2025 hiess «Verfügung gemäss Art. 53 ATSG»; das Gericht behandelt ihn als Einspracheentscheid. 17.04.2025 = formlose Teilablehnung, Verfügung am 22.07.2025. Urteilsdatum im Text 18. Mai 2026, Kopfzeile der Datei 2026-08-05."
+ },
+ "55": {
+  "nr": 55,
+  "docket": "200 2025 685",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Trigeminus Neuropathie links",
+   "vaskuläre Kompression des N. Trigeminus Facialis",
+   "Gesichts Nervenlähmung",
+   "kognitive Beeinträchtigung",
+   "Atemprobleme",
+   "Schwindel und Herzprobleme"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch",
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "Selbstversorgungsdefizit Nahrungsaufnahme",
+   "Schwierigkeiten, Nahrung im Mund zu manipulieren",
+   "Schwierigkeiten, beim Kauen von Nahrung",
+   "Wegen Gesichts Nervenlähmung und kognitiver Beeinträchtigung braucht sie Hilfe beim Essen",
+   "Hilfebedarf bei der Hochlagerung des Oberkörpers aufgrund von Atemproblemen",
+   "braucht beim Gehen stabilisierende Unterstützung (festhalten, Gewichtsübernahme)",
+   "Hilfe beim Toilettengang (fünfmal bzw. später zweimal täglich)",
+   "keine Anhaltspunkte, dass sie Nägelschneiden und Trinken selber vornehmen könnte"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche in Bad, Dusche oder am Lavabo",
+   "Teilwäsche am Lavabo (inkl. Intimwäsche)",
+   "Intimpflege (im Bett oder am Lavabo)",
+   "Haare waschen",
+   "Zahnpflege",
+   "Nägel schneiden Finger",
+   "Nägel schneiden Zehen",
+   "Anziehen von Einlagen/Urinal anlegen",
+   "Hilfe An- und Auskleiden",
+   "Kompressionsstrümpfe/-verband",
+   "Beim Trinken unterstützen",
+   "Beim Essen helfen",
+   "Begleitung bei Toilettengang",
+   "Lagerung der Klientin im Bett",
+   "Aufstehen oder Hinlegen mit Hilfe",
+   "Hilfe beim Gehen"
+  ],
+  "gestrichene_handlungen": [
+   "pauschal 30 Min./Tag «unentgeltliche Pflege» wegen Verwandtenunterstützungs-/Beistandspflicht",
+   "Ruhetag: nur 6 Tage pro Woche verrechenbar (Arbeitsgesetz)",
+   "Nägel schneiden Finger/Zehen und Beim Trinken unterstützen (Pos. 10108, 10109, 10301) als «Bagatellleistungen» nicht verrechenbar",
+   "Teilwäsche am Lavabo: 4 x täglich 26 Min. als Fehlkodierung gewertet, nur 4 x pro Woche",
+   "Zahnpflege: nur morgens und abends",
+   "Lagerung im Bett (8 Min./Tag): mangels Dokumentation nicht anerkannt",
+   "Begleitung bei Toilettengang: nur mittags separat verrechenbar",
+   "Beim Essen helfen: nur «kulanterweise» 10 Min. pro Hauptmahlzeit",
+   "Hilfe beim Gehen (2 x 7 Min. bzw. 1 x 8 Min./Tag): abgelehnt",
+   "Ergebnis: Verfügung 46 Std. 17 Min./Monat statt 145 Std. 55 Min.; Einspracheentscheid 40 Std. 16 Min./Monat; Leistungen bis zum rechtskräftigen Entscheid sistiert"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt (Leistungen beantragt ab 13. März 2024)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Schwiegertochter (Ehefrau des Sohnes); bei der privaten Spitex-GmbH angestellt; wohnt mit ihrem Ehemann und der Schwiegermutter im gemeinsamen Haushalt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt (der Sohn lebt im gleichen Haushalt; dass er pflegt, steht nicht im Urteil)",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-05-15",
+  "datum_einspracheentscheid": "2025-09-19",
+  "datum_urteil_laut_text": "2026-08-18",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "unterstützt die Schwiegertochter die Beschwerdeführerin zweimal täglich beim Gehen, indem sie ihr stabilisierende Unterstützung biete, damit sie sich an ihr halten und Gewicht übernehmen könne, um Schwindel und Herzprobleme zu minimieren",
+  "zitat_fundstelle": "E. 5.4.7",
+  "unsicherheiten": "Geburtsjahr geschwärzt («…»), Alter nicht bestimmbar. Die Diagnosen stammen aus dem NANDA-Pflegeplan der Spitex (vom Gericht wiedergegeben), nicht aus zitierten Arztberichten; «Herzprobleme» und «Atemprobleme» sind keine benannten Diagnosen, darum Kategorie «anderes» statt herz_niere_stoffwechsel. Vor der Verfügung vom 15.05.2025 ergingen drei formlose «Teilablehnungen», deren Daten das Urteil nicht nennt. Ob sie eine Zahnprothese trägt, lässt das Gericht offen. Freie Tage der Pflegenden sind Vorbringen der Beschwerde. Die Kasse wollte ihren Entscheid am 10.12.2025 selbst widerrufen (ungenügende Abklärung)."
+ },
+ "56": {
+  "nr": 56,
+  "docket": "SV1 2026 24",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1934",
+  "altersgruppe": "80_plus",
+  "diagnosen": [
+   "koronare Drei-Gefässerkrankung",
+   "ausgeprägte vaskuläre Leukencephalopathie",
+   "mittelschwere Aortenstenose",
+   "paroxysmaler Lagerungsschwindel",
+   "Tremor",
+   "Sehschwäche am linken Auge (Makuladegeneration)"
+  ],
+  "diagnose_kategorie": [
+   "herz_niere_stoffwechsel",
+   "neurologisch",
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "könne nur noch wenige Meter mit Unterstützung einer Person gehen",
+   "brauche bei allen alltäglichen Lebensverrichtungen Hilfe",
+   "auf (verstärkte) Unterstützung beim Transfer auf die Toilette sowie bei der Toilettenbenutzung angewiesen",
+   "Gleichgewichtsstörungen sowie Kraftverlust in den Beinen",
+   "eingeschränkte Fein- und Grobmotorik sowie verminderte Standsicherheit",
+   "Stürze erlitten, Gangunsicherheiten, Schwierigkeiten beim Lagewechsel",
+   "Gehdistanz zwischen fünf und 49 Meter, mit Gehstock",
+   "trägt Einlagen/Pants (einmal Stuhlgangverlust dokumentiert)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche im Bad, in der Dusche oder am Lavabo, 1x pro Woche 35 Min.",
+   "Teilwäsche im Bett (inkl. Intimwäsche), 6x pro Woche je 20 Min.",
+   "Anziehen von Einlagen/Urinal anlegen, 1x täglich 8 Min.",
+   "Begleitung beim Toilettengang, 3x täglich je 10 Min.",
+   "Hilfe beim Gehen, 1x täglich 10 Min.",
+   "Rasur",
+   "Haare waschen",
+   "Nägel schneiden",
+   "Zahnpflege",
+   "Hilfe beim An- und Auskleiden"
+  ],
+  "gestrichene_handlungen": [
+   "Begleitung beim Toilettengang von dreimal auf zweimal täglich gekürzt (nächtlicher Toilettengang, 10 Min. pro Tag)",
+   "Anziehen von Einlagen/Urinal anlegen, 8 Min. täglich (vom Gericht bestätigt)",
+   "Hilfe beim Gehen, 10 Min. täglich",
+   "Nägel schneiden (nur in der Verfügung, im Einspracheentscheid wieder anerkannt)",
+   "Kürzung wegen Arbeitsrecht (nur in der Verfügung, im Einspracheentscheid fallen gelassen)",
+   "Abklärung und Beratung: 1.5 Std. (Einspracheentscheid 2.25 Std.) pro Quartal statt 3 Std. für sechs Monate",
+   "Grundpflege 98.067 Std. pro Quartal statt 280.77 Std. für sechs Monate"
+  ],
+  "nachtpflege": "ja",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt (Hausarzt bestätigte die Pflegebedürftigkeit am 19. Februar 2025)",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "nicht_genannt (von einer Spitex-GmbH als pflegende Angehörige angestellt)",
+   "eigene_gesundheit_belastung": "nicht_genannt (Gericht: nächtliche Toilettenbegleitung geht über das sozial übliche Mass hinaus und ist ihr nicht zumutbar)"
+  },
+  "weitere_helfende": "eine andere Tochter (Besuche des Vaters bei ihr); laut Kasse dort Betreuung durch die öffentliche Spitex während Ferienaufenthalten (vom Gericht nicht festgestellt)",
+  "verweis_auf_alternative": "Kasse verglich mit den Einsatzzeiten öffentlicher Spitex-Organisationen: nächtliche Toilettengänge fielen bei aussenstehenden Spitex-Angestellten nicht an (vom Gericht verworfen)",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-03-31",
+  "datum_einspracheentscheid": "2026-04-09",
+  "datum_urteil_laut_text": "2026-08-31",
+  "verstorben_waehrend_verfahren": "ja",
+  "zitat_lage": "Letzterer könne nur noch wenige Meter mit Unterstützung einer Person gehen und brauche bei allen alltäglichen Lebensverrichtungen Hilfe. Als Diagnosen wies […] namentlich eine koronare Drei-Gefässerkrankung, eine ausgeprägte vaskuläre Leukencephalopathie, eine mittelschwere Aortenstenose, einen paroxysmalen Lagerungsschwindel und einen Tremor aus",
+  "zitat_fundstelle": "E. 6.3",
+  "unsicherheiten": "Todesdatum anonymisiert: Einsprache am 05.11.2025 noch im Namen des Versicherten, Beschwerde am 28.04.2026 durch die Tochter als Erbin – Tod also im laufenden Verfahren, genauer Zeitpunkt offen. Mehrere Einschränkungen (Motorik, Sehschwäche, Gleichgewicht) stammen aus der Begründung der Spitex zur Bedarfsmeldung, die das Gericht übernimmt. Kategorie: keine Demenz genannt; Leukencephalopathie als neurologisch eingeordnet. Verfügung: 16.10.2025. Kopfzeile Docket SV1 2026 24, Referenz im Urteil SV1 26 24."
+ },
+ "58": {
+  "nr": 58,
+  "docket": "200 2025 513",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt (Gericht: «noch junger Beschwerdeführer»)",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "chronische Schmerzen bei Verdacht auf spinale Muskelatrophie Typ III/IV bzw. differentialdiagnostisch hereditärer motorischer Neuropathie"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [
+   "Tremor der linken Hand",
+   "Rückenbeschwerden",
+   "Gangunsicherheit",
+   "zunehmende Schmerzen",
+   "Kraftminderung in den Beinen und der Rumpfmuskulatur"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Ganzwäsche in Bad, Dusche oder am Lavabo",
+   "Nägel schneiden Finger",
+   "Nägel schneiden Zehen",
+   "Hilfe An- und Auskleiden",
+   "Begleitung bei Toilettengang",
+   "Aufstehen oder Hinlegen mit Hilfe",
+   "Hilfe beim Gehen (Gehtraining in der Wohnung oder im Garten)"
+  ],
+  "gestrichene_handlungen": [
+   "Gesamt: 12 Stunden 19 Minuten pro Monat anstelle von 39 Stunden 15 Minuten",
+   "Hilfe beim Gehen (Position 10505, ganz abgelehnt; beantragt 330 Min. für 29. November bis 31. Dezember 2024 und 1820 Min. für 1. Januar bis 1. Juli 2025)",
+   "Nägel schneiden Finger und Zehen als «Bagatellleistungen» (beantragt 30 und 15 Min. bzw. 180 und 90 Min.)",
+   "pauschal 30 Minuten pro Tag eheliche Beistandspflicht",
+   "nur 6 Tage verrechenbar (Arbeitsgesetz)",
+   "A-Leistungen: 4 statt 4.50 Stunden"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Ehefrau, von einer Spitex-GmbH angestellt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-01-28",
+  "datum_einspracheentscheid": "2025-08-07",
+  "datum_urteil_laut_text": "2026-09-14",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Gemäss NANDA Pflegeplan (Evaluationstermin vom 31. Dezember 2024 [act. II 7]) benötigt der Beschwerdeführer aufgrund der Gangunsicherheit, der zunehmenden Schmerzen sowie der Kraftminderung in den Beinen und der Rumpfmuskulatur Unterstützung beim Gehtraining in der Wohnung oder im Garten.",
+  "zitat_fundstelle": "E. 6.5.2",
+  "unsicherheiten": "Geburtsjahr geschwärzt; Gericht nennt ihn nur «noch jung», Altersgruppe daher nicht bestimmbar. Diagnose ist eine Verdachtsdiagnose. Erste Kürzung = formlose «Teilablehnung» vom 28. Januar 2025; Verfügung am 9. Mai 2025. Welche Kürzung auf welche Position entfällt, ist ausser bei Position 10505 nicht in Minuten ausgewiesen. Sachverhalt: «war» bei der Kasse versichert (Vergangenheitsform, Grund nicht genannt). Gesuch um unentgeltliche Rechtspflege gestellt (als gegenstandslos abgeschrieben)."
+ },
+ "59": {
+  "nr": 59,
+  "docket": "VG.2020.00094",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "18_bis_64",
+  "diagnosen": [
+   "Fragiles-X-Syndrom"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "nicht in der Lage, sich mit dem Sachverhalt und den sich stellenden Rechtsfragen auseinanderzusetzen und eine Einsprache zu verfassen",
+   "Unterstützung beim Trinken",
+   "Helfen beim Essen",
+   "Hilfe An-/Auskleiden"
+  ],
+  "pflegehandlungen_gesamt": [
+   "tägliche Körperpflege",
+   "Unterstützung beim Trinken",
+   "Helfen beim Essen",
+   "Nägel schneiden Finger",
+   "Nägel schneiden Zehen",
+   "Hilfe An-/Auskleiden",
+   "beantragt als psychiatrische Grundpflege: Erarbeiten und Einüben einer angepassten Tagesstruktur",
+   "beantragt als psychiatrische Grundpflege: Trainieren der sozialen Kontaktaufnahme und der Gestaltung von Beziehungen",
+   "beantragt als psychiatrische Grundpflege: Aktivitätsaufbau",
+   "beantragt als psychiatrische Grundpflege: Unterstützung beim Einsatz von Orientierungshilfen und Sicherheitsmassnahmen",
+   "beantragt als psychiatrische Grundpflege: Beim Essen helfen"
+  ],
+  "gestrichene_handlungen": [
+   "Erhöhung der somatischen Grundpflege von 100 auf 130 Min./Tag abgelehnt",
+   "Nägel schneiden Finger: beantragt zweimal 15 Min./Monat, anerkannt zweimal 5 Min./Monat",
+   "Nägel schneiden Zehen: beantragt einmal 15 Min./Monat, anerkannt einmal 5 Min./Monat",
+   "Hilfe An-/Auskleiden: beantragt zweimal täglich 15 Min., anerkannt einmal täglich 10 Min.",
+   "psychiatrische Grundpflege vollständig abgelehnt (ermittelter Bedarf 471 Min./Tag)",
+   "Vorverfahren (Verfügung vom 14.08.2018): Trinken und Essen von dreimal 5 plus dreimal 25 Min. auf gesamthaft dreimal 15 Min. täglich gekürzt"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [
+   "Invalidenrente",
+   "Ergänzungsleistungen"
+  ],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "Mutter; vom Gericht als fachlich nicht ausgebildete Angehörige behandelt (E. II/5.2), konkrete Ausbildung nicht genannt",
+   "erwerbssituation": "zum Zweck der Betreuung und Pflege bei einer GmbH (Spitex-Organisation) angestellt; Pensum nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Urteil sagt nur, er werde «unter anderem» durch die Mutter betreut und gepflegt; wer sonst, nicht genannt",
+  "verweis_auf_alternative": "Gericht: psychiatrische Grundpflege müsse durch geschultes Fachpersonal, nicht durch Angehörige erbracht werden (E. II/5.2.1); kein Verweis auf Heim",
+  "datum_erste_verfuegung_oder_kuerzung": "2020-05-26",
+  "datum_einspracheentscheid": "2020-09-09",
+  "datum_urteil_laut_text": "2020-12-17",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Vorliegend ist es offensichtlich, dass der Beschwerdeführer, welcher an einem Fragilen-X-Syndrom leidet, nicht in der Lage war, sich mit dem Sachverhalt und den sich stellenden Rechtsfragen auseinanderzusetzen und eine Einsprache zu verfassen.",
+  "zitat_fundstelle": "II. 6.3.4",
+  "unsicherheiten": "Jahrgang im Text geschwärzt («[…]»). Altersgruppe 18_bis_64 nur mittelbar aus dem Bezug einer Invalidenrente (E. II/6.3.2) geschlossen, kein Alter im Urteil. Diagnose-Kategorie ist meine Einordnung; das Urteil nennt weder «Geburtsgebrechen» noch eine Einordnung, hält aber fest, dass unbestritten keine psychiatrische Diagnose gestellt wurde (E. II/5.1.1). Einschränkungen sind kaum beschrieben; drei der vier Einträge sind aus den Leistungspositionen übernommen, nicht als Einschränkung festgestellt. Das Schreiben vom 26.05.2020 lehnt eine Erhöhung ab (keine Kürzung eines laufenden Umfangs); formelle Verfügung 29.06.2020; frühere Kürzung im Vorverfahren mit Verfügung vom 14.08.2018 (VG.2018.00092). Der psychiatrische Bedarf von 471 Min./Tag ist die Abklärung einer von der Spitex beigezogenen Pflegefachfrau, vom Gericht nicht als ausgewiesen anerkannt. Die Aussage zu «ungelernten Personen» stammt aus dem zitierten Vorurteil und ist allgemein formuliert."
+ },
+ "61": {
+  "nr": 61,
+  "docket": "KV.2024.00074",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "2018",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "spondyloepiphysäre Dysplasie"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [],
+  "gestrichene_handlungen": [
+   "Grundpflege pauschal gekürzt wegen Anrechnung der Hilflosenentschädigung: von beantragten 55.91 auf 46.59 Std./Monat (Schreiben 22.05.2024)",
+   "Grundpflege weiter gekürzt auf 34.05 Std./Monat (Verfügung 09.07.2024; Anrechnung Hilflosenentschädigung und errechneter Erwerbsausfall)",
+   "Spitexleistungen während Ferien im Ausland (April und Mai 2024) nicht übernommen"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "mittel",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "seit Geburt (Diagnose); Beginn der Pflegebedürftigkeit nicht eigens genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Mutter, seit dem 1. April 2024 bei einer Spitex-GmbH angestellt; Kasse rechnete einen «errechneten Erwerbsausfall der Angehörigen» an, Näheres nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-05-22",
+  "datum_einspracheentscheid": "2024-09-03",
+  "datum_urteil_laut_text": "2026-06-03",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "leidet seit Geburt an einer spondyloepiphysären Dysplasie und wird von ihrer Mutter zu Hause gepflegt",
+  "zitat_fundstelle": "Sachverhalt Ziff. 1",
+  "unsicherheiten": "Streit betrifft nur die Überentschädigungskürzung; das Urteil beschreibt weder Einschränkungen noch einzelne Pflegehandlungen, der Pflegeumfang (670.9 Std./Jahr) war im Grundsatz unbestritten. Das Zitat ist entsprechend mager. Kategorie Geburtsgebrechen stützt sich auf «seit Geburt»; das Wort Geburtsgebrechen fällt nicht. Hilflosenentschädigung mittleren Grades steht als Begründung im Schreiben der Kasse, das Gericht bestätigt nur den Bezug einer Hilflosenentschädigung (E. 3.1). Der im Schreiben genannte Abzug von 40 % passt rechnerisch nicht zu 55.91 → 46.59 Std.; so im Urteil wiedergegeben. Auf die Auslandferien-Frage trat das Gericht nicht ein (Forderung an Spitex abgetreten)."
+ },
+ "62": {
+  "nr": 62,
+  "docket": "KV.2026.00005",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1954",
+  "altersgruppe": "65_bis_79",
+  "diagnosen": [
+   "diverse Erkrankungen, insbesondere spastisches Hemisyndrom links",
+   "sensomotorisches Hemisyndrom (laut Beschwerde)"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [
+   "Koordinations- und Gleichgewichtsstörungen (laut Beschwerde)",
+   "unsicherer, schwankender Gang (laut Beschwerde)",
+   "auf allen Wegen Begleitung erforderlich, kann Distanzen nicht einschätzen (laut Beschwerde)",
+   "verminderte Reaktionsfähigkeit (laut Beschwerde)",
+   "eingeschränkte Beweglichkeit (laut Beschwerde)",
+   "signifikant erhöhte Sturzgefahr, schon mehrfach realisiert (laut Beschwerde)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Hilfe beim Gehen (Position 10505)",
+   "Begleitung bei Toilettengang (Position 10419)",
+   "Positionen 10102 und 10104 (im Urteil nicht benannt)",
+   "Schneiden der Nägel"
+  ],
+  "gestrichene_handlungen": [
+   "Hilfe beim Gehen (Position 10505), komplett abgelehnt",
+   "Begleitung bei Toilettengang (Position 10419): Kombination am Morgen mit 10102/10104 nicht anerkannt (laut Beschwerde gekürzt)",
+   "Abzug 30 Minuten pro Tag wegen ehelicher Beistandspflicht",
+   "Schneiden der Nägel (als Bagatelle nicht verrechenbar)",
+   "Limitierung auf sechs Tage pro Woche (Arbeitsgesetz)",
+   "Gesamt: 21.43 statt 47.47 Stunden Grundpflege pro Monat (128.58 statt 284.3 Stunden im Zeitraum)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "ein Jahr älter als der Versicherte",
+   "ausbildung": "Anfang 2026 noch keinen (verpflichtenden) Pflegehelferkurs absolviert",
+   "erwerbssituation": "seit 12. März 2025 bei der Spitex-GmbH angestellt; laut Beschwerde pflegt sie ihn nur wenige Stunden pro Woche und erbringt seit Jahren weitere Versorgungsleistungen (Spitalbegleitungen, Arztbesuche/Koordination, Organisatorisches)",
+   "eigene_gesundheit_belastung": "nicht_genannt (Gericht: zur persönlichen Situation nichts bekannt; körperliche Leistungsfähigkeit abzuklären)"
+  },
+  "weitere_helfende": "niemand: Grundpflege wird unbestritten einzig durch die Ehefrau erbracht",
+  "verweis_auf_alternative": "nein (Gericht: bei Abwesenheit/Krankheit der Ehefrau müssten allenfalls andere Pflegekräfte eingesetzt werden)",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-04-07",
+  "datum_einspracheentscheid": "2025-12-04",
+  "datum_urteil_laut_text": "2026-04-21",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Bei der Position 10505 «Hilfe beim Gehen» habe die Beschwerdegegnerin ausser Acht gelassen, dass er aufgrund des sensomotorischen Hemisyndroms an Koordinations- und Gleichgewichtsstörungen leide und einen unsicheren, schwankenden Gang habe.",
+  "zitat_fundstelle": "E. 3.4",
+  "unsicherheiten": "Erste Kürzung = Kostengutsprache «Teilablehnung» vom 7. April 2025; formelle Verfügung 20. Juni 2025. Einschränkungen stammen nur aus der Beschwerde; das Gericht hält fest, dass im Dossier keine Arztberichte die Diagnosen und funktionellen Einschränkungen bestätigen (E. 7.2). Die Diagnoseliste selbst wird nicht wiedergegeben. Einspracheentscheid wurde am 15. Januar 2026 von der Kasse in Wiedererwägung gezogen. Auslandaufenthalt Juni–September 2025 ohne Pflegeabrechnung. Ersetzt den Eintrag zum Beschluss vom 6.2.2026 (nr 37) im selben Verfahren; Wartezeit bis zum Urteil vom 21.4.2026."
+ },
+ "63": {
+  "nr": 63,
+  "docket": "KV.2025.00123",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "1945",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "Mobilitäts-, Bewegungs- und Selbstversorgungsdefizite nach mehrfacher Kniearthroplastik",
+   "2. Nicht-ST-Hebungsinfarkt (NSTEMI) Typ 2",
+   "Aortopathie",
+   "arterielle Hypertonie",
+   "Adipositas",
+   "Schlafapnoe-Syndrom",
+   "Verdacht auf Prostataobstruktions-Syndrom",
+   "Hüft-Totalprothese (TP)-Implantationen beidseits"
+  ],
+  "diagnose_kategorie": [
+   "herz_niere_stoffwechsel",
+   "anderes"
+  ],
+  "einschraenkungen": [
+   "Mobilitäts-, Bewegungs- und Selbstversorgungsdefizite (laut Beschwerde)",
+   "auf ständige Hilfe, Betreuung und Pflege angewiesen (laut Beschwerde)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Fingernägel schneiden (Position 10108)",
+   "Zehennägel schneiden (Position 10109)",
+   "Begleitung bei Toilettengang (Position 10419)"
+  ],
+  "gestrichene_handlungen": [
+   "Abzug 30 Minuten Grundpflege pro Tag wegen ehelicher Beistandspflicht",
+   "Fingernägel schneiden (10108), vollständig",
+   "Zehennägel schneiden (10109), vollständig",
+   "Begleitung bei Toilettengang (10419), vollständig (laut E. 6.2; Kasse: Mehrbedarf am Morgen nicht ausgewiesen)",
+   "Limitierung auf 6 statt 7 Tage (Arbeitsgesetz)",
+   "Gesamt: 15 statt 45.55 Stunden Grundpflege pro Monat"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "1971",
+   "ausbildung": "Zertifikat als Pflegehelferin im Februar 2025",
+   "erwerbssituation": "von der Spitex-Organisation Z.___ GmbH angestellt; berufliche Situation sonst unbekannt (Gericht: abzuklären); stammt aus Polen",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2025-05-21",
+  "datum_einspracheentscheid": "2025-09-24",
+  "datum_urteil_laut_text": "2026-08-11",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "er sei infolge von Mobilitäts-, Bewegungs- und Selbstversorgungsdefiziten nach mehrfacher Kniearthroplastik, 2. Nicht-ST-Hebungsinfarkt (NSTEMI) Typ 2, Aortopathie, […] und Hüft-Totalprothese (TP)-Implantationen beidseits auf ständige Hilfe, Betreuung und Pflege angewiesen",
+  "zitat_fundstelle": "E. 2.2",
+  "unsicherheiten": "Diagnosen und Einschränkungen nur als Vorbringen der Beschwerde wiedergegeben, vom Gericht nicht festgestellt; das Gericht weist auf einen Neurologie-Bericht vom 27. November 2025 hin, wonach der Versicherte noch als Nachhilfelehrer tätig war. Altersgruppe unklar: Jahrgang 1945, bei Beginn der Periode (24. Januar 2025) 79 oder 80 Jahre. Erste Kürzung = Verfügung vom 21. Mai 2025 (Bedarfsmeldung 22. Januar 2025). Wiedererwägungsentscheid der Kasse vom 16. Dezember 2025."
+ },
+ "65": {
+  "nr": 65,
+  "docket": "S 2024 31",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "2012",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "diverse physische sowie psychische Beeinträchtigungen seit Geburt",
+   "globale Entwicklungsstörung",
+   "KINSSHIP-Syndrom (Diagnose 2022)"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "im Rollstuhl mobil, kann nicht frei sitzen",
+   "wird mehrheitlich mittels PEG-Sonde ernährt",
+   "erhält jeden zweiten Tag einen Einlauf",
+   "Fähigkeit, ihren Willen in Worten auszudrücken, nicht vorhanden",
+   "hilfs-, pflege- und überwachungsbedürftig"
+  ],
+  "pflegehandlungen_gesamt": [
+   "grundpflegerische Leistungen (im Urteil nicht einzeln aufgeführt)",
+   "Abklärung und Beratung"
+  ],
+  "gestrichene_handlungen": [
+   "sämtliche Spitex-Leistungen während des Ferienaufenthalts im Ausland vom 17. bis 27. April 2023 (10 Tage)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "ja_grad_nicht_genannt",
+  "weitere_leistungen": [
+   "Hilflosenentschädigung der IV (laut Beschwerde)"
+  ],
+  "pflegebeduerftig_seit": "seit Geburt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine pflegerische Ausbildung",
+   "erwerbssituation": "Mutter, bei der D.________ GmbH als Pflegehilfsperson angestellt; pflegt keine anderen Personen als ihre Tochter",
+   "eigene_gesundheit_belastung": "nicht_genannt (Gericht: Erholung in den Ferien nur möglich, wenn andere die Pflege übernommen hätten, wofür es keine Hinweise gibt)"
+  },
+  "weitere_helfende": "tagsüber Besuch der Einrichtung C.________, dort zwei Übernachtungen pro Woche; Grundpflege vorwiegend durch die Mutter",
+  "verweis_auf_alternative": "nein (Kasse: eine aussenstehende Spitex-Angestellte wäre kaum ins Ausland gereist; Gericht verweist auf Spitex-Angebote mit Auslandbegleitung)",
+  "datum_erste_verfuegung_oder_kuerzung": "2023-06-09",
+  "datum_einspracheentscheid": "2024-02-14",
+  "datum_urteil_laut_text": "2026-07-14",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Die Versicherte ist im Rollstuhl mobil, wobei sie nicht frei sitzen kann. Sie wird mehrheitlich mittels PEG-Sonde ernährt und erhält jeden zweiten Tag einen Einlauf. Die Fähigkeit, ihren Willen in Worten auszudrücken, ist nicht vorhanden, es liegt vielmehr eine globale Entwicklungsstörung vor.",
+  "zitat_fundstelle": "Sachverhalt A.",
+  "unsicherheiten": "Erste Ablehnung = Mitteilungen vom 9. und 13. Juni 2023, formelle Verfügung 7. Juli 2023. Bezug der Hilflosenentschädigung nur aus dem Vorbringen der Beschwerdeführerin (E. 4.2), Grad nicht genannt; ob ein Assistenzbeitrag bezogen wird, bleibt offen. Einzelne Grundpflegehandlungen und Stunden werden nicht genannt."
+ },
+ "68": {
+  "nr": 68,
+  "docket": "VG.2023.00091",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "nicht_genannt",
+  "altersgruppe": "unklar",
+  "diagnosen": [
+   "angeborene cerebrale Lähmung"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch",
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "geistig auf dem Stand eines Kleinkindes (Vorbringen der Beschwerde)",
+   "benötigt Unterstützung bei Körper- und Zahnpflege, Toilettengang, An- und Auskleiden, Nahrungsmittel- und Flüssigkeitsaufnahme (Vorbringen der Beschwerde)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "Körper- und Zahnpflege",
+   "Toilettengang",
+   "An- und Auskleiden",
+   "Nahrungsmittel- und Flüssigkeitsaufnahme",
+   "Bewegungsunterstützung (wöchentliche Turnstunde mit dem Vater)",
+   "Abklärung/Beratung (A-Leistungen)"
+  ],
+  "gestrichene_handlungen": [
+   "wöchentliche Sport-/Turnstunde zur Bewegungsunterstützung (ganz, als Betreuung)",
+   "C-Leistungen begrenzt auf 6.5 Std. je Wochenende zu Hause und 4.5 Std. während der ganzen Ferientage",
+   "A-Leistungen begrenzt auf 0.5 Std. pro Monat",
+   "Abhol- und Rückbringtage wie Wochenenden vergütet, Zeiten wegen Pflege in der Langzeiteinrichtung angepasst",
+   "Begleitung bei Ausflügen und Aktivitäten ausser Haus (als Betreuung)"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "nicht_genannt",
+  "weitere_leistungen": [],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Eltern, zu diesem Zweck bei einer Spitex-GmbH angestellt; Pflege an zwei Wochenenden pro Monat und in den Ferien",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "Langzeiteinrichtung (unter der Woche); laut Beschwerde dort mangelhafte Pflege",
+  "verweis_auf_alternative": "nein (Kasse verglich den Aufwand mit der tieferen Pflegestufe im Heim als Wirtschaftlichkeitsargument)",
+  "datum_erste_verfuegung_oder_kuerzung": "2023-08-07",
+  "datum_einspracheentscheid": "2023-09-21",
+  "datum_urteil_laut_text": "2024-02-21",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Sie, die Beschwerdeführerin, benötige Unterstützung bei der Körper- und Zahnpflege, beim Toilettengang, beim An- und Auskleiden und bei der Nahrungsmittel- und Flüssigkeitsaufnahme. Sie sei geistig auf dem Stand eines Kleinkindes und brauche entsprechend aufwändigere und längerdauernde Unterstützung.",
+  "zitat_fundstelle": "E. II/2.1",
+  "unsicherheiten": "Geburtsdatum geschwärzt, Alter nicht bestimmbar (Verordnung durch Kinder- und Jugendmedizin, nicht festgestellt). Einschränkungen nur als Vorbringen der Beschwerde; die Kasse bestreitet den Grundpflegebedarf an sich nicht (E. II/2.2). Gericht stellt keine eigenen Gesundheitsbefunde fest. «angeboren» heisst nicht automatisch pflegebedürftig seit Geburt, daher nicht_genannt."
+ },
+ "69": {
+  "nr": 69,
+  "docket": "VG.2024.00037",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "2007 (geboren 20. April 2007)",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "spastische Paraplegie (seit Geburt)"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch"
+  ],
+  "einschraenkungen": [],
+  "pflegehandlungen_gesamt": [
+   "Haare waschen",
+   "Nägel schneiden Zehen",
+   "Beim Essen helfen",
+   "Lagerung im Bett",
+   "Aktive/passive Bewegungsunterstützung",
+   "Hilfsmittel anbringen/entfernen",
+   "pflegerische Leistungen am Mittag"
+  ],
+  "gestrichene_handlungen": [
+   "Kürzungen bei Nr. 10107 Haare waschen, 10109 Nägel schneiden Zehen, 10302 Beim Essen helfen, 10501 Lagerung im Bett, 10506 Aktive/passive Bewegungsunterstützung, 10508 Hilfsmittel anbringen/entfernen (keine Minutenangaben)",
+   "Ferien- und Feiertage nur plus eine Stunde pro Tag",
+   "Vorbereiten von Getränken, Bereitstellung der Mahlzeiten, Servieren (Nichtpflichtleistung, Stand 2021)",
+   "Gesamt: 398.77 statt 651 Std. 15 Min. pro Quartal, nach Überentschädigungsabzug 349.57 bzw. 331.59 Std."
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "ja_grad_nicht_genannt",
+  "weitere_leistungen": [
+   "Hilflosenentschädigung",
+   "Taggeld-/Rentenanspruch Fr. 40'000.- pro Jahr (laut Formular)"
+  ],
+  "pflegebeduerftig_seit": "seit Geburt (spastische Paraplegie); Pflegedokumentation seit 2021",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Eltern bei der Care Solutions GmbH angestellt; Einkünfte der Eltern jährlich Fr. 80'500.-",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "nicht_genannt (Besuch einer heilpädagogischen Schule an fünf Tagen pro Woche)",
+  "verweis_auf_alternative": "nein",
+  "datum_erste_verfuegung_oder_kuerzung": "2023-11-16",
+  "datum_einspracheentscheid": "2024-04-18",
+  "datum_urteil_laut_text": "2025-01-16",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Die Beschwerdegegnerin bringt vor, die Beschwerdeführerin besuche an fünf Tagen pro Woche eine heilpädagogische Schule.",
+  "zitat_fundstelle": "E. II/2.2",
+  "unsicherheiten": "Konkrete Einschränkungen werden im Urteil nicht beschrieben, nur die Diagnose. Erste Kürzung = Mitteilung an die Spitex vom 16. November 2023, formelle Verfügung am 20. Februar 2024. Hilflosenentschädigung: Anspruch erwähnt (E. II/6), Grad nicht genannt. OCR-Text: Satz zur Diagnose verstümmelt («geboren se: seit Geburt an einer spastischen Paraplegie»). Welche Kürzungen auf die Schadenminderungspflicht der Mutter entfallen, sagt das Urteil ausdrücklich nicht (E. II/4.4)."
+ },
+ "70": {
+  "nr": 70,
+  "docket": "VG.2024.00115",
+  "gepflegte_person_geschlecht": "w",
+  "gepflegte_person_jahrgang": "2017 (geboren 25. Februar 2017)",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "mehrere Geburtsgebrechen"
+  ],
+  "diagnose_kategorie": [
+   "geburtsgebrechen_entwicklungsstoerung"
+  ],
+  "einschraenkungen": [
+   "erhält konstant Sauerstoff, Schleimhäute stark ausgetrocknet",
+   "zäher Schleim in der Nase erschwert die Atmung",
+   "Hilflosigkeit schweren Grades (laut Beschwerde von der IV bestätigt)"
+  ],
+  "pflegehandlungen_gesamt": [
+   "An- und Auskleiden",
+   "Essen und Trinken (inkl. Essen zerkleinern)",
+   "Körperwäsche/Pflege inkl. Zahnpflege",
+   "Teilwäsche",
+   "Nägel schneiden",
+   "Nasenpflege (mindestens dreimal täglich)",
+   "Aufstehen, Absitzen, Abliegen, Gehen, aktive/passive Bewegungsunterstützung",
+   "Verrichten der Notdurft",
+   "Abklärung und Beratung"
+  ],
+  "gestrichene_handlungen": [
+   "An- und Auskleiden: 5 Min./Tag KSH-Abzug (20 auf 15 Min./Tag)",
+   "Essen und Trinken: 5 Min. KSH plus 10 Min. Essenzerkleinern von 24 Min./Tag (Gericht: nur KSH-Abzug zulässig, 19 Min./Tag)",
+   "Körperwäsche/Pflege: 15 Min./Tag KSH-Abzug (64.57 auf 49.57 Min./Tag)",
+   "Nasenpflege 30 Min./Tag ganz unberücksichtigt (Gericht: zu vergüten)",
+   "Aufstehen, Absitzen, Abliegen, Gehen, Bewegungsunterstützung: Abzüge wegen elterlicher Unterstützungspflichten (ohne Minutenangabe; Gericht: unzulässig)",
+   "Gesamt: 216.67 statt 534 Std. 31 Min. für 1. Januar bis 30. Juni 2024"
+  ],
+  "nachtpflege": "nicht_genannt",
+  "hilflosenentschaedigung": "schwer",
+  "weitere_leistungen": [
+   "Hilflosenentschädigung der IV (Geldleistungen der IV)"
+  ],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "nicht_genannt",
+   "erwerbssituation": "Mutter, bei der Care Solutions GmbH angestellt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "«unter anderem» von der Mutter gepflegt, weitere nicht genannt; früher Einsätze einer anderen Spitexorganisation",
+  "verweis_auf_alternative": "Kasse: Situation sei zu beurteilen, wie wenn eine externe Spitexperson die Leistungen erbringen würde und dies aufgrund der Personalressourcen auch könnte; Gericht lehnt die Berücksichtigung von Personalmangel ab (E. II/4.1.3)",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-04-25",
+  "datum_einspracheentscheid": "2024-12-03",
+  "datum_urteil_laut_text": "2025-06-02",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Dies sei nötig, weil die Beschwerdeführerin konstant Sauerstoff erhalte, was ihre Schleimhäute stark austrockne und aufgrund des vielen zähen Schleims in der Nase die Atmung zusätzlich erschwert werde. Es sei deshalb mindestens dreimal pro Tag eine Nasenpflege notwendig.",
+  "zitat_fundstelle": "E. II/4.4.4",
+  "unsicherheiten": "Hilflosigkeit schweren Grades nur als Vorbringen der Beschwerde (E. II/2.1); die Kasse bestätigt nur, dass die IV die geburtsgebrechensbedingte Hilflosigkeit abgilt (E. II/2.2). Sauerstoff/Nasenpflege ist Einschätzung der Pflegefachfrau, vom Gericht als schlüssig übernommen. Einzelne Geburtsgebrechen nicht benannt. OCR-Lesefehler im Text."
+ },
+ "72": {
+  "nr": 72,
+  "docket": "36.2025.60",
+  "gepflegte_person_geschlecht": "m",
+  "gepflegte_person_jahrgang": "nato nel 2008",
+  "altersgruppe": "kind_unter_18",
+  "diagnosen": [
+   "tetraplegia spastica",
+   "numerose patologie internistiche e psichiatriche",
+   "crisi di eretismo (agitazione psicomotoria, ansia e aggressività)",
+   "enterostomia",
+   "encefalpathia (laut Verlaufsbericht der Mutter)"
+  ],
+  "diagnose_kategorie": [
+   "neurologisch",
+   "psychisch"
+  ],
+  "einschraenkungen": [
+   "Necessita di cure 24 ore su 24 e di profilassi anti-decubito",
+   "soffre di incontinenza",
+   "non riesce a nutrirsi ed eseguire le cure del corpo autonomamente",
+   "Per gli spostamenti viene caricato su una sedia a rotelle",
+   "ha bisogno della permanenza rassicurante di un adulto",
+   "non riesce a vestirsi da solo",
+   "difficoltosa deglutizione rischio broncoaspirazione",
+   "in caso di complicazioni acute deve essere ricoverato in ospedale"
+  ],
+  "pflegehandlungen_gesamt": [
+   "vestire/svestire",
+   "cambiare pannolino",
+   "igiene intima",
+   "applicare crema allo zinco",
+   "sdraiare e alzare con aiuto",
+   "idratare (con la Peg e per bocca)",
+   "aiuto a mangiare (imboccare)",
+   "doccia / lavare tutto il corpo",
+   "lavare i capelli",
+   "controllo della cute, crema idratante",
+   "applicare e rimuovere mezzi ausiliari (busto, ortesi alle gambe)",
+   "igiene parziale al lavandino (codice 1014)",
+   "profilassi anti-decubito",
+   "consigli e istruzioni (art. 7 cpv. 2 lett. a OPre, durch die direttrice sanitaria)"
+  ],
+  "gestrichene_handlungen": [
+   "sämtliche Leistungen abgelehnt (25.6.–31.12.2024): cure di base 398.25 Std. je 90 Tage (132.75 Std./Monat)",
+   "consigli e istruzioni 3.48 Std./Monat (25.6.–16.7.2024) bzw. 2.58 Std. je 90 Tage – abgelehnt",
+   "Rechnungen gesamt Fr. 31'576.95 nicht vergütet"
+  ],
+  "nachtpflege": "ja",
+  "hilflosenentschaedigung": "schwer",
+  "weitere_leistungen": [
+   "supplemento per cure intensive di 8 ore",
+   "contributo di assistenza anche notturna (servizio notturno fr. 10'157.99 al mese dal 1° gennaio 2022)",
+   "cure specialistiche a carico dell'AI"
+  ],
+  "pflegebeduerftig_seit": "nicht_genannt",
+  "pflegende_person": {
+   "jahrgang_oder_alter": "nicht_genannt",
+   "ausbildung": "keine Pflegefachausbildung laut Kasse («il familiare che presta assistenza non dispone di una formazione come infermiere»)",
+   "erwerbssituation": "Mutter, von der Spitex-Organisation als familiare curante für die Grundpflege (lit. c) angestellt; Pensum nicht genannt",
+   "eigene_gesundheit_belastung": "nicht_genannt"
+  },
+  "weitere_helfende": "direttrice sanitaria der Spitex-Organisation (Beratung lit. a); beide Eltern laut Arzt; Einrichtung, die der Versicherte unter der Woche besucht (Name geschwärzt); IV-finanzierte Assistenz (contributo di assistenza, auch nachts); case manager",
+  "verweis_auf_alternative": "ja – Kasse: Angehörigenpflege dürfe nicht teurer sein als eine Spitex mit externem Personal (1.16); Gericht: nur Kosten, die bei externen Spitex-Angestellten angefallen wären (consid. 2.12); kein Verweis auf Heim",
+  "datum_erste_verfuegung_oder_kuerzung": "2024-09-24",
+  "datum_einspracheentscheid": "2025-10-23",
+  "datum_urteil_laut_text": "2026-02-02",
+  "verstorben_waehrend_verfahren": "nicht_genannt",
+  "zitat_lage": "Necessita di cure 24 ore su 24 […], soffre di incontinenza, non riesce a nutrirsi ed eseguire le cure del corpo autonomamente. Per gli spostamenti viene caricato su una sedia a rotelle. A causa di frequenti crisi di eretismo (agitazione psicomotoria, ansia e aggressività) ha bisogno della permanenza rassicurante di un adulto.",
+  "zitat_fundstelle": "consid. 2.11 (Angaben des behandelnden Arztes vom 27.08.2024)",
+  "unsicherheiten": "Gesundheitsangaben stammen aus der vom Gericht wiedergegebenen Stellungnahme des Kinderarztes (27.08.2024) und aus Verlaufsberichten der Mutter (Parteidokumente, «encefalpathia», Schluckstörung), nicht aus eigenen Feststellungen des Gerichts. Nachtpflege: nur als IV-Assistenzbeitrag «anche notturna» belegt, ob die Mutter nachts KVG-Grundpflege leistete, sagt das Urteil nicht. Pflegebedürftig seit: nicht genannt; die HE-Mitteilung vom 08.04.2019 spricht von «diritto immutato», also schon früher. Erste Ablehnung 24.09.2024 war ein formloses Schreiben; formelle Verfügungen 24.04.2025 (Periode ab 17.07.2024) und 08.08.2025 (25.06.–16.07.2024). Geburtsgebrechen wird nicht erwähnt. Erwägungen 2.1–2.8 (Zuständigkeit, Rechtsgrundlagen) gelesen, aber ohne Fallbezug. Ersetzt den Eintrag zum Rechtsverzögerungsentscheid 36.2025.17 (nr 60) im selben Verfahren."
+ }
+}

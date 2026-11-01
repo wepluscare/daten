@@ -1,0 +1,1133 @@
+KV 200 2025 503
+KOJ/GET/SSM
+Verwaltungsgericht des Kantons Bern
+Sozialversicherungsrechtliche Abteilung
+Urteil des Einzelrichters vom 19. März 2026
+Verwaltungsrichter Kölliker
+Gerichtsschreiber Germann
+A.________
+vertreten durch Rechtsanwältin ass. iur. B.________, C.________
+Beschwerdeführer
+gegen
+Mutuel Krankenversicherung AG
+Rechtsdienst, Rue des Cèdres 5, 1920 Martigny
+Beschwerdegegnerin
+betreffend Einspracheentscheid vom 9. Juli 2025
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 2 -
+Sachverhalt:
+A.
+Der … geborene A.________ (nachfolgend Versicherter bzw. Beschwerde-
+führer) ist bei der Mutuel Krankenversicherung AG (nachfolgend Mutuel
+bzw. Beschwerdegegnerin) obligatorisch krankenpflegeversichert (Akten
+der Mutuel [act. II] 1). Mit E-Mail vom 10. Dezember 2024 (act. II 3) stellte
+die D.________ GmbH der Mutuel ein den Versicherten betreffendes "Be-
+darfsformular der Pflege ambulant oder zu Hause" zu, worin sie um Kos-
+tenübernahme für einen Pflegebedarf von insgesamt 209.25 Stunden (6.83
+Stunden für Abklärung und Beratung, 202.42 Stunden für Grundpflege) für
+den Zeitraum vom 24. Oktober 2024 bis 15. April 2025 ersuchte. In der
+Folge forderte die Mutuel weitere Unterlagen ein (act. II 4), welche die
+D.________ GmbH mit E-Mail vom 31. Dezember 2024 (act. II 5) einreich-
+te. Sie machte geltend, der Versicherte sei aufgrund einer Multimorbidität –
+insbesondere eines Morbus Behçet sowie Problemen seitens der Halswir-
+belsäule – und einer dadurch bedingten beeinträchtigten Gehfähigkeit so-
+wie
+eines
+Selbstversorgungsdefizits
+bei
+der
+Körperpflege
+auf
+Hauspflegeleistungen der Spitex angewiesen (act. II 5a; 5d; 5e). Die Ver-
+sorgungsleistungen würden von der durch die D.________ GmbH ange-
+stellten pflegenden Angehörigen E.________ erbracht (act. II 5b; 5c).
+Nachdem die Mutuel das Dossier einer Vertrauenspflegefachperson zur
+Beurteilung vorgelegt (act. II 6) und anschliessend über das Leistungsge-
+such mittels zweier formloser "Teilablehnungen" befunden hatte (act. II 6;
+8), erliess sie am 19. März 2025 auf Verlangen der D.________ GmbH
+(act. II 9) eine Verfügung, in welcher sie gemäss Dispositiv was folgt ent-
+schied (act. II 10):
+"Gewährt werden maximal Beiträge des Krankenversicherers gemäss folgen-
+der Limitierung
+C-Leistungen [= Leistungen für die Grundpflege] 15 Stunden
+Die Beiträge an Leistungen werden nur gemäss Vorlage eines Pflegerapports
+mit Angabe von Datum, Zeit, Dauer der tatsächlich geleisteten (nicht geplan-
+ten!) Pflege, Art der Pflege, Position nach Leistungskatalog Spitex, entrichtet.
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 3 -
+Die Leistungen des Krankenversicherers werden bis zur Rechtskraft dieser
+Verfügung sistiert."
+Unter "Begründung" hielt die Mutuel weiter fest: "A-Leistungen [= Leistun-
+gen für Abklärung und Beratung] werden nicht gewährt. Sie waren nur ein-
+malig zweckmässig und notwendig und werden für die Zukunft abgelehnt."
+Gegen diese Verfügung liess der Versicherte Einsprache erheben (act. II
+11). Ferner reichte die D.________ GmbH mit E-Mail vom 14. April 2025
+(act. II 12) ein weiteres, den Zeitraum vom 16. April bis 16. Oktober 2025
+betreffendes Leistungsgesuch ein. Am 9. Juli 2025 (Akten des Versicherten
+[act. I] 2) erliess die Mutuel den folgenden Einspracheentscheid:
+"Gewährt werden ab Beginn der Geltendmachung von Angehörigenpfle-
+ge (Oktober 2024) maximal 15 Stunden C-Leistungen. Damit allfällige
+neue Bedarfsabklärungen geprüft werden, müsste eine Änderung im Ge-
+sundheitszustand des Versicherten durch einen Arztbericht ausgewiesen
+werden.
+Die Beiträge an Leistungen werden nur nach Vorlage eines Pflegerap-
+ports mit Angabe von Datum, Zeit, Dauer der tatsächlich geleisteten
+(nicht geplanten!) Pflege, Art der Pflege, Position nach Leistungskatalog
+Spitex, entrichtet. Es sind effektive Pflegeleistungen gemäss Leistungs-
+katalog Spitex, nicht pauschal und nicht geschätzt (ca.) zu substantiieren
+und zu belegen.
+Die Leistungen des Krankenversicherers werden bis zur Rechtskraft die-
+ser Verfügung sistiert."
+Weiter hielt die Mutuel unter "Begründung" wiederum fest: "A-
+Leistungen werden nicht gewährt. Sie waren nur einmalig zweckmäs-
+sig und notwendig und werden für die Zukunft abgelehnt."
+B.
+Dagegen lässt der Versicherte, vertreten durch Rechtsanwältin ass. iur.
+B.________, C.________, mit Eingabe vom 19. August 2025 Beschwerde
+erheben. Er stellt die folgenden Rechtsbegehren bzw. Anträge:
+1.
+Es sei der Einspracheentscheid der Beschwerdegegnerin vom 9. Juli
+2025 aufzuheben und diese zu verpflichten, die beantragten Pflegeleis-
+tungen i.S.v. Art. 7 KLV vollumfänglich zu vergüten.
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 4 -
+2.
+Eventuell sei der Einspracheentscheid der Beschwerdegegnerin vom
+9. Juli 2025 aufzuheben und die Angelegenheit im Sinne der Erwägun-
+gen an die Vorinstanz zurückzuweisen.
+3.
+Alles unter gesetzlicher Kosten- und Entschädigungsfolge zu Lasten der
+Beschwerdegegnerin.
+Ferner beantragt der Beschwerdeführer die Einholung eines neutralen pfle-
+gerischen Gutachtens durch das Gericht, eventuell durch die Beschwerde-
+gegnerin (Beschwerde S. 3 Rz. 6).
+Mit Beschwerdeantwort vom 8. Oktober 2025 schliesst die Beschwerde-
+gegnerin mit folgenden Rechtsbegehren bzw. Anträgen:
+1.
+Die Beschwerde sei vollumfänglich abzuweisen.
+2.
+Es sei festzustellen, dass keine Leistungspflicht des Versicherers im
+Rahmen der obligatorischen Krankenpflegeversicherung besteht.
+3.
+Eventualiter sei festzustellen, dass die geltend gemachten Pflegeleistun-
+gen nicht durch eine anerkannte Spitex-Organisation oder eine pflegen-
+de Angehörige im Sinne des Spitex-Administrativvertrags erbracht
+wurden und daher nicht vergütet werden können.
+4.
+Sämtliche weiteren Forderungen des Beschwerdeführers seien abzuwei-
+sen.
+5.
+Unter Kosten- und Entschädigungsfolgen zu Lasten des Beschwerdefüh-
+rers.
+Mit Replik vom 17. November 2025 stellte der Beschwerdeführer zusätzlich
+den Antrag, der Beschwerdegegnerin sei aufzuerlegen, die unbestrittenen
+Forderungen umgehend zu begleichen (S. 2 Rz. 6). Im Übrigen hielt er an
+den beschwerdeweisen Rechtsbegehren fest.
+Mit Duplik vom 23. Dezember 2025 bestätigte die Beschwerdegegnerin die
+in der Beschwerdeantwort vom 8. Oktober 2025 gestellten Rechtsbegeh-
+ren.
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 5 -
+Erwägungen:
+1.
+1.1
+Der angefochtene Entscheid ist in Anwendung von Sozialversiche-
+rungsrecht ergangen. Die Sozialversicherungsrechtliche Abteilung des
+Verwaltungsgerichts beurteilt gemäss Art. 57 des Bundesgesetzes vom
+6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts
+(ATSG; SR 830.1) i.V.m. Art. 54 Abs. 1 lit. a des kantonalen Gesetzes vom
+11. Juni 2009 über die Organisation der Gerichtsbehörden und der Staats-
+anwaltschaft (GSOG; BSG 161.1) Beschwerden gegen solche Entscheide.
+Der Beschwerdeführer ist im vorinstanzlichen Verfahren mit seinen Anträ-
+gen nicht durchgedrungen, durch den angefochtenen Entscheid berührt
+und hat ein schutzwürdiges Interesse an dessen Aufhebung, weshalb er
+zur Beschwerde befugt ist (Art. 59 ATSG). Die örtliche Zuständigkeit ist
+gegeben (Art. 58 ATSG). Da auch die Bestimmungen über Frist (Art. 60
+ATSG) sowie Form (Art. 61 lit. b ATSG; Art. 81 Abs. 1 i.V.m. Art. 32 des
+kantonalen Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege
+[VRPG; BSG 155.21]) eingehalten sind, ist auf die Beschwerde einzutreten.
+1.2
+
+1.2.1
+1.2.1.1
+Anfechtungsgegenstand im verwaltungsgerichtlichen Beschwerde-
+verfahren bilden, formell betrachtet, Verfügungen und – materiell – die in
+den Verfügungen geregelten Rechtsverhältnisse (BGE 125 V 413 E. 2a
+S. 415). Der Verfügung gleichgestellt sind Einspracheentscheide (Art. 55
+Abs. 1 ATSG i.V.m. Art. 5 Abs. 2 des Bundesgesetzes vom 20. Dezember
+1968 über das Verwaltungsverfahren [Verwaltungsverfahrensgesetz,
+VwVG; SR 172.021]). Entsprechend sind im verwaltungsgerichtlichen Be-
+schwerdeverfahren grundsätzlich nur Rechtsverhältnisse zu überprüfen
+und zu beurteilen, zu denen die zuständige Verwaltungsbehörde vorgängig
+verbindlich – in Form einer Verfügung – Stellung genommen hat. Insoweit
+bestimmt die Verfügung den beschwerdeweise weiterziehbaren Anfech-
+tungsgegenstand. Umgekehrt fehlt es an einem Anfechtungsgegenstand
+und somit an einer Sachurteilsvoraussetzung, wenn und insoweit keine
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 6 -
+Verfügung ergangen ist (BGE 131 V 164 E. 2.1 S. 164; SVR 2021 AHV Nr.
+21 S. 67, 9C_86/2021 E. 5.2). Was die Auslegung von Verfügungen bzw.
+Einspracheentscheiden betrifft, ist nicht in erster Linie der Wortlaut mass-
+gebend; zu fragen ist vielmehr nach dem tatsächlichen rechtlichen Gehalt
+des Rechtsakts (vgl. BGE 147 V 369 E. 4.2.1 S. 373, 132 V 74 E. 2 S. 76).
+1.2.1.2
+Nach der Rechtsprechung kann das verwaltungsgerichtliche Be-
+schwerdeverfahren aus prozessökonomischen Gründen auf eine ausser-
+halb des Anfechtungsgegenstandes, d.h. ausserhalb des durch die
+Verfügung bestimmten Rechtsverhältnisses liegende spruchreife Frage
+ausgedehnt werden, wenn diese mit dem bisherigen Streitgegenstand der-
+art eng zusammenhängt, dass von einer Tatbestandsgesamtheit gespro-
+chen werden kann, und wenn sich die Verwaltung zu dieser Streitfrage
+mindestens in Form einer Prozesserklärung geäussert hat (BGE 130 V 501
+E. 1.2 S. 503, 122 V 34 E. 2a S. 36; SVR 2012 IV Nr. 35 S. 136,
+9C_678/2011 E. 3.1).
+1.2.2
+Anfechtungsobjekt bildet der Einspracheentscheid vom 9. Juli
+2025 (act. I 2). Darin wurden dem Beschwerdeführer gemäss Entscheid-
+formel "ab Beginn der Geltendmachung der Angehörigenpflege (Oktober
+2024) maximal 15 Stunden C-Leistungen" zugesprochen. Weiter wurden
+formale Voraussetzungen betreffend allfällige neue Bedarfsabklärungen
+sowie für das Geltendmachen der zugesprochenen Leistungen mittels ei-
+nes detaillierten Pflegerapports definiert und die Leistungen "bis zur
+Rechtskraft dieser Verfügung [richtig: des Einspracheentscheids] sistiert".
+Weiter wurde unter "Begründung" unter anderem festgehalten, dass A-
+Leistungen nicht gewährt würden, sie "nur einmalig zweckmässig und not-
+wendig" gewesen seien und "für die Zukunft abgelehnt" würden (S. 2).
+1.2.2.1
+Zwar enthält der angefochtene Einspracheentscheid (sowie die
+zugrunde liegende Verfügung vom 19. März 2025 [act. II 10]) keinerlei
+rechtlichen Grundlagen. Aufgrund der im Verwaltungsverfahren angelegten
+Akten (act. II) sowie mit Blick auf den Gesamtzusammenhang im Einspra-
+cheentscheid ist jedoch klar, dass Gegenstand desselben Pflegeleistungen
+im Sinne von Art. 7 der Verordnung vom 29. September 1995 des EDI über
+Leistungen in der obligatorischen Krankenpflegeversicherung (Kranken-
+pflege-Leistungsverordnung, KLV; SR 832.112.31) bilden, wobei aussch-
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 7 -
+liesslich über den Anspruch auf A- und C-Leistungen (Art. 7 Abs. 2 lit. a
+und c KLV; vgl. E. 3.2.1 hinten) befunden wurde.
+1.2.2.2
+Ferner nimmt der Entscheid vom 9. Juli 2025 (act. I 2) ausdrück-
+lich Bezug auf die Verfügung vom 19. März 2025 (act. II 10; act. I 2 S. 1).
+Beurteilungsgegenstand derselben – wie auch der vorangehenden formlo-
+sen "Teilablehnung" vom 7. bzw. 14. Januar 2025 (act. II 6; 8) – war einzig
+das mittels E-Mail vom 10. Dezember 2024 (act. II 3) der Beschwerdegeg-
+nerin eingereichte Leistungsgesuch bzw. Bedarfsmeldeformular, welches
+den Zeitraum vom 24. Oktober 2024 bis 15. April 2025 betrifft; allein dieses
+Gesuch bildete denn auch Gegenstand des anschliessenden Abklärungs-
+verfahrens (vgl. act. II 4 ff.). Demnach hat die Beschwerdegegnerin im an-
+gefochtenen Einspracheentscheid vom 9. Juli 2025 ausschliesslich zum
+Anspruch auf Pflegeleistungen (A- und C-Leistungen) für die Zeit vom
+24. Oktober 2024 bis 15. April 2025 verbindlich Stellung genommen (vgl.
+E. 1.2.1 vorne).
+Soweit die Beschwerdegegnerin in der Beschwerdeantwort geltend macht
+(S. 6 Ziff. 4), die "Bindungswirkung" des angefochtenen Einspracheent-
+scheides vom 9. Juli 2025 erstrecke sich auch auf das mit E-Mail vom
+14. April 2025 (act. II 12) eingereichte und den Zeitraum vom 16. April bis
+16. Oktober 2025 betreffende Bedarfsmeldeformular, kann ihr unter den
+gegebenen Umständen nicht gefolgt werden: Zwar ist ihr darin beizupflich-
+ten, dass im Einspracheverfahren Entwicklungen des Sachverhalts
+grundsätzlich bis zum Erlass des Einspracheentscheids berücksichtigt wer-
+den müssen (BGE 142 V 337 E. 3.2.2 S. 341, ARTHUR BRUNNER, in:
+KIESER/KRADOLFER/LENDFERS [Hrsg.], Kommentar zum Bundesgesetz über
+den Allgemeinen Teil des Sozialversicherungsrechts ATSG, 5. Aufl. 2024,
+Art. 52 N. 74 f.). Allerdings bedingt dies eine hinsichtlich der zu klärenden
+Fragen angemessene Abklärung des Sachverhalts (Art. 43 ATSG) unter
+Gewährung des rechtlichen Gehörs mitsamt den damit in Zusammenhang
+stehenden Mitwirkungsrechten und -pflichten des Anspruchstellers. Vorlie-
+gend erfolgte die Gesuchseinreichung für Pflegeleistungen vom 16. April
+bis 16. Oktober 2025 zwar während des laufenden Einspracheverfahrens.
+Die Beschwerdegegnerin tätigte hierzu jedoch keinerlei weiteren Abklärun-
+gen bzw. sind solche nicht aktenkundig, obschon im neuen – mitnichten
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 8 -
+deckungsgleichen (Beschwerdeantwort S. 6 Rz. 4) – Gesuch ein deutlich
+höherer Pflegeaufwand betreffend Grundpflege (C-Leistungen) geltend
+gemacht wurde (act. II 12; Duplik S. 3 Rz. 3) und demnach eine wesentli-
+che und potentiell abklärungsbedürftige Änderung des zugrunde liegenden
+Sachverhalts zumindest im Raum steht. In der Folge wurde das neue Ge-
+such im Einspracheentscheid vom 9. Juli 2025 einzig im Rahmen des
+Sachverhalts erwähnt bzw. hierzu lediglich festgestellt, dass ein weiteres
+Gesuch eingereicht worden sei, mit welchem 2.5 Stunden für A-Leistungen
+und 318.83 Stunden für C-Leistungen geltend gemacht worden seien (act. I
+2 S. 2). Weder wurde darüber im Entscheiddispositiv noch vorgängig form-
+los oder verfügungsweise befunden. Auch bezog sich der Beschwerdefüh-
+rer im Einspracheverfahren ausdrücklich und ausschliesslich einzig auf das
+den Zeitraum vom 24. Oktober 2024 bis 15. April 2025 betreffende Gesuch
+(act. II 11 S. 1, S. 3 Rz 10). Damit kann hinsichtlich das den Zeitraum vom
+16. April bis 16. Oktober 2025 betreffende Leistungsgesuch nicht von ei-
+nem (im Rahmen des angefochtenen Einspracheentscheids vom 9. Juli
+2025) geregelten Rechtsverhältnis gesprochen werden, womit das Leis-
+tungsgesuch vom 14. April 2025 (act. II 12) zumindest materiell als ausser-
+halb des Anfechtungsgegenstandes liegend zu qualifizieren ist (vgl.
+E. 1.2.1.2 vorne). Entsprechend entfällt mangels Spruchreife eine Ausdeh-
+nung des verwaltungsrechtlichen Beschwerdeverfahrens zum vornherein.
+Von einer "Einheit des Streitgegenstandes" (Beschwerdeantwort S. 6
+Rz. 4) im Sinne einer Tatbestandsgesamtheit (vgl. E. 1.2.1.2 vorne) kann
+bei dieser Ausgangslage demnach nicht gesprochen werden, weil die ein-
+zelnen Kostengutsprachen auf einer eigenen Sachverhaltsüberprüfung
+beruhen müssen – was auf das Gesuch vom 14. April 2025 (act. II 12) dem
+Dargelegten zufolge nicht zutrifft –, und jeweils nur für einen bestimmten
+Zeitraum erlassen werden (vgl. Urteil des Verwaltungsgerichts des Kantons
+Bern KV 200 2013 321 vom 11. November 2013 E. 1.2.2; vgl. ferner Art. 8a
+Abs. 7 und 8 KLV, welche im Hinblick auf die Anspruchsprüfung bezüglich
+Pflegeleistungen die Pflicht zu periodischen Bedarfsermittlungen vorse-
+hen). Mit dem Beschwerdeführer bilden somit allein die für den Zeitraum
+vom 24. Oktober 2024 bis 15. April 2025 geltend gemachten Pflegeleistun-
+gen Anfechtungs- und Streitgegenstand (vgl. Beschwerde S. 6 Rz. 28).
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 9 -
+1.2.3
+Streitig und zu prüfen ist demnach der Anspruch des Beschwerde-
+führers auf Vergütung von Pflegeleistungen gemäss Art. 7 Abs. 2 lit. a und
+c KLV (A- und C-Leistungen) für die Zeit vom 24. Oktober 2024 bis 15. April
+2025 (vgl. auch E. 2. hinten).
+1.2.4
+Dem Beschwerdeführer wurden statt der beantragten 33.73 Stun-
+den pro Monat (202.42 / 6 Monate [act. II 3]) 15 Stunden pro Monat für die
+Grundpflege (C-Leistungen) zugesprochen (act. I 2), was einer Differenz
+von 112.42 Stunden entspricht (202.42 – [6 x 15]). Die Beiträge an die Kos-
+ten der Grundpflege belaufen sich für den gesamten Beurteilungszeitraum
+auf Fr. 52.60 pro Stunde (Art. 7a Abs. 1 lit. c KLV; vgl. E. 3.2.3 hinten), was
+einem Betrag von Fr. 5'913.30 entspricht (112.42 Stunden x Fr. 52.60).
+Unter zusätzlicher Berücksichtigung von 6.83 Stunden A-Leistungen (act. II
+3; 10a; act. I 2 S. 2), ausmachend Fr. 525.20 (6.83 Stunden x Fr. 76.90
+[Art. 7a Abs. 1 lit. c KLV; vgl. E. 3.2.3 hinten]), liegt der Streitwert somit
+unterhalb von Fr. 20'000.--, weshalb die Beurteilung der Beschwerde in die
+einzelrichterliche Zuständigkeit fällt (Art. 57 Abs. 1 GSOG).
+1.2.5
+Das Gericht überprüft den angefochtenen Entscheid frei und ist an
+die Begehren der Parteien nicht gebunden (Art. 61 lit. c und d ATSG;
+Art. 80 lit. c Ziff. 1 und Art. 84 Abs. 3 VRPG).
+2.
+2.1
+Der Beschwerdeführer beantragt unter Hinweis auf eine als solche
+bezeichnete "Rechtswidrige Sistierung aller Leistungen durch die Be-
+schwerdegegnerin" die umgehende Begleichung der "unbestrittenen Forde-
+rungen" (Replik S. 1 und S. 2 Rz. 6).
+2.2
+Sowohl in der Verfügung vom 19. März 2025 (act. II 10) als auch
+im angefochtenen Einspracheentscheid vom 9. Juli 2025 (act. I 2 S. 4) hielt
+die Beschwerdegegnerin im Dispositiv jeweils fest, "Die Leistungen des
+Krankenversicherers werden bis zur Rechtskraft dieser Verfügung sistiert."
+Damit berief sich die Beschwerdegegnerin wohl (implizit) auf Art. 52a
+ATSG (vgl. Duplik S. 2 Rz. 2). Wie es sich vorliegend mit der Rechtmässig-
+keit einer solchen "Sistierung" sämtlicher Leistungen verhält, kann offen
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 10 -
+bleiben. Ebenso wenig ist die Frage zu prüfen, ob der (schon im streitigen
+Verwaltungsverfahren
+rechtskundig
+vertretene)
+Beschwerdeführer
+(act. II 11) die erstmals replicando bestrittene "Sistierung" bereits im unmit-
+telbaren Nachgang der Verfügung vom 19. März 2025 mittels Beschwerde
+hätte anfechten müssen (vgl. BBl 2018 1607 S. 1638 f.; DIANA OSWALD, in:
+KIESER/KRADOLFER/LENDFERS [Hrsg.], Kommentar zum Bundesgesetz über
+den Allgemeinen Teil des Sozialversicherungsrechts ATSG, 5. Aufl. 2024,
+Art. 52a N. 16 f.). Denn wie in E. 1.2.5 vorne gezeigt, überprüft das Gericht
+den angefochtenen Entscheid frei und ist an die Begehren der Parteien
+nicht gebunden. Dabei ist zu berücksichtigen, dass hier – insbesondere
+auch im Lichte der Beschwerdeantwort (vgl. S. 11 Rz. 13 sowie Antrag Ziff.
+2 S. 11) – der generelle Anspruch auf Vergütung von Pflegeleistungen
+streitig und zu prüfen ist, worunter im Rahmen des Anfechtungs- und
+Streitgegenstandes (vgl. E. 1.2.2 vorne) sämtliche Leistungen – mithin
+auch die angeblich "unbestrittenen Forderungen" (Replik S. 2 Rz. 6) – fal-
+len (zur Zulässigkeit eines Rechtsbegehrens, das eine Verschlechterung
+gegenüber dem Verfügten bedeutet vgl. BGE 138 V 339 E. 2.3.2.2 S. 342).
+Damit hat die im Einspracheentscheid angeordnete Sistierung keine ei-
+genständige Bedeutung. Mit dem vorliegenden Urteil in der Hauptsache
+erübrigt sich die Beurteilung des replicando gestellten Gesuchs um vor-
+sorgliche Massnahmen, wonach der Beschwerdegegnerin die umgehende
+Ausrichtung der "unbestrittenen Forderungen" aufzuerlegen sei.
+2.3
+Schliesslich stellt das von der Beschwerdegegnerin mit Beschwer-
+deantwort gestellte Rechtsbegehren gemäss Ziff. 2 (S. 11) ein Feststel-
+lungsbegehren dar, auf welches nicht einzutreten ist. Denn die Interessen
+der Beschwerdegegnerin werden im Rahmen des vorliegenden rechtsge-
+staltenden Urteils vollumfänglich gewahrt (SVR 2017 FZ Nr. 1 S. 1,
+8C_438/2016 E. 2.1).
+3.
+3.1
+Nach Art. 24 des Bundesgesetzes vom 18. März 1994 über die
+Krankenversicherung (KVG; SR 832.10) übernimmt die obligatorische
+Krankenpflegeversicherung (OKP) die Kosten für die Leistungen gemäss
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 11 -
+Art. 25 - 31 KVG nach Massgabe der in den Art. 32 - 34 festgelegten Vor-
+aussetzungen. Sie leistet gemäss Art. 25a Abs. 1 KVG einen Beitrag an die
+Pflegeleistungen, welche aufgrund einer ärztlichen Anordnung und eines
+ausgewiesenen Pflegebedarfs ambulant, auch in Tages- oder Nachtstruktu-
+ren, oder im Pflegeheim von einer Pflegefachperson (Art. 25a Abs. 1 lit. a
+KVG), in Organisationen, die Pflegefachpersonen beschäftigen (Art. 25a
+Abs. 1 lit. b KVG), oder auf Anordnung oder im Auftrag eines Arztes oder
+einer Ärztin erbracht werden (Art. 25a Abs. 1 lit. c KVG). Der Bundesrat
+bezeichnet die Pflegeleistungen, die auf Anordnung oder im Auftrag eines
+Arztes oder einer Ärztin erbracht werden können. Er bestimmt, welche
+Pflegeleistungen ohne Anordnung oder Auftrag eines Arztes oder einer
+Ärztin erbracht werden können (Art. 25a Abs. 3 KVG). Weiter setzt der
+Bundesrat die Beiträge differenziert nach dem Pflegebedarf in Franken fest.
+Massgebend ist der Aufwand nach Pflegebedarf für Pflegeleistungen, die in
+der notwendigen Qualität, effizient und kostengünstig erbracht werden (Art.
+25a Abs. 4 KVG).
+3.2
+3.2.1
+Der in Art. 25a KVG umrissene Leistungsbereich wird – gestützt
+auf Art. 33 lit. b der Verordnung vom 27. Juni 1995 über die Krankenversi-
+cherung (KVV; SR 832.102) – in Art. 7 KLV näher umschrieben. Als Leis-
+tungen
+gelten
+demnach
+Untersuchungen,
+Behandlungen
+und
+Pflegemassnahmen, die aufgrund der Bedarfsabklärung nach Art. 7 Abs. 2
+lit. a und nach Art. 8 KLV u.a. – soweit hier von Interesse – von Pflegefach-
+frauen und Pflegefachmännern (Art. 49 KVV) und von Organisationen der
+Krankenpflege und Hilfe zu Hause (Art. 51 KVV) erbracht werden (Art. 7
+Abs. 1 lit. a und b KLV). Leistungen im Sinne von Art. 7 Abs. 1 KLV sind
+Massnahmen der Abklärung, Beratung und Koordination (Art. 7 Abs. 2 lit. a
+KLV [A-Leistungen]), Massnahmen der Untersuchung und der Behandlung
+(Art. 7 Abs. 2 lit. b KLV [B-Leistungen]) sowie Massnahmen der Grundpfle-
+ge (Art. 7 Abs. 2 lit. c KLV [C-Leistungen]). Unter der jeweiligen Litera wer-
+den die von den Leistungen erfassten Vorkehren aufgezählt.
+3.2.2
+Die Leistungen nach Art. 7 Abs. 2 lit. a und c KLV können ohne
+ärztliche Anordnung oder ärztlichen Auftrag aufgrund der Bedarfsabklärung
+nach Art. 7 Abs. 2 lit. a und Art. 8 KLV, jene nach Art. 7 Abs. 2 lit. b KLV
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 12 -
+nur auf ärztliche Anordnung hin oder im ärztlichen Auftrag aufgrund der
+Bedarfsabklärung nach Art. 7 Abs. 2 lit. a und Art. 8 KLV erbracht werden
+(Art. 7 Abs. 4 KLV).
+3.2.3
+Die Beiträge der OKP an die Leistungen für Bedarfsabklärungen
+sowie Behandlungs- und Grundpflege sind in Art. 7a Abs. 1 KLV geregelt:
+Für Leistungen nach Art. 7 Abs. 2 lit. a (Massnahmen der Abklärung, Bera-
+tung und Koordination): Fr. 76.90; b. für Leistungen nach Art. 7 Abs. 2 lit. b
+(Massnahmen der Untersuchung und der Behandlung): Fr. 63.--; c. für
+Leistungen nach Art. 7 Abs. 2 lit. c Ziff. 1 KLV (Massnahmen der Grund-
+pflege): Fr. 52.60. Die Vergütung dieser Beiträge erfolgt in Zeiteinheiten
+von 5 Minuten, wobei mindestens 10 Minuten zu vergüten sind (Art. 7a
+Abs. 2 KLV).
+3.3
+Die Ermittlung des Bedarfs an Leistungen nach Art. 7 Abs. 2 KLV,
+die zur Umsetzung des ärztlichen Auftrages oder der ärztlichen Anordnung
+nach Art. 8 KLV notwendig sind (Bedarfsermittlung), erfolgt durch einen
+Pflegefachmann oder eine Pflegefachfrau nach Art. 49 KVV in Zusammen-
+arbeit mit dem Patienten oder der Patientin oder den Angehörigen. Das
+Ergebnis der Bedarfsermittlung ist umgehend dem Arzt oder der Ärztin zur
+Kenntnisnahme zuzustellen, welcher oder welche die Anordnung oder den
+Auftrag erteilt hat (Art. 8a Abs. 1 KLV). Die Ermittlung des Bedarfs an Leis-
+tungen nach Art. 7 Abs. 2 lit. a und c KLV (vgl. E. 3.2.1 vorne), die ohne
+ärztlichen Auftrag oder ärztliche Anordnung von einem Pflegefachmann
+oder einer Pflegefachfrau nach Art. 49 KVV erbracht werden können, wird
+von diesem oder dieser in Zusammenarbeit mit dem Patienten oder der
+Patientin oder dessen oder deren Angehörigen durchgeführt. Das Ergebnis
+ist umgehend dem behandelnden Arzt oder der behandelnden Ärztin zur
+Kenntnisnahme zuzustellen (Art. 8a Abs. 1bis KLV). Die Bedarfsermittlung
+umfasst die Beurteilung der Gesamtsituation des Patienten oder der Pati-
+entin sowie die Abklärung des Umfeldes (Art. 8a Abs. 3 KLV). Sie erfolgt
+aufgrund einheitlicher Kriterien. Ihr Ergebnis wird auf einem einheitlichen
+Formular, das von Leistungserbringern und Versicherern gemeinsam erar-
+beitet wurde, festgehalten. Dort ist insbesondere der voraussichtliche
+Zeitaufwand anzugeben (Art. 8a Abs. 4 KLV).
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 13 -
+3.4
+Zur Tätigkeit zu Lasten der OKP sind u.a. Personen zugelassen,
+die auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin Leistun-
+gen erbringen, und Organisationen, die solche Personen beschäftigen (Art.
+35 Abs. 2 lit. e KVG). Dazu gehören etwa Organisationen der Krankenpfle-
+ge und Hilfe zu Hause (BGE 132 V 303 E. 4.3.1 S. 304; vgl. JUANA
+VASELLA, in: BLECHTA/COLATRELLA/RÜEDI/STAFFELBACH [Hrsg.], Basler
+Kommentar,
+Krankenversicherungsgesetz,
+Krankenversicherungsauf-
+sichtsgesetz, 2019, Art. 35 KVG N. 36; vgl. auch Art. 35 Abs. 2 lit. dbis
+KVG, in Kraft seit 1. Juli 2024). Als Leistungserbringer bei der Pflege zu
+Hause kommen gemäss Art. 7 Abs. 1 lit. a und b KLV Pflegefachfrauen und
+-männer sowie Organisationen der Krankenpflege und Hilfe zu Hause in
+Frage (vgl. E. 3.2.1 vorne). Laut BGE 145 V 161 E. 5 S. 165 ff. können
+Familienangehörige der versicherten Person, die bei einer zugelassenen
+Organisation der Krankenpflege und Hilfe zu Hause angestellt sind, auch
+ohne pflegerische Fachausbildung allgemeine Grundpflege gemäss Art. 7
+Abs. 2 lit. c Ziff. 1 KLV zulasten der obligatorischen Krankenpflegeversiche-
+rung erbringen (BGE 150 V 273). Demgegenüber erfordern die Vorkehren
+der Abklärung, Beratung und Koordination nach Art. 7 Abs. 2 lit. a KLV ent-
+sprechende berufliche Fähigkeiten (Urteil des Bundesgerichts [BGer]
+9C_385/2023 vom 8. Mai 2024 E. 2.3.2, nicht publ. in: BGE 150 V 273).
+3.5
+Die OKP übernimmt die Kosten für die Leistungen, die der Dia-
+gnose oder Behandlung einer Krankheit und ihrer Folgen dienen (Art. 25
+Abs. 1 KVG). Die Leistungen nach den Art. 25 - 31 KVG müssen wirksam,
+zweckmässig und wirtschaftlich sein (Art. 32 Abs. 1 Satz 1 KVG; sog.
+WZW-Kriterien) und werden periodisch dahingehend überprüft (Art. 32 Abs.
+2 KVG; BGE 151 V 158 E. 3.1 S. 160, 145 V 116 E. 3.2 S. 119). Der Leis-
+tungserbringer muss sich in seinen Leistungen auf das Mass beschränken,
+das im Interesse der Versicherten liegt und für den Behandlungszweck
+erforderlich ist (Art. 56 Abs. 1 KVG).
+4.
+4.1
+Unbestrittenermassen handelt es sich bei der D.________ GmbH
+um eine im Kanton Bern zugelassene Leistungserbringerin im Sinne von
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 14 -
+Art. 35 Abs. 2 lit. dbis bzw. lit. e KVG in Verbindung mit Art. 51 KVV, welche
+zur Abrechnung zu Lasten der OKP unter der ZSR-Nr. … (act. II 3) berech-
+tigt ist (zur Bedeutung der ZSR-Nr. vgl. BGE 132 V 303 E. 4.3.2 S. 305).
+Die D.________ GmbH ist Mitglied der Association Spitex privée Suisse
+(ASPS; vgl. unter Partner und Siegel). Dadurch ist sie
+dem zwischen der Spitex Schweiz und der ASPS einerseits und der dama-
+ligen tarifsuisse ag (seit 1. Januar 2026 santéservices ag) andererseits
+abgeschlossenen "Administrativ-Vertrag Spitex betreffend die Abgeltung
+von krankenversicherungspflichtigen Leistungen im Bereich Spitex" vom 1.
+Mai 2023 (Vertragsnummer …) bzw. vom 1. Januar 2025 (Vertragsnummer
+…) beigetreten (nachfolgend Vertrag vom 1. Mai 2023 bzw. Vertrag vom 1.
+Januar 2025; vgl. unter Verträge -> Adminis-
+trativerträge). Mit Inkrafttreten des Vertrags vom 1. Januar 2025 fiel jener
+vom 1. Mai 2023 inklusive aller Anhänge dahin (Art. 21 Abs. 2 des Vertrags
+vom 1. Januar 2025). Mit Blick auf den streitgegenständlichen Zeitraum
+vom 24. Oktober 2024 bis 15. April 2025 (vgl. E. 1.2.3 vorne) gelangt man-
+gels vertraglicher einschlägiger Übergangsbestimmung in Anlehnung an
+die allgemeine intertemporalrechtliche Regel, wonach in zeitlicher Hinsicht
+grundsätzlich diejenigen Rechtssätze massgeblich sind, die bei der Erfül-
+lung des rechtlich zu ordnenden oder zu Rechtsfolgen führenden Tatbe-
+standes Geltung haben (BGE 150 V 323 E. 4.2 S. 328, 150 V 89 E. 3.2.1 S.
+95, 148 V 162 E. 3.2.1 S. 166, 144 V 210 E. 4.3.1 S. 213), bis 31. Dezem-
+ber 2024 der Vertrag vom 1. Mai 2023 und für die Zeit danach jener vom 1.
+Januar 2025 zur Anwendung.
+4.2
+Die mit E-Mail der D.________ GmbH vom 31. Dezember 2024
+(act. II 5) der Beschwerdegegnerin zugestellte Bedarfsermittlung vom
+25. Oktober 2024 erfolgte standardisiert gestützt auf das Instrument inter-
+RAI HC (Resident Assessment Instrument – Homecare; act. II 5b; vgl. Art.
+7 Abs. 2 des Vertrags vom 1. Mai 2023 bzw. Art. 7 Abs. 3 des Vertrags
+vom 1. Januar 2025). Der dergestalt ermittelte Pflegebedarf wurde in der
+Folge basierend auf dem "Spitex Leistungskatalog" (vgl. Art. 7 Abs. 4 re-
+spektive Abs. 5 sowie Anhang 3.2 der vorgenannten Verträge), welcher auf
+Art. 7 Abs. 2 KLV fusst und Standardwerte für Dienstleistungen enthält (vgl.
+Ergänzung zu den interRAI-Handbüchern, Version 1.3, Februar 2023
+[nachfolgend Ergänzungsbericht interRai], S. 21), in zeitlicher Hinsicht
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 15 -
+quantifiziert (act. II 3). Das Bundesgericht hat entschieden, beim (bisheri-
+gen) Bedarfsabklärungsinstrument RAI-HC handle es sich um Empfehlun-
+gen im Bereich der Hauspflege einer Berufsgruppe ohne jeglichen normati-
+ven Charakter. Sie seien für das Gericht nicht verbindlich. Es könne sie
+jedoch bei seiner Entscheidung mitberücksichtigen, sofern sie eine dem
+Einzelfall angepasste und gerecht werdende Auslegung der anwendbaren
+gesetzlichen Bestimmungen zuliessen (Urteil des BGer 8C_1037/2012 vom
+12. Juli 2013 E. 5.2.1; BGE 147 V 16 E. 7.6 S. 26; vgl. ferner HARDY
+LANDOLT, in: Pflegerecht 2023 S. 40). Davon abzurücken besteht in Bezug
+auf das hier verwendete Bedarfsabklärungsinstrument interRAI HC, bei
+welchem es sich um eine – unter Berücksichtigung der Schweizer Beson-
+derheiten erfolgte – Anpassung des bisherigen Bedarfsabklärungsinstru-
+ments RAI-HC an den internationalen Standard des interRAI HC handelt
+(vgl. hierzu der im Auftrag von Spitex Schweiz erstellte "Schlussbericht
+Externe Evaluation" der Ecoplan AG vom 28. März 2022, "Einführung des
+Bedarfsabklärungsinstruments
+interRAI
+HCSchweiz
+in
+den
+Nonprofit-
+Spitexorganisationen, S. 1; unter Bedarfsab-
+klärung), kein Anlass. Insbesondere ist weder ersichtlich noch wird geltend
+gemacht, dass das Bedarfsabklärungsinstrument interRAI HC den Anforde-
+rungen von Art. 8a Abs. 3 ff. KLV nicht genügen könnte. Ebenso wenig
+besteht ein Grund, dem Spitex Leistungskatalog die Anwendung zu versa-
+gen, zumal dieser eine überzeugende Konkretisierung der rechtlichen Vor-
+gaben in Art. 7 Abs. 2 KLV enthält und (vorliegend) eine dem Einzelfall
+angepasste und gerecht werdende Auslegung der anwendbaren gesetzli-
+chen Bestimmungen darstellt. Gegenteiliges wird auch insoweit von keiner
+Seite vorgebracht.
+4.3
+Was schliesslich den von der D.________ GmbH basierend auf
+den vorgenannten, grundsätzlich beweistauglichen Abklärungsinstrumen-
+ten ermittelten konkreten Pflegebedarf anbelangt (act. II 3), so ist zu
+berücksichtigen, dass es nach bisheriger Rechtsprechung prinzipiell im
+pflichtgemässen Ermessen der Pflegefachperson (oder der Spitex) und der
+für die Anordnung der Leistungen zuständigen Arztperson stand, welche
+Massnahmen in zeitlicher Hinsicht wie auch in Bezug auf Form und Inhalt
+angebracht sind. Den zuständigen Personen kam bei der Beurteilung des
+konkreten Bedarfs ein gewisser Spielraum zu, in den namentlich dann nur
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 16 -
+zurückhaltend einzugreifen war, wenn es sich beim Arzt, welcher die
+Massnahmen anordnete, um den Hausarzt der versicherten Person handel-
+te, der jederzeit über deren Gesundheitszustand im Bilde war (Urteil des
+BGer 9C_307/2020 vom 10. August 2020 E. 4.2; GEBHARD EUGSTER, Kran-
+kenversicherung, in: ULRICH MEYER [Hrsg.], Schweizerisches Bundesver-
+waltungsrecht [SBVR], Band XIV, Soziale Sicherheit, 3. Aufl. 2016, S. 521
+N. 377). Vorliegend erfolgte die Bedarfsermittlung zwar nicht gestützt auf
+eine Anordnung des Hausarztes Dr. med. F.________, Facharzt für Allge-
+meine Innere Medizin (act. II 1); vielmehr wurde ihm die Bedarfsermittlung
+allein zur Kenntnisnahme zugestellt (act. II 3). Allerdings folgt aus der am
+15. Oktober 2024 erstellten "Problemliste" (act. II 5e), dass Dr. med.
+F.________ hinsichtlich der gesundheitlichen Beeinträchtigungen des Be-
+schwerdeführers hinreichend ins Bild gesetzt war. Insbesondere aber kann
+die Ermittlung des Bedarfs an Leistungen nach Art. 7 Abs. 2 lit. a und c
+KLV gemäss dem seit dem 1. Juli 2024 in Kraft stehenden und vorliegend
+anwendbaren Art. 8a Abs. 1bis KLV ohne ärztliche Anordnung oder ärztli-
+chen Auftrag erfolgen (vgl. E. 3.3 vorne; vgl. auch Art. 8 Abs. 2 des Ver-
+trags vom 1. Januar 2025). Demnach spricht nichts dagegen, die bisherige
+Rechtsprechung zum Ermessen der Pflegefachperson bei der Ermittlung
+von Form, Inhalt und zeitlichem Bedarf hinsichtlich der einzelnen Leistun-
+gen (Pflegebedarf) nachfolgend auch bezüglich der hier streitgegenständli-
+chen Bedarfsermittlung zugrunde zu legen.
+5.
+Was zunächst die Leistungen im Sinne von Art. 7 Abs. 2 lit. a KLV (Mass-
+nahmen der Abklärung, Beratung und Koordination [A-Leistungen]) anbe-
+langt – deren Ermittlung durch Pflegefachpersonen erfolgt (Art. 8a Abs. 1bis
+KLV; vgl. E. 3.3 vorne) –, so wurde darüber im Dispositiv des angefochte-
+nen Einspracheentscheids vom 9. Juli 2025 nicht (ausdrücklich) befunden,
+sondern einzig unter "Begründung" festgehalten, "A-Leistungen werden
+nicht gewährt. Sie waren nur einmalig zweckmässig und notwendig und
+werden für die Zukunft abgelehnt" (act. I 2 S. 2). Allerdings verwies die Be-
+schwerdegegnerin im vorangehenden Satz auf die dem Einspracheent-
+scheid angehängte Tabelle, woraus "die einzelnen Limitationen und das
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 17 -
+Total der Leistungen, für welche Kostengutsprache erteilt werden kann,
+abgelesen werden" könnten. Dabei handelt es sich um dieselbe Tabelle,
+welche bereits der dem Einspracheentscheid zugrunde liegenden Verfü-
+gung vom 19. März 2025 (act. II 10) beilag (act. II 10a). In besagter Tabelle
+wird in der entsprechenden Rubrik festgehalten: "Alle A Leistungen OK wie
+verordnet". Dies lässt klar darauf schliessen, dass die in der Bedarfsmel-
+dung vom 10. Dezember 2024 geltend gemachten und von der Vertrau-
+enspflegefachperson geprüften A-Leistungen von 6.83 Stunden zu keinen
+Beanstandungen Anlass gaben bzw. geben, was sich mit den Feststellun-
+gen in der Verfügung vom 19. März 2025 deckt (vgl. S. 2 "Tarif A: 01.13
+Stunden [wie angeordnet] pro Monat"). Damit übereinstimmend hielt die
+Beschwerdegegnerin in der Beschwerdeantwort denn auch fest, die A-
+Leistungen gemäss Art. 7 Abs. 2 lit. a KLV seien im Rahmen der ersten
+Bedarfsmeldung "vollständig erbracht" worden (S. 6 Rz. 5). Soweit die Be-
+schwerdegegnerin eine "zukünftige Leistungspflicht" verneint (Beschwer-
+deantwort S. 6 Rz. 5), bildet dies dem Dargelegten zufolge vorliegend nicht
+Anfechtungs- und Streitgegenstand (vgl. E. 1.2.3 vorne). Im Übrigen basiert
+die Bedarfsermittlung (act. II 3) auf den im Spitex Leistungskatalog erfolg-
+ten Umschreibungen der einzelnen und nummernmässig zugeordneten
+Leistungen und ist insoweit nachvollziehbar. Sie enthält neben ausdrücklich
+einmaligen Leistungen für ein Erstassessment (1x 120 Minuten [Position
+Nr. 10901]) und eine erstmalige Pflegeplanung im Rahmen der Bedarfsab-
+klärung (1x 90 Minuten [Position Nr. 10904]) zwar auch monatlich (Pflege-
+bedarf bestimmen und evaluieren [Position Nr. 10906]) bzw. vierteljährlich
+(Konsultation Arzt Spitex zur Bedarfsabklärung [Position Nr. 10907]) wie-
+derkehrende Leistungen. Wenn die Beschwerdegegnerin eine allein einma-
+lige Übernahmepflicht geltend macht (Beschwerdeantwort S. 5 Rz. 4), ist
+darauf hinzuweisen, dass die Position Nr. 10906 gemäss Spitex Leistungs-
+katalog in der Kolonne "Anz" (= Anzahl) mit dem Vermerk "n.B." betreffend
+Häufigkeit der Leistung keinen Referenzwert enthält. Ferner fehlen bei den
+Positionen Nr. 10906 und 10907 auch Referenzwerte für die Zeiteinheiten,
+an wie vielen Tagen pro Woche die Leistung erbracht werden muss (Ko-
+lonne "Einh"; vgl. Ergänzungsbericht interRai, S. 55 f.), womit der geltend
+gemachte Aufwand diesbezüglich mit der Regelung im Spitex Leistungska-
+talog im Einklang steht. Insoweit der veranschlagte Aufwand für die A-
+Positionen
+über
+den
+im
+Spitex
+Leistungskatalog
+standardisierten
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 18 -
+Richtwerten liegt, ist festzuhalten, dass diese einzig als Richtschnur gelten
+und nach oben oder unten angepasst werden können (Ergänzungsbericht
+interRai, S. 55 f.). Es besteht somit seitens des Gerichts kein Anlass, in das
+Ermessen der Pflegefachperson (vgl. E. 4.3 vorne) einzugreifen, zumal
+klare Fehleinschätzungen nicht ersichtlich sind und seitens der Parteien
+auch nicht geltend gemacht werden. Die gemäss Bedarfsmeldeformular
+ermittelte Dauer von 6.83 Stunden für A-Leistungen (act. II 3) ist somit nicht
+zu beanstanden.
+6.
+6.1
+Was die C-Leistungen (Massnahmen der Grundpflege [Art. 7 Abs.
+2 lit. c {vgl. insbesondere Ziff. 1} KLV]) betrifft (vgl. auch E. 7.1 hinten),
+wurden diese ab Beginn der Geltendmachung im Rahmen der Angehöri-
+genpflege gewährt (act. II 5a ff.).
+6.2
+Zunächst steht fest, dass die D.________ GmbH als zugelassene
+Leistungserbringerin (vgl. E. 4.1 vorne) zur Anstellung von Angehörigen
+von Leistungsempfängern berechtigt ist. Im vorliegenden Fall werden die
+hier streitigen C-Leistungen durch E.________ erbracht, welche gemäss
+Arbeitsvertrag vom 24. Oktober 2024 in einem Anstellungsverhältnis mit
+der D.________ GmbH steht (act. I 4.1) und in dieser Funktion den Be-
+schwerdeführer betreut, womit entgegen der Beschwerdegegnerin (Be-
+schwerdeantwort S. 7 Rz. 6) auch ein Subordinationsverhältnis erstellt ist.
+Während die Beschwerdegegnerin die Eigenschaft von E.________ als
+"pflegende Angehörige" im krankenversicherungsrechtlichen Sinne im ge-
+samten Verwaltungsverfahren zu keinem Zeitpunkt in Frage gestellt hat,
+machte sie in der Beschwerdeantwort erstmals geltend, es fehle die per-
+sönliche Bindung, weshalb eine Einstufung als pflegende Angehörige im
+Sinne des Spitex-Administrativvertrags nicht möglich sei (Beschwerdeant-
+wort S. 7 Rz. 6 f.).
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 19 -
+6.3
+6.3.1
+Weder im Krankenversicherungsrecht noch anderweitig wird der
+Begriff "Angehörige" bzw. "pflegende Angehörige" definiert (zur Problematik
+einer Begriffsdefinition vgl. Bericht des Bundesrates vom 15. Oktober 2025,
+Pflegeleistungen von Angehörigen im Rahmen der obligatorischen Kran-
+kenpflegeversicherung [nachfolgend Bericht des Bundesrates vom 15. Ok-
+tober 2025], S. 13 f.). Indessen wird in Art. 18 Abs. 2 i.V.m. Art. 24 und Art.
+1 Abs. 1 Anhang 5 der Verträge vom 1. Mai 2023 und 1. Januar 2025 der
+Begriff "Pflegende Angehörige" (in jeweils identischem Wortlaut) wie folgt
+umschrieben: "Als Pflegende Angehörige gelten sowohl Personen, die di-
+rekt verwandt sind, Geschwister, Eheleute und Personen in eingetragenen
+Partner- und Lebensgemeinschaften als auch Personen aus dem engen
+Lebensumfeld. Massgeblich ist nicht der Verwandtschaftsgrad der pflegen-
+den Angehörigen, sondern vielmehr die regelmässige und substanzielle
+Unterstützung sowie die Verantwortung und die Verbindlichkeit gegenüber
+der zu pflegenden Person." Diese Bestimmung ist auch für die Beschwer-
+degegnerin verbindlich (vgl. E. 4.1 vorne), zumal sie nicht geltend macht
+und auch nicht ersichtlich ist, dass die darin erfolgte Umschreibung gegen
+übergeordnetes Recht verstossen könnte.
+6.3.2
+Gemäss den vorliegenden Erhebungen (interRai) erfährt der Be-
+schwerdeführer eine "Starke und unterstützende Beziehung der Familie"
+(act. II 5b Position P5). Diese erfolge "durch PA", wobei der "Ehemann der
+PA der Cousin" des Beschwerdeführers sei (Position PIP). Unter "Bezie-
+hung der Hilfsperson" (Position P2Xa) wurde "Andere Verwandte" festge-
+halten. Insgesamt ist demnach das von der Beschwerdegegnerin
+geforderte "Näheverhältnis" (Beschwerdeantwort S. 7 Rz. 6) gegeben, ist
+E.________ nach Lage der Akten doch als Person "aus dem engen Le-
+bensumfeld", welche die gemäss Umschreibung in den Verträgen vom
+1. Mai 2023 und 1. Januar 2025 geforderte regelmässige und substanzielle
+Unterstützung sowie die Verantwortung und die Verbindlichkeit gegenüber
+dem Beschwerdeführer wahrnimmt, gegeben. Damit ist E.________ im
+Sinne der vorgenannten Verträge als "Pflegende Angehörige" zu qualifizie-
+ren (vgl. E. 6.3.1 vorne).
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 20 -
+7.
+7.1
+Bei der Grundpflege im Sinne von Art. 7 Abs. 2 lit. c Ziff. 1 KLV
+handelt es sich um pflegerische Leistungen nichtmedizinischer Art bei
+krankheitsbedingten Beeinträchtigungen in grundlegenden alltäglichen Le-
+bensverrichtungen (Ankleiden, Auskleiden; Aufstehen, Absitzen, Abliegen;
+Essen; Körperpflege; Verrichten der Notdurft; Fortbewegung etc.). Sie kann
+in verschiedenen Formen gewährt werden, so als Unterstützung, als teil-
+weise oder vollständige Übernahme der Verrichtungen im Ablauf des tägli-
+chen Lebens oder als Beaufsichtigung sowie Anleitung mit dem Ziel der
+eigenständigen Übernahme dieser Verrichtungen (BGE 145 V 161 E. 5.2.2
+S. 168). Hierfür ermittelte die D.________ GmbH in der Bedarfsmeldung
+vom 10. Dezember 2024 (act. II 3) für die Zeit vom 24. Oktober 2024 bis
+15. April 2025 einen Aufwand von 202.42 Stunden, ausmachend pro Monat
+33.74 Stunden (vgl. auch act. II 10 S. 2). Diesen Wert kürzte die Be-
+schwerdegegnerin im angefochtenen Einspracheentscheid auf 15 Stunden
+pro Monat (vgl. act. I 2 S. 4). Sie begründet dies unter diversen Titeln:
+7.2
+Sie bringt vor, es seien "Keine Pflegerapporte mit tatsächlich er-
+brachter Pflege vorhanden" und der "Inhalt der Pflegedokumentation" ent-
+halte allein eine pauschalisierte Bedarfserfassung (act. I 2 S. 3 Ziffern 4 f.).
+7.2.1
+Wie in E. 3.3 vorne gezeigt, erfolgt die Abklärung des Pflegebe-
+darfs prospektiv, indem im Rahmen der Bedarfsermittlung der "voraussicht-
+liche Zeitaufwand" (Art. 8a Abs. 4 KLV) anzugeben ist. Abgerechnet
+werden jedoch die effektiv erbrachten Leistungen (Art. 8 Abs. 1 und Art. 10
+Abs. 2 der Verträge vom 1. Mai 2023 und 1. Januar 2025).
+7.2.2
+Nach Erhalt des Bedarfsmeldeformulars vom 10. Dezember 2024
+(act. II 3) forderte die Beschwerdegegnerin die D.________ GmbH zwecks
+Leistungsprüfung auf, weitere Unterlagen (Pflegeplanung, Pflegeberichte,
+Begründung der Angehörigenpflege, aktuelle medizinische Diagnosen)
+einzureichen (act. II 4). Am 31. Dezember 2024 (act. II 5) hat die
+D.________ GmbH der Beschwerdegegnerin eine (nach Positionen aufge-
+schlüsselte) Pflegeplanung samt Bedarfsabklärung (InterRai; act. Il 5a; 5b),
+eine Pflegedokumentation für die Zeit vom 24. Oktober bis 26. Dezember
+2024 (act. II 5c), eine Begründung der Angehörigenpflege (act. Il 5d) sowie
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 21 -
+eine Liste der aktuellen Diagnosen (act. Il 5e) zugestellt. In den anschlies-
+senden (formlosen) teilweisen Leistungsablehnungen (act. II 6; 8) machte
+die Beschwerdegegnerin keine mangelhafte aktenmässige Dokumentation
+geltend, um sich dann erstmals in der Verfügung vom 19. März 2025 (act. II
+10) und anschliessend auch im Einspracheentscheid vom 9. Juli 2025 (act.
+I 2) im Hinblick auf die von ihr betreffend die C-Leistungen vorgenommene
+Leistungskürzung auf eine angeblich mangelhafte Pflegedokumentation zu
+berufen. Dabei machte sie geltend, die Pflegedokumentation sei lediglich
+fragmentarisch und erfülle die Anforderungen an eine Pflegedokumentation
+durch eine Pflegehilfskraft nicht (act. I 2 S. 3 Ziff. 5). Hätte dies zugetroffen,
+wäre mithin von einer in ihrer Gesamtheit mangelhaften Pflegedokumenta-
+tion auszugehen gewesen, hätte die Beschwerdegegnerin die Vergütung
+sämtlicher Leistungen ablehnen müssen (Urteil des BGer 9C_698/2016
+vom 4. Mai 2017 E. 3.4.3), was sie indes nicht tat. Ungeachtet dieses wi-
+dersprüchlichen Vorgehens ist festzuhalten, dass die D.________ GmbH
+der Aufforderung der Beschwerdegegnerin um Komplettierung der Unterla-
+gen (act. II 4) hinreichend nachgekommen ist, indem sie die geforderten
+Unterlagen vollständig eingereicht hat. Was die insbesondere kritisierte
+Pflegedokumentation anbelangt, handelt es sich (wie auch bei der im Be-
+schwerdeverfahren eingereichten Dokumentation für die Zeit vom 15. Ok-
+tober 2024 bis 20. März 2025 [act. I 3]) entgegen der Beschwerdegegnerin
+(Beschwerdeantwort S. 9 Rz. 11) nicht um pauschalisierte Abrechnungen,
+nachdem für die einzelnen Tage nicht generell dieselben Arbeitszeiten auf-
+geführt wurden. Gegen eine Pauschalisierung spricht auch der Umstand,
+dass der tatsächlich angefallene und dokumentierte Aufwand (November
+2024 28.25 Stunden; Dezember 2024 30.33 Stunden; Januar 2025 18.61
+Stunden; Februar 2025 12.43 Stunden) unterschiedlich ausfiel, stets unter
+dem in der Bedarfsmeldung in Aussicht gestellten Pflegebedarf von monat-
+lich 33.74 Stunden (act. II 10 S. 2) blieb und sich in der Tendenz rückläufig
+entwickelte. Dies spricht dafür, dass auch zunehmender Routine bei den
+einzelnen Vorkehren Rechnung getragen wurde. Dass sich gewisse Anga-
+ben wiederholen, liegt in der Natur der Sache, bezieht sich der Pflegebe-
+darf doch auf alltägliche Verrichtungen, weshalb auch die Wiederholung
+gewisser Formulierungen nicht gegen eine hinreichende Spezifizierung der
+Pflegedokumentation spricht. Ferner trifft es zwar zu, dass die Vorkehren in
+der Pflegedokumentation jeweils nicht anhand der Nummerierung gemäss
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 22 -
+Spitex Leistungskatalog gekennzeichnet wurden (act. II 5c; act. I 3); jedoch
+ist aus den entsprechenden Umschreibungen der Pflegehandlungen eine
+Zuordnung zu jenen (und in der Summe überschaubaren) Positionen, für
+welche Kostengutsprache verlangt wurde (act. II 3), ohne weiteres möglich.
+Schliesslich wurde auch der jeweilige Ablauf sowie die Einschätzung des
+Befindens des Beschwerdeführers tagesaktuell formuliert und dokumen-
+tiert.
+7.2.3
+Damit liegt entgegen der Beschwerdegegnerin (Beschwerdeant-
+wort S. 9 Rz. 11) kein zu BGE 142 V 203 E. 7.2.3 S. 213 analoger Sach-
+verhalt vor, zumal diesem das für eine Fakturierung nicht hinreichend
+befundene Abklärungsinstrument PLAISIR zugrunde lag. Auch handelt es
+sich bei act. II 5c entgegen der Duplik (S. 4 Rz. 5) offensichtlich nicht um
+eine Pflegeplanung, sondern eben um eine Dokumentation der in der
+zurückliegenden Zeit seit 25. Oktober 2024 von E.________ erbrachten
+Pflegeleistungen. Soweit die Beschwerdegegnerin die von ihr bemängelte
+Dokumentation mit einer Verletzung der Mitwirkungspflicht gemäss Art. 28
+Abs. 2 ATSG begründet (Beschwerdeantwort S. 10 f. Ziff. 13), ist zu wie-
+derholen, dass der Beschwerdeführer bzw. die D.________ GmbH der Auf-
+forderung
+der
+Beschwerdegegnerin
+zur
+Einreichung
+zusätzlicher
+Unterlagen (act. II 4) hinreichend nachgekommen ist (vgl. E. 7.2.2 vorne).
+Dessen ungeachtet hat die Beschwerdegegnerin (erstmals) in der Verfü-
+gung vom 19. März 2025 (act. II 10 S. 2) den Vorhalt mangelnder Doku-
+mentation gemacht, den Beschwerdeführer aber zu keinem Zeitpunkt zu
+einer entsprechenden Verbesserung aufgefordert (vgl. act. II 6 ff.). Dem-
+entsprechend ist nicht ersichtlich, welche Auskünfte seitens des Beschwer-
+deführers oder der D.________ GmbH nicht erteilt bzw. verweigert worden
+wären.
+7.2.4
+Damit ist eine Kürzung der Pflegeleistungen für die Periode vom
+25. Oktober 2024 bis 20. März 2025 infolge mangelnder Dokumentation
+nicht gerechtfertigt. Für die Zeit vom 21. März bis 15. April 2025 (vgl. E.
+1.2.3 vorne) fehlt es demgegenüber an entsprechenden Pflegeberichten.
+Die Beschwerdegegnerin wird diese im Hinblick auf die Leistungsvergütung
+noch einzuholen haben (Art. 8a Abs. 6 KLV).
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 23 -
+7.3
+Im Weiteren macht die Beschwerdegegnerin eine "Anrechnung 30
+Minuten unentgeltliche Pflege im Rahmen der Verwandtenunterstützungs-
+pflicht/ehelichen Beistandspflicht" geltend (act. I 2 S. 3 Ziff. 3).
+7.3.1
+Die Verwandtenunterstützungspflicht (Art. 328 f. des Schweizeri-
+schen Zivilgesetzbuches [ZGB; SR 210]) betrifft Verwandte in auf- und ab-
+steigender Linie (KOLLER/EGGEL, in: GEISER/FOUNTOULAKIS [Hrsg.], Basler
+Kommentar, Zivilgesetzbuch I, 7. Aufl. 2022, Art. 328/329 N. 6). Ein solcher
+Sachverhalt liegt hier nicht vor, womit keine Verwandtenunterstützungs-
+pflicht besteht und eine damit begründete Leistungskürzung nicht gerecht-
+fertigt ist.
+7.3.2
+Ferner fällt auch eine Berufung auf die eheliche Beistandspflicht
+nach Art. 159 Abs. 3 ZGB ausser Betracht, da der Beschwerdeführer und
+E.________ nicht verheiratet sind. Ob und wenn ja inwieweit die eheliche
+Beistandspflicht im hier streitigen Kontext auch auf das Konkubinatsver-
+hältnis anwendbar ist, bedarf keiner Klärung. Denn ein Konkubinatsverhält-
+nis – worauf die Ausführungen des Beschwerdeführers hinzudeuten
+scheinen (Beschwerde S. 7 f. Rz. 39; Replik S. 3 Rz. 16, S. 4 Rz. 20) und
+worauf die Beschwerdegegnerin in der Duplik hinweist (vgl. S. 3 Rz. 4) –
+setzte das Vorliegen einer auf längere Zeit, wenn nicht auf Dauer angeleg-
+ten umfassenden Lebensgemeinschaft mit grundsätzlichem Ausschliess-
+lichkeitscharakter, die sowohl eine geistig-seelische als auch eine
+körperliche und eine wirtschaftliche Komponente aufweist und auch etwa
+als Wohn-, Tisch- und Bettgemeinschaft bezeichnet wird, voraus (BGE 118
+II 235 E. 3 S. 237; vgl. auch BGE 138 III 97 E. 2.3.3 S. 100, 157 E. 2.3.3 S.
+160 und 134 V 369 E. 6.1.1 S. 374 sowie BVR 2014 S. 147 E. 6.2.1).
+Gemäss Eintrag in der Zentralen Personenverwaltung (ZPV) ist der (verhei-
+ratete) Beschwerdeführer an der Adresse in … an der … wohnhaft,
+E.________ demgegenüber an der … . Diese Angaben stimmen mit jenen
+der Bedarfsermittlung (act. II 5b Positionen A12a und A12b) und im Ar-
+beitsvertrag (act. I 4.1) überein. Damit besteht kein gemeinsamer Wohnsitz.
+Eine aus einem Konkubinatsverhältnis herrührende tatsächliche Beistands-
+bereitschaft (vgl. EUGSTER, a.a.O., S. 521 N. 379) im Hinblick auf Pflege
+und Betreuung ist somit nicht erstellt. Selbst jedoch, wenn eine Schaden-
+minderungspflicht im Rahmen einer Beistandspflicht bestehen würde, hätte
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 24 -
+die Beschwerdegegnerin diese unter Berücksichtigung der gesamten Situa-
+tion sowie in Bezug auf die jeweiligen Pflegepositionen zu konkretisieren
+gehabt, was nicht erfolgte. Eine pauschale "Anrechnung von 30 Minuten
+unentgeltliche Pflege" pro Tag (act. I 2 S. 3 Ziff. 3) genügt nicht (vgl. E.
+7.3.3 sogleich).
+7.3.3
+Eine zufolge Familienangehörigkeit oder Konkubinatsverhältnis zu
+berücksichtigende Beistands- oder Schadenminderungspflicht fällt somit
+vorliegend ausser Betracht. Dies ändert jedoch nichts daran, dass – einer-
+seits – im Krankenversicherungsrecht im Verhältnis zwischen Versicherten
+und Krankenversicherer ganz allgemein der Grundsatz der Schadenminde-
+rungspflicht gilt (BGE 118 V 107 E. 7b S. 116) und – andererseits – der
+Leistungserbringer bzw. die Spitex-Organisation (vgl. E. 7.5.1 hinten) im
+Hinblick auf die durch die pflegende Angehörige zu erbringenden Grund-
+pflegeleistungen im Rahmen der Bedarfsermittlung die WZW-Kriterien (vgl.
+E. 3.5 vorne; Art. 25a Abs. 4 KVG) beachten muss (vgl. auch Art. 17 Abs. 1
+der Verträge vom 1. Mai 2023 und 1. Januar 2025). Sie stellen die allge-
+meinen Anspruchsvoraussetzungen dar und bezwecken, eine effiziente,
+qualitativ hochstehende und zweckmässige Gesundheitsversorgung zu
+möglichst günstigen Kosten sicherzustellen (BGE 151 V 158 E. 3.2 S. 161).
+Dabei dürfen der OKP nur Kosten in Rechnung gestellt werden, welche
+eine Pflege zu Hause durch aussenstehende Spitex-Angestellte verursa-
+chen würde (vgl. BGE 145 V 161 E. 3.3.2 S. 164). Der Leistungserbringer
+ist demnach verpflichtet, den Pflegebedarf objektiv und professionell zu
+ermitteln und nur den tatsächlichen Bedarf sowie das Umfeld des Patienten
+zu berücksichtigen (vgl. Bericht des Bundesrates vom 15. Oktober 2025,
+S. 43), was auch die unter Berücksichtigung des Gesundheitszustands zu
+beachtende Schadenminderungspflicht der versicherten Person einsch-
+liesst. Dabei muss die Pflegefachperson, welche die Bedarfsermittlung
+durchführt, festlegen, welche Massnahmen der Grundpflege notwendig
+sind, und dabei auch den Kapazitäten/Möglichkeiten Rechnung tragen,
+über welche die oder der pflegende Angehörige verfügt (vgl. Bericht des
+Bundesrates vom 15. Oktober 2025, S. 42).
+Wie in E. 7.2.2 vorne gezeigt, erlauben vorliegend die ins Recht gelegten
+Unterlagen eine zuverlässige Beurteilung des Pflegebedarfs und bilden für
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 25 -
+die Zeit vom 25. Oktober 2024 bis 20. März 2025 (vgl. E. 7.2.4 vorne) eine
+hinreichende Grundlage für die Vergütung der effektiv erbrachten Leistun-
+gen. Sofern die Beschwerdegegnerin dafürhielte, dass eine bestimmte
+Pflegemassnahme unwirksam, unzweckmässig oder unwirtschaftlich sei
+oder der Beschwerdeführer unter Berücksichtigung seiner gesundheitlichen
+Beeinträchtigungen seiner Schadenminderungspflicht nicht nachkommt,
+hätte sie im Rahmen des Untersuchungsgrundsatzes (Art. 43 ATSG) –
+auch im Lichte des von ihr ins Feld geführten Missbrauchspotenzials (act. I
+2 S. 4; BGE 145 V 161 E. 3.3.2 S. 164; vgl. ferner Art. 25a Abs. 3bis KVG) –
+die Verhältnisse zeitnah weiter und gegebenenfalls vor Ort abzuklären ge-
+habt (BGE 151 V 158 E. 3.4 S. 164; vgl. auch Art. 8c KLV). Es genügt
+nicht, nach Vorlage des Dossiers an die Vertrauenspflegefachperson (act.
+II 8) basierend auf einer nicht unterzeichneten (und fehlerhaft datierten),
+bloss rudimentären Tabelle pauschal eine Kürzung von 30 Minuten pro Tag
+für sämtliche Leistungen vorzunehmen, ohne aufzuzeigen, in Bezug auf
+welche konkreten Vorkehren dem Beschwerdeführer im streitgegenständli-
+chen Zeitraum (vgl. E. 1.2.3 vorne) eine Schadenminderung zuzumuten
+gewesen wäre bzw. in Bezug auf welche Positionen der von der Pflege-
+fachperson ermittelte Bedarf als nicht mit den WZW-Kriterien kompatibel zu
+qualifizieren ist. Soweit sich die Beschwerdegegnerin deshalb auch in all-
+gemeiner Hinsicht auf die Schadenminderungspflicht beruft (Duplik S. 3
+Rz. 4), kann sie daraus unter den hier gegebenen Umständen nichts zu
+ihren Gunsten ableiten und eine Leistungskürzung rechtfertigt sich auch
+unter diesem Titel nicht.
+7.4
+Die Beschwerdegegnerin macht weiter geltend, "Bagatellleistun-
+gen" wie Nägel schneiden und beim Trinken helfen seien bei pflegenden
+Angehörigen im Rahmen der Verwandtenunterstützungspflicht und der
+ehelichen Beistandspflicht von Angehörigen kostenlos zu erbringen und
+nicht verrechenbar. Diesbezüglich ist auf das in E. 7.3.1 f. hiervor Gesagte
+zu verweisen. Im Übrigen sind die genannten Positionen Nr. 10108, 10109
+und 10301, welche die in Art. 7 Abs. 2 lit. c Ziff. 1 KLV genannten Bereiche
+der Hilfe bei der Körperpflege beim Essen abbilden, im Spitex Leistungska-
+talog aufgeführt und somit zu erbringen (vgl. E. 4.2 vorne).
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 26 -
+7.5
+Die Beschwerdegegnerin berücksichtigte schliesslich unter dem
+Titel "Arbeitsgesetz - nur 6 Tage verrechenbar bei pflegenden Angehöri-
+gen" (act. I 2 S. 2 Ziff. 1) in Bezug auf diverse Positionen jeweils einen
+"Ruhetag", wobei sie den entsprechenden vergütungsfähigen Pflegeauf-
+wand jeweils kürzte (vgl. act. I 2 Tabelle). Der Beschwerdeführer bringt vor,
+die Arbeits- und Ruhezeitbestimmungen des Bundesgesetzes vom
+13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeits-
+gesetz, ArG; SR 822.11) gelangten nicht zur Anwendung (Beschwerdeant-
+wort S. 10 Rz. 51).
+7.5.1
+Wie in E. 6.2 vorne gezeigt, schlossen E.________ und die
+D.________ GmbH am 24. Oktober 2024 im Hinblick auf die Erbringung
+von Pflegeleistungen zu Gunsten des Beschwerdeführers einen "Arbeits-
+vertrag" (act. I 4.1). Demgemäss fungieren die D.________ GmbH als "Ar-
+beitgeberin" und E.________ als "Arbeitnehmer[in]". Die Weisungsbefugnis
+liegt ausdrücklich bei der D.________ GmbH (vgl. Bestimmung II/3 des
+Arbeitsvertrags). Die Vergütung der Leistung erfolgt gemäss Art. 13 Abs. 5
+der Verträge vom 1. Mai 2023 und 1. Januar 2025 an die Spitex-
+Organisation. Anhang 5 bestimmt zudem, dass die Instruktion, Überwa-
+chung und Ausbildung der pflegenden Angehörigen seitens der Spitex-
+Organisationen bzw. durch Pflegefachpersonen zu erfolgen haben (Art. 2
+f.). Insbesondere ist die Spitex-Organisation dafür verantwortlich, dass sich
+die pflegenden Angehörigen die erforderlichen Kenntnisse, die sie für die
+Erbringung der Pflegeleistungen benötigen, aneignen (Art. 3 Abs. 1 Anhang
+5). Sie allein ist schliesslich für eine mit den WZW-Kriterien in Einklang ste-
+hende Leistungserbringung verantwortlich (Art. 17 Abs. 1 der Verträge vom
+1. Mai 2023 und 1. Januar 2025). Als Leistungserbringerin im krankenver-
+sicherungsrechtlichen Sinne gilt folglich ungeachtet des Eintrags im Han-
+delsregister als Einzelunternehmerin "Betreuungsdienst Rund um die Uhr
+E.________" (act. II 13; Beschwerdeantwort S. 6 f. Rz. 6) nicht
+E.________, sondern die D.________ GmbH in ihrer Eigenschaft als Spi-
+tex-Organisation (Art. 35 Abs. 2 lit. dbis und e KVG; vgl. E. 3.4 vorne). Die
+Frage nach der Einhaltung von arbeitsrechtlichen Vorschriften sowie gene-
+rell die in der Beschwerdeantwort angesprochenen Kontrollpflichten der
+Spitex-Organisationen (S. 10 Rz. 12) beschlagen somit in erster Linie nicht
+das Verhältnis zwischen versicherter Person und Krankenversicherer, son-
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 27 -
+dern allenfalls zwischen der pflegenden Angehörigen und dem Leistungs-
+erbringer und/oder zwischen dem Leistungserbringer und dem Krankenver-
+sicherer (vgl. Art. 1 Abs. 3 Anhang 5) – mithin zwischen E.________ und
+der D.________ GmbH und/oder zwischen der D.________ GmbH und der
+Beschwerdegegnerin. Darüber hat grundsätzlich nicht das Sozialversiche-
+rungsgericht zu befinden. Vielmehr steht die Zuständigkeit des kantonalen
+Schiedsgerichts (Art. 89 Abs. 1 KVG; vgl. Urteil des BGer 9C_276/2024
+vom 22. Mai 2025) oder aber – insoweit der Streitgegenstand nicht die be-
+sondere Stellung des Krankenversicherers oder des Leistungserbringers im
+Rahmen des KVG betrifft – allenfalls der Zivilgerichte im Raum (GEBHARD
+EUGSTER, Rechtsprechung des Bundesgerichts zum KVG, S. 709 Rz. 2;
+Art. 20 Abs. 2 der Verträge vom 1. Mai 2023 und 1. Januar 2025).
+7.5.2
+Wie es sich damit verhält, bedarf vorliegend keiner abschliessen-
+den Klärung. Ebenso wenig bedarf die Frage der Erörterung, ob das ArG
+vorliegend Anwendung findet. Denn der Leistungserbringer muss
+grundsätzlich nur Leistungen abrechnen und der Versicherer muss nur
+Leistungen vergüten, deren Erbringung in Nachachtung der WZW-Kriterien
+erfolgte (vgl. E. 3.5 vorne). Insofern ist zwar nicht ohne weiteres von der
+Hand
+zu
+weisen,
+dass
+bei
+Nichteinhalten
+arbeitsrechtlicher
+(Schutz-)Vorschriften die Gefahr für eine nicht den WZW-Kriterien entspre-
+chende Leistungserbringung besteht, da eine zu hohe Belastung des Pfle-
+gepersonals die Qualität der Pflegeleistungen auf Dauer gefährden könnte.
+Vorliegend bestehen jedoch keine Anhaltspunkte dafür, dass dies im streit-
+gegenständlichen Zeitraum (vgl. E. 1.2.3 vorne) effektiv der Fall gewesen
+sein könnte (vgl. E. 7.2.2 und E. 7.3.3 vorne). Im Übrigen bildet Ausgangs-
+punkt und Grundlage für die Anspruchsprüfung auf Pflegeleistungen die
+Bedarfsermittlung nach Art. 8a KLV und die hernach effektiv erbrachte
+Leistung (Art. 8 Abs. 1 letzter Satz der Verträge vom 1. Mai 2023 und
+1. Januar 2025). Hingegen hängt die Vergütungsfähigkeit von Leistungen
+im Verhältnis zwischen der versicherten Person und dem Krankenversiche-
+rer nicht von der Einhaltung arbeitsrechtlicher Bestimmungen des Leis-
+tungserbringers ab, zumal dergleichen weder im KVG noch in der KVV
+oder in der KLV vorgesehen ist. Die Berücksichtigung von einem Ruhetag
+pro Woche bei der Leistungsvergütung lässt denn auch ausser Acht, dass
+der Beschwerdeführer vorliegend an sieben Tagen die Woche der Pflege
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 28 -
+bedarf. Insoweit ein Ruhetag für E.________ in ihrer Eigenschaft als pfle-
+gende Angehörige zu berücksichtigen wäre, hätte dies die D.________
+GmbH in ihrer Eigenschaft als weisungsbefugte und für eine den rechtli-
+chen Vorgaben entsprechende Leistungserbringung allein verantwortliche
+Leistungserbringerin (vgl. E. 7.5.1 vorne) organisatorisch dergestalt umzu-
+setzen, dass einerseits dem ArG Rechnung getragen würde und anderer-
+seits
+eine
+anspruchsgerechte
+und
+rechtskonforme
+Pflege
+des
+Beschwerdeführers durchgängig gewährleistet wäre. Nicht anders kann
+denn auch Art. 1 Abs. 3 Anhang 5 der Verträge vom 1. Mai 2023 und 1.
+Januar 2025 verstanden werden. Der Leistungsanspruch des Beschwerde-
+führers im Rahmen des ermittelten und hernach dokumentierten Pflege-
+aufwands bleibt davon jedoch unberührt, andernfalls der Beschwerdeführer
+im Umfang der Leistungskürzung selber für die Pflegeleistungen aufzu-
+kommen hätte. Die von der Beschwerdegegnerin vorliegend vorgenomme-
+ne Kürzung ist somit ungeachtet der Anwendbarkeit des ArG nicht statthaft.
+8.
+Zusammenfassend ist somit festzuhalten, dass der rechtserhebliche Sach-
+verhalt hinreichend abgeklärt ist und es der beantragten Einholung eines
+"neutralen pflegerischen Gutachtens" (Beschwerde S. 3 Rz. 6) nicht bedarf.
+Ferner hat die Beschwerdegegnerin mit dem angefochtenen Einspra-
+cheentscheid vom 9. Juli 2025 (act. I 2) für die A-Leistungen (Art. 7 Abs. 2
+lit. a KLV) im gesamten beantragten Umfang von 6.83 Std. Kostengutspra-
+che geleistet. Schliesslich ist eine Kürzung der beantragten C-Leistungen
+(Art. 7 Abs. 2 lit. c Ziff. 1 KLV) nicht zulässig und diese sind im Rahmen des
+erbrachten bzw. dokumentierten Umfangs zu vergüten.
+9.
+Demnach ist die Beschwerde, soweit auf diese einzutreten ist, im Sinne der
+Erwägungen gutzuheissen und der angefochtene Einspracheentscheid
+vom 9. Juli 2025 insoweit zu bestätigen bzw. abzuändern, als die Be-
+schwerdegegnerin die beantragten Leistungen nach Art. 7 Abs. 2 lit. a KLV
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 29 -
+(A-Leistungen), ausmachend 6.83 Stunden, und die erbrachten Leistungen
+nach Art. 7 Abs. 2 lit. c KLV (C-Leistungen) bis zum Maximum von 202.42
+Stunden zu vergüten hat.
+10.
+10.1
+In Anwendung von Art. 1 Abs. 1 KVG i.V.m. Art. 61 lit. a ATSG
+sind keine Verfahrenskosten zu erheben.
+10.2
+Die obsiegende Beschwerde führende Person hat Anspruch auf
+Ersatz der Parteikosten. Diese werden vom Versicherungsgericht festge-
+setzt und ohne Rücksicht auf den Streitwert nach der Bedeutung der Streit-
+sache und nach der Schwierigkeit des Prozesses bemessen (Art. 61 lit. g
+ATSG).
+Mit Kostennote vom 12. Januar 2026 macht Rechtsanwältin ass. iur.
+B.________ ein Honorar von Fr. 2'304.20 (richtig: Fr. 2‘306.50 [6.59 Stun-
+den x Fr. 350.--]), Auslagen von Fr. 66.30 sowie die Mehrwertsteuer
+(MWST) von Fr. 192.-- (richtig: 192.20), insgesamt ausmachend einen
+Aufwand von Fr. 2'565.--, geltend, was nicht zu beanstanden ist. Demnach
+ist die Parteientschädigung auf Fr. 2'565.-- festzusetzen; diesen Betrag hat
+die Beschwerdegegnerin dem Beschwerdeführer zu ersetzen.
+Demnach entscheidet der Einzelrichter:
+1.
+Soweit darauf einzutreten ist, wird die Beschwerde im Sinne der Erwä-
+gungen gutgeheissen. Der angefochtene Einspracheentscheid vom
+9. Juli 2025 wird dahingehend bestätigt bzw. abgeändert, als die Be-
+schwerdegegnerin Leistungen nach Art. 7 Abs. 2 lit. a KLV im Umfang
+
+Urteil des Verwaltungsgerichts des Kantons Bern vom 19. März 2026, KV 200 2025 503
+- 30 -
+von 6.83 Stunden und erbrachte Leistungen nach Art. 7 Abs. 2 lit. c
+KLV bis höchstens 202.42 Stunden zu vergüten hat.
+2.
+Es werden keine Verfahrenskosten erhoben.
+3.
+Die Beschwerdegegnerin hat dem Beschwerdeführer die Parteikosten,
+gerichtlich bestimmt auf Fr. 2'565.-- (inkl. Auslagen und MWST), zu er-
+setzen.
+4. Zu eröffnen (R):
+- Rechtsanwältin ass. iur. B.________ z.H. des Beschwerdeführers
+- Mutuel Krankenversicherung AG
+- Bundesamt für Gesundheit
+Der Einzelrichter:
+Der Gerichtsschreiber:
+Rechtsmittelbelehrung
+Gegen dieses Urteil kann innert 30 Tagen seit Zustellung der schriftlichen Begrün-
+dung beim Bundesgericht, Schweizerhofquai 6, 6004 Luzern, Beschwerde in öf-
+fentlich-rechtlichen Angelegenheiten gemäss Art. 39 ff., 82 ff. und 90 ff. des
+Bundesgesetzes vom 17. Juni 2005 über das Bundesgericht (BGG; SR 173.110)
+geführt werden.

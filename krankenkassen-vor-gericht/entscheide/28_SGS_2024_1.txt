@@ -1,0 +1,1287 @@
+Obergericht des Kantons Graubünden
+Dretgira superiura dal chantun Grischun
+Tribunale d'appello del Cantone dei Grigioni
+Urteil vom 5. Juni 2025
+Referenz
+SGS 24 1
+Instanz
+Schiedsgericht in sozialversicherungsrechtlichen Angelegenheiten
+Besetzung
+Pedretti, Vorsitz
+Evangelista, Schiedsrichter
+Ingold Baumgartner, Schiedsrichterin
+Parolini, Aktuarin
+Parteien
+A._____ (A._____)
+Klägerin
+vertreten durch Rechtsanwältin Dr. iur. Eva Druey Just
+gegen
+B._____ AG
+Beklagte
+vertreten durch Rechtsanwalt lic. iur. Jonas Wüest
+Gegenstand
+Forderungsdurchsetzung
+
+2 / 25
+Sachverhalt
+A.
+Das
+A._____/Gesundheitszentrum
+C._____
+(nachfolgend
+Gesundheitszentrum)
+ist
+eine
+Stiftung.
+Sie
+bezweckt
+u.a.,
+die
+Gesundheitsversorgung im C._____ mit stationären und ambulanten Leistungen im
+Akut- und Langzeitbereich sicherzustellen. Sie führt ein Akutspital, Pflegeheime und
+die Spitex-Dienste. Überdies kann sie Altersheime mit Alterswohnungen führen. Die
+Stiftung kann die vorbeschriebenen Dienste auch dezentral erbringen und weitere
+Aufgaben
+in
+der
+regionalen
+Gesundheitsversorgung
+und
+Krankenpflege
+übernehmen. Die Idee des Gesundheitszentrums ist, alle wichtigen regionalen
+Anbieter in den Bereichen Gesundheitsversorgung, Pflege, Betagtenbetreuung und
+Wellness unter einem Dach zu vereinen.
+B.
+Im Zeitraum vom 11. Januar bis zum 21. Januar 2021 hielt sich die Patientin
+R.R. im Spital des Gesundheitszentrums stationär auf. Für deren Behandlung stellte
+dieses der B._____ AG (nachfolgend Krankenkasse) eine Rechnung über
+CHF 15'260.00. Diese bezahlte die Krankenkasse teilweise. Es verblieb ein strittiger
+Restbetrag von CHF 2'697.92 (Nr. 96312105435, Fall Nr. 329550, Rechnung
+Nr. 553135).
+C.
+Im Zeitraum vom 8. Februar bis zum 18. Februar 2021 hielt sich die Patientin
+N.B. im Spital des Gesundheitszentrums stationär auf. Für deren Behandlung stellte
+dieses der Krankenkasse eine Rechnung über CHF 6'866.65. Auch diese bezahlte
+die Krankenkasse nur teilweise. Es verblieb ein strittiger Restbetrag von
+CHF 4'160.02 (Nr. 200000734382, Fall Nr. 330315, Rechnung Nr. 554938).
+D.
+Am 6. Mai 2024 instanzierte das Gesundheitszentrum eine Klage bei der
+Schlichtungsbehörde für Sozialversicherungssachen. Am 26. September 2024 fand
+die Schlichtungsverhandlung statt. Da keine Einigung erzielt werden konnte, wurde
+die Klagebewilligung gleichentags der Vorsitzenden des Schiedsgerichts zugestellt.
+Diese setzte der Klägerin mit Schreiben vom 2. Oktober 2024 eine Frist zur
+Einreichung der Klageschrift.
+E.
+Mit Eingabe vom 30. Oktober 2024 reichte das Gesundheitszentrum
+(nachfolgend Klägerin) die Klageschrift beim damaligen Schiedsgericht nach
+eidgenössischem Sozialversicherungsrecht (seit dem 1. Januar 2025 ist dieses Teil
+des Obergerichts des Kantons Graubünden) ein und stellte folgendes (materielles)
+Rechtsbegehren:
+"1. Es sei die Beklagte zu verpflichten, die nachfolgenden Forderungen zu
+Gunsten der Klägerin zu begleichen:
+
+3 / 25
+a. CHF 2'697.92 für die Vergütung der Behandlung der Versicherten
+R.R., Nr. 96312105435, Fall Nr. 329550, Rechnung Nr. 553135;
+b. CHF 4'160.02 für die Vergütung der Behandlung der Versicherten
+N.B., Nr. 200000734382, Fall Nr. 330315, Rechnung Nr. 554938;
+2.
+Unter Kosten- und Entschädigungsfolge (zzgl. MwSt.) zu Lasten der
+Beklagten."
+Die Klägerin führte aus, dass stationäre akutsomatische Aufenthalte über
+Fallpauschalen vergütet würden und dass in casu für die Rechnungen die auf die
+von ihren Ärztinnen und Ärzten gestellten Diagnosen entfallenden ICD-10-Codes
+sowie der Prozeduren-Code 99.BC.13 (für die Fallschwere bei Behandlungen mit
+26-49 Therapien) erfasst worden seien. Dies habe in die DRG (Diagnosis Related
+Group) A96A geführt, was bei einem Basisfallpreis von CHF 9'670.00
+Gesamtkosten von CHF 15'260.00 ergeben habe, wovon dem Wohnkanton 55 %
+und der Krankenversicherung 45 % verrechnet worden seien. Für die Patientin R.R.
+habe die Beklagte die Rechnung Nr. 553135 vom 10. Februar 2021 über
+CHF 6'885.85 erhalten, für die Patientin N.B. die Rechnung Nr. 554938 vom 8. März
+2021 über CHF 6'866.65. Nach einer Teil-Einigung seien die noch strittigen
+Restbeträge von CHF 2'697.92 und CHF 4'160.02 offen.
+F.
+Mit Klageantwort vom 5. Dezember 2024 beantragte die Krankenkasse
+(nachfolgend Beklagte) die kosten- und entschädigungsfällige Abweisung der
+Klage. Sie machte geltend, es sei nicht belegt, dass die Therapien unter ärztlicher
+Aufsicht und Instruktion erfolgt seien, mithin seien keine ärztlichen Therapien
+durchgeführt worden. Auch sei unerheblich, ob die behauptete ärztliche Aufsicht
+tatsächlich erfolgt sei, denn in beiden Fällen seien weder die Anwendung des
+Anordnungsmodells gesetzlich vorgesehen noch die Voraussetzungen für die
+Anwendung des Delegationsmodells erfüllt. Ohnehin dürften nur durch Ärztinnen
+und Ärzte persönlich erbrachte komplementärmedizinische Leistungen zulasten der
+obligatorischen Krankenpflegeversicherung (nachfolgend OKP) abgerechnet
+werden.
+Die
+Therapien
+seien
+aber
+durchwegs
+durch
+nichtärztliche
+Gesundheitsfachpersonen erbracht worden. Ausserdem sei die umstrittene
+Rechtsfrage
+nicht
+Gegenstand
+des
+laufenden
+Verfahrens
+der
+Umstrittenheitsabklärung.
+G.
+Mit Replik vom 30. Januar 2025 bestätigte die Klägerin ihr Rechtsbegehren
+und ihre Argumentation.
+
+4 / 25
+H.
+Mit Duplik vom 17. März 2025 hielt die Beklagte an ihren Rechtsbegehren
+und ihrer Argumentation fest.
+I.
+Mit Verfügung vom 18. März 2025 wurde der Schriftenwechsel
+abgeschlossen.
+Erwägungen
+1.
+Gemäss Art. 89 Abs. 1 KVG (SR 832.10) entscheidet ein Schiedsgericht
+über Streitigkeiten zwischen Versicherern und Leistungserbringern. Zuständig ist
+das Schiedsgericht desjenigen Kantons, dessen Tarif zur Anwendung gelangt, oder
+desjenigen Kantons, in dem die ständige Einrichtung des Leistungserbringers liegt
+(Art. 89 Abs. 2 KVG). Dabei können die Kantone die Aufgaben des Schiedsgerichts
+dem kantonalen Versicherungsgericht übertragen (Art. 89 Abs. 4 Satz 3 KVG).
+1.1.
+Gemäss Art. 4 des kantonalen Einführungsgesetzes zum Schlichtungs- und
+Schiedsgerichtsverfahren nach eidgenössischem Sozialversicherungsrecht (vom
+31. August 2006, revidiert per 1. Januar 2025 [EGzSSV; BR 370.300]) bildet das
+Obergericht
+für
+die
+Streitigkeiten,
+für
+die
+das
+eidgenössische
+Sozialversicherungsrecht ein Schiedsgerichtsverfahren vorsieht, eine besondere
+Abteilung (Abs. 1). Dem ist es mit der Schaffung des Schiedsgerichts in
+sozialversicherungsrechtlichen Angelegenheiten nachgekommen (vgl. Art. 8 der
+Verordnung über die Organisation und Geschäftsführung des Obergerichts [OGV;
+BR 173.010]). Dieses besteht aus einem Mitglied des Obergerichts (Vorsitz) und
+zwei Mitgliedern, von denen der eine die Versicherer, der andere die
+Leistungserbringer vertritt und die von Fall zu Fall von den Parteien bezeichnet
+werden (Art. 89 Abs. 4 Satz 3 KVG und Art. 4 Abs. 2 EGzSSV).
+1.2.
+Die Parteien bezeichneten mit Eingaben vom 3. April 2025 (Klägerin) bzw.
+vom 1. April 2025 (Beklagte) die weiteren Mitglieder des Schiedsgerichts. Gegen
+diese wurden keine Ausstandsbegehren gestellt. Auch wurde die Zuständigkeit des
+Schiedsgerichts
+in
+sozialversicherungsrechtlichen
+Angelegenheiten
+des
+Obergerichts nicht bestritten. Dieses ist somit zuständig für die Beurteilung der
+vorliegenden Streitsache.
+2.
+Der Kanton regelt das Verfahren; dieses muss einfach und rasch sein (Art. 89
+Abs. 5 Satz 1 KVG). Das Schiedsgericht stellt unter Mitwirkung der Parteien die für
+den Entscheid erheblichen Tatsachen fest; es erhebt die notwendigen Beweise und
+ist in der Beweiswürdigung frei (Art. 89 Abs. 5 Satz 2 KVG). Die Entscheide werden,
+
+5 / 25
+versehen mit einer Begründung und einer Rechtsmittelbelehrung sowie mit den
+Namen der Mitglieder des Gerichts, schriftlich eröffnet (Art. 89 Abs. 6 KVG).
+2.1.
+Für
+den
+Fall,
+dass
+das
+EGzSSV
+für
+das
+Verfahren
+vor
+der
+schiedsgerichtlichen Abteilung des Obergerichts keine Vorschriften enthält,
+verweist Art. 13 Abs. 1 EGzSSV auf die Art. 56 bis Art. 61 ATSG (SR 830.1).
+Letztere finden im KVG-Bereich in Verfahren vor dem kantonalen Schiedsgericht
+allerdings keine Anwendung (vgl. Art. 1 Abs. 2 lit. e KVG). Vielmehr sind ergänzend,
+gestützt
+auf
+Art. 13
+Abs. 2
+EGzSSV,
+die
+Bestimmungen
+über
+das
+verwaltungsgerichtliche Klageverfahren vor dem Obergericht anwendbar (vgl.
+Art. 63 ff. VRG).
+2.2.
+Auch wenn das Schiedsgericht den rechtserheblichen Sachverhalt
+festzustellen hat, sind die Parteien gemäss Art. 13 EGzSSV i.V.m. Art. 11 Abs. 2
+VRG verpflichtet, an der Feststellung des Sachverhalts mitzuwirken. Diese
+Mitwirkungspflicht erstreckt sich auf sämtliche für den Entscheid wesentlichen
+Tatsachen und umfasst auch die Pflicht der Partei zur Edition von Urkunden, die
+sich in ihren Händen befinden (vgl. Urteile des Bundesgerichts 9C_16/2022 vom
+21. März 2022 E. 4.1.2 und K 150/03 vom 18. Mai 2004 E. 5.1 [nicht publ. in
+BGE 130 V 377], je m.H.; RHINOW/KOLLER/KISS/THURNHERR/BRÜHL-MOSER,
+Öffentliches Prozessrecht, 4. Aufl. 2021, Rz. 1208 ff.). Sie gilt insbesondere für
+Tatsachen, welche die Behörde ohne die Mitwirkung der Parteien gar nicht oder
+nicht mit vernünftigem Aufwand erheben könnte; in dem als Klageverfahren
+ausgestalteten Verfahren vor dem kantonalen Schiedsgericht gemäss Art. 89 KVG
+kommt der Mitwirkungspflicht eine weitgehende Bedeutung zu, weil die Parteien am
+ehesten in der Lage sind, zur Feststellung des massgeblichen Sachverhalts
+beizutragen (vgl. Urteile des Bundesgerichts 9C_16/2022 vom 21. März 2022
+E. 4.1.2 und K 150/03 vom 18. Mai 2004 E. 5.1, je m.H.).
+3.
+Dem Schiedsgerichtsverfahren hat ein Schlichtungsverfahren vor der
+Schlichtungsbehörde für Sozialversicherungssachen vorauszugehen, sofern nicht
+schon eine vertraglich eingesetzte Schlichtungsinstanz geamtet hat (Art. 1 Abs. 2
+EGzSSV).
+3.1.
+Vorliegend fand am 26. September 2024 die Schlichtungsverhandlung statt.
+Da keine Einigung erzielt werden konnte, gab die Schlichtungsbehörde für
+Sozialversicherungssachen
+der
+Vorsitzenden
+des
+Schiedsgerichts
+in
+sozialversicherungsrechtlichen
+Angelegenheiten
+mit
+Klagebewilligung
+vom
+26. September 2024 Kenntnis vom Scheitern des Schlichtungsverfahrens (Art. 11
+Abs. 1 EGzSSV). Die Vorsitzende setzte der Klägerin eine Frist zur Einreichung der
+
+6 / 25
+Klageschrift (Art. 12 Abs. 1 EGzSSV). Diese ging rechtzeitig am 1. November 2024
+beim Obergericht ein. Auf die frist- und auch formgerecht eingereichte Klage ist
+somit einzutreten.
+3.2.
+Die Klägerin legte dar, D._____ habe beim Bundesamt für Gesundheit (BAG)
+ein Umstrittenheitsverfahren eingereicht, weshalb die Beklagte die entsprechenden
+Leistungen systematisch mit dem Hinweis verweigere, dass dieses Verfahren noch
+nicht abgeschlossen sei. Die Beklagte bestritt dies und legte dar, die vorliegend
+umstrittene Rechtsfrage sei nicht Gegenstand des Umstrittenheitsverfahrens und
+somit losgelöst davon zu beurteilen.
+3.2.1. Ein Umstrittenheitsverfahren dient der Beurteilung von neuen oder
+umstrittenen Leistungen in der Krankenpflege-Leistungsverordnung (KLV). Es
+erfolgt auf Antrag von interessierten Personen und Organisationen zuhanden der
+Eidgenössischen Kommission für Leistungen und Grundsatzfragen (ELGK). Diese
+prüft, ob die umstrittene Leistung vom Katalog der Pflichtleistungen ausgenommen
+werden muss (vgl. www.bag.ch > Krankenversicherung > Bezeichnung der
+Leistungen > Antragsprozesse; vgl. OLAH, in: Blechta/ Colatrella/ Rüedi/
+Staffelbach,
+Basler
+Kommentar
+zum
+Krankenversicherungsgesetz
+und
+Krankenversicherungsaufsichtsgesetz [nachfolgend: OLAH, Basler Kommentar],
+Basel 2020, Art. 25 Rz. 47).
+3.2.2. Gemäss Schreiben des BAG vom 13. Februar 2023 (act. B.9) ist eine
+Umstrittenheitsabklärung
+betreffend
+die
+stationären
+anthroposophischen
+medizinischen
+Leistungen
+im
+Rahmen
+von
+komplementärmedizinischen
+Komplexbehandlungen seit Januar 2020 hängig. Wie das BAG aber auch schreibt,
+darf eine Leistung nicht mit der Begründung verweigert werden, ein
+Umstrittenheitsverfahren sei am Laufen (E-Mail vom 8. Oktober 2020; act. B.10).
+Dies wird letztlich von keiner der Parteien bestritten, weshalb vorliegend die Frage
+der Vergütungspflicht der von der Klägerin erbrachten komplementärmedizinischen
+Leistungen unabhängig davon zu beurteilen ist, dass ein Umstrittenheitsverfahren
+hängig ist.
+4.
+Strittig ist vorliegend die Frage, ob die von der Klägerin in ihrem Spital bei
+den
+betroffenen
+Patientinnen
+R.R.
+und
+N.B.
+durchgeführten
+komplementärmedizinischen Komplexbehandlungen, die nach den unter dem
+System SwissDRG bestehenden CHOP-Codes 99.BC.13 abgerechnet wurden, zu
+den Leistungen der obligatorischen Krankenpflegeversicherung (nachfolgend OKP)
+zu zählen und damit von der Beklagten zu vergüten sind oder nicht.
+
+7 / 25
+4.1.
+Die Klägerin führte aus, die Krankenversicherer verweigerten die Vergütung
+der anthroposophischen Therapien. Deshalb könne sie diese (trotz guter Wirkung)
+aktuell nicht anbieten. Die Spitalbedürftigkeit der Patientinnen werde von der
+Beklagten hingegen nicht bestritten. Die stationären akutsomatischen Aufenthalte
+würden über Fallpauschalen vergütet (Art. 49 KVG). Die Fallschwere errechne sich
+nach dem System SwissDRG aufgrund der gestellten Diagnosen (ICD-10-Codes);
+hinzu kämen für bestimmte Behandlungen die Prozeduren-Codes oder
+Komplexcodes, die als CHOP-Codes bezeichnet würden. Diese führten unter der
+Nummer 99.BC.1 die komplementärmedizinischen Komplexbehandlungen auf. Der
+von der Klägerin verwendete CHOP-Code 99.BC.13 bilde die Fallschwere für
+Behandlungen mit 26-49 Therapien ab. Die Therapeutinnen und Therapeuten
+verfügten über eine anerkannte Ausbildung als Komplementärtherapeutinnen bzw.
+Physiotherapeutinnen. Auch die Fachpersonen der Pflege, die Therapien
+übernommen hätten, seien speziell dafür ausgebildet. Die gesamte Behandlung sei
+unter der Leitung der Dres. med. E._____ und G._____ erfolgt, die über die
+erforderliche fachärztliche Ausbildung in anthroposophischer Medizin (VAOAS)
+verfügten. Die Beklagte stelle sich demgegenüber auf den Standpunkt, dass nicht
+alle Therapeutinnen und Therapeuten, welche die im Komplexcode 99.BC.13
+aufgeführten Leistungen erbracht hätten, als Leistungserbringer des KVG gelten
+dürften; nur ärztliche Leistungen müssten abgegolten werden.
+In rechtlicher Hinsicht führte die Klägerin aus, Art. 35 KVG definiere, wer als
+Leistungserbringer gelten dürfe. Dazu gehörten u.a. Ärztinnen und Ärzte, aber auch
+eine Anzahl nicht-universitärer Medizinalpersonen, die auf ärztliche Anordnung hin
+tätig werden dürften; diese seien in Art. 46 bis 52f KVV aufgeführt. Unstreitig sei ein
+Spital, das über einen Leistungsauftrag des Kantons verfüge, gemäss Art. 35 und
+Art. 39 KVG ein Leistungserbringer nach KVG. Gemäss Art. 25 Abs. 2 lit. a Ziff. 3
+(recte wohl: Ziff. 1) KVG sei die ärztliche Delegation zulässig. Bei einer stationären
+Behandlung sei es naturgemäss das Spital, das die Rechnung zu Lasten der
+Krankenversicherung stelle und zwar für alle im Spital erbrachten Leistungen (die
+ärztlichen Behandlungen, die durch Pflegefachpersonen, FaGe und pflegerische
+Hilfspersonen erbrachten pflegerischen Leistungen, die Therapien, die Hotellerie
+etc.). Die komplementärmedizinischen Massnahmen würden gemäss Art. 4b KLV
+durch besonders qualifizierte Arztpersonen erbracht. Die Therapeutinnen und
+Therapeuten, die auf deren Anweisung hin in Erfüllung der im CHOP-Code
+99.BC.13 vorgeschriebenen Therapien tätig geworden seien, seien nicht nur Ärzte
+und nur zum Teil in Art. 46 ff. KVV aufgezählt. Dies sei indes nicht relevant, weil als
+Leistungserbringer der verrechneten Behandlungen nicht die Therapeutinnen,
+sondern das Spital auftrete. Die an nachgeordnete nichtärztliche Fachpersonen
+
+8 / 25
+delegierte ärztliche Tätigkeit könne als solche gemäss Art. 25 Abs. 2 lit. a Ziff. 1
+KVG zu Lasten der OKP abgerechnet werden. Ebenfalls unstreitig erfüllt sei die
+Voraussetzung der genügenden ärztlichen Überwachung sowie die besondere
+Qualifikation der verantwortlichen Ärztinnen und Ärzte. Für diese gelte die
+Pflichtleistungsvermutung.
+Mit Replik betonte die Klägerin in Bezug auf die Frage der ärztlichen Aufsicht und
+Instruktion, dass sich schon aus der Organisation als Spital ergebe, dass immer und
+begriffsnotwendig eine Arztperson die medizinische Verantwortung übernehmen
+müsse, wobei die Chefärztin bzw. der Chefarzt die Gesamtleitung innehabe. Aus
+den Austrittsberichten gehe hervor, dass die unterzeichnenden Ärzte, Dr. med.
+E._____, Dr. med. F._____ und Dr. med. G._____ (bei der Patientin R.R.) bzw.
+Dr. med. E._____ (bei der Patientin N.B.) persönlich das Behandlungskonzept
+erstellt und überwacht hätten. Die Therapieberichte zeigten, dass täglich
+mindestens ein Arztgespräch stattgefunden habe. In rechtlicher Hinsicht erklärte die
+Klägerin, dass die Ansicht der Beklagten, das Delegationsmodell sei gesetzlich nicht
+vorgesehen, fehl gehe, zumal eine Delegation weder gesetzlich explizit vorgesehen
+sein müsse, damit die Behandlung vergütungspflichtig sei, noch sei diese gesetzlich
+ausgeschlossen worden. Gerade in Spitälern würde ein Grossteil aller
+Verrichtungen durch Pflegefachpersonen, Pflegehilfen, Therapeutinnen aller Art,
+Angestellte der Hotellerie etc. erbracht; dies sei gerichtsnotorisch. Das Spital rechne
+notwendigerweise auch die Leistungen derjenigen Personen ab, die bei der
+Leistungserbringung helfen, insbesondere wenn es um Komplexbehandlungen
+gehe, die sich durch eine Kombination vieler verschiedener Behandlungslemente
+auszeichneten. Die Formulierung in Art. 4b Abs. 1 lit. b KLV zu den
+vergütungspflichtigen Leistungen der anthroposophischen Medizin enthalte kein
+Verbot der Delegation, auf ein solches lasse auch der Wortlaut nicht schliessen.
+Schliesslich seien die an die Therapeutinnen und Pflegepersonen delegierten
+Leistungen nach dem CHOP-Katalog für stationäre Leistungen (dieser werde vom
+Bundesamt für Statistik erlassen, und dieses gehöre dem EDI an, das seinerseits
+die KLV erlasse) Teil der Komplextherapie und damit vergütungspflichtig. Auch das
+BAG sei dieser Ansicht, und gleichermassen die Lehre gehe davon aus, dass die
+komplementärmedizinischen
+Leistungen
+bei
+stationären
+Aufenthalten
+an
+ausgebildete Therapeutinnen und Pflegende delegiert werden könne.
+4.2.
+Die Beklagte bestritt, dass die von ausgebildeten Therapeutinnen und
+Pflegefachpersonen durchgeführten Therapien unter ärztlicher Aufsicht und
+Instruktion erfolgt seien, womit eben keine ärztlichen Therapien ausgeführt worden
+seien. Auch sei unerheblich, ob die ärztliche Aufsicht tatsächlich erfolgt sei, denn in
+
+9 / 25
+jedem Fall könnten diese nicht zu Lasten der OKP abgerechnet werden, weil weder
+die Anwendung des Anordnungsmodells gesetzlich vorgesehen sei noch die
+Voraussetzungen für die Anwendung des Delegationsmodells erfüllt seien. Aus
+Art. 4b KLV ergebe sich klar, dass nur durch Ärztinnen und Ärzte persönlich
+erbrachte komplementärmedizinische Leistungen zu Lasten der OKP abgerechnet
+werden dürften. Die Therapien seien vorliegend durchwegs durch nichtärztliche
+Gesundheitsfachpersonen erbracht worden.
+Zum Rechtlichen hielt die Beklagte fest, dass der CHOP-Code keine Aussage zur
+OKP-Vergütungspflicht mache. CHOP sei lediglich ein Regelwerk zur Kodierung
+von Leistungen. Daraus könne nicht abgeleitet werden, dass Ärztinnen und Ärzte
+ärztliche komplementärmedizinische Leistungen im stationären Bereich an
+nichtärztliche Medizinalpersonen delegieren und diese gleichzeitig zu Lasten der
+OKP abrechnen könnten. Auch sei das hängige Umstrittenheitsverfahren nicht der
+Grund für die Leistungsverweigerung. Aus dem Wortlaut von Art. 4b KLV ergebe
+sich klar, dass nur Ärztinnen und Ärzte komplementärmedizinische Leistungen zu
+Lasten der OKP abrechnen dürften. Das sogenannte Anordnungsmodell gemäss
+Art. 25 Abs. 2 lit. a Ziff. 3 KVG gelte für Leistungen von Physio- und
+Ergotherapeuten, Leistungen der Krankenpflege, der Ernährungsberatung, der
+Logopädie sowie der Neuropsychologie (Art. 5-11a KLV), nicht jedoch für
+komplementärmedizinische Leistungen. Davon zu unterscheiden sei jenes
+nichtärztliche Personal, an das der Arzt gestützt auf Art. 25 Abs. 2 lit. a Ziff.1 KVG
+in
+gewissen
+Grenzen
+einen
+Teil
+seiner
+Tätigkeit
+–
+innerhalb
+eines
+Behandlungskomplexes im Rahmen einer Hilfsfunktion und unter der direkten
+Kontrolle und Aufsicht des Arztes – delegieren könne. Für das Vorliegen eines
+Behandlungskomplexes werde vorausgesetzt, dass die Massnahmen in einem
+engen Konnex zueinanderstehen würden. Ein Konnex liege insbesondere vor, wenn
+die nichtpflichtige Massnahme eine unerlässliche Voraussetzung zur Durchführung
+von Pflichtleistungen bilde. Auch für ein Spital als Leistungserbringer müssten die
+Voraussetzungen für eine zulässige Delegation von komplementärmedizinischen
+Leistungen an nichtärztliche Gesundheitsfachpersonen Geltung haben. Die
+Klägerin lege nicht dar, dass diese in den Fällen von R.R. und N.B. erfüllt seien.
+Insbesondere gehe aus den Therapieberichten nicht hervor, dass die
+durchgeführten Therapien tatsächlich unter ärztlicher Aufsicht sowie lediglich im
+Rahmen einer Hilfsfunktion erbracht worden seien. Vielmehr müsse angenommen
+werden, dass eine ärztliche Aufsicht nicht für notwendig erachtet worden sei, da
+speziell ausgebildete Therapeutinnen und Pflegefachpersonen jeweils ausführend
+gewesen seien. Auch habe die Klägerin nicht dargelegt, inwiefern die
+nichtpflichtigen Leistungen bzw. die von nichtärztlichen Gesundheitsfachpersonen
+
+10 / 25
+durchgeführten Therapien eine unerlässliche Voraussetzung für die Durchführung
+der ärztlichen komplementärmedizinischen Behandlung gewesen und somit ein
+Konnex bzw. ein Behandlungskomplex vorliegen solle. Die Klägerin habe mit den
+eingereichten Therapieberichten einzig den Nachweis dafür erbracht, dass die
+nichtpflichtigen Leistungen insgesamt gegenüber den kassenpflichtigen (die von
+den Ärztinnen und Ärzten durchgeführten Therapiegespräche) überwiegen würden,
+womit die geltend gemachten Leistungen nicht zu Lasten der Beklagten gehen
+dürften. Im Übrigen sei das Delegationsmodell von der Rechtsprechung
+hauptsächlich in Bezug auf psychotherapeutische Leistungen entwickelt worden,
+die vom Arzt an nichtärztliche Psychotherapeuten delegiert würden. Dieses sei mit
+Inkrafttreten von Art. 11b KLV nicht mehr als Übergangsregelung zu betrachten und
+damit dürften ohne anderslautende gesetzliche Grundlage oder höchstrichterlicher
+Praxis nur die von Ärztinnen und Ärzten höchstpersönlich durchgeführten
+komplementärmedizinischen Leistungen zu Lasten der OKP abgerechnet werden.
+Sofern die Klägerin suggeriere, die Beklagte argumentiere bei der Nichtübernahme
+der geltend gemachten Leistungen mit den WZW-Kriterien, treffe dies nicht zu. Auch
+die Lehre gehe nicht davon aus, dass komplementärmedizinische Leistungen bei
+stationären Aufenthalten an ausgebildete Therapeutinnen und Therapeuten per se
+delegiert werden könnten; auch die von der Klägerin zitierte Lehre verlange, dass
+die Voraussetzungen gemäss bundesgerichtlicher Rechtsprechung vorliegen. Den
+entsprechenden Beweis habe die Klägerin aber nicht erbracht. Im Übrigen dürfe das
+Delegationsmodell nur mit grösster Zurückhaltung angewendet werden.
+5.
+Art. 24 Abs. 1 KVG legt fest, dass die OKP die Kosten für die Leistungen
+gemäss den Art. 25-31 KVG nach Massgabe der in den Art. 32-34 KVG festgelegten
+Voraussetzungen (WZW-Kriterien) übernimmt. Dazu gehören u.a. gemäss Art. 25
+KVG die allgemeinen Leistungen bei Krankheit.
+5.1.
+Als allgemeine Leistungen bei Krankheit definiert Art. 25 Abs. 1 KVG
+diejenigen Leistungen, die der Diagnose oder Behandlung einer Krankheit und ihrer
+Folgen dienen. Leistungserbringer können u.a. Ärztinnen und Ärzte (Art. 35 Abs. 2
+lit. a KVG) und Spitäler (Art. 35 Abs. 2 lit. h KVG) sein. Spitäler bzw. Anstalten oder
+deren Abteilungen, die der stationären Behandlung akuter Krankheiten oder der
+stationären Durchführung von Massnahmen der medizinischen Rehabilitation
+dienen, sind u.a. zugelassen, wenn sie ausreichende ärztliche Betreuung
+gewährleisten (Art. 39 Abs. 1 lit. a KVG), über das erforderliche Fachpersonal (lit. b)
+sowie über zweckentsprechende medizinische Einrichtungen verfügen und eine
+zweckentsprechende pharmazeutische Versorgung gewährleisten (lit. c).
+
+11 / 25
+5.2.
+Art. 25 Abs. 2 KVG zählt die Leistungen auf, die der Diagnose oder
+Behandlung einer Krankheit und ihrer Folgen dienen, für welche die OKP die Kosten
+übernimmt:
+"Diese Leistungen umfassen:
+a.
+die Untersuchungen und Behandlungen, die ambulant, stationär oder in
+einem Pflegeheim sowie die Pflegeleistungen, die im Rahmen einer
+stationären Behandlung erbracht werden von:
+1. Ärzten oder Ärztinnen,
+2. Chiropraktoren oder Chriopraktorinnen,
+2bis Pflegefachpersonen,
+3. Personen, die auf Anordnung oder im Auftrag eines Arztes
+oder einer Ärztin beziehungsweise eines Chiropraktors oder einer
+Chiropraktorin Leistungen erbringen;
+b.-h. (…)".
+Übertragen Ärztinnen oder Ärzte im Rahmen ihrer Tätigkeit gemäss Art. 25 Abs. 2
+lit. a Ziff. 1 KVG die Erbringung von Aufgaben aus dem ärztlichen Tätigkeitsbereich
+an gleich- und nachgeordnetes ärztliches wie auch auf das nichtärztliche Personal,
+wird von Delegation gesprochen (OLAH, Die ärztliche Arbeitsteilung und
+Aufgabendelegation im Rahmen der medizinischen Staatshaftung, Unter
+besonderer Berücksichtigung der Organisationspflichten im Behandlungsumfeld
+[nachfolgend: OLAH, Die ärztliche Arbeitsteilung und Aufgabendelegation], Basel
+2017, S. 150 ff., insbesondere S. 155 f.; WERDER, Das Anordnungsmodell in der
+psychologischen
+Psychotherapie,
+jusletter
+vom
+2.
+Mai
+2022,
+Rz. 11; WERDER/GÄCHTER, Delegation an Personen in Weiterbildung, jusletter vom
+20. Februar 2023, Rz. 11). Beauftragen sie Personen gemäss Art. 25 Abs. 2 lit. a
+Ziff. 3 KVG zur Erbringung von Leistungen, wird von Anordnung (oder auch
+Verordnung) gesprochen. Art. 5 ff. KLV definiert den Kreis dieser Personen und
+deren Leistungen (Physiotherapie, Ergotherapie, Krankenpflege ambulant oder im
+Pflegeheim,
+Ernährungsberatung,
+Diabetesberatung,
+Logopädie,
+Neuropsychologie, psychologische Psychotherapie [seit 1. Juli 2022] und
+Podologie).
+Dementsprechend
+ist
+entweder
+vom
+Delegations-
+oder
+Anordnungsmodell die Rede.
+5.3.
+Das Eidgenössische Departement des Innern (EDI) bezeichnet nach
+Anhören der zuständigen Kommission u.a. die von Ärzten und Ärztinnen (…)
+erbrachten Leistungen, deren Kosten nicht oder nur unter bestimmten Bedingungen
+von der obligatorischen Krankenpflegeversicherung übernommen werden (Art. 33
+KVV). Dazu hat das EDI die Krankenpflege-Leistungsverordnung (KLV) erlassen.
+
+12 / 25
+Gemäss Art. 4b KLV zählen zu den Leistungen, die von der OKP zu übernehmen
+sind, u.a. auch die ärztlichen komplementärmedizinischen Leistungen, nämlich
+nebst den Leistungen der Akupunktur (lit. a), der traditionellen chinesischen Medizin
+(TCM) (lit. c), der klassischen Homöopathie (lit. d) und der Phytotherapie (lit. e)
+auch diejenigen der anthroposophischen Medizin (lit. b). Voraussetzung ist, dass
+der
+Arzt
+oder
+die
+Ärztin
+über
+eine
+Weiterbildung
+verfügt,
+die
+dem
+Fähigkeitsprogramm anthroposophisch erweiterte Medizin (VAOAS) des SIWF vom
+1. Januar 1999, revidiert am 16. Juni 2016, entspricht.
+Das Fähigkeitsprogramm definiert die anthroposophisch erweiterete Medizin
+folgendermassen (www.bag.admin.ch -> Referenzdokumente zur KVV und zur
+KLV, Ziff. 1.1 Abs. 2): "Die Anthroposophische Medizin ist eine Erweiterung der
+naturwissenschaftlichen, pathogenetisch orientierten Medizin. Sie erfährt durch die
+anthroposophisch
+geisteswissenschaftlichen
+Erkenntnisse
+eine
+integrative
+Ergänzung, die neben den physikalisch erfassbaren leiblichen Grundlagen des
+Menschen auch seelische und geistige Dimensionen berücksichtigt. Dies ermöglicht
+eine
+salutogenetische
+Betrachtungsweise
+von
+Gesundheits-
+und
+Krankheitsprozessen. Daraus lässt sich eine therapeutische Vorgehensweise
+begründen."
+Die
+therapeutischen
+Massnahmen,
+die
+nebst
+den
+Grundlagen,
+der
+anthroposophisch
+orientierten
+Menschenkunde,
+der
+Pathologie
+und
+Pathopsychologie sowie der anthroposophisch erweiterten Pharmazie zur
+entsprechenden
+Ausbildung
+gehören,
+umfassen
+folgende
+Bereiche
+(www.bag.admin.ch -> Referenzdokumente zur KVV und zur KLV, Ziff. 4.4):
+"- Mineralische und metallische Ausgangssubstanzen
+- Heilpflanzen und tierische Ausgangssubstanzen
+- Anthroposophische Heilmittel und deren Wirkprinzipien
+- Konkrete Heilmittelfindung für die vorliegende Erkrankung
+- Praktische therapeutische Anwendung
+- Applikationsformen anthroposophischer Heilmittel
+- Heileurythmie
+- Rhythmische Massage
+- Anthroposophisch-therapeutische Kunsttherapie: Maltherapie, Musiktherapie,
+plastisches Gestalten und therapeutische Sprachgestaltung
+- Gesprächstherapeutische Gesichtspunkte
+- Prävention in der anthroposophisch erweiterten Medizin
+- Palliativmedizin in der anthroposophisch erweiterten Medizin
+- Pflegerische Gesichtspunkte in der anthroposophisch erweiterten Medizin
+- Schulärztliche, heilpädagogische und sozialtherapeutische Tätigkeit"
+5.4.
+Aufgrund der gesetzlichen Pflichtleistungsvermutung (Art. 33 KVG bzw.
+Art. 33 KVV) besteht in Bezug auf die ärztlichen Leistungen keine abschliessende
+
+13 / 25
+Positivliste und damit keine detaillierte Umschreibung des ärztlichen Tätigkeitsfelds
+(OLAH, Basler Kommentar, a.a.O., Art. 25 Rz. 25 m.w.H.). Es gilt mithin die
+gesetzliche Vermutung, wonach im Falle einer seitens einer Ärztin oder eines Arztes
+erbrachten Leistung die Kostenvergütungspflicht der Kasse zu bejahen ist, sofern
+die ärztlich erbrachte Leistung nicht (seitens des Bundesrates bzw. des
+Eidgenössischen Departementes des Innern nach Anhörung der beratenden
+Kommissionen; Art. 33 Abs. 5 KVG) von der Kostenvergütungspflicht
+ausgenommen worden ist, d.h. in der abschliessenden Negativliste gemäss Anhang
+1 KLV nicht aufgeführt ist (vgl. Urteil des Bundesgerichts 9C_702/2023 vom
+15. Februar 2024 E. 4.3 und 6.2; OLAH, Basler Kommentar, a.a.O., Art. 25 Rz. 25
+m.w.H.). Die von Ärztinnen und Ärzten (…) als Angehörige eines freien Berufes
+applizierten Heilanwendungen haben somit die gesetzliche Vermutung für sich,
+dass sie den Voraussetzungen für eine Kostenübernahme durch die OKP
+entsprechen (BGE 125 V 21 E. 5b; Urteil des Bundesgerichts 9C_702/2023 vom
+15. Februar 2024 E. 4.3).
+5.5.
+Für die Vergütung der stationären Behandlung einschliesslich Aufenthalt und
+Pflegeleistungen in einem Spital (…) vereinbaren die Vertragsparteien Pauschalen.
+In der Regel sind Fallpauschalen festzulegen (Art. 49 Abs. 1 Satz 1 und 2 KVG).
+Zur Anwendung kommt das System SwissDRG, ein Tarifsystem, das die Vergütung
+aller Leistungen im Bereich der stationären Akutsomatik anhand von Pauschalen
+schweizweit einheitlich regelt (vgl. www.swissdrg.org). Anhand der gestellten
+Diagnosen wird die Fallschwere festgelegt; für bestimmte Behandlungen sind die
+CHOP-Codes
+massgebend
+(Schweizerische
+Operationsklassifikation
+zur
+Verschlüsselung von Operationen und Behandlungen, vgl. www.swissdrg.org >
+wichtige
+Begriffe).
+Die
+CHOP-Codes
+Nr. 99.BC.xx
+kommen
+für
+komplementärmedizinische Komplexbehandlungen zur Anwendung. Diese werden
+wie folgt definiert (act. B.8 und www.bfs.admin.ch > Statistiken > Gesundheit >
+Übersicht > medizinische Kodierung und Klassifikationen > Instrumente zur
+medizinischen Kodierung):
+"Unter
+ärztlicher
+Behandlungsleitung
+durchgeführte
+Komplementärmedizin
+bestehend aus mehreren spezifischen Therapieverfahren der folgenden fünf
+Bereiche: Anthroposophische Medizin, Homöopathie, Neuraltherapie, TCM und
+Phytotherapie. Das stationär behandelnde multiprofessionelle Team setzt sich
+zusammen aus:
+- einem Facharzt, der mindestens einen der folgenden Pflichtausweise der 5
+komplementärmedizinischen Fachbereiche besitzt: Akupunktur – Traditionelle
+Chinesische Medizin (ASA) / Anthroposophische Medizin (VAOAS) /
+Homöopathie (SVHA) / Neuraltherapie (SANTH) / Phytotherapie (SMGP);
+- mehreren Therapeutenteams unterschiedlicher Therapiearten - jeweils unter
+der Leitung eines Therapeuten mit fachspezifischer Ausbildung;
+
+14 / 25
+- speziell geschulten Pflegeteams - jeweils unter der fachlichen Leitung eines/r
+Experten/in mit komplementärmedizinischen und/oder anthroposophischen
+Fachkenntnissen (IFAN).
+Eine Therapieeinheit umfasst die 30-minütige Anwendung aus folgenden ärztlichen,
+pflegerischen und /oder therapeutischen Verfahren: komplementärmedizinische
+Anwendungen, Bäder und Massagen, Einreibungen, Wickel und Auflagen,
+Bewegungstherapie, künstlerische Therapie, therapeutische Sprachgestaltung,
+komplementärmedizinisches ärztliches Gespräch sowie Diagnostik, weitere
+supportive Therapien der einzelnen komplementärmedizinischen Fachbereiche."
+Bei einer Fallschwere für Behandlungen mit 26-49 Therapieeinheiten pro
+stationärem Fall ist der CHOP-Code Nr. 99.BC.13 massgebend (vgl. act. B.8).
+6.
+Vorerst
+ist
+zu
+prüfen,
+ob
+die
+Delegation
+von
+ärztlichen
+komplementärmedizinischen Leistungen überhaupt zulässig ist oder nicht.
+6.1.
+Weder das KVG noch die KLV oder die KVV äussern sich zu dieser Frage,
+weshalb mittels Gesetzesauslegung der Sinn der einschlägigen Rechtssätze zu
+ermitteln ist (BGE 150 I 195 E. 5.1, 150 V 391 E. 7, 149 II 43 E. 3.2, 148 V E.5.1, je
+m.H.; HÄFELIN/MÜLLER/UHLMANN, Allgemeines Verwaltungsrecht, 8. Aufl. 2020,
+Rz. 175 ff.). Vorliegend ist vom Wortlaut von Art. 25 Abs. 2 Ziff. 1 KVG und Art. 4b
+KLV auszugehen und deren Sinn nach den üblichen Methoden der Auslegung – der
+grammatikalischen,
+historischen,
+zeitgemässen,
+systematischen
+und
+teleologischen – zu eruieren. Zwar wurde bereits in der Botschaft zur Änderung des
+Ersten Titels des Bundesgesetzes über die Kranken- und Unfallversicherung
+(KUVG) vom 5. Juni 1961 (BBl 1961 I 1417, insbesondere S. 1425 ff.) festgehalten,
+dass unter ärztlicher Behandlung nur diejenige zu verstehen sei, die vom Arzt selbst
+oder "unter seiner direkten Kontrolle" vorgenommen werde. Zudem sah sie vor,
+dass die von "medizinischen Hilfspersonen auf Verordnung des Arztes
+vorgenommenen Heilanwendungen" in Zukunft ebenfalls zu Pflichtleistungen erklärt
+werden sollten; als solche Hilfspersonen nannte sie "Masseure, Physiotherapeuten,
+Chiropraktoren usw." Doch eine klare Umschreibung (und Unterscheidung) von
+ärztlicher Delegation und Anordnung bzw. Verordnung enthalten die Materialien
+zum KVG nicht (vgl. Botschaft über die Revision der Krankenversicherung vom
+6. November 1991 [BBl 1992 I 93], insbesondere S. 162 ff.; vgl. dazu auch BOLLER,
+Die Vergütung in der Psychotherapie, AJP 9/2019, S. 937). Auch das Bundesgericht
+bemerkte in BGE 125 V 441, dass sich weder das KVG noch die KVV zur
+delegierten ärztlichen Tätigkeit äusserten (vgl. dortige E. 2c). Dennoch ist die
+Delegation im gesamten Krankenversicherungsrecht in begrenztem Rahmen üblich
+und akzeptiert (vgl. WERDER, a.a.O., Rz. 53; BOLLER, a.a.O., Fn 25; OLAH, Die
+ärztliche Arbeitsteilung und Aufgabendelegation, a.a.O., S. 158 ff., S. 161, S. 166
+
+15 / 25
+f., S. 173; vgl. auch BGE 110 V 187 E. 4). Ferner wird auch die Delegation von
+ärztlichen komplementärmedizinischen Leistungen in den Materialien nicht erwähnt.
+6.2.
+Gemäss dem Wortlaut von Art. 25 Abs. 2 Ziff. 1 KVG hat die Ärztin oder der
+Arzt seine Behandlung grundsätzlich persönlich zu erbringen (vgl. auch WERDER,
+a.a.O., Rz. 5; WERDER/GÄCHTER, a.a.O., Rz. 16; OLAH, Basler Kommentar, a.a.O.,
+Art. 25 Rz. 27 mit zahlreichen Hinweisen; OLAH, Die ärztliche Arbeitsteilung und
+Aufgabendelegation, a.a.O., S. 173, EUGSTER, in: Meyer, Schweizerisches
+Bundesverwaltungsrecht, Soziale Sicherheit, 3. Aufl. 2016, Rz. 384 [nachfolgend:
+EUGSTER, Soziale Sicherheit]). Dieses Prinzip der persönlichen Leistungspflicht gilt
+jedoch nicht absolut; mithin ist nicht ausgeschlossen, dass Ärztinnen oder Ärzte
+einzelne Elemente ihrer Tätigkeit an nicht-ärztliche Personen delegieren, ohne dass
+dadurch die Kassenpflicht der erbrachten Leistungen entfällt; eine Delegation liegt
+auch dann vor, wenn z.B. ein Spital als Leistungserbringer gegenüber den
+Krankenversicherern auftritt, die Leistungen aber selbstverständlich nicht selbst
+erbringt, sondern durch bei ihm tätige Medizinalpersonen erbringen lässt (vgl.
+WERDER, a.a.O., Rz. 11 und Rz. 53; WERDER/GÄCHTER, a.a.O., Rz. 16; BOLLER,
+a.a.O., S. 937). Das Prinzip der persönlichen Leistungspflicht wird also bei einer
+Delegation durchbrochen, ohne dass die Vergütungspflicht entfällt, weil die
+leistungserbringende Person im technischen Sinn nach wie vor die Ärztin oder der
+Arzt (vgl. WERDER, a.a.O., Rz. 11 und 13; WERDER/GÄCHTER, a.a.O., Rz. 13, vgl.
+auch Rz. 12; BOLLER, a.a.O., S. 937; OLAH, Basler Kommentar, a.a.O., Art. 25
+Rz. 27 m.w.H.) oder z.B. das Spital ist.
+6.3.
+Das
+Bundesgericht
+begründete
+seine
+Rechtsprechung
+zur
+OKP-
+Verrechenbarkeit von nicht höchstpersönlich erbrachten Leistungen im Jahr 1974
+(BGE 100 V 1 E. 2a betreffend Leistungen einer Arztgehilfin; vgl. WERDER/GÄCHTER,
+a.a.O., Rz. 17) und bestätigte sie in BGE 110 V 187: "Es ist in der Literatur (…) und
+Rechtsprechung (…) wie auch in der Kassenpraxis anerkannt, dass unter den
+Begriff der ärztlichen Behandlung gemäss Art. 12 Abs. 2 Ziff. 1 lit. a KUVG in
+gewissen Grenzen auch Massnahmen fallen, die unter direkter Kontrolle des Arztes
+durch das bei ihm angestellte medizinische Hilfspersonal vorgenommen werden.
+Schon vor der Revision des KUVG wurden solche Verrichtungen der ärztlichen
+Behandlung zugerechnet und damit grundsätzlich in die Pflichtleistungen mit
+einbezogen (BBl 1961, 1425 lit. aa) (…)" (vgl. E. 2b des besagten Urteils). Gemäss
+WERDER/GÄCHTER (a.a.O., Rz. 23 und Fn 35) habe das Bundesgericht damit
+deutlich gemacht, dass die Verrechenbarkeit delegierter Leistungen seit jeher
+gegeben gewesen sei und vom Wortlaut der einschlägigen Bestimmung als
+selbstverständlich mitumfasst werde.
+
+16 / 25
+Das Delegationsmodell im Bereich der psychotherapeutischen Behandlungen geht
+auf einen Entscheid des Bundesgerichts aus dem Jahr 1981 zurück (BGE 107 V 46;
+WERDER, a.a.O., Rz. 2 und Fn 6; WERDER/GÄCHTER, a.a.O., Rz. 18; BOLLER, a.a.O.,
+S. 937 und Fn 24), der die psychotherapeutische Behandlung durch einen
+angestellten, nicht-ärztlichen Psychologen als eine ärztliche Behandlung im Sinne
+des damals geltenden KUVG bezeichnete (WERDER, a.a.O., Rz. 2 und Rz. 55).
+In BGE 125 V 441 bestätigte das Bundesgericht, dass seine Rechtsprechung
+betreffend die delegierte Psychotherapie auch unter dem neuen KVG gelte: "Den
+Gesetzesmaterialien ist nicht zu entnehmen, dass delegierte ärztliche Tätigkeiten,
+im
+Gegensatz
+zum
+alten
+Recht,
+nicht
+von
+der
+obligatorischen
+Krankenpflegeversicherung übernommen werden sollten. Eine solche Regelung
+würde der ärztlichen Praxistätigkeit auch in keiner Weise gerecht; diese ist ohne die
+Mitarbeit von angestellten nichtärztlichen Medizinalpersonen (wie Praxishilfen,
+Krankenschwestern,
+Physiotherapeutinnen,
+Röntgenassistentinnen
+oder
+Laborantinnen) kaum mehr möglich. Die zum KUVG ergangene Rechtsprechung
+betreffend die delegierte ärztliche Tätigkeit im Allgemeinen (BGE 114 V 270 Erw.
+2a) ist daher auch unter dem KVG anwendbar" (vgl. dortige E. 2c; vgl. auch
+WERDER, a.a.O., Rz. 55).
+WERDER/GÄCHTER
+(a.a.O.,
+Rz. 29
+und
+Rz. 30)
+halten
+zu
+diesem
+bundesgerichtlichen Urteil Folgendes fest: "Das Bundesgericht stellte deshalb
+zunächst klar, dass die bisherige Rechtsprechung zur OKP-Pflicht der Leistungen
+des unselbständigen medizinischen Hilfspersonals auch unter dem neuen Recht
+Geltung beanspruche und nannte diese Hilfspersonen neu «angestellte
+nichtärztliche Medizinalpersonen». Es wurde also abermals klargestellt, dass die
+Verrechenbarkeit delegierter ärztlicher Tätigkeiten explizit ausgeschlossen werden
+müsse, damit die langjährige Praxis umgestossen werden könne. Zudem betonte
+das Bundesgericht erneut, dass die ärztliche Praxistätigkeit ohne die Mitarbeit von
+angestellten nichtärztlichen Medizinalpersonen kaum mehr möglich bzw.
+unumgänglich sei und erachtete deren Leistungen deshalb als verrechenbar."
+6.4.
+Schliesslich bestätigte das Bundesverwaltungsgericht im Urteil C-7498/2008
+vom 31. August 2012 (E. 7.3.1, 7.3.5 und 7.7.1), dass die Leistungen, die von
+angestellten nichtärztlichen Medizinalpersonen erbracht werden, als ärztliche
+Leistungen dem delegierenden Arzt zuzurechnen seien und von ihm der OKP in
+eigenem Namen in Rechnung gestellt werden könnten. Es stellte weiter fest, dass
+Personen, die einer Berufsgruppe gemäss Art. 35 Abs. 2 lit. e KVG angehören und
+auf ärztliche Anordnung in eigenem Namen Leistungen zulasten der OKP erbringen
+können, nicht unter die möglichen Delegationsempfänger fallen würden, die vom
+
+17 / 25
+Bundesgericht
+unter
+dem
+Begriff
+der
+"angestellten
+nichtärztlichen
+Medizinalpersonen" zusammengefasst werden (vgl. WERDER/GÄCHTER, a.a.O.,
+Rz. 31 und Fn. 42 mit Hinweis auf Urteil des Bundesverwaltungsgerichts C-
+7498/2008 vom 31. August 2012 E. 7.7.1, EUGSTER, Soziale Sicherheit, a.a.O.,
+Rz. 384). WERDER/GÄCHTER (a.a.O., Rz. 32) fassen diesbezüglich zusammen:
+"Folglich sind ärztliche Tätigkeiten im Grundsatz persönlich vorzunehmen, aber
+nicht immer. Als angestellte nichtärztliche Medizinalpersonen sind sämtliche
+Personen zu qualifizieren, die unter ärztlicher Aufsicht eine nach dem Ermessen
+des Arztes delegierbare ärztliche Tätigkeit ausführen und nicht zu den
+Berufsgruppen gemäss Art. 35 Abs. 2 lit. e KVG zählen."
+6.5.
+Wird folglich – auch gestützt auf die Rechtsprechung – nach
+grammatikalischer, historischer und zeitgemässer Auslegung davon ausgegangen,
+dass nicht alle in der OKP verrechenbaren ärztlichen Leistungen höchstpersönlich
+zu erbringen sind, sondern grundsätzlich auch solche unter die OKP-Pflicht fallen,
+die unter der direkten Kontrolle der ärztlichen Fachperson vorgenommen werden,
+ist
+nicht
+einzusehen,
+weshalb
+dies
+nicht
+auch
+für
+die
+ärztlichen
+komplementärmedizinischen Leistungen nach Art. 4b KLV gelten sollte. Diese
+Schlussfolgerung ergibt sich auch aus der Systematik des Gesetzes, nämlich der
+Aufnahme der ärztlichen komplementärmedizinischen Leistungen in die KLV (vgl.
+OLAH, Basler, Kommentar, a.a.O., Art. 25 Rz. 49). Abgesehen davon enthält weder
+das
+KVG
+noch
+die
+KLV
+ein
+Verbot
+der
+Delegation
+von
+ärztlichen
+komplementärmedizinischen Leistungen. Ein Indiz dafür, dass auch das zuständige
+Departement von der Vergütungspflicht ausgeht, ist der Umstand, dass die an die
+Therapeutinnen und Pflegepersonen delegierten Leistungen nach dem vom
+Bundesamt für Statistik (BFS, Bereich medizinische Klassifikationen) erstellten
+CHOP-Katalog für stationäre Leistungen als Teil der Komplextherapie aufgeführt
+werden (vgl. www.bfs.admin.ch -> Statistiken, Systematisches Verzeichnis -
+Version 2023, vgl. auch act. B.8). Sind also ärztliche komplementärmedizinische
+Leistungen delegierbar, folgt daraus konsequenterweise, dass auch die Delegation
+von Massnahmen der anthroposophischen Medizin nach Art. 4b lit. b KLV
+grundsätzlich zulässig ist, sofern die Voraussetzungen dafür erfüllt sind. So führt
+auch OLAH (a.a.O., Art. 25 Rz. 49) aus, es sei mit Blick auf die Mindestmerkmale
+der
+komplementärmedizinischen
+Komplexbehandlung
+gemäss
+der
+Schweizerischen Operationsklassifikation (CHOP; CHOP 99.BC) zu befürworten,
+dass
+Behandlungsanteile
+aus
+dem
+eigenen
+Tätigkeitsfeld
+nichtärztlicher
+Therapeuten
+in
+diesem
+Rahmen,
+jedenfalls
+unter
+dem
+Titel
+des
+Behandlungskomplexes abgerechnet werden könnten.
+
+18 / 25
+7.
+Nachfolgend ist somit auf die Voraussetzungen einzugehen, unter denen
+delegiert durchgeführte ärztliche Leistungen von der OKP zu vergüten sind.
+7.1.
+Wesentlich für die delegierte Tätigkeit ist, dass diese innerhalb des
+Behandlungsgesamtkomplexes im Rahmen einer Hilfsfunktion bleibt. Das heisst,
+die Arztperson hat die eigentlichen ärztlichen Funktionen stets persönlich zu
+erfüllen, was namentlich für die Diagnosestellung, die Wahl oder Änderung der
+Therapie und allgemein für alle Bereiche gilt, in denen das spezifische ärztliche
+Wissen oder die unmittelbare Beziehung zwischen Arztperson und Patientin oder
+Patient ausschlaggebend ist (EUGSTER, in: Rechtsprechung des Bundesgerichts
+zum KVG, 2. Aufl. 2018, Art. 25 Rz. 18 f. [nachfolgend: EUGSTER, KVG-Kommentar],
+EUGSTER, Soziale Sicherheit, a.a.O., Rz. 385; OLAH, Basler Kommentar, a.a.O.,
+Art. 25 Rz. 29 und 49 m.H. auf EUGSTER, OLAH, Die ärztliche Arbeitsteilung und
+Aufgabendelegation, a.a.O., S. 174; BGE 107 V 46 E. 4c). Dies hat namentlich im
+interprofessionellen Verhältnis zur Folge, dass der delegationsweise Einsatz
+nichtärztlicher
+Fachpersonen
+nicht
+zu
+einer
+Erweiterung
+des
+eigenen
+Leistungsbereichs führen darf (OLAH, Basler Kommentar, a.a.O., Art. 25 Rz. 29).
+Weitere Kriterien für die delegierte ärztliche Tätigkeit sind folgende: direkte Aufsicht,
+Kontrolle und Verantwortung der Ärztinnen und Ärzte, die über eine entsprechende
+Spezialisierung verfügen; Überwachung der Hilfspersonen nach Massgabe von
+deren Qualifikationen; bei der Psychotherapie das Vorliegen eines wesentlichen
+rechtlichen oder tatsächlichen Subordinationsverhältnisses, das nicht zwingend ein
+Arbeitsverhältnis sein muss (vgl. zum Ganzen: BGE 125 V 441 E. 2c, 114 V 266
+E. 2.a,
+110
+V
+198
+E. 2,
+107
+V
+46
+E. 5,
+je
+m.w.H.;
+Urteil
+des
+Bundesverwaltungsgerichts C-7498/2008 vom 31. August 2012 E. 7.3.1 m.w.H.;
+OLAH, Basler Kommentar, a.a.O., Art. 25 Rz. 28 und 49, EUGSTER, KVG-
+Kommentar, a.a.O., Art. 25 Rz. 18 ff., EUGSTER, Soziale Sicherheit, a.a.O., Rz. 384
+ff., BOLLER, a.a.O., S. 937, POLEDNA, a.a.O, S. 404). Das System verlangt eine
+relativ intensive Kooperation, so muss z.B. eine räumliche Nähe gegeben sein bzw.
+die Tätigkeit in denselben Räumlichkeiten unter Aufsicht und damit auch
+Anwesenheit der Ärztin bzw. des Arztes durchgeführt werden (BOLLER, a.a.O.,
+S. 938; BGE 114 V 266 E. 2a). Gemäss Bundesgericht (BGE 114 V 266 E. 2a [noch
+zu Art. 12 Abs. 2 Ziff. 1 lit. a KUVG], 110 V 191, 107 V 46 E. 4c und 5, 100 V 4
+E. 2a) bzw. Bundesverwaltungsgericht (C-7498/2008 vom 31. August 2012
+E. 7.3.1) hat der Arzt bzw. die Ärztin die therapeutischen Verrichtungen seiner
+Hilfsperson zu beaufsichtigen, weil die Gewähr bestehen soll, dass er nötigenfalls
+unverzüglich eingreifen oder auf eine angeordnete Massnahme zurückkommen
+kann, wobei aber von der ärztlichen Fachperson nicht verlangt wird, dass er bzw.
+
+19 / 25
+sie den Ablauf der übertragenen Therapie in jedem Fall mit eigenen Augen dauernd
+überwache und unmittelbar mitverfolge. Der Arzt hat nach medizinischen und
+berufsethischen Gesichtspunkten zu entscheiden, wie intensiv Überwachung und
+Kontrolle gestaltet werden müssen.
+7.2.
+Ärztliche Behandlung in Spitälern ist Leistungserbringung durch das Spital
+(EUGSTER, Soziale Sicherheit, a.a.O., Rz. 386), weshalb das Gesagte auch für die
+Behandlung in Spitälern gilt (EUGSTER, KVG-Kommentar, a.a.O., Art. 25 Rz. 20 in
+fine).
+8.
+Nach Ansicht des Schiedsgerichts sind diese Voraussetzungen im
+vorliegenden Fall gegeben.
+8.1.
+Unbestritten ist die Klägerin ein Spital und damit ein Leistungserbringer im
+Sinne von Art. 35 und Art. 39 KVG. Sie ist nach Art. 6 des kantonalen
+Krankenpflegegesetzes (KPG; BR 506.000) als öffentliches Spital zugelassen.
+Ebenfalls nicht streitig ist die Spitalbedürftigkeit der beiden Patientinnen R.R. und
+N.B. für die von der Klägerin in Rechnung gestellte Aufenthaltsdauer. Schliesslich
+wird auch nicht bestritten, dass die von der Klägerin durchgeführten Behandlungen
+im Wesentlichen der anthroposophischen Medizin zugeordnet sind (vgl. dazu
+Erwägung 5.3) und an diesen Patientinnen tatsächlich durchgeführt wurden (act. 3
+und 6). Es handelt sich dabei um folgende:
+-
+Patientin R.R., Aufenthalt vom 11. Januar bis zum 21. Januar 2021;
+Nr. 96312105435, Fall Nr. 329550, Rechnung Nr. 553135, Austrittsbericht vom
+20. Januar 2021 mit den Diagnosen (act. B.1):
+1. Unklare, wiederkehrende Episoden mit Verwirrtheit, Desorientierung und
+anterograder Amnesie
+2. Psychophysische Erschöpfung
+3. Arterielle Hypertonie ED 03/2019
+4. Inzidentelles Aneurysma der A. communicans anterior
+5. Hypercholesterinämie ED 03/2019
+6. Subklinische Hyperthyreose 09/2024
+Durchgführt wurden bei ihr – nebst begleitenden Arztgesprächen – folgende
+Therapieverfahren: aktive Physiotherapie, Heileurythmie, Kunsttherapie,
+Wickel/Auflagen,
+Bäder,
+Entspannungsverfahren
+wie
+progressive
+Muskelentspannung (PMR), Psychotherapie und Massagen (act. B.1, S. 2)
+bzw.
+pflegerische
+Massnahmen
+(Lichttherapie,
+Wickel,
+Einreibungen,
+Achtsamkeitsübungen wie PMR, Standortgespräche, Vorträge, Schulung zur
+autonomen
+Durchführung
+von
+Wickel
+und
+Auflagen)
+sowie
+Komplementärtherapien wie Heileurythmie, rhythmische Massage, progressive
+
+20 / 25
+Muskelentspannung nach Jakobson, Öldispersionsbäder, psychoedukative
+Vorträge (act. B.1, S. 3) bzw. gemäss Therapiedokumentation: Massage,
+Kunsttherapie, Wickel, Auflage/Kompresse, Entspannungsverfahren, Bad,
+Einreibung, Bewegung und Heileurhythmie (act. B.3).
+-
+Patientin N.B., Aufenthalt vom 8. Februar bis zum 18. Februar 2021;
+Nr. 200000734382, Fall Nr. 330315, Rechnung Nr. 554938; Austrittsbericht
+vom 18. Februar 2021 mit den Diagnosen (act. 5):
+1. Anpassungsstörung, Erschöpfung, depressive Episode
+2. Chronisch rezidivierende Durchfälle
+3. Arterielle Hypertonie ED 1989
+4. St. n. Rauchgasvergiftung nach Wohnungsbrand am 23.12.2020
+5. Covid-Infektion 12/20
+6. OSAS
+7. Dyspeptische Beschwerden
+8. Chilaiditi-Syndrom
+9. Adipositas Grad II mit BMI von 37.7 kg/m2
+Durchgführt wurden bei ihr – nebst begleitenden Arztgesprächen – folgende
+Therapieverfahren: aktive Physiotherapie, Heileurythmie, Kunsttherapie,
+Wickel/Auflagen, Entspannungsverfahren wie progressive Muskelentspannung
+(PMR) und Massagen (act. B.5, S. 2) bzw. pflegerische Massnahmen
+(Lichttherapie, Wickelanwendungen, Auflagen) sowie Komplementärtherapien
+wie
+Shiatsu-Behandlung,
+Öldispersionsbad,
+psychoedukative
+Vorträge
+(act. B.5, S. 3) bzw. gemäss Therapiedokumentation: Wickel, Kunsttherapie,
+Massage, Einreibung, Auflage/Kompresse, Entspannungsverfahren, Bad
+(act. B.6).
+8.2.
+Die Behandlungen erfolgten in der Abteilung für komplementäre und
+integrative Medizin (act. B.1, B.2 und B.5) unter dem Co-Chefarzt Dr. med. E._____,
+FMH Allgemeine Innere Medizin, und der Leitenden Ärztin Dr. med. G._____, FMH
+Psychiatrie und Psychotherapie. Diese verantwortlichen ärztIichen Fachpersonen
+verfügen über die nach Art. 4b lit. b KLV erforderliche Spezialisierung gemäss dem
+Fähigkeitsprogramm anthroposophisch erweiterte Medizin (VAOAS) des SIWF (vgl.
+act. B.1, B.2 und B.5 sowie Website der Klägerin -> Mitarbeitende > Curriculum).
+8.3.
+Diese
+beiden
+Arztpersonen
+hatten
+zum
+fraglichen
+Zeitpunkt
+die
+Gesamtleitung inne, was von der Beklagten nicht bestritten wird. Gemäss Angaben
+der Klägerin erstellten sie (Dr. med. G._____ bei der Patientin R.R., Dr. med.
+E._____ bei der Patientin N.B.) persönlich das Behandlungskonzept und
+überwachten dessen Durchführung. Auch aus den Austrittsberichten geht hervor,
+dass sie die verantwortliche Fachperson waren (act. B.1 und B.5). Aus der
+
+21 / 25
+jeweiligen Therapiedokumentation (act. B.3 und B.6) ergibt sich, dass täglich (mit
+Ausnahme von Samstag/Sonntag) ein Gespräch mit einer Ärztin bzw. mit einem
+Arzt stattfand. Abgesehen davon ergibt sich, wie die Klägerin nachvollziehbar
+darlegt, schon aus der Organisation als Spital, dass immer und begriffsnotwendig
+eine Arztperson anwesend war und die medizinische Verantwortung innehatte. Dies
+ist denn auch glaubhaft und nachvollziehbar. Die Beklagte bestreitet dies lediglich
+in allgemeiner Form, bringt jedoch nichts Konkretes vor, das berechtigte Zweifel an
+den entsprechenden klägerischen Ausführungen hervorrufen würde.
+8.4.
+Die ausführenden Therapeutinnen und Pflegefachpersonen sind gemäss den
+Angaben der Klägerin für diese Tätigkeit speziell geschult. Aus den
+Therapiedokumentationen (act. B.3 und B.6) geht hervor, an welchem Tag welche
+Therapien von welchen Fachpersonen durchgeführt wurden:
+Bei R.R. (act. 3) waren die Therapeutinnen H._____, I._____, J._____, K._____,
+die Physiotherapeutin J._____ und für die Pflege die Fachpersonen L._____,
+M._____, N._____, O._____, P._____ und Q._____ zuständig.
+Bei N.B. (act. 6) waren die Therapeutinnen I._____, H._____, K._____, die
+PhysiotherapeutInnen H._____ und K._____ und für die Pflege die Fachpersonen
+Weiss, L._____, O._____, M._____, N._____, P._____ und R._____ zuständig.
+Gemäss Angaben der Klägerin sind K._____ (vgl. https://A._____.ch -> S._____ >
+Mitarbeitende -> Komplementärtherapie), I._____ (https://A._____.ch), H._____
+(vgl. https://A._____.ch -> S._____ > Mitarbeitende -> Komplementärtherapie) und
+J._____ (vgl. Jahresbericht des A._____ 2020, S. 10) komplementärmedizinische
+Therapeutinnen. Von den Pflegefachfrauen sind Q._____ und M._____ Expertinnen
+für anthroposophische und komplementäre Pflege; die übrigen Pflegefachpersonen
+verfügen mindestens über Ausbildungen als Pflegefachfrau HF/FH oder Fachfrau
+für Gesundheit (N._____, O._____, P._____) oder als Pflegehelferin SRK (L._____,
+R._____). Die Beklagte macht nicht geltend, dass diese Fachpersonen für die
+Durchführung der Therapien und Behandlungen (Massage, Kunsttherapie, Wickel,
+Auflage/Kompresse,
+Entspannungsverfahren,
+Bad,
+Einreibung,
+Bewegung
+[Movimaint], Heileurythmie) nicht ausreichend qualifiziert gewesen wären.
+8.5.
+Schliesslich ist aus dem Umstand, dass diese Fachpersonen für die Klägerin
+in deren Räumlichkeiten (nämlich im Spital) tätig waren, abzuleiten, dass zwischen
+den verantwortlichen Arztpersonen und den eingesetzten nichtärztlichen
+Medizinalpersonen ein Subordinationsverhältnis gegeben war.
+
+22 / 25
+8.6.
+Nicht gefolgt werden kann der Beklagten, wenn sie im Zusammenhang mit
+dem Behandlungskomplex geltend macht, die vorgenommenen Massnahmen
+müssten in einem engen Konnex zueinander stehen, wobei ein solcher zu bejahen
+sei, wenn die nichtpflichtige Massnahme eine unerlässliche Voraussetzung zur
+Durchführung von Pflichtleistungen bilde. Damit würden die Leistungen in ihrer
+Gesamtheit dann nicht zu Lasten der OKP gehen, wenn die nichtpflichtige Leistung
+überwiege. Sie ist der Ansicht, die Klägerin habe nicht dargetan, inwiefern die
+nichtpflichtigen
+Leistungen
+bzw.
+die
+von
+den
+nichtärztlichen
+Gesundheitsfachpersonen
+durchgeführten
+Therapien
+eine
+unerlässliche
+Voraussetzung für die Durchführung der ärztlichen komplementärmedizinischen
+Behandlungen gewesen sein sollen und somit ein Konnex bzw. ein
+Behandlungskomplex vorliegen solle. Mit den Therapieberichten habe die Klägerin
+lediglich dargetan, dass die nichtpflichtigen Leistungen insgesamt gegenüber den
+kassenpflichtigen
+(die
+von
+Ärztinnen
+und
+Ärzten
+durchgeführten
+Therapiegespräche) überwiegen würden. Die geltend gemachten Leistungen
+dürften somit nicht zulasten der Beklagten gehen.
+Die Beklagte übersieht mit ihrer Argumentation, dass die Leistungen, die im
+Rahmen einer zulässigen Delegation erbracht werden, ärztliche Leistungen
+darstellen und damit im Rahmen der OKP vergütungspflichtig sind. Die Frage des
+erforderlichen Konnexes im Rahmen eines Behandlungskomplexes stellt sich aber
+erst, wenn Pflicht- und Nichtpflichtleistungen zusammentreffen, wenn mithin
+mehrere
+medizinische
+Massnahmen
+zusammentreffen,
+die
+gleichzeitig
+verschiedene, jedoch unter sich zusammenhängende Zwecke verfolgen, die für sich
+allein genommen mit Bezug auf ihre Qualifikation als Pflichtleistung oder
+Nichtpflichtleistung unterschiedlich zu beurteilen wären (…) (EUGSTER, KVG-
+Kommentar, a.a.O., Art. 25 Rz. 82, EUGSTER, Soziale Sicherheit, a.a.O., Rz. 536, je
+m.w.H.; BGE 120 V 200 E.7b). Solches ist vorliegend, wie erwähnt, nicht der Fall,
+zumal die durchgeführten Therapien im Rahmen der ärztlichen anthroposophischen
+und damit komplementärmedizinischen Behandlung erbracht wurden. Jedenfalls ist
+nicht ersichtlich, dass die im Rahmen der Behandlung durchgeführten pflegerischen
+Massnahmen nicht zum anthroposophischen Behandlungskomplex gehörten bzw.
+als Nichtpflichtleistung gegenüber den anderen Pflichtleistungen dominieren
+würden (vgl. dazu EUGSTER, KVG-Kommentar, a.a.O., Art. 25 Rz. 82, EUGSTER,
+Soziale Sicherheit, a.a.O., Rz. 536).
+8.7.
+Zusammenfassend kann festgehalten werden, dass vorliegend die
+Voraussetzungen für die Delegation der durchgeführten ärztlichen Behandlungen
+erfüllt sind. Unter diesen Umständen kann auf eine Einvernahme der von der
+
+23 / 25
+Klägerin zum Beweis offerierten Ärztinnen bzw. Ärzte und/oder Therapeutinnen in
+antizipierter Beweiswürdigung abgesehen werden (BGE 150 V 263 E. 6.1, 148 V
+356 E. 7.4, 144 V 361 E. 6.5, 136 I 229 E. 5.3, 124 V 90 E 4b; Urteile des
+Verwaltungsgerichts [VGU] S 23 49 vom 9. April 2024 E.3.2, S 23 2 vom 21. März
+2023 E.3.2).
+8.8.
+Da für sämtliche ärztlichen Behandlungen im Sinne von Art. 25 Abs. 2 Ziff. 1
+KVG die Pflichtleistungsvermutung gilt, sind auch die an den Patientinnen R.R. und
+N.B. delegiert durchgeführten komplementärmedizinischen Behandlungen von der
+Krankenversicherung zu übernehmen. Bei einer stationären Behandlung stellt das
+Spital diese im Rahmen der massgeblichen Fallpauschale zu Lasten der
+Krankenversicherung in Rechnung. Dabei rechnet es, wie die Klägerin ausführte,
+notwendigerweise auch die Leistungen derjenigen Personen ab, die bei der
+Leistungserbringung helfen, insbesondere wenn es um Komplexbehandlungen
+geht, die sich durch eine Kombination vieler verschiedener Behandlungslemente
+auszeichnen (vgl. Erwägung 8.6).
+Gemäss Rechnung für R.R. (act. B.4) mit der Hauptdiagnose Delir ohne Demenz
+(ICD-10 F05.0), weiteren Nebendiagnosen und der Tarifziffer A96A, bei einem
+Basisfallpreis von CHF 9'670.00 resultierten Gesamtkosten zu Lasten der
+Beklagten (45 %) von CHF 6'866.67 zuzüglich unbestrittener Kosten für ein
+Arzneimittel in der Höhe von CHF 19.20, was einen Betrag von CHF 6'885.85 ergibt.
+Gemäss Angaben der Klägerin sind noch CHF 2'697.92 offen, was von der
+Beklagten nicht bestritten wurde.
+Gemäss Rechnung für N.B. (act. B.7) mit der Hauptdiagnose Anpassungsstörungen
+(ICD-10 F43.2), weiteren Nebendiagnosen und Tarifziffer A96A, bei einem
+Basisfallpreis von CHF 9'670.00 resultierten Gesamtkosten zu Lasten der
+Beklagten (45 %) von CHF 6'866.67. Gemäss Angaben der Klägerin sind noch
+CHF 4'160.02 offen, was von der Beklagten nicht bestritten wurde.
+8.9.
+Das Schiedsgericht kommt damit zum Schluss, dass die Klage gutzuheissen
+und die Beklagte zu verpflichten ist, der Klägerin CHF 6'857.94 (CHF 2'697.92 +
+CHF 4'160.02) zu bezahlen.
+9.
+Gemäss Art. 13 EGzSSV i.V.m. Art. 73 VRG hat im Rechtsmittel- und im
+Klageverfahren in der Regel die unterliegende Partei die Kosten zu tragen (Abs. 1).
+Die Verfahrenskosten bestehen gemäss Art. 75 Abs. 1 VRG aus der Staatsgebühr,
+die für die Beanspruchung der Behörde erhoben wird, den Gebühren für
+Ausfertigungen und Mitteilungen des Entscheids und den Barauslagen. Die
+
+24 / 25
+Staatsgebühr beträgt höchstens CHF 20'000.00 (Art. 75 Abs. 2 Satz 1 VRG). Sie
+richtet sich nach dem Umfang und der Schwierigkeit der Sache sowie nach dem
+Interesse und der wirtschaftlichen Leistungsfähigkeit der Kostenpflichtigen (Art. 75
+Abs. 2 Satz 2 VRG).
+Vorliegend werden die Verfahrenskosten auf CHF 4'000.00 festgelegt, wobei die
+Kanzleiausgaben hinzukommen. Die Klägerin dringt mit ihren Begehren durch,
+weshalb die Kosten des Verfahrens vollumfänglich der Beklagten aufzuerlegen
+sind.
+10.
+Gemäss Art. 13 EGzSSV i.V.m. Art. 78 Abs. 1 VRG wird im Rechtsmittel-
+oder Klageverfahren die unterliegende Partei in der Regel verpflichtet, der
+obsiegenden Partei die durch den Rechtsstreit verursachten notwendigen Kosten
+zu ersetzen. Bund, Kanton und Gemeinden sowie mit öffentlich-rechtlichen
+Aufgaben betrauten Organisationen wird in der Regel keine Parteientschädigung
+zugesprochen, wenn sie in ihrem amtlichen Wirkungskreis obsiegen (Art. 78 Abs. 2
+VRG).
+Die Klägerin ist gemäss Art. 6 des kantonalen Krankenpflegegesetzes (KPG; BR
+506.000) ein öffentliches Spital und somit eine Organisation, die mit öffentlich-
+rechtlichen Aufgaben betraut ist. Ihr wird daher, auch wenn sie in ihrem amtlichen
+Wirkungskreis obsiegt hat, keine Parteientschädigung zugesprochen.
+Es wird erkannt:
+1.
+Die Klage wird gutgeheissen und die Beklagte verpflichtet, der Klägerin
+CHF 6'857.94 zu bezahlen.
+2.
+Die Gerichtskosten, bestehend aus
+–
+einer Staatsgebühr von
+CHF
+4'000.00
+–
+und den Kanzleiausgaben von
+CHF
+516.00
+Total
+CHF
+4'516.00
+gehen zulasten der B._____ AG.
+3.
+[Rechtsmittelbelehrung]
+4.
+[Mitteilungen]
+
+«I_NAM»
+«I_ALI»
+«I_BEM»

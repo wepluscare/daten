@@ -1,5 +1,9 @@
 # Änderungen
 
+## krankenkassen-vor-gericht-1 · 3. November 2026
+
+Neuer Ordner `krankenkassen-vor-gericht/`: Datenpaket «Krankenkassen gegen pflegende Angehörige vor Gericht», Stand 1. November 2026. 66 Entscheide, Tabellen je Entscheid (`urteile.csv`/`.json`) und je Verfahren (`gesundheit.json`), Quellen mit Prüfsummen, Urteilstexte, Kodierschema, Methodik (`README.md`) und zwei Prüfskripte (`pruefe_zitate.py`: 131 von 131 Zitaten; `kennzahlen.py`). Veröffentlicht mit der Medienmitteilung des Angehörigenverbands in Gründung.
+
 ## grafiksatz-2 · 6. September 2026
 
 Erste öffentliche Fassung. Grafik-Satz 2 der Infografiken zur Angehörigenbetreuung (Herbstsession 2026).
